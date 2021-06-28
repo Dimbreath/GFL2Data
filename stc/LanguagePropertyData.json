@@ -1,0 +1,303 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": 1,
+            "showType": 1,
+            "sysName": "max_mp",
+            "showName": {
+                "id": "834"
+            },
+            "icon": "Icon_Hit"
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "showType": 1,
+            "sysName": "vision_range",
+            "showName": {
+                "id": "835"
+            },
+            "icon": "Icon_Hit"
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "showType": 1,
+            "sysName": "res_mp",
+            "showName": {
+                "id": "836"
+            },
+            "icon": "Icon_Hit"
+        },
+        {
+            "id": 4,
+            "type": 1,
+            "showType": 1,
+            "sysName": "hp",
+            "showName": {
+                "id": "837"
+            },
+            "icon": "Icon_Hp"
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "showType": 1,
+            "sysName": "ap",
+            "showName": {
+                "id": "838"
+            },
+            "icon": "Icon_Hit"
+        },
+        {
+            "id": 6,
+            "type": 1,
+            "showType": 1,
+            "sysName": "mp",
+            "showName": {
+                "id": "839"
+            },
+            "icon": "Icon_Hit"
+        },
+        {
+            "id": 7,
+            "type": 1,
+            "showType": 1,
+            "sysName": "pow",
+            "showName": {
+                "id": "840"
+            },
+            "order": 1,
+            "icon": "Icon_Pow",
+            "barrackShow": 1
+        },
+        {
+            "id": 8,
+            "type": 2,
+            "showType": 2,
+            "sysName": "pow",
+            "showName": {
+                "id": "840"
+            },
+            "order": 2,
+            "icon": "Icon_Pow"
+        },
+        {
+            "id": 9,
+            "type": 1,
+            "showType": 1,
+            "sysName": "max_hp",
+            "showName": {
+                "id": "837"
+            },
+            "order": 3,
+            "icon": "Icon_Hp",
+            "barrackShow": 2
+        },
+        {
+            "id": 10,
+            "type": 2,
+            "showType": 2,
+            "sysName": "max_hp",
+            "showName": {
+                "id": "837"
+            },
+            "order": 4,
+            "icon": "Icon_Hp"
+        },
+        {
+            "id": 11,
+            "type": 1,
+            "showType": 1,
+            "sysName": "armor",
+            "showName": {
+                "id": "841"
+            },
+            "order": 5,
+            "icon": "Icon_Armor",
+            "barrackShow": 3
+        },
+        {
+            "id": 12,
+            "type": 2,
+            "showType": 2,
+            "sysName": "armor",
+            "showName": {
+                "id": "841"
+            },
+            "order": 6,
+            "icon": "Icon_Armor"
+        },
+        {
+            "id": 13,
+            "type": 1,
+            "showType": 1,
+            "sysName": "max_ap",
+            "showName": {
+                "id": "838"
+            },
+            "order": 7,
+            "icon": "Icon_Max_Ap",
+            "barrackShow": 4
+        },
+        {
+            "id": 14,
+            "type": 2,
+            "showType": 2,
+            "sysName": "max_ap",
+            "showName": {
+                "id": "838"
+            },
+            "order": 8,
+            "icon": "Icon_Max_Ap"
+        },
+        {
+            "id": 15,
+            "type": 1,
+            "showType": 2,
+            "sysName": "crit",
+            "showName": {
+                "id": "842"
+            },
+            "order": 9,
+            "icon": "Icon_Crit",
+            "barrackShow": 5
+        },
+        {
+            "id": 16,
+            "type": 1,
+            "showType": 2,
+            "sysName": "crit_mult",
+            "showName": {
+                "id": "843"
+            },
+            "order": 10,
+            "icon": "Icon_Mult",
+            "barrackShow": 6
+        },
+        {
+            "id": 17,
+            "type": 1,
+            "showType": 2,
+            "sysName": "hit",
+            "showName": {
+                "id": "844"
+            },
+            "order": 11,
+            "icon": "Icon_Hit"
+        },
+        {
+            "id": 18,
+            "type": 1,
+            "showType": 2,
+            "sysName": "dodge",
+            "showName": {
+                "id": "845"
+            },
+            "order": 12,
+            "icon": "Icon_Dodge"
+        },
+        {
+            "id": 19,
+            "type": 1,
+            "showType": 2,
+            "sysName": "hit_percentage",
+            "showName": {
+                "id": "844"
+            },
+            "order": 13,
+            "icon": "Icon_Hit",
+            "barrackShow": 7
+        },
+        {
+            "id": 20,
+            "type": 1,
+            "showType": 2,
+            "sysName": "dodge_percentage",
+            "showName": {
+                "id": "845"
+            },
+            "order": 14,
+            "icon": "Icon_Dodge",
+            "barrackShow": 8
+        },
+        {
+            "id": 21,
+            "type": 1,
+            "showType": 2,
+            "sysName": "scratch",
+            "showName": {
+                "id": "846"
+            },
+            "order": 15,
+            "icon": "Icon_Dodge"
+        },
+        {
+            "id": 22,
+            "type": 1,
+            "showType": 2,
+            "sysName": "scratch_reduction",
+            "showName": {
+                "id": "847"
+            },
+            "order": 16,
+            "icon": "Icon_Dodge"
+        },
+        {
+            "id": 23,
+            "type": 1,
+            "showType": 2,
+            "sysName": "hit_damage",
+            "showName": {
+                "id": "848"
+            },
+            "order": 17,
+            "icon": "Icon_Mult"
+        },
+        {
+            "id": 24,
+            "type": 1,
+            "showType": 2,
+            "sysName": "behit_damage",
+            "showName": {
+                "id": "849"
+            },
+            "order": 18,
+            "icon": "Icon_Mult"
+        },
+        {
+            "id": 25,
+            "type": 1,
+            "showType": 2,
+            "sysName": "release_heal",
+            "showName": {
+                "id": "850"
+            },
+            "order": 19,
+            "icon": "Icon_Hp"
+        },
+        {
+            "id": 26,
+            "type": 1,
+            "showType": 2,
+            "sysName": "accpet_heal",
+            "showName": {
+                "id": "851"
+            },
+            "order": 20,
+            "icon": "Icon_Hp"
+        },
+        {
+            "id": 27,
+            "type": 1,
+            "showType": 2,
+            "sysName": "life_steal",
+            "showName": {
+                "id": "852"
+            },
+            "order": 21,
+            "icon": "Icon_Hp"
+        }
+    ]
+}

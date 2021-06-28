@@ -1,0 +1,829 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                500,
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4,
+                1
+            ],
+            "isDestroy": 1
+        },
+        {
+            "id": 2,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                500,
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4,
+                1
+            ],
+            "isDestroy": 1
+        },
+        {
+            "id": 3,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                1,
+                0
+            ],
+            "blockPowerArray": [
+                2,
+                0
+            ],
+            "blockBulletArray": [
+                1,
+                0
+            ],
+            "crossCodeArray": [
+                4,
+                1
+            ],
+            "isDestroy": 1
+        },
+        {
+            "id": 4,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                500
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 5,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                1
+            ],
+            "blockPowerArray": [
+                2
+            ],
+            "blockBulletArray": [
+                1
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 6,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                1,
+                0
+            ],
+            "blockPowerArray": [
+                15,
+                0
+            ],
+            "blockBulletArray": [
+                1,
+                0
+            ],
+            "crossCodeArray": [
+                4,
+                1
+            ],
+            "isDestroy": 1
+        },
+        {
+            "id": 7,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 8,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4,
+                1
+            ],
+            "isDestroy": 1
+        },
+        {
+            "id": 9,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                500
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                6
+            ]
+        },
+        {
+            "id": 10,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                500
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                6
+            ]
+        },
+        {
+            "id": 11,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 12,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                500
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                6
+            ]
+        },
+        {
+            "id": 13,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                500,
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                6,
+                1
+            ],
+            "isDestroy": 1
+        },
+        {
+            "id": 14,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                6
+            ]
+        },
+        {
+            "id": 15,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                1
+            ],
+            "blockPowerArray": [
+                2
+            ],
+            "blockBulletArray": [
+                1
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 16,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                6,
+                1
+            ],
+            "isDestroy": 1
+        },
+        {
+            "id": 17,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                0
+            ]
+        },
+        {
+            "id": 18,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                2
+            ]
+        },
+        {
+            "id": 19,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 20,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                6
+            ]
+        },
+        {
+            "id": 21,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                1
+            ]
+        },
+        {
+            "id": 22,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 23,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 24,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                500
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 25,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                0
+            ],
+            "blockPowerArray": [
+                0
+            ],
+            "blockBulletArray": [
+                0
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 26,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                1
+            ],
+            "blockPowerArray": [
+                2
+            ],
+            "blockBulletArray": [
+                1
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        },
+        {
+            "id": 27,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                1,
+                0
+            ],
+            "blockPowerArray": [
+                2,
+                0
+            ],
+            "blockBulletArray": [
+                1,
+                0
+            ],
+            "crossCodeArray": [
+                4,
+                1
+            ],
+            "isDestroy": 1
+        },
+        {
+            "id": 10000,
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverArmorRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "canBlockArray": [
+                1
+            ],
+            "blockPowerArray": [
+                2
+            ],
+            "blockBulletArray": [
+                1
+            ],
+            "crossCodeArray": [
+                4
+            ]
+        }
+    ]
+}

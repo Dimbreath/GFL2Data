@@ -1,0 +1,508 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "name": {
+                "id": "2222"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1001,
+            "maxHp": 230,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 60,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 55,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1002,
+            "name": {
+                "id": "2224"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1002,
+            "maxHp": 220,
+            "maxAp": 500,
+            "visionRange": 24,
+            "pow": 50,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1003,
+            "name": {
+                "id": "2225"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1003,
+            "maxHp": 180,
+            "maxAp": 300,
+            "visionRange": 24,
+            "pow": 65,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 45,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1004,
+            "name": {
+                "id": "2226"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1004,
+            "maxHp": 200,
+            "maxAp": 400,
+            "visionRange": 24,
+            "pow": 60,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1005,
+            "name": {
+                "id": "2227"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1005,
+            "maxHp": 190,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 60,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 55,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1006,
+            "name": {
+                "id": "2228"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1006,
+            "maxHp": 180,
+            "maxAp": 300,
+            "visionRange": 24,
+            "pow": 70,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 45,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1007,
+            "name": {
+                "id": "2229"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1007,
+            "maxHp": 210,
+            "maxAp": 400,
+            "visionRange": 24,
+            "pow": 65,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1008,
+            "name": {
+                "id": "2230"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1008,
+            "maxHp": 180,
+            "maxAp": 300,
+            "visionRange": 24,
+            "pow": 65,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 45,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1009,
+            "name": {
+                "id": "2231"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1009,
+            "maxHp": 220,
+            "maxAp": 500,
+            "visionRange": 24,
+            "pow": 50,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1010,
+            "name": {
+                "id": "2232"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1010,
+            "maxHp": 260,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 55,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 65,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1011,
+            "name": {
+                "id": "2233"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1011,
+            "maxHp": 250,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 55,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 60,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1012,
+            "name": {
+                "id": "2234"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1012,
+            "maxHp": 220,
+            "maxAp": 500,
+            "visionRange": 24,
+            "pow": 50,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1013,
+            "name": {
+                "id": "2235"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1013,
+            "maxHp": 200,
+            "maxAp": 500,
+            "visionRange": 24,
+            "pow": 65,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1014,
+            "name": {
+                "id": "2236"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1017,
+            "maxHp": 210,
+            "maxAp": 350,
+            "visionRange": 24,
+            "pow": 65,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 55,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1015,
+            "name": {
+                "id": "2237"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1015,
+            "maxHp": 250,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 55,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 60,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1016,
+            "name": {
+                "id": "2238"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1016,
+            "maxHp": 230,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 60,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 55,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1017,
+            "name": {
+                "id": "2239"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1017,
+            "maxHp": 200,
+            "maxAp": 400,
+            "visionRange": 24,
+            "pow": 60,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1019,
+            "name": {
+                "id": "2240"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1019,
+            "maxHp": 210,
+            "maxAp": 350,
+            "visionRange": 24,
+            "pow": 60,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1020,
+            "name": {
+                "id": "2241"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1020,
+            "maxHp": 210,
+            "maxAp": 500,
+            "visionRange": 24,
+            "pow": 65,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1021,
+            "name": {
+                "id": "2242"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1021,
+            "maxHp": 210,
+            "maxAp": 350,
+            "visionRange": 24,
+            "pow": 60,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1030,
+            "name": {
+                "id": "2243"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1030,
+            "maxHp": 220,
+            "maxAp": 400,
+            "visionRange": 24,
+            "pow": 50,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 60,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1031,
+            "name": {
+                "id": "2244"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1031,
+            "maxHp": 190,
+            "maxAp": 400,
+            "visionRange": 24,
+            "pow": 55,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 1090,
+            "name": {
+                "id": "2245"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1004,
+            "maxHp": 200,
+            "maxAp": 400,
+            "visionRange": 24,
+            "pow": 60,
+            "crit": 50,
+            "critMult": 1500,
+            "armor": 50,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        },
+        {
+            "id": 91004,
+            "name": {
+                "id": "2246"
+            },
+            "description": {
+                "id": "2223"
+            },
+            "occupySize": 1,
+            "modelCode": 1001,
+            "maxHp": 200,
+            "maxAp": 450,
+            "visionRange": 24,
+            "pow": 65,
+            "crit": 200,
+            "critMult": 1500,
+            "armor": 45,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000
+        }
+    ]
+}

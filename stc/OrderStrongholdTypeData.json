@@ -1,0 +1,163 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "orderName": {
+                "id": "1915"
+            },
+            "orderDetail": {
+                "id": "1916"
+            },
+            "specialOrderType": 1,
+            "effectPath": "ArtsResource/Scene/Items/GuideArea.prefab",
+            "skillId": 1001
+        },
+        {
+            "id": 2,
+            "orderName": {
+                "id": "1917"
+            },
+            "orderDetail": {
+                "id": "1918"
+            },
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "skillId": 1002
+        },
+        {
+            "id": 3,
+            "orderName": {
+                "id": "1919"
+            },
+            "orderDetail": {
+                "id": "1920"
+            },
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "skillId": 1002
+        },
+        {
+            "id": 4,
+            "orderName": {
+                "id": "1921"
+            },
+            "orderDetail": {
+                "id": "1922"
+            },
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "skillId": 1002
+        },
+        {
+            "id": 5,
+            "orderName": {
+                "id": "1923"
+            },
+            "orderDetail": {
+                "id": "1924"
+            },
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "skillId": 1002
+        },
+        {
+            "id": 6,
+            "orderName": {
+                "id": "1925"
+            },
+            "orderDetail": {
+                "id": "1926"
+            },
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "skillId": 1002
+        },
+        {
+            "id": 7,
+            "orderName": {
+                "id": "1927"
+            },
+            "orderDetail": {
+                "id": "1928"
+            },
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "skillId": 1003
+        },
+        {
+            "id": 101,
+            "orderName": {
+                "id": "1929"
+            },
+            "orderDetail": {
+                "id": "1930"
+            },
+            "specialOrderType": 2,
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+            "skillId": 1004
+        },
+        {
+            "id": 102,
+            "orderName": {
+                "id": "1931"
+            },
+            "orderDetail": {
+                "id": "1932"
+            },
+            "specialOrderType": 2,
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+            "skillId": 1005
+        },
+        {
+            "id": 103,
+            "orderName": {
+                "id": "1933"
+            },
+            "orderDetail": {
+                "id": "1934"
+            },
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "skillId": 99000005
+        },
+        {
+            "id": 104,
+            "orderName": {
+                "id": "1935"
+            },
+            "orderDetail": {
+                "id": "1936"
+            },
+            "specialOrderType": 2,
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Add.prefab",
+            "skillId": 1007
+        },
+        {
+            "id": 106,
+            "orderName": {
+                "id": "1937"
+            },
+            "orderDetail": {
+                "id": "1938"
+            },
+            "specialOrderType": 2,
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+            "skillId": 1006
+        },
+        {
+            "id": 107,
+            "orderName": {
+                "id": "1939"
+            },
+            "orderDetail": {
+                "id": "1940"
+            },
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+            "skillId": 99000005
+        },
+        {
+            "id": 108,
+            "orderName": {
+                "id": "1917"
+            },
+            "orderDetail": {
+                "id": "1941"
+            },
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "skillId": 1003
+        }
+    ]
+}

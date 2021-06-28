@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "cid": 3,
+            "name": "Groza",
+            "commonAction": [
+                "idle01",
+                "idle02",
+                "idle03"
+            ],
+            "face": [
+                1
+            ],
+            "body": [
+                3
+            ],
+            "hair": [
+                2
+            ],
+            "skinchangeAction": 1,
+            "blinktime": 0.1,
+            "blinkinterval": 3.0,
+            "headturntime": 0.8,
+            "headholdtime": 2.0,
+            "steploop": 1.0,
+            "stepstart": 0.47,
+            "stependleft": 0.4,
+            "stependright": 0.54,
+            "speed": 0.67,
+            "acceleration": 1.15,
+            "slowscale": 1.5
+        }
+    ]
+}

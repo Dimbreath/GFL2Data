@@ -1,0 +1,122 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "uiPath": "CombatImage/BattleSsttingButton/Btn_SettingBtn/BtnImage"
+        },
+        {
+            "id": 2,
+            "uiPath": "CombatImage/BattleRoundBG/BattleRound|CombatImage/BattleRoundBG/EnemyBattleRound"
+        },
+        {
+            "id": 3,
+            "uiPath": "CombatImage/BattleSsttingButton/Btn_AutoBtn/AutoON|CombatImage/BattleSsttingButton/Btn_AutoBtn/AutoOFF"
+        },
+        {
+            "id": 4,
+            "uiPath": "CombatImage/BattleSsttingButton/Btn_SpeedBtn/SpeedON"
+        },
+        {
+            "id": 5,
+            "uiPath": "CombatImage/BtnControl/LeftBtn/LeftBtnON|CombatImage/BtnControl/LeftBtn/LeftBtnOFFCombatImage/BtnControl/RightBtn/RightBtnON|CombatImage/BtnControl/RightBtn/RightBtnOFF"
+        },
+        {
+            "id": 6,
+            "uiPath": "CombatImage/UI_Trans_UnitInformation/UI_Trans_HeadrUnitInfo|CombatText/Trans_UnitInformation/HeadUnitInfo"
+        },
+        {
+            "id": 7,
+            "uiPath": "CombatImage/Trans_CombatBtn/Btn_RoundOver/RoundOverImage"
+        },
+        {
+            "id": 8,
+            "uiPath": "CombatImage/UI_HLayout_HeadList"
+        },
+        {
+            "id": 9,
+            "uiPath": "CombatImage/UI_Trans_TacticSkill|CombatText/Text_TacticSkillPower"
+        },
+        {
+            "id": 10
+        },
+        {
+            "id": 11,
+            "uiPath": "CombatImage/ElementPanel"
+        },
+        {
+            "id": 12
+        },
+        {
+            "id": 13
+        },
+        {
+            "id": 14,
+            "uiPath": "CombatImage/UI_Trans_SkillUnitInfo/Trans_CombatBtn/Btn_Confirm"
+        },
+        {
+            "id": 15,
+            "uiPath": "CombatImage/UI_Trans_SkillUnitInfo/Trans_CombatBtn/Btn_Cancel"
+        },
+        {
+            "id": 16,
+            "uiPath": "CombatImage/UI_Trans_SkillUnitInfo/SkillUnitInfoInf|CombatImage"
+        },
+        {
+            "id": 17
+        },
+        {
+            "id": 18
+        },
+        {
+            "id": 19
+        },
+        {
+            "id": 20
+        },
+        {
+            "id": 21,
+            "uiPath": "CombatImage/UI_Trans_UnitInformation/UI_Trans_HeadrUnitInfo|CombatText/Trans_UnitInformation/HeadUnitInfo"
+        },
+        {
+            "id": 22,
+            "uiPath": "CombatImage/Trans_CombatBtn/Btn_Standby"
+        },
+        {
+            "id": 23
+        },
+        {
+            "id": 24
+        },
+        {
+            "id": 25,
+            "uiPath": "CombatImage/UI_VLayout_StageStepList"
+        },
+        {
+            "id": 26,
+            "uiPath": "CombatImage/UI_Trans_SkillUnitInfo/Trans_SkillInf"
+        },
+        {
+            "id": 27,
+            "uiPath": "CombatImage/BattleSsttingButton/Trans_Btn_InfoBtn"
+        },
+        {
+            "id": 28,
+            "uiPath": "CombatInteractionBtn"
+        },
+        {
+            "id": 29,
+            "uiPath": "CombatImage/UI_Trans_SkillUnitInfo/UI_GunSkillLayout|CombatImage/UI_Trans_SkillUnitInfo/EnemySkill"
+        },
+        {
+            "id": 30,
+            "uiPath": "CombatImage/Btn_BattleScan"
+        },
+        {
+            "id": 31,
+            "uiPath": "UI_Trans_SkillUnitInfo/SkillHit"
+        },
+        {
+            "id": 32
+        }
+    ]
+}

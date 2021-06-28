@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 11017,
+            "name": "SR闪电",
+            "type": "Gun",
+            "detailId": [
+                1017
+            ],
+            "unlock": 1,
+            "idle": [
+                "c_Groza_idle"
+            ],
+            "standby": [
+                "c_Groza_behave_HairLift"
+            ],
+            "move": [
+                "c_Groza_CommandCenter_OpenBattlList"
+            ],
+            "dialogueList": [
+                11017001,
+                11017002,
+                11017003,
+                11017004,
+                11017005,
+                11017006,
+                11017007,
+                11017008,
+                11017009,
+                11017010,
+                11017011,
+                11017012,
+                11017013
+            ],
+            "dialogueHello": [
+                11017001
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "interfaceName": "UIEmbattlePanel",
+            "audioName": [
+                30014
+            ]
+        },
+        {
+            "id": 2,
+            "interfaceName": "UIBattleTransitionPanel",
+            "audioName": [
+                30013
+            ]
+        },
+        {
+            "id": 3,
+            "interfaceName": "UIBattleSettlementPanel",
+            "audioName": [
+                30016,
+                30017
+            ],
+            "priority": 2
+        },
+        {
+            "id": 4,
+            "interfaceName": "UIDormMainPanel",
+            "audioName": [
+                30018
+            ]
+        },
+        {
+            "id": 5,
+            "interfaceName": "UICommandCenterPanel",
+            "audioName": [
+                30019
+            ]
+        },
+        {
+            "id": 6,
+            "interfaceName": "30020",
+            "audioName": [
+                30020
+            ]
+        },
+        {
+            "id": 7,
+            "interfaceName": "UIChapterPanel",
+            "audioName": [
+                30019
+            ]
+        },
+        {
+            "id": 8,
+            "interfaceName": "UIBattleIndexPanel",
+            "audioName": [
+                30019
+            ]
+        },
+        {
+            "id": 9,
+            "interfaceName": "30015",
+            "audioName": [
+                30015
+            ]
+        },
+        {
+            "id": 10,
+            "interfaceName": "30022",
+            "audioName": [
+                30022
+            ]
+        },
+        {
+            "id": 11,
+            "interfaceName": "30024",
+            "audioName": [
+                30024
+            ]
+        },
+        {
+            "id": 12,
+            "interfaceName": "30026",
+            "audioName": [
+                30026
+            ]
+        }
+    ]
+}

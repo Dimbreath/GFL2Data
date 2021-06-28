@@ -1,0 +1,1104 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "group": 1,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "32"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnGuide/ComBtnGuideItemV2:1",
+            "finishPage": 1
+        },
+        {
+            "id": 1001001,
+            "group": 1001,
+            "textPosition": "2,0,1",
+            "text": {
+                "id": "33"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1.png"
+        },
+        {
+            "id": 1001002,
+            "group": 1001,
+            "textPosition": "2,0,2",
+            "text": {
+                "id": "34"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2.png"
+        },
+        {
+            "id": 1002001,
+            "group": 1002,
+            "textPosition": "2,0,1",
+            "text": {
+                "id": "35"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3.png"
+        },
+        {
+            "id": 1002002,
+            "group": 1002,
+            "textPosition": "2,0,2",
+            "text": {
+                "id": "36"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4.png"
+        },
+        {
+            "id": 1003001,
+            "group": 1003,
+            "textPosition": "2,0,1",
+            "text": {
+                "id": "37"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_5.png"
+        },
+        {
+            "id": 1003002,
+            "group": 1003,
+            "textPosition": "2,0,2",
+            "text": {
+                "id": "38"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_6.png"
+        },
+        {
+            "id": 1004001,
+            "group": 1004,
+            "textPosition": "2,0,1",
+            "text": {
+                "id": "39"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_7.png"
+        },
+        {
+            "id": 1005001,
+            "group": 1005,
+            "textPosition": "2,0,1",
+            "text": {
+                "id": "40"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_8.png"
+        },
+        {
+            "id": 2001001,
+            "group": 2001,
+            "avatar": "Monster_Head_6P",
+            "textPosition": "1,60,350",
+            "text": {
+                "id": "41"
+            }
+        },
+        {
+            "id": 2001002,
+            "group": 2001,
+            "avatar": "Monster_Head_Felagi_Shoot",
+            "textPosition": "1,60,350",
+            "text": {
+                "id": "42"
+            },
+            "finishPage": 1
+        },
+        {
+            "id": 2002001,
+            "group": 2002,
+            "avatar": "Monster_Head_6P",
+            "textPosition": "1,60,350",
+            "text": {
+                "id": "43"
+            },
+            "finishPage": 1
+        },
+        {
+            "id": 2003001,
+            "group": 2003,
+            "avatar": "Monster_Head_FunGay",
+            "textPosition": "1,60,350",
+            "text": {
+                "id": "44"
+            },
+            "finishPage": 1
+        },
+        {
+            "id": 2004001,
+            "group": 2004,
+            "avatar": "Monster_Head_6P",
+            "textPosition": "1,60,350",
+            "text": {
+                "id": "45"
+            }
+        },
+        {
+            "id": 2004002,
+            "group": 2004,
+            "avatar": "Monster_Head_6P",
+            "textPosition": "1,60,350",
+            "text": {
+                "id": "41"
+            }
+        },
+        {
+            "id": 2004003,
+            "group": 2004,
+            "avatar": "Monster_Head_Felagi_Shoot",
+            "textPosition": "1,60,350",
+            "text": {
+                "id": "42"
+            },
+            "finishPage": 1
+        },
+        {
+            "id": 1010100001,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "46"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010100002,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "47"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010100003,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "48"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/EmbattlePanelV2(Clone)/Root/GrpBottom/GrpChrList/Viewport/Content/item_0/ComChrInfoItemV2(Clone)/Cast:1",
+            "focusPoint": 1703967
+        },
+        {
+            "id": 1010100004,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "49"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010100005,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "50"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1507356"
+        },
+        {
+            "id": 1010100006,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "51"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1703967",
+            "focusPoint": 1703967,
+            "maskControl": true
+        },
+        {
+            "id": 1010100007,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "52"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/EmbattlePanelV2(Clone)/Root/GrpBottom/GrpChrList/Viewport/Content/item_0:1,ComChrInfoItemV2(Clone)/Cast:2"
+        },
+        {
+            "id": 1010100008,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "53"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010100009,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "50"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1507356"
+        },
+        {
+            "id": 1010100010,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "54"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1769503",
+            "focusPoint": 1769503
+        },
+        {
+            "id": 1010100011,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "55"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010100012,
+            "group": 1010100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "56"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/EmbattlePanelV2(Clone)/Root/GrpBottom/BtnAction/Trans_BtnStart/CombatBtn1ItemV2/Cast:1",
+            "finishPage": 1,
+            "maskControl": true
+        },
+        {
+            "id": 1010101001,
+            "group": 1010101,
+            "avatar": "Monster_Head_Felagi_Shoot",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "57"
+            },
+            "focusPoint": 1703962,
+            "nextButton": true,
+            "delay": 0.5
+        },
+        {
+            "id": 1010101002,
+            "group": 1010101,
+            "avatar": "Monster_Head_Felagi_Shoot",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "58"
+            },
+            "focusPoint": 1769496,
+            "nextButton": true
+        },
+        {
+            "id": 1010101003,
+            "group": 1010101,
+            "avatar": "Monster_Head_Felagi_Shoot",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "59"
+            },
+            "focusPoint": 1703962,
+            "nextButton": true
+        },
+        {
+            "id": 1010101004,
+            "group": 1010101,
+            "avatar": "Monster_Head_Felagi_Shoot",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "60"
+            },
+            "focusPoint": 1769496,
+            "nextButton": true,
+            "finishPage": 1,
+            "maskControl": true
+        },
+        {
+            "id": 1010102001,
+            "group": 1010102,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "61"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010102002,
+            "group": 1010102,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "62"
+            },
+            "focusPoint": 1769503,
+            "nextButton": true
+        },
+        {
+            "id": 1010102003,
+            "group": 1010102,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "63"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010102004,
+            "group": 1010102,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "64"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010102005,
+            "group": 1010102,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "65"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1769501",
+            "focusPoint": 1769501
+        },
+        {
+            "id": 1010102006,
+            "group": 1010102,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "66"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1769496",
+            "focusPoint": 1769496
+        },
+        {
+            "id": 1010102007,
+            "group": 1010102,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "67"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/UICombatMainPanel(Clone)/Trans_GrpSkillRelease/GrpBottom/GrpRight/GrpAction/BtnConfirm/Btn_Confirm/Root/Cast:1",
+            "finishPage": 1,
+            "maskControl": true
+        },
+        {
+            "id": 1010103001,
+            "group": 1010103,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "68"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010103002,
+            "group": 1010103,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "69"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1703965",
+            "focusPoint": 1703965
+        },
+        {
+            "id": 1010103003,
+            "group": 1010103,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "69"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1703962",
+            "focusPoint": 1703962
+        },
+        {
+            "id": 1010103004,
+            "group": 1010103,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "70"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1703962",
+            "finishPage": 1,
+            "maskControl": true
+        },
+        {
+            "id": 1010104001,
+            "group": 1010104,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "71"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010104002,
+            "group": 1010104,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "72"
+            },
+            "nextButton": true,
+            "finishPage": 1,
+            "maskControl": true
+        },
+        {
+            "id": 1010105001,
+            "group": 1010105,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "73"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010105002,
+            "group": 1010105,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "74"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010105003,
+            "group": 1010105,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "75"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010105004,
+            "group": 1010105,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "76"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010105005,
+            "group": 1010105,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "77"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010106002,
+            "group": 1010106,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "78"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/UICombatMainPanel(Clone)/GrpBottom/GrpRight/GrpSkillStandBy/GrpSkill:1,ComBatSkillItemV2(Clone)/Cast:1"
+        },
+        {
+            "id": 1010106003,
+            "group": 1010106,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "79"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1703961",
+            "focusPoint": 1703961
+        },
+        {
+            "id": 1010106004,
+            "group": 1010106,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "80"
+            },
+            "clickType": "ClickTile",
+            "clickAreaPosition": "1703961",
+            "finishPage": 1,
+            "maskControl": true
+        },
+        {
+            "id": 1010107001,
+            "group": 1010107,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "81"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010107002,
+            "group": 1010107,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "82"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010108001,
+            "group": 1010108,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "83"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010108002,
+            "group": 1010108,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "84"
+            },
+            "nextButton": true,
+            "finishPage": 1,
+            "maskControl": true
+        },
+        {
+            "id": 1010200001,
+            "group": 1010200,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "85"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010200002,
+            "group": 1010200,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "86"
+            },
+            "focusPoint": 1703964,
+            "nextButton": true
+        },
+        {
+            "id": 1010200003,
+            "group": 1010200,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "87"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010200004,
+            "group": 1010200,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "88"
+            },
+            "focusPoint": 1703962,
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010201001,
+            "group": 1010201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "89"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010201002,
+            "group": 1010201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "90"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010201003,
+            "group": 1010201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "75"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010201004,
+            "group": 1010201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "76"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010201005,
+            "group": 1010201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "77"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010201006,
+            "group": 1010201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "91"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010202001,
+            "group": 1010202,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "92"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010202002,
+            "group": 1010202,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "93"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010300001,
+            "group": 1010300,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "94"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010300002,
+            "group": 1010300,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "95"
+            },
+            "focusPoint": 1900574,
+            "nextButton": true
+        },
+        {
+            "id": 1010300003,
+            "group": 1010300,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "96"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010300004,
+            "group": 1010300,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "97"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010300005,
+            "group": 1010300,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "98"
+            },
+            "focusPoint": 1900568,
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010301001,
+            "group": 1010301,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "99"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010301002,
+            "group": 1010301,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "100"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010301003,
+            "group": 1010301,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "101"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010301004,
+            "group": 1010301,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "102"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010301005,
+            "group": 1010301,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "103"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010301006,
+            "group": 1010301,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "104"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010302001,
+            "group": 1010302,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "105"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010303001,
+            "group": 1010303,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "106"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010400001,
+            "group": 1010400,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "107"
+            },
+            "focusPoint": 1835031,
+            "nextButton": true
+        },
+        {
+            "id": 1010400002,
+            "group": 1010400,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "108"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010400003,
+            "group": 1010400,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "109"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010400004,
+            "group": 1010400,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "110"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010400005,
+            "group": 1010400,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "111"
+            },
+            "focusPoint": 1835027,
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010401001,
+            "group": 1010401,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "112"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010401002,
+            "group": 1010401,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "113"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010401003,
+            "group": 1010401,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "114"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010401004,
+            "group": 1010401,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "115"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010500001,
+            "group": 1010500,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "116"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010500002,
+            "group": 1010500,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "117"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010500003,
+            "group": 1010500,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "118"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010600001,
+            "group": 1010600,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "119"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010600002,
+            "group": 1010600,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "120"
+            },
+            "focusPoint": 1507352,
+            "nextButton": true
+        },
+        {
+            "id": 1010600003,
+            "group": 1010600,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "121"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1011000001,
+            "group": 1011000,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "122"
+            },
+            "focusPoint": 1966105,
+            "nextButton": true
+        },
+        {
+            "id": 1011000002,
+            "group": 1011000,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "123"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1011000003,
+            "group": 1011000,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "124"
+            },
+            "focusPoint": 1441813,
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 2011201001,
+            "group": 2011201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "125"
+            },
+            "focusPoint": 1310742,
+            "nextButton": true
+        },
+        {
+            "id": 2011201002,
+            "group": 2011201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "126"
+            },
+            "focusPoint": 1441819,
+            "nextButton": true
+        },
+        {
+            "id": 2011201003,
+            "group": 2011201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "127"
+            },
+            "focusPoint": 1507347,
+            "nextButton": true,
+            "finishPage": 1
+        }
+    ]
+}

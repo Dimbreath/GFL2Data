@@ -1,0 +1,295 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "area": 2,
+            "position": "Point_1",
+            "startIdle": 3003,
+            "endIdle": 3003,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 2,
+            "area": 2,
+            "position": "Point_2",
+            "startIdle": 3000,
+            "insertIdle": [
+                3031,
+                3032,
+                3033
+            ],
+            "endIdle": 3000,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 3,
+            "area": 2,
+            "position": "Point_3",
+            "startIdle": 3002,
+            "endIdle": 3002,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 4,
+            "area": 2,
+            "position": "Point_4",
+            "startIdle": 3000,
+            "insertIdle": [
+                3031,
+                3032,
+                3033
+            ],
+            "endIdle": 3000,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 5,
+            "area": 2,
+            "position": "Point_5",
+            "startIdle": 3000,
+            "insertIdle": [
+                3031,
+                3032,
+                3033
+            ],
+            "endIdle": 3000,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 6,
+            "area": 2,
+            "position": "Point_6",
+            "startIdle": 3000,
+            "insertIdle": [
+                3031,
+                3032,
+                3033
+            ],
+            "endIdle": 3000,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 7,
+            "area": 2,
+            "position": "Point_7",
+            "startIdle": 3000,
+            "insertIdle": [
+                3031,
+                3032,
+                3033
+            ],
+            "endIdle": 3000,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 8,
+            "area": 2,
+            "position": "Point_8",
+            "startIdle": 3003,
+            "endIdle": 3003,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 101,
+            "area": 1,
+            "position": "Point_101",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 102,
+            "area": 1,
+            "position": "Point_102",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 103,
+            "area": 1,
+            "position": "Point_103",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 104,
+            "area": 1,
+            "position": "Point_104",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 105,
+            "area": 1,
+            "position": "Point_105",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 106,
+            "area": 1,
+            "position": "Point_106",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 301,
+            "area": 3,
+            "position": "Point_301",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 302,
+            "area": 3,
+            "position": "Point_302",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 303,
+            "area": 3,
+            "position": "Point_303",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 304,
+            "area": 3,
+            "position": "Point_304",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 305,
+            "area": 3,
+            "position": "Point_305",
+            "startIdle": 3001,
+            "endIdle": 3001,
+            "singleresponse": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        }
+    ]
+}

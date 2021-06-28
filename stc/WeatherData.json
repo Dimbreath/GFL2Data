@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "4890"
+            },
+            "intro": {
+                "id": "4890"
+            },
+            "icon": "Campaign_BattleInfo_Icon_Weather_Nothing"
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "4891"
+            },
+            "intro": {
+                "id": "4892"
+            },
+            "icon": "Campaign_BattleInfo_Icon_Weather_Sun",
+            "battleSkill": 2002
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "4893"
+            },
+            "intro": {
+                "id": "4894"
+            },
+            "icon": "Campaign_BattleInfo_Icon_Weather_Fog",
+            "battleSkill": 2003
+        },
+        {
+            "id": 4,
+            "name": {
+                "id": "4895"
+            },
+            "intro": {
+                "id": "4896"
+            },
+            "icon": "Campaign_BattleInfo_Icon_Weather_Rain",
+            "battleSkill": 2004,
+            "sceneEfx": 1
+        },
+        {
+            "id": 5,
+            "name": {
+                "id": "4897"
+            },
+            "intro": {
+                "id": "4898"
+            },
+            "icon": "Campaign_BattleInfo_Icon_Weather_HeavyRain",
+            "battleSkill": 2005,
+            "sceneEfx": 2
+        },
+        {
+            "id": 6,
+            "name": {
+                "id": "4899"
+            },
+            "intro": {
+                "id": "4900"
+            },
+            "icon": "Campaign_BattleInfo_Icon_Weather_Snow",
+            "battleSkill": 2006,
+            "sceneEfx": 3
+        },
+        {
+            "id": 7,
+            "name": {
+                "id": "4901"
+            },
+            "intro": {
+                "id": "4898"
+            },
+            "icon": "Campaign_BattleInfo_Icon_Weather_HeavySnow",
+            "battleSkill": 2007,
+            "sceneEfx": 4
+        },
+        {
+            "id": 11,
+            "name": {
+                "id": "4902"
+            },
+            "intro": {
+                "id": "4903"
+            },
+            "battleSkill": 10001
+        }
+    ]
+}

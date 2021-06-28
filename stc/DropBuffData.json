@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "type": 1,
+            "args": 100
+        },
+        {
+            "id": 1002,
+            "type": 1,
+            "args": 200
+        },
+        {
+            "id": 1003,
+            "type": 2,
+            "stagetype": [
+                1
+            ],
+            "args": 100
+        },
+        {
+            "id": 1004,
+            "type": 2,
+            "stagetype": [
+                1
+            ],
+            "args": 1000
+        },
+        {
+            "id": 1005,
+            "type": 3,
+            "args": 100
+        },
+        {
+            "id": 1006,
+            "type": 3,
+            "args": 200
+        },
+        {
+            "id": 1011,
+            "type": 2,
+            "stagetype": [
+                5
+            ],
+            "args": 100
+        },
+        {
+            "id": 1012,
+            "type": 2,
+            "stagetype": [
+                5
+            ],
+            "args": 1000
+        },
+        {
+            "id": 1013,
+            "type": 2,
+            "stagetype": [
+                8
+            ],
+            "args": 100
+        },
+        {
+            "id": 1014,
+            "type": 2,
+            "stagetype": [
+                8
+            ],
+            "args": 1000
+        }
+    ]
+}

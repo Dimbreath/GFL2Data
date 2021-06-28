@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "automovePrefab": "AutoMove",
+            "automoveclimbPrefab": "AutoMoveClimb",
+            "automovelPrefab": "AutoMoveL",
+            "automoverPrefab": "AutoMoveR",
+            "automovewskillPrefab": "AutoMoveWSkill",
+            "autoovercoverPrefab": "AutoOverCover",
+            "autorunstopPrefab": "AutoRunStop"
+        },
+        {
+            "id": 2,
+            "automovePrefab": "AutoMove",
+            "automoveclimbPrefab": "AutoMoveClimb",
+            "automovelPrefab": "AutoMoveL",
+            "automoverPrefab": "AutoMoveR",
+            "automovewskillPrefab": "AutoMoveWSkill",
+            "autoovercoverPrefab": "AutoOverCover",
+            "autorunstopPrefab": "AutoRunStop"
+        },
+        {
+            "id": 3,
+            "automovePrefab": "AutoMove",
+            "automoveclimbPrefab": "AutoMoveClimb",
+            "automovelPrefab": "AutoMoveL",
+            "automoverPrefab": "AutoMoveR",
+            "automovewskillPrefab": "AutoMoveWSkill",
+            "autoovercoverPrefab": "AutoOverCover",
+            "autorunstopPrefab": "AutoRunStop"
+        }
+    ]
+}

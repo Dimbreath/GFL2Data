@@ -1,0 +1,5064 @@
+{
+    "data": [
+        {
+            "id": 100101,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1001011,
+                1001012,
+                1001013,
+                1001014
+            ]
+        },
+        {
+            "id": 100102,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "armor": 7,
+                "pow": 5,
+                "max_hp": 23
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1001021,
+                1001022,
+                1001023,
+                1001024
+            ]
+        },
+        {
+            "id": 100103,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "max_hp": 23,
+                "armor": 7,
+                "pow": 5
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1001031,
+                1001032,
+                1001033,
+                1001034
+            ]
+        },
+        {
+            "id": 100104,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "pow": 10,
+                "max_hp": 46,
+                "armor": 13
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1001041,
+                1001042,
+                1001043,
+                1001044
+            ]
+        },
+        {
+            "id": 100105,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "armor": 20,
+                "crit": 20,
+                "pow": 15,
+                "max_hp": 69
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1001051,
+                1001052,
+                1001053,
+                1001054
+            ]
+        },
+        {
+            "id": 100106,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "armor": 26,
+                "crit_mult": 30,
+                "pow": 20,
+                "max_hp": 92
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1001061,
+                1001062,
+                1001063,
+                1001064
+            ]
+        },
+        {
+            "id": 100107,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "max_hp": 115,
+                "armor": 33,
+                "crit": 20,
+                "pow": 25
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1001071,
+                1001072,
+                1001073,
+                1001074
+            ]
+        },
+        {
+            "id": 100108,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 35,
+                "max_hp": 161,
+                "armor": 39
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1001081,
+                1001082,
+                1001083,
+                1001084
+            ]
+        },
+        {
+            "id": 100109,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "crit": 20,
+                "pow": 45,
+                "max_hp": 207,
+                "armor": 52
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1001091,
+                1001092,
+                1001093,
+                1001094
+            ]
+        },
+        {
+            "id": 100110,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "armor": 65,
+                "crit_mult": 30,
+                "pow": 55,
+                "max_hp": 253
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1001101,
+                1001102,
+                1001103,
+                1001104
+            ]
+        },
+        {
+            "id": 100111,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "armor": 78,
+                "crit": 20,
+                "pow": 65,
+                "max_hp": 299
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1001111,
+                1001112,
+                1001113,
+                1001114
+            ]
+        },
+        {
+            "id": 100201,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1002011,
+                1002012,
+                1002013,
+                1002014
+            ]
+        },
+        {
+            "id": 100202,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 5,
+                "max_hp": 22,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1002021,
+                1002022,
+                1002023,
+                1002024
+            ]
+        },
+        {
+            "id": 100203,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 5,
+                "max_hp": 22,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1002031,
+                1002032,
+                1002033,
+                1002034
+            ]
+        },
+        {
+            "id": 100204,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "max_hp": 44,
+                "armor": 11,
+                "pow": 10
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1002041,
+                1002042,
+                1002043,
+                1002044
+            ]
+        },
+        {
+            "id": 100205,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 15,
+                "max_hp": 66,
+                "armor": 17,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1002051,
+                1002052,
+                1002053,
+                1002054
+            ]
+        },
+        {
+            "id": 100206,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "armor": 22,
+                "crit_mult": 30,
+                "pow": 20,
+                "max_hp": 88
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1002061,
+                1002062,
+                1002063,
+                1002064
+            ]
+        },
+        {
+            "id": 100207,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "crit": 20,
+                "pow": 25,
+                "max_hp": 110,
+                "armor": 28
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1002071,
+                1002072,
+                1002073,
+                1002074
+            ]
+        },
+        {
+            "id": 100208,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "pow": 35,
+                "max_hp": 154,
+                "armor": 33,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1002081,
+                1002082,
+                1002083,
+                1002084
+            ]
+        },
+        {
+            "id": 100209,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "crit": 20,
+                "pow": 45,
+                "max_hp": 198,
+                "armor": 44
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1002091,
+                1002092,
+                1002093,
+                1002094
+            ]
+        },
+        {
+            "id": 100210,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "armor": 55,
+                "crit_mult": 30,
+                "pow": 55,
+                "max_hp": 242
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1002101,
+                1002102,
+                1002103,
+                1002104
+            ]
+        },
+        {
+            "id": 100211,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "pow": 65,
+                "max_hp": 286,
+                "armor": 66,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1002111,
+                1002112,
+                1002113,
+                1002114
+            ]
+        },
+        {
+            "id": 100301,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1003011,
+                1003012,
+                1003013,
+                1003014
+            ]
+        },
+        {
+            "id": 100302,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "max_hp": 17,
+                "armor": 5,
+                "pow": 7
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1003021,
+                1003022,
+                1003023,
+                1003024
+            ]
+        },
+        {
+            "id": 100303,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "max_hp": 17,
+                "armor": 5,
+                "pow": 7
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1003031,
+                1003032,
+                1003033,
+                1003034
+            ]
+        },
+        {
+            "id": 100304,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "armor": 9,
+                "pow": 13,
+                "max_hp": 34
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1003041,
+                1003042,
+                1003043,
+                1003044
+            ]
+        },
+        {
+            "id": 100305,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 20,
+                "max_hp": 51,
+                "armor": 14,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1003051,
+                1003052,
+                1003053,
+                1003054
+            ]
+        },
+        {
+            "id": 100306,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "max_hp": 68,
+                "armor": 18,
+                "crit_mult": 30,
+                "pow": 26
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1003061,
+                1003062,
+                1003063,
+                1003064
+            ]
+        },
+        {
+            "id": 100307,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "armor": 23,
+                "crit": 20,
+                "pow": 33,
+                "max_hp": 85
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1003071,
+                1003072,
+                1003073,
+                1003074
+            ]
+        },
+        {
+            "id": 100308,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "armor": 27,
+                "crit_mult": 30,
+                "pow": 46,
+                "max_hp": 119
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1003081,
+                1003082,
+                1003083,
+                1003084
+            ]
+        },
+        {
+            "id": 100309,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "crit": 20,
+                "pow": 59,
+                "max_hp": 153,
+                "armor": 36
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1003091,
+                1003092,
+                1003093,
+                1003094
+            ]
+        },
+        {
+            "id": 100310,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "pow": 72,
+                "max_hp": 187,
+                "armor": 45,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1003101,
+                1003102,
+                1003103,
+                1003104
+            ]
+        },
+        {
+            "id": 100311,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "max_hp": 221,
+                "armor": 54,
+                "crit": 20,
+                "pow": 85
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1003111,
+                1003112,
+                1003113,
+                1003114
+            ]
+        },
+        {
+            "id": 100401,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1004011,
+                1004012,
+                1004013,
+                1004014
+            ]
+        },
+        {
+            "id": 100402,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 6,
+                "max_hp": 20,
+                "armor": 5
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1004021,
+                1004022,
+                1004023,
+                1004024
+            ]
+        },
+        {
+            "id": 100403,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "armor": 5,
+                "pow": 6,
+                "max_hp": 20
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1004031,
+                1004032,
+                1004033,
+                1004034
+            ]
+        },
+        {
+            "id": 100404,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "armor": 10,
+                "pow": 12,
+                "max_hp": 40
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1004041,
+                1004042,
+                1004043,
+                1004044
+            ]
+        },
+        {
+            "id": 100405,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "crit": 20,
+                "pow": 18,
+                "max_hp": 60,
+                "armor": 15
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1004051,
+                1004052,
+                1004053,
+                1004054
+            ]
+        },
+        {
+            "id": 100406,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "pow": 24,
+                "max_hp": 80,
+                "armor": 20,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1004061,
+                1004062,
+                1004063,
+                1004064
+            ]
+        },
+        {
+            "id": 100407,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "armor": 25,
+                "crit": 20,
+                "pow": 30,
+                "max_hp": 100
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1004071,
+                1004072,
+                1004073,
+                1004074
+            ]
+        },
+        {
+            "id": 100408,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "armor": 30,
+                "crit_mult": 30,
+                "pow": 42,
+                "max_hp": 140
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1004081,
+                1004082,
+                1004083,
+                1004084
+            ]
+        },
+        {
+            "id": 100409,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "crit": 20,
+                "pow": 54,
+                "max_hp": 180,
+                "armor": 40
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1004091,
+                1004092,
+                1004093,
+                1004094
+            ]
+        },
+        {
+            "id": 100410,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 220,
+                "armor": 50,
+                "crit_mult": 30,
+                "pow": 66
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1004101,
+                1004102,
+                1004103,
+                1004104
+            ]
+        },
+        {
+            "id": 100411,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "max_hp": 260,
+                "armor": 60,
+                "crit": 20,
+                "pow": 78
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1004111,
+                1004112,
+                1004113,
+                1004114
+            ]
+        },
+        {
+            "id": 100501,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1005011,
+                1005012,
+                1005013,
+                1005014
+            ]
+        },
+        {
+            "id": 100502,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "max_hp": 19,
+                "armor": 6,
+                "pow": 6
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1005021,
+                1005022,
+                1005023,
+                1005024
+            ]
+        },
+        {
+            "id": 100503,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "armor": 6,
+                "pow": 6,
+                "max_hp": 19
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1005031,
+                1005032,
+                1005033,
+                1005034
+            ]
+        },
+        {
+            "id": 100504,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "armor": 11,
+                "pow": 12,
+                "max_hp": 38
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1005041,
+                1005042,
+                1005043,
+                1005044
+            ]
+        },
+        {
+            "id": 100505,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "armor": 17,
+                "crit": 20,
+                "pow": 18,
+                "max_hp": 57
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1005051,
+                1005052,
+                1005053,
+                1005054
+            ]
+        },
+        {
+            "id": 100506,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "armor": 22,
+                "crit_mult": 30,
+                "pow": 24,
+                "max_hp": 76
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1005061,
+                1005062,
+                1005063,
+                1005064
+            ]
+        },
+        {
+            "id": 100507,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "crit": 20,
+                "pow": 30,
+                "max_hp": 95,
+                "armor": 28
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1005071,
+                1005072,
+                1005073,
+                1005074
+            ]
+        },
+        {
+            "id": 100508,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "armor": 33,
+                "crit_mult": 30,
+                "pow": 42,
+                "max_hp": 133
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1005081,
+                1005082,
+                1005083,
+                1005084
+            ]
+        },
+        {
+            "id": 100509,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "max_hp": 171,
+                "armor": 44,
+                "crit": 20,
+                "pow": 54
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1005091,
+                1005092,
+                1005093,
+                1005094
+            ]
+        },
+        {
+            "id": 100510,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 209,
+                "armor": 55,
+                "crit_mult": 30,
+                "pow": 66
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1005101,
+                1005102,
+                1005103,
+                1005104
+            ]
+        },
+        {
+            "id": 100511,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "max_hp": 247,
+                "armor": 66,
+                "crit": 20,
+                "pow": 78
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1005111,
+                1005112,
+                1005113,
+                1005114
+            ]
+        },
+        {
+            "id": 100601,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1006011,
+                1006012,
+                1006013,
+                1006014
+            ]
+        },
+        {
+            "id": 100602,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 7,
+                "max_hp": 18,
+                "armor": 5
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1006021,
+                1006022,
+                1006023,
+                1006024
+            ]
+        },
+        {
+            "id": 100603,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "armor": 5,
+                "pow": 7,
+                "max_hp": 18
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1006031,
+                1006032,
+                1006033,
+                1006034
+            ]
+        },
+        {
+            "id": 100604,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "max_hp": 36,
+                "armor": 9,
+                "pow": 14
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1006041,
+                1006042,
+                1006043,
+                1006044
+            ]
+        },
+        {
+            "id": 100605,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 21,
+                "max_hp": 54,
+                "armor": 14,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1006051,
+                1006052,
+                1006053,
+                1006054
+            ]
+        },
+        {
+            "id": 100606,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "pow": 28,
+                "max_hp": 72,
+                "armor": 18,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1006061,
+                1006062,
+                1006063,
+                1006064
+            ]
+        },
+        {
+            "id": 100607,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "max_hp": 90,
+                "armor": 23,
+                "crit": 20,
+                "pow": 35
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1006071,
+                1006072,
+                1006073,
+                1006074
+            ]
+        },
+        {
+            "id": 100608,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "pow": 49,
+                "max_hp": 126,
+                "armor": 27,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1006081,
+                1006082,
+                1006083,
+                1006084
+            ]
+        },
+        {
+            "id": 100609,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "max_hp": 162,
+                "armor": 36,
+                "crit": 20,
+                "pow": 63
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1006091,
+                1006092,
+                1006093,
+                1006094
+            ]
+        },
+        {
+            "id": 100610,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "armor": 45,
+                "crit_mult": 30,
+                "pow": 77,
+                "max_hp": 198
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1006101,
+                1006102,
+                1006103,
+                1006104
+            ]
+        },
+        {
+            "id": 100611,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "max_hp": 234,
+                "armor": 54,
+                "crit": 20,
+                "pow": 91
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1006111,
+                1006112,
+                1006113,
+                1006114
+            ]
+        },
+        {
+            "id": 100701,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1007011,
+                1007012,
+                1007013,
+                1007014
+            ]
+        },
+        {
+            "id": 100702,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "armor": 5,
+                "pow": 7,
+                "max_hp": 21
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1007021,
+                1007022,
+                1007023,
+                1007024
+            ]
+        },
+        {
+            "id": 100703,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 7,
+                "max_hp": 21,
+                "armor": 5
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1007031,
+                1007032,
+                1007033,
+                1007034
+            ]
+        },
+        {
+            "id": 100704,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "pow": 13,
+                "max_hp": 42,
+                "armor": 10
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1007041,
+                1007042,
+                1007043,
+                1007044
+            ]
+        },
+        {
+            "id": 100705,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 20,
+                "max_hp": 63,
+                "armor": 15,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1007051,
+                1007052,
+                1007053,
+                1007054
+            ]
+        },
+        {
+            "id": 100706,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "pow": 26,
+                "max_hp": 84,
+                "armor": 20,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1007061,
+                1007062,
+                1007063,
+                1007064
+            ]
+        },
+        {
+            "id": 100707,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "pow": 33,
+                "max_hp": 105,
+                "armor": 25,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1007071,
+                1007072,
+                1007073,
+                1007074
+            ]
+        },
+        {
+            "id": 100708,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "armor": 30,
+                "crit_mult": 30,
+                "pow": 46,
+                "max_hp": 147
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1007081,
+                1007082,
+                1007083,
+                1007084
+            ]
+        },
+        {
+            "id": 100709,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "crit": 20,
+                "pow": 59,
+                "max_hp": 189,
+                "armor": 40
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1007091,
+                1007092,
+                1007093,
+                1007094
+            ]
+        },
+        {
+            "id": 100710,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 231,
+                "armor": 50,
+                "crit_mult": 30,
+                "pow": 72
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1007101,
+                1007102,
+                1007103,
+                1007104
+            ]
+        },
+        {
+            "id": 100711,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "crit": 20,
+                "pow": 85,
+                "max_hp": 273,
+                "armor": 60
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1007111,
+                1007112,
+                1007113,
+                1007114
+            ]
+        },
+        {
+            "id": 100801,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1008011,
+                1008012,
+                1008013,
+                1008014
+            ]
+        },
+        {
+            "id": 100802,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "armor": 5,
+                "pow": 7,
+                "max_hp": 18
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1008021,
+                1008022,
+                1008023,
+                1008024
+            ]
+        },
+        {
+            "id": 100803,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "armor": 5,
+                "pow": 7,
+                "max_hp": 18
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1008031,
+                1008032,
+                1008033,
+                1008034
+            ]
+        },
+        {
+            "id": 100804,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "max_hp": 36,
+                "armor": 9,
+                "pow": 13
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1008041,
+                1008042,
+                1008043,
+                1008044
+            ]
+        },
+        {
+            "id": 100805,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "crit": 20,
+                "pow": 20,
+                "max_hp": 54,
+                "armor": 14
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1008051,
+                1008052,
+                1008053,
+                1008054
+            ]
+        },
+        {
+            "id": 100806,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "pow": 26,
+                "max_hp": 72,
+                "armor": 18,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1008061,
+                1008062,
+                1008063,
+                1008064
+            ]
+        },
+        {
+            "id": 100807,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "pow": 33,
+                "max_hp": 90,
+                "armor": 23,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1008071,
+                1008072,
+                1008073,
+                1008074
+            ]
+        },
+        {
+            "id": 100808,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 46,
+                "max_hp": 126,
+                "armor": 27
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1008081,
+                1008082,
+                1008083,
+                1008084
+            ]
+        },
+        {
+            "id": 100809,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 59,
+                "max_hp": 162,
+                "armor": 36,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1008091,
+                1008092,
+                1008093,
+                1008094
+            ]
+        },
+        {
+            "id": 100810,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 198,
+                "armor": 45,
+                "crit_mult": 30,
+                "pow": 72
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1008101,
+                1008102,
+                1008103,
+                1008104
+            ]
+        },
+        {
+            "id": 100811,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "pow": 85,
+                "max_hp": 234,
+                "armor": 54,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1008111,
+                1008112,
+                1008113,
+                1008114
+            ]
+        },
+        {
+            "id": 100901,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1009011,
+                1009012,
+                1009013,
+                1009014
+            ]
+        },
+        {
+            "id": 100902,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "armor": 6,
+                "pow": 6,
+                "max_hp": 21
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1009021,
+                1009022,
+                1009023,
+                1009024
+            ]
+        },
+        {
+            "id": 100903,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "max_hp": 21,
+                "armor": 6,
+                "pow": 6
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1009031,
+                1009032,
+                1009033,
+                1009034
+            ]
+        },
+        {
+            "id": 100904,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "armor": 11,
+                "pow": 11,
+                "max_hp": 42
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1009041,
+                1009042,
+                1009043,
+                1009044
+            ]
+        },
+        {
+            "id": 100905,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "crit": 20,
+                "pow": 17,
+                "max_hp": 63,
+                "armor": 17
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1009051,
+                1009052,
+                1009053,
+                1009054
+            ]
+        },
+        {
+            "id": 100906,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "max_hp": 84,
+                "armor": 22,
+                "crit_mult": 30,
+                "pow": 22
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1009061,
+                1009062,
+                1009063,
+                1009064
+            ]
+        },
+        {
+            "id": 100907,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "pow": 28,
+                "max_hp": 105,
+                "armor": 28,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1009071,
+                1009072,
+                1009073,
+                1009074
+            ]
+        },
+        {
+            "id": 100908,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "pow": 39,
+                "max_hp": 147,
+                "armor": 33,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1009081,
+                1009082,
+                1009083,
+                1009084
+            ]
+        },
+        {
+            "id": 100909,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 50,
+                "max_hp": 189,
+                "armor": 44,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1009091,
+                1009092,
+                1009093,
+                1009094
+            ]
+        },
+        {
+            "id": 100910,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 61,
+                "max_hp": 231,
+                "armor": 55
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1009101,
+                1009102,
+                1009103,
+                1009104
+            ]
+        },
+        {
+            "id": 100911,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "armor": 66,
+                "crit": 20,
+                "pow": 72,
+                "max_hp": 273
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1009111,
+                1009112,
+                1009113,
+                1009114
+            ]
+        },
+        {
+            "id": 101001,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1010011,
+                1010012,
+                1010013,
+                1010014
+            ]
+        },
+        {
+            "id": 101002,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 6,
+                "max_hp": 26,
+                "armor": 7
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1010021,
+                1010022,
+                1010023,
+                1010024
+            ]
+        },
+        {
+            "id": 101003,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 6,
+                "max_hp": 26,
+                "armor": 7
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1010031,
+                1010032,
+                1010033,
+                1010034
+            ]
+        },
+        {
+            "id": 101004,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "pow": 11,
+                "max_hp": 52,
+                "armor": 13
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1010041,
+                1010042,
+                1010043,
+                1010044
+            ]
+        },
+        {
+            "id": 101005,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "max_hp": 78,
+                "armor": 20,
+                "crit": 20,
+                "pow": 17
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1010051,
+                1010052,
+                1010053,
+                1010054
+            ]
+        },
+        {
+            "id": 101006,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "pow": 22,
+                "max_hp": 104,
+                "armor": 26,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1010061,
+                1010062,
+                1010063,
+                1010064
+            ]
+        },
+        {
+            "id": 101007,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "pow": 28,
+                "max_hp": 130,
+                "armor": 33,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1010071,
+                1010072,
+                1010073,
+                1010074
+            ]
+        },
+        {
+            "id": 101008,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "max_hp": 182,
+                "armor": 39,
+                "crit_mult": 30,
+                "pow": 39
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1010081,
+                1010082,
+                1010083,
+                1010084
+            ]
+        },
+        {
+            "id": 101009,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 50,
+                "max_hp": 234,
+                "armor": 52,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1010091,
+                1010092,
+                1010093,
+                1010094
+            ]
+        },
+        {
+            "id": 101010,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 61,
+                "max_hp": 286,
+                "armor": 65
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1010101,
+                1010102,
+                1010103,
+                1010104
+            ]
+        },
+        {
+            "id": 101011,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "pow": 72,
+                "max_hp": 338,
+                "armor": 78,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1010111,
+                1010112,
+                1010113,
+                1010114
+            ]
+        },
+        {
+            "id": 101101,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1011011,
+                1011012,
+                1011013,
+                1011014
+            ]
+        },
+        {
+            "id": 101102,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 5,
+                "max_hp": 24,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1011021,
+                1011022,
+                1011023,
+                1011024
+            ]
+        },
+        {
+            "id": 101103,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 5,
+                "max_hp": 24,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1011031,
+                1011032,
+                1011033,
+                1011034
+            ]
+        },
+        {
+            "id": 101104,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "pow": 10,
+                "max_hp": 48,
+                "armor": 12
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1011041,
+                1011042,
+                1011043,
+                1011044
+            ]
+        },
+        {
+            "id": 101105,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "max_hp": 72,
+                "armor": 18,
+                "crit": 20,
+                "pow": 15
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1011051,
+                1011052,
+                1011053,
+                1011054
+            ]
+        },
+        {
+            "id": 101106,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "pow": 20,
+                "max_hp": 96,
+                "armor": 24,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1011061,
+                1011062,
+                1011063,
+                1011064
+            ]
+        },
+        {
+            "id": 101107,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "max_hp": 120,
+                "armor": 30,
+                "crit": 20,
+                "pow": 25
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1011071,
+                1011072,
+                1011073,
+                1011074
+            ]
+        },
+        {
+            "id": 101108,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "max_hp": 168,
+                "armor": 36,
+                "crit_mult": 30,
+                "pow": 35
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1011081,
+                1011082,
+                1011083,
+                1011084
+            ]
+        },
+        {
+            "id": 101109,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "armor": 48,
+                "crit": 20,
+                "pow": 45,
+                "max_hp": 216
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1011091,
+                1011092,
+                1011093,
+                1011094
+            ]
+        },
+        {
+            "id": 101110,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 55,
+                "max_hp": 264,
+                "armor": 60
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1011101,
+                1011102,
+                1011103,
+                1011104
+            ]
+        },
+        {
+            "id": 101111,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "pow": 65,
+                "max_hp": 312,
+                "armor": 72,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1011111,
+                1011112,
+                1011113,
+                1011114
+            ]
+        },
+        {
+            "id": 101201,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1012011,
+                1012012,
+                1012013,
+                1012014
+            ]
+        },
+        {
+            "id": 101202,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 6,
+                "max_hp": 25,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1012021,
+                1012022,
+                1012023,
+                1012024
+            ]
+        },
+        {
+            "id": 101203,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 6,
+                "max_hp": 25,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1012031,
+                1012032,
+                1012033,
+                1012034
+            ]
+        },
+        {
+            "id": 101204,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "armor": 11,
+                "pow": 11,
+                "max_hp": 50
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1012041,
+                1012042,
+                1012043,
+                1012044
+            ]
+        },
+        {
+            "id": 101205,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "armor": 17,
+                "crit": 20,
+                "pow": 17,
+                "max_hp": 75
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1012051,
+                1012052,
+                1012053,
+                1012054
+            ]
+        },
+        {
+            "id": 101206,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 22,
+                "max_hp": 100,
+                "armor": 22
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1012061,
+                1012062,
+                1012063,
+                1012064
+            ]
+        },
+        {
+            "id": 101207,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "pow": 28,
+                "max_hp": 125,
+                "armor": 28,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1012071,
+                1012072,
+                1012073,
+                1012074
+            ]
+        },
+        {
+            "id": 101208,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "pow": 39,
+                "max_hp": 175,
+                "armor": 33,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1012081,
+                1012082,
+                1012083,
+                1012084
+            ]
+        },
+        {
+            "id": 101209,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 50,
+                "max_hp": 225,
+                "armor": 44,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1012091,
+                1012092,
+                1012093,
+                1012094
+            ]
+        },
+        {
+            "id": 101210,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 275,
+                "armor": 55,
+                "crit_mult": 30,
+                "pow": 61
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1012101,
+                1012102,
+                1012103,
+                1012104
+            ]
+        },
+        {
+            "id": 101211,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "crit": 20,
+                "pow": 72,
+                "max_hp": 325,
+                "armor": 66
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1012111,
+                1012112,
+                1012113,
+                1012114
+            ]
+        },
+        {
+            "id": 101301,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1013011,
+                1013012,
+                1013013,
+                1013014
+            ]
+        },
+        {
+            "id": 101302,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 7,
+                "max_hp": 20,
+                "armor": 5
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1013021,
+                1013022,
+                1013023,
+                1013024
+            ]
+        },
+        {
+            "id": 101303,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "max_hp": 20,
+                "armor": 5,
+                "pow": 7
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1013031,
+                1013032,
+                1013033,
+                1013034
+            ]
+        },
+        {
+            "id": 101304,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "pow": 13,
+                "max_hp": 40,
+                "armor": 10
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1013041,
+                1013042,
+                1013043,
+                1013044
+            ]
+        },
+        {
+            "id": 101305,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 20,
+                "max_hp": 60,
+                "armor": 15,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1013051,
+                1013052,
+                1013053,
+                1013054
+            ]
+        },
+        {
+            "id": 101306,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 26,
+                "max_hp": 80,
+                "armor": 20
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1013061,
+                1013062,
+                1013063,
+                1013064
+            ]
+        },
+        {
+            "id": 101307,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "crit": 20,
+                "pow": 33,
+                "max_hp": 100,
+                "armor": 25
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1013071,
+                1013072,
+                1013073,
+                1013074
+            ]
+        },
+        {
+            "id": 101308,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "armor": 30,
+                "crit_mult": 30,
+                "pow": 46,
+                "max_hp": 140
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1013081,
+                1013082,
+                1013083,
+                1013084
+            ]
+        },
+        {
+            "id": 101309,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 59,
+                "max_hp": 180,
+                "armor": 40,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1013091,
+                1013092,
+                1013093,
+                1013094
+            ]
+        },
+        {
+            "id": 101310,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "pow": 72,
+                "max_hp": 220,
+                "armor": 50,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1013101,
+                1013102,
+                1013103,
+                1013104
+            ]
+        },
+        {
+            "id": 101311,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "crit": 20,
+                "pow": 85,
+                "max_hp": 260,
+                "armor": 60
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1013111,
+                1013112,
+                1013113,
+                1013114
+            ]
+        },
+        {
+            "id": 101401,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1014011,
+                1014012,
+                1014013,
+                1014014
+            ]
+        },
+        {
+            "id": 101402,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 7,
+                "max_hp": 21,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1014021,
+                1014022,
+                1014023,
+                1014024
+            ]
+        },
+        {
+            "id": 101403,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "max_hp": 21,
+                "armor": 6,
+                "pow": 7
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1014031,
+                1014032,
+                1014033,
+                1014034
+            ]
+        },
+        {
+            "id": 101404,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "pow": 13,
+                "max_hp": 42,
+                "armor": 11
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1014041,
+                1014042,
+                1014043,
+                1014044
+            ]
+        },
+        {
+            "id": 101405,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 20,
+                "max_hp": 63,
+                "armor": 17,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1014051,
+                1014052,
+                1014053,
+                1014054
+            ]
+        },
+        {
+            "id": 101406,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "pow": 26,
+                "max_hp": 84,
+                "armor": 22,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1014061,
+                1014062,
+                1014063,
+                1014064
+            ]
+        },
+        {
+            "id": 101407,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "pow": 33,
+                "max_hp": 105,
+                "armor": 28,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1014071,
+                1014072,
+                1014073,
+                1014074
+            ]
+        },
+        {
+            "id": 101408,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "max_hp": 147,
+                "armor": 33,
+                "crit_mult": 30,
+                "pow": 46
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1014081,
+                1014082,
+                1014083,
+                1014084
+            ]
+        },
+        {
+            "id": 101409,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 59,
+                "max_hp": 189,
+                "armor": 44,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1014091,
+                1014092,
+                1014093,
+                1014094
+            ]
+        },
+        {
+            "id": 101410,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 231,
+                "armor": 55,
+                "crit_mult": 30,
+                "pow": 72
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1014101,
+                1014102,
+                1014103,
+                1014104
+            ]
+        },
+        {
+            "id": 101411,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "pow": 85,
+                "max_hp": 273,
+                "armor": 66,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1014111,
+                1014112,
+                1014113,
+                1014114
+            ]
+        },
+        {
+            "id": 101501,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1015011,
+                1015012,
+                1015013,
+                1015014
+            ]
+        },
+        {
+            "id": 101502,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 5,
+                "max_hp": 20,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1015021,
+                1015022,
+                1015023,
+                1015024
+            ]
+        },
+        {
+            "id": 101503,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 5,
+                "max_hp": 20,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1015031,
+                1015032,
+                1015033,
+                1015034
+            ]
+        },
+        {
+            "id": 101504,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "pow": 10,
+                "max_hp": 40,
+                "armor": 12
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1015041,
+                1015042,
+                1015043,
+                1015044
+            ]
+        },
+        {
+            "id": 101505,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 15,
+                "max_hp": 60,
+                "armor": 18,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1015051,
+                1015052,
+                1015053,
+                1015054
+            ]
+        },
+        {
+            "id": 101506,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "max_hp": 80,
+                "armor": 24,
+                "crit_mult": 30,
+                "pow": 20
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1015061,
+                1015062,
+                1015063,
+                1015064
+            ]
+        },
+        {
+            "id": 101507,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "pow": 25,
+                "max_hp": 100,
+                "armor": 30,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1015071,
+                1015072,
+                1015073,
+                1015074
+            ]
+        },
+        {
+            "id": 101508,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "max_hp": 140,
+                "armor": 36,
+                "crit_mult": 30,
+                "pow": 35
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1015081,
+                1015082,
+                1015083,
+                1015084
+            ]
+        },
+        {
+            "id": 101509,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 45,
+                "max_hp": 180,
+                "armor": 48,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1015091,
+                1015092,
+                1015093,
+                1015094
+            ]
+        },
+        {
+            "id": 101510,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "pow": 55,
+                "max_hp": 220,
+                "armor": 60,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1015101,
+                1015102,
+                1015103,
+                1015104
+            ]
+        },
+        {
+            "id": 101511,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "pow": 65,
+                "max_hp": 260,
+                "armor": 72,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1015111,
+                1015112,
+                1015113,
+                1015114
+            ]
+        },
+        {
+            "id": 101601,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1016011,
+                1016012,
+                1016013,
+                1016014
+            ]
+        },
+        {
+            "id": 101602,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 6,
+                "max_hp": 21,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1016021,
+                1016022,
+                1016023,
+                1016024
+            ]
+        },
+        {
+            "id": 101603,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "max_hp": 21,
+                "armor": 6,
+                "pow": 6
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1016031,
+                1016032,
+                1016033,
+                1016034
+            ]
+        },
+        {
+            "id": 101604,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "armor": 11,
+                "pow": 11,
+                "max_hp": 42
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1016041,
+                1016042,
+                1016043,
+                1016044
+            ]
+        },
+        {
+            "id": 101605,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "armor": 17,
+                "crit": 20,
+                "pow": 17,
+                "max_hp": 63
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1016051,
+                1016052,
+                1016053,
+                1016054
+            ]
+        },
+        {
+            "id": 101606,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "pow": 22,
+                "max_hp": 84,
+                "armor": 22,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1016061,
+                1016062,
+                1016063,
+                1016064
+            ]
+        },
+        {
+            "id": 101607,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "pow": 28,
+                "max_hp": 105,
+                "armor": 28,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1016071,
+                1016072,
+                1016073,
+                1016074
+            ]
+        },
+        {
+            "id": 101608,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 39,
+                "max_hp": 147,
+                "armor": 33
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1016081,
+                1016082,
+                1016083,
+                1016084
+            ]
+        },
+        {
+            "id": 101609,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "crit": 20,
+                "pow": 50,
+                "max_hp": 189,
+                "armor": 44
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1016091,
+                1016092,
+                1016093,
+                1016094
+            ]
+        },
+        {
+            "id": 101610,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 61,
+                "max_hp": 231,
+                "armor": 55
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1016101,
+                1016102,
+                1016103,
+                1016104
+            ]
+        },
+        {
+            "id": 101611,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "max_hp": 273,
+                "armor": 66,
+                "crit": 20,
+                "pow": 72
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1016111,
+                1016112,
+                1016113,
+                1016114
+            ]
+        },
+        {
+            "id": 101701,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1017011,
+                1017012,
+                1017013,
+                1017014
+            ]
+        },
+        {
+            "id": 101702,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "max_hp": 22,
+                "armor": 5,
+                "pow": 7
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1017021,
+                1017022,
+                1017023,
+                1017024
+            ]
+        },
+        {
+            "id": 101703,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "max_hp": 22,
+                "armor": 5,
+                "pow": 7
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1017031,
+                1017032,
+                1017033,
+                1017034
+            ]
+        },
+        {
+            "id": 101704,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "armor": 10,
+                "pow": 13,
+                "max_hp": 44
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1017041,
+                1017042,
+                1017043,
+                1017044
+            ]
+        },
+        {
+            "id": 101705,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 20,
+                "max_hp": 66,
+                "armor": 15,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1017051,
+                1017052,
+                1017053,
+                1017054
+            ]
+        },
+        {
+            "id": 101706,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 26,
+                "max_hp": 88,
+                "armor": 20
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1017061,
+                1017062,
+                1017063,
+                1017064
+            ]
+        },
+        {
+            "id": 101707,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "crit": 20,
+                "pow": 33,
+                "max_hp": 110,
+                "armor": 25
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1017071,
+                1017072,
+                1017073,
+                1017074
+            ]
+        },
+        {
+            "id": 101708,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "pow": 46,
+                "max_hp": 154,
+                "armor": 30,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1017081,
+                1017082,
+                1017083,
+                1017084
+            ]
+        },
+        {
+            "id": 101709,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "crit": 20,
+                "pow": 59,
+                "max_hp": 198,
+                "armor": 40
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1017091,
+                1017092,
+                1017093,
+                1017094
+            ]
+        },
+        {
+            "id": 101710,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "armor": 50,
+                "crit_mult": 30,
+                "pow": 72,
+                "max_hp": 242
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1017101,
+                1017102,
+                1017103,
+                1017104
+            ]
+        },
+        {
+            "id": 101711,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "crit": 20,
+                "pow": 85,
+                "max_hp": 286,
+                "armor": 60
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1017111,
+                1017112,
+                1017113,
+                1017114
+            ]
+        },
+        {
+            "id": 101901,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1019011,
+                1019012,
+                1019013,
+                1019014
+            ]
+        },
+        {
+            "id": 101902,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "armor": 5,
+                "pow": 6,
+                "max_hp": 21
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1019021,
+                1019022,
+                1019023,
+                1019024
+            ]
+        },
+        {
+            "id": 101903,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 6,
+                "max_hp": 21,
+                "armor": 5
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1019031,
+                1019032,
+                1019033,
+                1019034
+            ]
+        },
+        {
+            "id": 101904,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "armor": 10,
+                "pow": 12,
+                "max_hp": 42
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1019041,
+                1019042,
+                1019043,
+                1019044
+            ]
+        },
+        {
+            "id": 101905,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 18,
+                "max_hp": 63,
+                "armor": 15,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1019051,
+                1019052,
+                1019053,
+                1019054
+            ]
+        },
+        {
+            "id": 101906,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "armor": 20,
+                "crit_mult": 30,
+                "pow": 24,
+                "max_hp": 84
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1019061,
+                1019062,
+                1019063,
+                1019064
+            ]
+        },
+        {
+            "id": 101907,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "max_hp": 105,
+                "armor": 25,
+                "crit": 20,
+                "pow": 30
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1019071,
+                1019072,
+                1019073,
+                1019074
+            ]
+        },
+        {
+            "id": 101908,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 42,
+                "max_hp": 147,
+                "armor": 30
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1019081,
+                1019082,
+                1019083,
+                1019084
+            ]
+        },
+        {
+            "id": 101909,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 54,
+                "max_hp": 189,
+                "armor": 40,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1019091,
+                1019092,
+                1019093,
+                1019094
+            ]
+        },
+        {
+            "id": 101910,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 231,
+                "armor": 50,
+                "crit_mult": 30,
+                "pow": 66
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1019101,
+                1019102,
+                1019103,
+                1019104
+            ]
+        },
+        {
+            "id": 101911,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "max_hp": 273,
+                "armor": 60,
+                "crit": 20,
+                "pow": 78
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1019111,
+                1019112,
+                1019113,
+                1019114
+            ]
+        },
+        {
+            "id": 102001,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1020011,
+                1020012,
+                1020013,
+                1020014
+            ]
+        },
+        {
+            "id": 102002,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 7,
+                "max_hp": 21,
+                "armor": 5
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1020021,
+                1020022,
+                1020023,
+                1020024
+            ]
+        },
+        {
+            "id": 102003,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 7,
+                "max_hp": 21,
+                "armor": 5
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1020031,
+                1020032,
+                1020033,
+                1020034
+            ]
+        },
+        {
+            "id": 102004,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "pow": 13,
+                "max_hp": 42,
+                "armor": 10
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1020041,
+                1020042,
+                1020043,
+                1020044
+            ]
+        },
+        {
+            "id": 102005,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 20,
+                "max_hp": 63,
+                "armor": 15,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1020051,
+                1020052,
+                1020053,
+                1020054
+            ]
+        },
+        {
+            "id": 102006,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "armor": 20,
+                "crit_mult": 30,
+                "pow": 26,
+                "max_hp": 84
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1020061,
+                1020062,
+                1020063,
+                1020064
+            ]
+        },
+        {
+            "id": 102007,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "crit": 20,
+                "pow": 33,
+                "max_hp": 105,
+                "armor": 25
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1020071,
+                1020072,
+                1020073,
+                1020074
+            ]
+        },
+        {
+            "id": 102008,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 46,
+                "max_hp": 147,
+                "armor": 30
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1020081,
+                1020082,
+                1020083,
+                1020084
+            ]
+        },
+        {
+            "id": 102009,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 59,
+                "max_hp": 189,
+                "armor": 40,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1020091,
+                1020092,
+                1020093,
+                1020094
+            ]
+        },
+        {
+            "id": 102010,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 231,
+                "armor": 50,
+                "crit_mult": 30,
+                "pow": 72
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1020101,
+                1020102,
+                1020103,
+                1020104
+            ]
+        },
+        {
+            "id": 102011,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "crit": 20,
+                "pow": 85,
+                "max_hp": 273,
+                "armor": 60
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1020111,
+                1020112,
+                1020113,
+                1020114
+            ]
+        },
+        {
+            "id": 102101,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1021011,
+                1021012,
+                1021013,
+                1021014
+            ]
+        },
+        {
+            "id": 102102,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "max_hp": 22,
+                "armor": 6,
+                "pow": 7
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1021021,
+                1021022,
+                1021023,
+                1021024
+            ]
+        },
+        {
+            "id": 102103,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "max_hp": 22,
+                "armor": 6,
+                "pow": 7
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1021031,
+                1021032,
+                1021033,
+                1021034
+            ]
+        },
+        {
+            "id": 102104,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "pow": 13,
+                "max_hp": 44,
+                "armor": 11
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1021041,
+                1021042,
+                1021043,
+                1021044
+            ]
+        },
+        {
+            "id": 102105,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "crit": 20,
+                "pow": 20,
+                "max_hp": 66,
+                "armor": 17
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1021051,
+                1021052,
+                1021053,
+                1021054
+            ]
+        },
+        {
+            "id": 102106,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 26,
+                "max_hp": 88,
+                "armor": 22
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1021061,
+                1021062,
+                1021063,
+                1021064
+            ]
+        },
+        {
+            "id": 102107,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "crit": 20,
+                "pow": 33,
+                "max_hp": 110,
+                "armor": 28
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1021071,
+                1021072,
+                1021073,
+                1021074
+            ]
+        },
+        {
+            "id": 102108,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "pow": 46,
+                "max_hp": 154,
+                "armor": 33,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1021081,
+                1021082,
+                1021083,
+                1021084
+            ]
+        },
+        {
+            "id": 102109,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "pow": 59,
+                "max_hp": 198,
+                "armor": 44,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1021091,
+                1021092,
+                1021093,
+                1021094
+            ]
+        },
+        {
+            "id": 102110,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "armor": 55,
+                "crit_mult": 30,
+                "pow": 72,
+                "max_hp": 242
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1021101,
+                1021102,
+                1021103,
+                1021104
+            ]
+        },
+        {
+            "id": 102111,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "pow": 85,
+                "max_hp": 286,
+                "armor": 66,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1021111,
+                1021112,
+                1021113,
+                1021114
+            ]
+        },
+        {
+            "id": 103001,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1030011,
+                1030012,
+                1030013,
+                1030014
+            ]
+        },
+        {
+            "id": 103002,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "pow": 5,
+                "max_hp": 22,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1030021,
+                1030022,
+                1030023,
+                1030024
+            ]
+        },
+        {
+            "id": 103003,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 5,
+                "max_hp": 22,
+                "armor": 6
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1030031,
+                1030032,
+                1030033,
+                1030034
+            ]
+        },
+        {
+            "id": 103004,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "max_hp": 44,
+                "armor": 12,
+                "pow": 10
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1030041,
+                1030042,
+                1030043,
+                1030044
+            ]
+        },
+        {
+            "id": 103005,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "pow": 15,
+                "max_hp": 66,
+                "armor": 18,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1030051,
+                1030052,
+                1030053,
+                1030054
+            ]
+        },
+        {
+            "id": 103006,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 20,
+                "max_hp": 88,
+                "armor": 24
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1030061,
+                1030062,
+                1030063,
+                1030064
+            ]
+        },
+        {
+            "id": 103007,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "armor": 30,
+                "crit": 20,
+                "pow": 25,
+                "max_hp": 110
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1030071,
+                1030072,
+                1030073,
+                1030074
+            ]
+        },
+        {
+            "id": 103008,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "crit_mult": 30,
+                "pow": 35,
+                "max_hp": 154,
+                "armor": 36
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1030081,
+                1030082,
+                1030083,
+                1030084
+            ]
+        },
+        {
+            "id": 103009,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "armor": 48,
+                "crit": 20,
+                "pow": 45,
+                "max_hp": 198
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1030091,
+                1030092,
+                1030093,
+                1030094
+            ]
+        },
+        {
+            "id": 103010,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 242,
+                "armor": 60,
+                "crit_mult": 30,
+                "pow": 55
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1030101,
+                1030102,
+                1030103,
+                1030104
+            ]
+        },
+        {
+            "id": 103011,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "max_hp": 286,
+                "armor": 72,
+                "crit": 20,
+                "pow": 65
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1030111,
+                1030112,
+                1030113,
+                1030114
+            ]
+        },
+        {
+            "id": 103101,
+            "name": {
+                "id": "4418"
+            },
+            "icon": "mind_rank_01",
+            "nodeList": [
+                1031011,
+                1031012,
+                1031013,
+                1031014
+            ]
+        },
+        {
+            "id": 103102,
+            "name": {
+                "id": "4419"
+            },
+            "icon": "mind_rank_02",
+            "propertyList": {
+                "armor": 5,
+                "pow": 6,
+                "max_hp": 19
+            },
+            "itemList": {
+                "2": 5000
+            },
+            "nodeList": [
+                1031021,
+                1031022,
+                1031023,
+                1031024
+            ]
+        },
+        {
+            "id": 103103,
+            "name": {
+                "id": "4420"
+            },
+            "icon": "mind_rank_03",
+            "propertyList": {
+                "pow": 6,
+                "max_hp": 19,
+                "armor": 5
+            },
+            "itemList": {
+                "2": 10000
+            },
+            "nodeList": [
+                1031031,
+                1031032,
+                1031033,
+                1031034
+            ]
+        },
+        {
+            "id": 103104,
+            "name": {
+                "id": "4421"
+            },
+            "icon": "mind_rank_04",
+            "propertyList": {
+                "armor": 10,
+                "pow": 11,
+                "max_hp": 38
+            },
+            "itemList": {
+                "2": 15000
+            },
+            "nodeList": [
+                1031041,
+                1031042,
+                1031043,
+                1031044
+            ]
+        },
+        {
+            "id": 103105,
+            "name": {
+                "id": "4422"
+            },
+            "icon": "mind_rank_05",
+            "propertyList": {
+                "max_hp": 57,
+                "armor": 15,
+                "crit": 20,
+                "pow": 17
+            },
+            "itemList": {
+                "2": 20000
+            },
+            "nodeList": [
+                1031051,
+                1031052,
+                1031053,
+                1031054
+            ]
+        },
+        {
+            "id": 103106,
+            "name": {
+                "id": "4423"
+            },
+            "icon": "mind_rank_06",
+            "propertyList": {
+                "pow": 22,
+                "max_hp": 76,
+                "armor": 20,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 25000
+            },
+            "nodeList": [
+                1031061,
+                1031062,
+                1031063,
+                1031064
+            ]
+        },
+        {
+            "id": 103107,
+            "name": {
+                "id": "4424"
+            },
+            "icon": "mind_rank_07",
+            "propertyList": {
+                "pow": 28,
+                "max_hp": 95,
+                "armor": 25,
+                "crit": 20
+            },
+            "itemList": {
+                "2": 30000
+            },
+            "nodeList": [
+                1031071,
+                1031072,
+                1031073,
+                1031074
+            ]
+        },
+        {
+            "id": 103108,
+            "name": {
+                "id": "4425"
+            },
+            "icon": "mind_rank_08",
+            "propertyList": {
+                "pow": 39,
+                "max_hp": 133,
+                "armor": 30,
+                "crit_mult": 30
+            },
+            "itemList": {
+                "2": 35000
+            },
+            "nodeList": [
+                1031081,
+                1031082,
+                1031083,
+                1031084
+            ]
+        },
+        {
+            "id": 103109,
+            "name": {
+                "id": "4426"
+            },
+            "icon": "mind_rank_09",
+            "propertyList": {
+                "armor": 40,
+                "crit": 20,
+                "pow": 50,
+                "max_hp": 171
+            },
+            "itemList": {
+                "2": 40000
+            },
+            "nodeList": [
+                1031091,
+                1031092,
+                1031093,
+                1031094
+            ]
+        },
+        {
+            "id": 103110,
+            "name": {
+                "id": "4427"
+            },
+            "icon": "mind_rank_10",
+            "propertyList": {
+                "max_hp": 209,
+                "armor": 50,
+                "crit_mult": 30,
+                "pow": 61
+            },
+            "itemList": {
+                "2": 45000
+            },
+            "nodeList": [
+                1031101,
+                1031102,
+                1031103,
+                1031104
+            ]
+        },
+        {
+            "id": 103111,
+            "name": {
+                "id": "4428"
+            },
+            "icon": "mind_rank_11",
+            "propertyList": {
+                "max_hp": 247,
+                "armor": 60,
+                "crit": 20,
+                "pow": 72
+            },
+            "itemList": {
+                "2": 50000
+            },
+            "nodeList": [
+                1031111,
+                1031112,
+                1031113,
+                1031114
+            ]
+        }
+    ]
+}

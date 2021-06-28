@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "id": 11017001,
+            "type": 1,
+            "des": {
+                "id": "2060"
+            },
+            "action1": "c_Groza_idle_to_ask",
+            "action2": "c_Groza_ask",
+            "action3": "c_Groza_ask_to_idle",
+            "loopTime": 1,
+            "voice": 7100420,
+            "weight": 100,
+            "unlock": 1
+        },
+        {
+            "id": 11017002,
+            "type": 1,
+            "des": {
+                "id": "2061"
+            },
+            "action1": "c_Groza_idle_to_ok2",
+            "action2": "c_Groza_ok",
+            "action3": "c_Groza_ok_to_idle",
+            "loopTime": 1,
+            "voice": 7100401,
+            "weight": 20,
+            "unlock": 1
+        },
+        {
+            "id": 11017003,
+            "type": 1,
+            "des": {
+                "id": "2062"
+            },
+            "action1": "c_Groza_idle_to_ask",
+            "action2": "c_Groza_ask",
+            "action3": "c_Groza_ask_to_idle",
+            "loopTime": 1,
+            "voice": 7100402,
+            "weight": 100,
+            "unlock": 1
+        },
+        {
+            "id": 11017004,
+            "type": 1,
+            "des": {
+                "id": "2063"
+            },
+            "action1": "c_Groza_idle_to_answer",
+            "action2": "c_Groza_answer",
+            "action3": "c_Groza_answer_to_idle",
+            "loopTime": 3,
+            "voice": 7100403,
+            "weight": 100,
+            "unlock": 1
+        },
+        {
+            "id": 11017005,
+            "type": 1,
+            "des": {
+                "id": "2064"
+            },
+            "action1": "c_Groza_idle_to_glad",
+            "action2": "c_Groza_glad",
+            "action3": "c_Groza_glad_to_idle",
+            "loopTime": 2,
+            "voice": 7100404,
+            "weight": 100,
+            "unlock": 1
+        },
+        {
+            "id": 11017006,
+            "type": 1,
+            "des": {
+                "id": "2065"
+            },
+            "action1": "c_Groza_idle_to_ok2",
+            "action2": "c_Groza_ok",
+            "action3": "c_Groza_ok_to_idle",
+            "loopTime": 1,
+            "voice": 7100405,
+            "weight": 20,
+            "unlock": 1
+        },
+        {
+            "id": 11017007,
+            "type": 1,
+            "des": {
+                "id": "2066"
+            },
+            "action1": "c_Groza_idle_to_ask",
+            "action2": "c_Groza_ask",
+            "action3": "c_Groza_ask_to_idle",
+            "loopTime": 1,
+            "voice": 7100406,
+            "weight": 100,
+            "unlock": 1
+        },
+        {
+            "id": 11017008,
+            "type": 1,
+            "des": {
+                "id": "2067"
+            },
+            "action1": "c_Groza_idle_to_ok1",
+            "action2": "c_Groza_ok",
+            "action3": "c_Groza_ok_to_idle",
+            "loopTime": 1,
+            "voice": 7100407,
+            "weight": 20,
+            "unlock": 1
+        },
+        {
+            "id": 11017009,
+            "type": 1,
+            "des": {
+                "id": "2068"
+            },
+            "action1": "c_Groza_idle_to_flurried",
+            "action2": "c_Groza_flurried",
+            "action3": "c_Groza_flurried_to_idle",
+            "loopTime": 1,
+            "voice": 7100408,
+            "weight": 100,
+            "unlock": 1
+        },
+        {
+            "id": 11017010,
+            "type": 1,
+            "des": {
+                "id": "2069"
+            },
+            "action1": "c_Groza_idle_to_glad",
+            "action2": "c_Groza_glad",
+            "action3": "c_Groza_glad_to_idle",
+            "loopTime": 2,
+            "voice": 7100409,
+            "weight": 100,
+            "unlock": 1
+        },
+        {
+            "id": 11017011,
+            "type": 1,
+            "des": {
+                "id": "2070"
+            },
+            "action1": "c_Groza_idle_to_ask",
+            "action2": "c_Groza_ask",
+            "action3": "c_Groza_ask_to_idle",
+            "loopTime": 1,
+            "voice": 7100410,
+            "weight": 100,
+            "unlock": 1
+        },
+        {
+            "id": 11017012,
+            "type": 1,
+            "des": {
+                "id": "2071"
+            },
+            "action1": "c_Groza_idle_to_answer",
+            "action2": "c_Groza_answer",
+            "action3": "c_Groza_answer_to_idle",
+            "loopTime": 3,
+            "voice": 7100422,
+            "weight": 80,
+            "unlock": 1
+        },
+        {
+            "id": 11017013,
+            "type": 1,
+            "des": {
+                "id": "2072"
+            },
+            "action1": "c_Groza_idle_to_melancholy",
+            "action2": "c_Groza_melancholy",
+            "action3": "c_Groza_melancholy_to_idle",
+            "loopTime": 1,
+            "voice": 7100423,
+            "weight": 80,
+            "unlock": 1
+        }
+    ]
+}

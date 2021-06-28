@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "value": 10,
+            "rewardList": {
+                "2": 20000
+            }
+        },
+        {
+            "id": 2,
+            "value": 30,
+            "rewardList": {
+                "125": 1
+            }
+        },
+        {
+            "id": 3,
+            "value": 50,
+            "rewardList": {
+                "2": 50000
+            }
+        },
+        {
+            "id": 4,
+            "value": 75,
+            "rewardList": {
+                "123": 1
+            }
+        },
+        {
+            "id": 5,
+            "value": 100,
+            "rewardList": {
+                "1": 100
+            }
+        }
+    ]
+}

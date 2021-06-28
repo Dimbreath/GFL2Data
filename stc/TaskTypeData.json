@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "type": 1,
+            "typeName": {
+                "id": "2210"
+            },
+            "typeEnglishName": "DAY TASK",
+            "typeBg": "NewTask_Daily_decorationBG",
+            "typeBgIcon": "NewTask_Daily_decorationImage",
+            "typeTaskIcon": "DailyTask_Icon_03",
+            "sequence": 4
+        },
+        {
+            "type": 2,
+            "typeName": {
+                "id": "2211"
+            },
+            "typeEnglishName": "WEEK TASK",
+            "typeBg": "NewTask_Daily_decorationBG",
+            "typeBgIcon": "NewTask_Daily_decorationImage",
+            "typeTaskIcon": "DailyTask_Icon_03"
+        },
+        {
+            "type": 3,
+            "typeName": {
+                "id": "2212"
+            },
+            "typeEnglishName": "DUIDE TASK",
+            "typeBg": "NewTask_Week_decorationBG",
+            "typeBgIcon": "NewTask_Week_decorationImage",
+            "typeTaskIcon": "GrowUpTask_Icon_01",
+            "sequence": 2
+        }
+    ]
+}

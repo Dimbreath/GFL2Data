@@ -1,0 +1,9 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "awakeBtn": "Root/GrpTop/BtnGuide/ComBtnGuideItemV2",
+            "amout": 8
+        }
+    ]
+}

@@ -1,0 +1,1404 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "name": {
+                "id": "471"
+            },
+            "enName": "CharolicSR",
+            "introduce": {
+                "id": "472"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "CharolicSR",
+            "type": 6,
+            "characterId": 1,
+            "duty": 7,
+            "rank": 4,
+            "roleTemplateId": 1001,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11001,
+            "upgradeSpeech": {
+                "id": "475"
+            },
+            "skillNormalAttack": 10010100,
+            "skillActive": 10010700,
+            "skillSuper": 10010400,
+            "gradeSkill": [
+                10010701,
+                10010801,
+                10010901,
+                10010702,
+                10010802,
+                10010902,
+                10010703
+            ],
+            "skillTalentExtra": [
+                20010401
+            ],
+            "aiList": [
+                100101
+            ],
+            "element": 2,
+            "weaponType": 1,
+            "weaponDefault": 50001,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1002,
+            "name": {
+                "id": "476"
+            },
+            "enName": "ColphneR",
+            "introduce": {
+                "id": "477"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "478"
+            },
+            "code": "ColphneR",
+            "type": 1,
+            "characterId": 2,
+            "duty": 1,
+            "rank": 3,
+            "roleTemplateId": 1002,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11002,
+            "upgradeSpeech": {
+                "id": "479"
+            },
+            "skillNormalAttack": 10020100,
+            "skillActive": 10020700,
+            "skillSuper": 10020400,
+            "gradeSkill": [
+                10020701,
+                10020901,
+                10020801,
+                10020702,
+                10020802,
+                10020703,
+                10020902
+            ],
+            "skillTalentExtra": [
+                20010201
+            ],
+            "aiList": [
+                100201
+            ],
+            "element": 3,
+            "weaponType": 2,
+            "weaponDefault": 50002,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1003,
+            "name": {
+                "id": "480"
+            },
+            "enName": "NemesisR",
+            "introduce": {
+                "id": "481"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "482"
+            },
+            "code": "NemesisR",
+            "type": 3,
+            "characterId": 4,
+            "duty": 3,
+            "rank": 3,
+            "roleTemplateId": 1003,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11003,
+            "upgradeSpeech": {
+                "id": "483"
+            },
+            "skillNormalAttack": 10080100,
+            "skillActive": 10080700,
+            "skillSuper": 10080400,
+            "gradeSkill": [
+                10080701,
+                10080801,
+                10080901,
+                10080702,
+                10080802,
+                10080902,
+                10080703
+            ],
+            "skillTalentExtra": [
+                20010301
+            ],
+            "aiList": [
+                100801
+            ],
+            "element": 3,
+            "weaponType": 3,
+            "weaponDefault": 50003,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1004,
+            "name": {
+                "id": "484"
+            },
+            "enName": "GrozaR",
+            "introduce": {
+                "id": "485"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "486"
+            },
+            "code": "GrozaR",
+            "type": 4,
+            "characterId": 3,
+            "duty": 4,
+            "rank": 3,
+            "roleTemplateId": 1004,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11004,
+            "upgradeSpeech": {
+                "id": "487"
+            },
+            "skillNormalAttack": 10170100,
+            "skillActive": 10170700,
+            "skillSuper": 10170400,
+            "gradeSkill": [
+                10170701,
+                10170801,
+                10170901,
+                10170702,
+                10170802,
+                10170902,
+                10170703
+            ],
+            "skillTalentExtra": [
+                20010501
+            ],
+            "aiList": [
+                101701
+            ],
+            "element": 1,
+            "weaponType": 4,
+            "weaponDefault": 50004,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1005,
+            "name": {
+                "id": "488"
+            },
+            "enName": "CharolicSSR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "489"
+            },
+            "code": "CharolicSSR",
+            "type": 6,
+            "characterId": 1,
+            "duty": 7,
+            "rank": 5,
+            "roleTemplateId": 1005,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11005,
+            "upgradeSpeech": {
+                "id": "490"
+            },
+            "skillNormalAttack": 10050100,
+            "skillActive": 10050700,
+            "skillSuper": 10050400,
+            "gradeSkill": [
+                10050701,
+                10050702,
+                10050801,
+                10050703,
+                10050704,
+                10050901,
+                10050705
+            ],
+            "skillTalentExtra": [
+                20010401
+            ],
+            "aiList": [
+                100501
+            ],
+            "element": 1,
+            "weaponType": 1,
+            "weaponDefault": 50001,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1006,
+            "name": {
+                "id": "491"
+            },
+            "enName": "NemesisSSR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "492"
+            },
+            "code": "NemesisSSR",
+            "type": 3,
+            "characterId": 4,
+            "duty": 3,
+            "rank": 5,
+            "roleTemplateId": 1006,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11006,
+            "upgradeSpeech": {
+                "id": "493"
+            },
+            "skillNormalAttack": 10060100,
+            "skillActive": 10060700,
+            "skillSuper": 10060400,
+            "gradeSkill": [
+                10060701,
+                10060702,
+                10060801,
+                10060703,
+                10060704,
+                10060901,
+                10060705
+            ],
+            "skillTalentExtra": [
+                20010301
+            ],
+            "aiList": [
+                100601
+            ],
+            "element": 1,
+            "weaponType": 3,
+            "weaponDefault": 50003,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1007,
+            "name": {
+                "id": "494"
+            },
+            "enName": "GrozaSSR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "495"
+            },
+            "code": "GrozaSSR",
+            "type": 4,
+            "characterId": 3,
+            "duty": 4,
+            "rank": 5,
+            "roleTemplateId": 1007,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11007,
+            "upgradeSpeech": {
+                "id": "496"
+            },
+            "skillNormalAttack": 10070100,
+            "skillActive": 10070700,
+            "skillSuper": 10070400,
+            "gradeSkill": [
+                10070701,
+                10070801,
+                10071001,
+                10070901,
+                10070802,
+                10070902,
+                10070703
+            ],
+            "skillTalentExtra": [
+                20010501
+            ],
+            "aiList": [
+                100701
+            ],
+            "element": 5,
+            "weaponType": 4,
+            "weaponDefault": 50004,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1008,
+            "name": {
+                "id": "497"
+            },
+            "enName": "NemesisSR",
+            "introduce": {
+                "id": "498"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "499"
+            },
+            "code": "NemesisSR",
+            "type": 3,
+            "characterId": 4,
+            "duty": 3,
+            "rank": 4,
+            "roleTemplateId": 1008,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11008,
+            "upgradeSpeech": {
+                "id": "500"
+            },
+            "skillNormalAttack": 10030100,
+            "skillActive": 10030700,
+            "skillSuper": 10030400,
+            "gradeSkill": [
+                10030701,
+                10030901,
+                10030801,
+                10030702,
+                10030802,
+                10030703,
+                10031001
+            ],
+            "skillTalentExtra": [
+                20010301
+            ],
+            "aiList": [
+                100301
+            ],
+            "element": 1,
+            "weaponType": 3,
+            "weaponDefault": 50003,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1009,
+            "name": {
+                "id": "501"
+            },
+            "enName": "ColphneSR",
+            "introduce": {
+                "id": "502"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "503"
+            },
+            "code": "ColphneSR",
+            "type": 1,
+            "characterId": 2,
+            "duty": 1,
+            "rank": 4,
+            "roleTemplateId": 1009,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11009,
+            "upgradeSpeech": {
+                "id": "504"
+            },
+            "skillNormalAttack": 10090100,
+            "skillActive": 10090700,
+            "skillSuper": 10090400,
+            "gradeSkill": [
+                10090701,
+                10091001,
+                10090901,
+                10090702,
+                10090802,
+                10090902,
+                10090703
+            ],
+            "skillTalentExtra": [
+                20010203
+            ],
+            "aiList": [
+                100901
+            ],
+            "element": 1,
+            "weaponType": 2,
+            "weaponDefault": 50002,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1010,
+            "name": {
+                "id": "505"
+            },
+            "enName": "VepleySSR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "492"
+            },
+            "code": "VepleySSR",
+            "type": 6,
+            "characterId": 5,
+            "duty": 6,
+            "rank": 5,
+            "roleTemplateId": 1010,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11010,
+            "upgradeSpeech": {
+                "id": "506"
+            },
+            "skillNormalAttack": 10100100,
+            "skillActive": 10100700,
+            "skillSuper": 10100400,
+            "gradeSkill": [
+                10100701,
+                10100801,
+                10100901,
+                10100702,
+                10100802,
+                10101001,
+                10100703
+            ],
+            "skillTalentExtra": [
+                20010101
+            ],
+            "aiList": [
+                101001
+            ],
+            "element": 3,
+            "weaponType": 5,
+            "weaponDefault": 50005,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1011,
+            "name": {
+                "id": "507"
+            },
+            "enName": "VepleyR",
+            "introduce": {
+                "id": "508"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "VepleyR",
+            "type": 6,
+            "characterId": 5,
+            "duty": 6,
+            "rank": 3,
+            "roleTemplateId": 1011,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11011,
+            "upgradeSpeech": {
+                "id": "509"
+            },
+            "skillNormalAttack": 10110100,
+            "skillActive": 10110700,
+            "skillSuper": 10110400,
+            "gradeSkill": [
+                10110701,
+                10110801,
+                10110901,
+                10110702,
+                10110802,
+                10110902,
+                10110703
+            ],
+            "skillTalentExtra": [
+                20010101
+            ],
+            "aiList": [
+                101101
+            ],
+            "element": 2,
+            "weaponType": 5,
+            "weaponDefault": 50005,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1012,
+            "name": {
+                "id": "510"
+            },
+            "enName": "ColphneSSR",
+            "introduce": {
+                "id": "511"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "ColphneSSR",
+            "type": 1,
+            "characterId": 3,
+            "duty": 1,
+            "rank": 5,
+            "roleTemplateId": 1012,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11012,
+            "upgradeSpeech": {
+                "id": "512"
+            },
+            "skillNormalAttack": 10120100,
+            "skillActive": 10120700,
+            "skillSuper": 10120400,
+            "gradeSkill": [
+                10120701,
+                10120801,
+                10120901,
+                10120702,
+                10120802,
+                10121001,
+                10120703
+            ],
+            "skillTalentExtra": [
+                20010201
+            ],
+            "aiList": [
+                101201
+            ],
+            "element": 2,
+            "weaponType": 2,
+            "weaponDefault": 50002,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1013,
+            "name": {
+                "id": "513"
+            },
+            "enName": "LennaSSR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "LennaSSR",
+            "type": 2,
+            "characterId": 6,
+            "duty": 2,
+            "rank": 5,
+            "roleTemplateId": 1013,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11013,
+            "upgradeSpeech": {
+                "id": "514"
+            },
+            "skillNormalAttack": 10130100,
+            "skillActive": 10130700,
+            "skillSuper": 10130400,
+            "gradeSkill": [
+                10130701,
+                10130801,
+                10130901,
+                10130702,
+                10130802,
+                10130703,
+                10130704
+            ],
+            "skillTalentExtra": [
+                20010701
+            ],
+            "aiList": [
+                101301
+            ],
+            "element": 4,
+            "weaponType": 6,
+            "weaponDefault": 50006,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1014,
+            "name": {
+                "id": "515"
+            },
+            "enName": "PerityaSSR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "PerityaSSR",
+            "type": 5,
+            "characterId": 3,
+            "duty": 5,
+            "rank": 5,
+            "roleTemplateId": 1014,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11014,
+            "upgradeSpeech": {
+                "id": "516"
+            },
+            "skillNormalAttack": 10140100,
+            "skillActive": 10140700,
+            "skillSuper": 10140400,
+            "gradeSkill": [
+                10140701,
+                10140801,
+                10140901,
+                10140702,
+                10140802,
+                10140902,
+                10140703
+            ],
+            "skillTalentExtra": [
+                20010601
+            ],
+            "aiList": [
+                101401
+            ],
+            "element": 2,
+            "weaponType": 7,
+            "weaponDefault": 50007,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1015,
+            "name": {
+                "id": "517"
+            },
+            "enName": "VepleySR",
+            "introduce": {
+                "id": "518"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "VepleySR",
+            "type": 6,
+            "characterId": 5,
+            "duty": 6,
+            "rank": 4,
+            "roleTemplateId": 1015,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11015,
+            "upgradeSpeech": {
+                "id": "519"
+            },
+            "skillNormalAttack": 10150100,
+            "skillActive": 10150700,
+            "skillSuper": 10150400,
+            "gradeSkill": [
+                10150701,
+                10150801,
+                10150901,
+                10150702,
+                10150802,
+                10150902,
+                10150703
+            ],
+            "skillTalentExtra": [
+                20010101
+            ],
+            "aiList": [
+                101501
+            ],
+            "element": 1,
+            "weaponType": 5,
+            "weaponDefault": 50005,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1016,
+            "name": {
+                "id": "520"
+            },
+            "enName": "CharolicR",
+            "introduce": {
+                "id": "521"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "CharolicR",
+            "type": 6,
+            "characterId": 1,
+            "duty": 7,
+            "rank": 3,
+            "roleTemplateId": 1016,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11016,
+            "upgradeSpeech": {
+                "id": "522"
+            },
+            "skillNormalAttack": 10160100,
+            "skillActive": 10160700,
+            "skillSuper": 10160400,
+            "gradeSkill": [
+                10160701,
+                10160801,
+                10160901,
+                10160702,
+                10160802,
+                10161001,
+                10160703
+            ],
+            "skillTalentExtra": [
+                20010402
+            ],
+            "aiList": [
+                101601
+            ],
+            "element": 3,
+            "weaponType": 1,
+            "weaponDefault": 50001,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1017,
+            "name": {
+                "id": "523"
+            },
+            "enName": "GrozaSR",
+            "introduce": {
+                "id": "524"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "GrozaSR",
+            "type": 4,
+            "characterId": 3,
+            "duty": 4,
+            "rank": 4,
+            "roleTemplateId": 1017,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11017,
+            "upgradeSpeech": {
+                "id": "525"
+            },
+            "skillNormalAttack": 10040100,
+            "skillActive": 10040700,
+            "skillSuper": 10040400,
+            "gradeSkill": [
+                10040701,
+                10040701,
+                10040901,
+                10040702,
+                10040802,
+                10040703,
+                10040902
+            ],
+            "skillTalentExtra": [
+                20010501
+            ],
+            "aiList": [
+                100401
+            ],
+            "element": 3,
+            "weaponType": 4,
+            "weaponDefault": 50004,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1019,
+            "name": {
+                "id": "526"
+            },
+            "enName": "PerityaR",
+            "introduce": {
+                "id": "527"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "PerityaR",
+            "type": 5,
+            "characterId": 7,
+            "duty": 5,
+            "rank": 3,
+            "roleTemplateId": 1019,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11019,
+            "upgradeSpeech": {
+                "id": "528"
+            },
+            "skillNormalAttack": 10190100,
+            "skillActive": 10190700,
+            "skillSuper": 10190400,
+            "gradeSkill": [
+                10190701,
+                10190801,
+                10190901,
+                10190702,
+                10190802,
+                10190902,
+                10190703
+            ],
+            "skillTalentExtra": [
+                20010601
+            ],
+            "aiList": [
+                101901
+            ],
+            "element": 2,
+            "weaponType": 7,
+            "weaponDefault": 50007,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1020,
+            "name": {
+                "id": "529"
+            },
+            "enName": "LennaSR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "LennaSR",
+            "type": 2,
+            "characterId": 6,
+            "duty": 2,
+            "rank": 4,
+            "roleTemplateId": 1020,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11020,
+            "upgradeSpeech": {
+                "id": "530"
+            },
+            "skillNormalAttack": 10200100,
+            "skillActive": 10200700,
+            "skillSuper": 10200400,
+            "gradeSkill": [
+                10200701,
+                10200801,
+                10200901,
+                10200702,
+                10200802,
+                10200902,
+                10200703
+            ],
+            "skillTalentExtra": [
+                20010701
+            ],
+            "aiList": [
+                102001
+            ],
+            "element": 5,
+            "weaponType": 6,
+            "weaponDefault": 50006,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1021,
+            "name": {
+                "id": "531"
+            },
+            "enName": "PerityaSR",
+            "introduce": {
+                "id": "532"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "474"
+            },
+            "code": "PerityaSR",
+            "type": 5,
+            "characterId": 7,
+            "duty": 5,
+            "rank": 4,
+            "roleTemplateId": 1021,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11021,
+            "upgradeSpeech": {
+                "id": "533"
+            },
+            "skillNormalAttack": 10210100,
+            "skillActive": 10210700,
+            "skillSuper": 10210400,
+            "gradeSkill": [
+                10210701,
+                10210801,
+                10210901,
+                10211001,
+                10210802,
+                10210902,
+                10211002
+            ],
+            "skillTalentExtra": [
+                20010602
+            ],
+            "aiList": [
+                102101
+            ],
+            "element": 1,
+            "weaponType": 7,
+            "weaponDefault": 50007,
+            "moveCode": 11,
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001
+        },
+        {
+            "id": 1030,
+            "name": {
+                "id": "534"
+            },
+            "enName": "ColphneR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "478"
+            },
+            "code": "CannonDroneR",
+            "type": 5,
+            "characterId": 1,
+            "duty": 8,
+            "rank": 3,
+            "roleTemplateId": 1030,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11030,
+            "upgradeSpeech": {
+                "id": "479"
+            },
+            "skillNormalAttack": 10300100,
+            "skillActive": 10300700,
+            "skillSuper": 10300400,
+            "gradeSkill": [
+                10300701,
+                10300801,
+                10300901,
+                10300702,
+                10301001,
+                10300802,
+                10300703
+            ],
+            "aiList": [
+                103001
+            ],
+            "element": 1,
+            "weaponType": 7,
+            "weaponDefault": 50007,
+            "moveCode": 1,
+            "systemSwitch": 15,
+            "camp": 2001
+        },
+        {
+            "id": 1031,
+            "name": {
+                "id": "535"
+            },
+            "enName": "ColphneR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "478"
+            },
+            "code": "MGDroneR",
+            "type": 5,
+            "characterId": 1,
+            "duty": 8,
+            "rank": 3,
+            "roleTemplateId": 1031,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11031,
+            "upgradeSpeech": {
+                "id": "479"
+            },
+            "skillNormalAttack": 10310100,
+            "skillActive": 10310700,
+            "skillSuper": 10310400,
+            "gradeSkill": [
+                10300701,
+                10310801,
+                10310901,
+                10310702,
+                10310802,
+                10311001,
+                10310703
+            ],
+            "aiList": [
+                103101
+            ],
+            "element": 5,
+            "weaponType": 7,
+            "weaponDefault": 50007,
+            "moveCode": 1,
+            "systemSwitch": 15,
+            "camp": 2001
+        },
+        {
+            "id": 1090,
+            "name": {
+                "id": "536"
+            },
+            "enName": "GrozaR",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "486"
+            },
+            "code": "GrozaR",
+            "type": 4,
+            "characterId": 1,
+            "duty": 4,
+            "rank": 3,
+            "roleTemplateId": 1090,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11004,
+            "upgradeSpeech": {
+                "id": "537"
+            },
+            "skillNormalAttack": 10900100,
+            "skillActive": 10900700,
+            "skillSuper": 10900400,
+            "gradeSkill": [
+                10040701,
+                10900701,
+                10900701,
+                10900701,
+                10900701,
+                10900701,
+                10900701
+            ],
+            "aiList": [
+                100401
+            ],
+            "element": 1,
+            "weaponType": 4,
+            "weaponDefault": 50004,
+            "moveCode": 11,
+            "systemSwitch": 59,
+            "camp": 2001
+        },
+        {
+            "id": 91004,
+            "name": {
+                "id": "538"
+            },
+            "enName": "GrozaSQ1",
+            "introduce": {
+                "id": "473"
+            },
+            "dialogue": {
+                "id": "473"
+            },
+            "extra": {
+                "id": "486"
+            },
+            "code": "GrozaR",
+            "type": 2,
+            "characterId": 3,
+            "duty": 4,
+            "rank": 3,
+            "roleTemplateId": 1004,
+            "equipBarList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "coreItemId": 11004,
+            "upgradeSpeech": {
+                "id": "539"
+            },
+            "skillNormalAttack": 10040100,
+            "skillActive": 10040700,
+            "skillSuper": 10040400,
+            "gradeSkill": [
+                10040701,
+                10040701,
+                10040701,
+                10040701,
+                10040701,
+                10040701,
+                10040701
+            ],
+            "aiList": [
+                100401
+            ],
+            "element": 1,
+            "weaponType": 1,
+            "weaponDefault": 950001,
+            "moveCode": 11,
+            "systemSwitch": 59,
+            "camp": 2001
+        }
+    ]
+}

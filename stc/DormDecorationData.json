@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "相框",
+            "prefabname": "bedroom/common/s_dorm_photoframe/s_dorm_photoframe_01",
+            "favoramout": 10,
+            "itemtype": 2
+        },
+        {
+            "id": 13,
+            "name": "椅子",
+            "prefabname": "bedroom/elementary/contents/s_dorm_bedroom_elementary_chair",
+            "area": 2,
+            "slot": "Slot207",
+            "favoramout": 1,
+            "itemtype": 1,
+            "constructvalue": 1,
+            "slotorder": 7
+        },
+        {
+            "id": 14,
+            "name": "书本",
+            "prefabname": "bedroom/common/s_dorm_book/s_dorm_book04",
+            "area": 2,
+            "slot": "Slot205",
+            "favoramout": 2,
+            "itemtype": 1,
+            "constructvalue": 2,
+            "slotorder": 5
+        },
+        {
+            "id": 15,
+            "name": "笔",
+            "prefabname": "bedroom/common/s_dorm_pen/s_dorm_pen_01",
+            "area": 2,
+            "slot": "Slot206",
+            "favoramout": 3,
+            "itemtype": 1,
+            "constructvalue": 3,
+            "slotorder": 6
+        }
+    ]
+}

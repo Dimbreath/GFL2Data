@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "enchantment": [
+                40011,
+                40061,
+                40111
+            ],
+            "rewardList": {
+                "1": 100
+            },
+            "bossStage": 25401,
+            "bossIcon": "Ravn",
+            "bossElement": 1,
+            "levelList": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "id": 2,
+            "enchantment": [
+                40021,
+                40071,
+                40121
+            ],
+            "rewardList": {
+                "1": 200
+            },
+            "bossStage": 25402,
+            "bossIcon": "Ravn",
+            "bossElement": 2,
+            "levelList": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "id": 3,
+            "enchantment": [
+                40031,
+                40081,
+                40131
+            ],
+            "rewardList": {
+                "1": 300
+            },
+            "bossStage": 25403,
+            "bossIcon": "Ravn",
+            "bossElement": 3,
+            "levelList": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "id": 4,
+            "enchantment": [
+                40041,
+                40091,
+                40141
+            ],
+            "rewardList": {
+                "1": 400
+            },
+            "bossStage": 25404,
+            "bossIcon": "Ravn",
+            "bossElement": 1,
+            "levelList": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "id": 5,
+            "enchantment": [
+                40051,
+                40101,
+                40151
+            ],
+            "rewardList": {
+                "1": 500
+            },
+            "bossStage": 25405,
+            "bossIcon": "Ravn",
+            "bossElement": 2,
+            "levelList": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        }
+    ]
+}

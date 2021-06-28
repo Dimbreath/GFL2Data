@@ -1,0 +1,8518 @@
+{
+    "data": [
+        {
+            "animctrlId": 101,
+            "frames": [
+                "101000"
+            ]
+        },
+        {
+            "animctrlId": 102,
+            "frames": [
+                "102000",
+                "102001",
+                "102002",
+                "102003",
+                "102004",
+                "102005",
+                "102006",
+                "102007",
+                "102008",
+                "102009"
+            ]
+        },
+        {
+            "animctrlId": 103,
+            "frames": [
+                "103000",
+                "103001",
+                "103002"
+            ]
+        },
+        {
+            "animctrlId": 104,
+            "frames": [
+                "104000"
+            ]
+        },
+        {
+            "animctrlId": 105,
+            "frames": [
+                "105000",
+                "105001"
+            ]
+        },
+        {
+            "animctrlId": 106,
+            "frames": [
+                "106000",
+                "106001",
+                "106002"
+            ]
+        },
+        {
+            "animctrlId": 1001,
+            "frames": [
+                "1001000"
+            ]
+        },
+        {
+            "animctrlId": 1002,
+            "frames": [
+                "1002000"
+            ]
+        },
+        {
+            "animctrlId": 1003,
+            "frames": [
+                "1003000"
+            ]
+        },
+        {
+            "animctrlId": 1004,
+            "frames": [
+                "1004000"
+            ]
+        },
+        {
+            "animctrlId": 1005,
+            "frames": [
+                "1005000"
+            ]
+        },
+        {
+            "animctrlId": 1006,
+            "frames": [
+                "1006000"
+            ]
+        },
+        {
+            "animctrlId": 1007,
+            "frames": [
+                "1007000"
+            ]
+        },
+        {
+            "animctrlId": 9801,
+            "frames": [
+                "9801000"
+            ]
+        },
+        {
+            "animctrlId": 9901,
+            "frames": [
+                "9901000"
+            ]
+        },
+        {
+            "animctrlId": 9902,
+            "frames": [
+                "9902000"
+            ]
+        },
+        {
+            "animctrlId": 10001,
+            "frames": [
+                "10001000"
+            ]
+        },
+        {
+            "animctrlId": 15003,
+            "frames": [
+                "15003000"
+            ]
+        },
+        {
+            "animctrlId": 15004,
+            "frames": [
+                "15004000"
+            ]
+        },
+        {
+            "animctrlId": 20007,
+            "frames": [
+                "20007000"
+            ]
+        },
+        {
+            "animctrlId": 20008,
+            "frames": [
+                "20008000"
+            ]
+        },
+        {
+            "animctrlId": 20009,
+            "frames": [
+                "20009000"
+            ]
+        },
+        {
+            "animctrlId": 20010,
+            "frames": [
+                "20010000"
+            ]
+        },
+        {
+            "animctrlId": 20011,
+            "frames": [
+                "20011000"
+            ]
+        },
+        {
+            "animctrlId": 20012,
+            "frames": [
+                "20012000"
+            ]
+        },
+        {
+            "animctrlId": 20013,
+            "frames": [
+                "20013000"
+            ]
+        },
+        {
+            "animctrlId": 20014,
+            "frames": [
+                "20014000"
+            ]
+        },
+        {
+            "animctrlId": 21009,
+            "frames": [
+                "21009000"
+            ]
+        },
+        {
+            "animctrlId": 21011,
+            "frames": [
+                "21011000"
+            ]
+        },
+        {
+            "animctrlId": 21012,
+            "frames": [
+                "21012000"
+            ]
+        },
+        {
+            "animctrlId": 22012,
+            "frames": [
+                "22012000"
+            ]
+        },
+        {
+            "animctrlId": 30000,
+            "frames": [
+                "30000000"
+            ]
+        },
+        {
+            "animctrlId": 30001,
+            "frames": [
+                "30001000"
+            ]
+        },
+        {
+            "animctrlId": 30011,
+            "frames": [
+                "30011000"
+            ]
+        },
+        {
+            "animctrlId": 30012,
+            "frames": [
+                "30012000"
+            ]
+        },
+        {
+            "animctrlId": 30013,
+            "frames": [
+                "30013000"
+            ]
+        },
+        {
+            "animctrlId": 30021,
+            "frames": [
+                "30021000"
+            ]
+        },
+        {
+            "animctrlId": 30022,
+            "frames": [
+                "30022000"
+            ]
+        },
+        {
+            "animctrlId": 30023,
+            "frames": [
+                "30023000"
+            ]
+        },
+        {
+            "animctrlId": 30031,
+            "frames": [
+                "30031000"
+            ]
+        },
+        {
+            "animctrlId": 30032,
+            "frames": [
+                "30032000"
+            ]
+        },
+        {
+            "animctrlId": 30033,
+            "frames": [
+                "30033000"
+            ]
+        },
+        {
+            "animctrlId": 30041,
+            "frames": [
+                "30041000"
+            ]
+        },
+        {
+            "animctrlId": 30042,
+            "frames": [
+                "30042000"
+            ]
+        },
+        {
+            "animctrlId": 30043,
+            "frames": [
+                "30043000"
+            ]
+        },
+        {
+            "animctrlId": 30051,
+            "frames": [
+                "30051000"
+            ]
+        },
+        {
+            "animctrlId": 30052,
+            "frames": [
+                "30052000"
+            ]
+        },
+        {
+            "animctrlId": 30053,
+            "frames": [
+                "30053000"
+            ]
+        },
+        {
+            "animctrlId": 30061,
+            "frames": [
+                "30061000"
+            ]
+        },
+        {
+            "animctrlId": 30062,
+            "frames": [
+                "30062000"
+            ]
+        },
+        {
+            "animctrlId": 30063,
+            "frames": [
+                "30063000"
+            ]
+        },
+        {
+            "animctrlId": 30071,
+            "frames": [
+                "30071000"
+            ]
+        },
+        {
+            "animctrlId": 30072,
+            "frames": [
+                "30072000"
+            ]
+        },
+        {
+            "animctrlId": 30073,
+            "frames": [
+                "30073000"
+            ]
+        },
+        {
+            "animctrlId": 30081,
+            "frames": [
+                "30081000"
+            ]
+        },
+        {
+            "animctrlId": 30082,
+            "frames": [
+                "30082000"
+            ]
+        },
+        {
+            "animctrlId": 30083,
+            "frames": [
+                "30083000"
+            ]
+        },
+        {
+            "animctrlId": 30091,
+            "frames": [
+                "30091000"
+            ]
+        },
+        {
+            "animctrlId": 30092,
+            "frames": [
+                "30092000"
+            ]
+        },
+        {
+            "animctrlId": 30093,
+            "frames": [
+                "30093000"
+            ]
+        },
+        {
+            "animctrlId": 30101,
+            "frames": [
+                "30101000"
+            ]
+        },
+        {
+            "animctrlId": 30102,
+            "frames": [
+                "30102000"
+            ]
+        },
+        {
+            "animctrlId": 30103,
+            "frames": [
+                "30103000"
+            ]
+        },
+        {
+            "animctrlId": 30111,
+            "frames": [
+                "30111000"
+            ]
+        },
+        {
+            "animctrlId": 30112,
+            "frames": [
+                "30112000"
+            ]
+        },
+        {
+            "animctrlId": 30113,
+            "frames": [
+                "30113000"
+            ]
+        },
+        {
+            "animctrlId": 30121,
+            "frames": [
+                "30121000"
+            ]
+        },
+        {
+            "animctrlId": 30122,
+            "frames": [
+                "30122000"
+            ]
+        },
+        {
+            "animctrlId": 30123,
+            "frames": [
+                "30123000"
+            ]
+        },
+        {
+            "animctrlId": 30131,
+            "frames": [
+                "30131000"
+            ]
+        },
+        {
+            "animctrlId": 30132,
+            "frames": [
+                "30132000"
+            ]
+        },
+        {
+            "animctrlId": 30133,
+            "frames": [
+                "30133000"
+            ]
+        },
+        {
+            "animctrlId": 30141,
+            "frames": [
+                "30141000"
+            ]
+        },
+        {
+            "animctrlId": 30142,
+            "frames": [
+                "30142000"
+            ]
+        },
+        {
+            "animctrlId": 30143,
+            "frames": [
+                "30143000"
+            ]
+        },
+        {
+            "animctrlId": 30151,
+            "frames": [
+                "30151000"
+            ]
+        },
+        {
+            "animctrlId": 30152,
+            "frames": [
+                "30152000"
+            ]
+        },
+        {
+            "animctrlId": 30153,
+            "frames": [
+                "30153000"
+            ]
+        },
+        {
+            "animctrlId": 30161,
+            "frames": [
+                "30161000"
+            ]
+        },
+        {
+            "animctrlId": 30162,
+            "frames": [
+                "30162000"
+            ]
+        },
+        {
+            "animctrlId": 30163,
+            "frames": [
+                "30163000"
+            ]
+        },
+        {
+            "animctrlId": 30171,
+            "frames": [
+                "30171000"
+            ]
+        },
+        {
+            "animctrlId": 30172,
+            "frames": [
+                "30172000"
+            ]
+        },
+        {
+            "animctrlId": 30173,
+            "frames": [
+                "30173000"
+            ]
+        },
+        {
+            "animctrlId": 30181,
+            "frames": [
+                "30181000"
+            ]
+        },
+        {
+            "animctrlId": 30182,
+            "frames": [
+                "30182000"
+            ]
+        },
+        {
+            "animctrlId": 30183,
+            "frames": [
+                "30183000"
+            ]
+        },
+        {
+            "animctrlId": 30191,
+            "frames": [
+                "30191000"
+            ]
+        },
+        {
+            "animctrlId": 30192,
+            "frames": [
+                "30192000"
+            ]
+        },
+        {
+            "animctrlId": 30193,
+            "frames": [
+                "30193000"
+            ]
+        },
+        {
+            "animctrlId": 30201,
+            "frames": [
+                "30201000"
+            ]
+        },
+        {
+            "animctrlId": 30202,
+            "frames": [
+                "30202000"
+            ]
+        },
+        {
+            "animctrlId": 30203,
+            "frames": [
+                "30203000"
+            ]
+        },
+        {
+            "animctrlId": 30211,
+            "frames": [
+                "30211000"
+            ]
+        },
+        {
+            "animctrlId": 30212,
+            "frames": [
+                "30212000"
+            ]
+        },
+        {
+            "animctrlId": 30213,
+            "frames": [
+                "30213000"
+            ]
+        },
+        {
+            "animctrlId": 30221,
+            "frames": [
+                "30221000"
+            ]
+        },
+        {
+            "animctrlId": 30222,
+            "frames": [
+                "30222000"
+            ]
+        },
+        {
+            "animctrlId": 30223,
+            "frames": [
+                "30223000"
+            ]
+        },
+        {
+            "animctrlId": 30231,
+            "frames": [
+                "30231000"
+            ]
+        },
+        {
+            "animctrlId": 30232,
+            "frames": [
+                "30232000"
+            ]
+        },
+        {
+            "animctrlId": 30233,
+            "frames": [
+                "30233000"
+            ]
+        },
+        {
+            "animctrlId": 30241,
+            "frames": [
+                "30241000"
+            ]
+        },
+        {
+            "animctrlId": 30242,
+            "frames": [
+                "30242000"
+            ]
+        },
+        {
+            "animctrlId": 30243,
+            "frames": [
+                "30243000"
+            ]
+        },
+        {
+            "animctrlId": 30251,
+            "frames": [
+                "30251000"
+            ]
+        },
+        {
+            "animctrlId": 30252,
+            "frames": [
+                "30252000"
+            ]
+        },
+        {
+            "animctrlId": 30253,
+            "frames": [
+                "30253000"
+            ]
+        },
+        {
+            "animctrlId": 30261,
+            "frames": [
+                "30261000"
+            ]
+        },
+        {
+            "animctrlId": 30262,
+            "frames": [
+                "30262000"
+            ]
+        },
+        {
+            "animctrlId": 30263,
+            "frames": [
+                "30263000"
+            ]
+        },
+        {
+            "animctrlId": 30271,
+            "frames": [
+                "30271000"
+            ]
+        },
+        {
+            "animctrlId": 30272,
+            "frames": [
+                "30272000"
+            ]
+        },
+        {
+            "animctrlId": 30273,
+            "frames": [
+                "30273000"
+            ]
+        },
+        {
+            "animctrlId": 30281,
+            "frames": [
+                "30281000"
+            ]
+        },
+        {
+            "animctrlId": 30282,
+            "frames": [
+                "30282000"
+            ]
+        },
+        {
+            "animctrlId": 30283,
+            "frames": [
+                "30283000"
+            ]
+        },
+        {
+            "animctrlId": 30291,
+            "frames": [
+                "30291000"
+            ]
+        },
+        {
+            "animctrlId": 30292,
+            "frames": [
+                "30292000"
+            ]
+        },
+        {
+            "animctrlId": 30293,
+            "frames": [
+                "30293000"
+            ]
+        },
+        {
+            "animctrlId": 30301,
+            "frames": [
+                "30301000"
+            ]
+        },
+        {
+            "animctrlId": 30302,
+            "frames": [
+                "30302000"
+            ]
+        },
+        {
+            "animctrlId": 30303,
+            "frames": [
+                "30303000"
+            ]
+        },
+        {
+            "animctrlId": 30311,
+            "frames": [
+                "30311000"
+            ]
+        },
+        {
+            "animctrlId": 30312,
+            "frames": [
+                "30312000"
+            ]
+        },
+        {
+            "animctrlId": 30313,
+            "frames": [
+                "30313000"
+            ]
+        },
+        {
+            "animctrlId": 31011,
+            "frames": [
+                "31011000"
+            ]
+        },
+        {
+            "animctrlId": 31012,
+            "frames": [
+                "31012000"
+            ]
+        },
+        {
+            "animctrlId": 31013,
+            "frames": [
+                "31013000"
+            ]
+        },
+        {
+            "animctrlId": 31021,
+            "frames": [
+                "31021000"
+            ]
+        },
+        {
+            "animctrlId": 31022,
+            "frames": [
+                "31022000"
+            ]
+        },
+        {
+            "animctrlId": 31023,
+            "frames": [
+                "31023000"
+            ]
+        },
+        {
+            "animctrlId": 31031,
+            "frames": [
+                "31031000"
+            ]
+        },
+        {
+            "animctrlId": 31032,
+            "frames": [
+                "31032000"
+            ]
+        },
+        {
+            "animctrlId": 31033,
+            "frames": [
+                "31033000"
+            ]
+        },
+        {
+            "animctrlId": 31041,
+            "frames": [
+                "31041000"
+            ]
+        },
+        {
+            "animctrlId": 31042,
+            "frames": [
+                "31042000"
+            ]
+        },
+        {
+            "animctrlId": 31043,
+            "frames": [
+                "31043000"
+            ]
+        },
+        {
+            "animctrlId": 31051,
+            "frames": [
+                "31051000"
+            ]
+        },
+        {
+            "animctrlId": 31052,
+            "frames": [
+                "31052000"
+            ]
+        },
+        {
+            "animctrlId": 31053,
+            "frames": [
+                "31053000"
+            ]
+        },
+        {
+            "animctrlId": 31061,
+            "frames": [
+                "31061000"
+            ]
+        },
+        {
+            "animctrlId": 31062,
+            "frames": [
+                "31062000"
+            ]
+        },
+        {
+            "animctrlId": 31063,
+            "frames": [
+                "31063000"
+            ]
+        },
+        {
+            "animctrlId": 31071,
+            "frames": [
+                "31071000"
+            ]
+        },
+        {
+            "animctrlId": 31072,
+            "frames": [
+                "31072000"
+            ]
+        },
+        {
+            "animctrlId": 31073,
+            "frames": [
+                "31073000"
+            ]
+        },
+        {
+            "animctrlId": 31081,
+            "frames": [
+                "31081000"
+            ]
+        },
+        {
+            "animctrlId": 31082,
+            "frames": [
+                "31082000"
+            ]
+        },
+        {
+            "animctrlId": 31083,
+            "frames": [
+                "31083000"
+            ]
+        },
+        {
+            "animctrlId": 31091,
+            "frames": [
+                "31091000"
+            ]
+        },
+        {
+            "animctrlId": 31092,
+            "frames": [
+                "31092000"
+            ]
+        },
+        {
+            "animctrlId": 31093,
+            "frames": [
+                "31093000"
+            ]
+        },
+        {
+            "animctrlId": 31101,
+            "frames": [
+                "31101000"
+            ]
+        },
+        {
+            "animctrlId": 31102,
+            "frames": [
+                "31102000"
+            ]
+        },
+        {
+            "animctrlId": 31103,
+            "frames": [
+                "31103000"
+            ]
+        },
+        {
+            "animctrlId": 31121,
+            "frames": [
+                "31121000"
+            ]
+        },
+        {
+            "animctrlId": 31122,
+            "frames": [
+                "31122000"
+            ]
+        },
+        {
+            "animctrlId": 31123,
+            "frames": [
+                "31123000"
+            ]
+        },
+        {
+            "animctrlId": 31151,
+            "frames": [
+                "31151000"
+            ]
+        },
+        {
+            "animctrlId": 31152,
+            "frames": [
+                "31152000"
+            ]
+        },
+        {
+            "animctrlId": 31153,
+            "frames": [
+                "31153000"
+            ]
+        },
+        {
+            "animctrlId": 31161,
+            "frames": [
+                "31161000"
+            ]
+        },
+        {
+            "animctrlId": 31162,
+            "frames": [
+                "31162000"
+            ]
+        },
+        {
+            "animctrlId": 31163,
+            "frames": [
+                "31163000"
+            ]
+        },
+        {
+            "animctrlId": 31181,
+            "frames": [
+                "31181000"
+            ]
+        },
+        {
+            "animctrlId": 31182,
+            "frames": [
+                "31182000"
+            ]
+        },
+        {
+            "animctrlId": 31183,
+            "frames": [
+                "31183000"
+            ]
+        },
+        {
+            "animctrlId": 31191,
+            "frames": [
+                "31191000"
+            ]
+        },
+        {
+            "animctrlId": 31192,
+            "frames": [
+                "31192000"
+            ]
+        },
+        {
+            "animctrlId": 31193,
+            "frames": [
+                "31193000"
+            ]
+        },
+        {
+            "animctrlId": 31201,
+            "frames": [
+                "31201000"
+            ]
+        },
+        {
+            "animctrlId": 31202,
+            "frames": [
+                "31202000"
+            ]
+        },
+        {
+            "animctrlId": 31203,
+            "frames": [
+                "31203000"
+            ]
+        },
+        {
+            "animctrlId": 31211,
+            "frames": [
+                "31211000"
+            ]
+        },
+        {
+            "animctrlId": 31212,
+            "frames": [
+                "31212000"
+            ]
+        },
+        {
+            "animctrlId": 31213,
+            "frames": [
+                "31213000"
+            ]
+        },
+        {
+            "animctrlId": 31241,
+            "frames": [
+                "31241000"
+            ]
+        },
+        {
+            "animctrlId": 31242,
+            "frames": [
+                "31242000"
+            ]
+        },
+        {
+            "animctrlId": 31243,
+            "frames": [
+                "31243000"
+            ]
+        },
+        {
+            "animctrlId": 31251,
+            "frames": [
+                "31251000"
+            ]
+        },
+        {
+            "animctrlId": 31252,
+            "frames": [
+                "31252000"
+            ]
+        },
+        {
+            "animctrlId": 31253,
+            "frames": [
+                "31253000"
+            ]
+        },
+        {
+            "animctrlId": 31261,
+            "frames": [
+                "31261000"
+            ]
+        },
+        {
+            "animctrlId": 31262,
+            "frames": [
+                "31262000"
+            ]
+        },
+        {
+            "animctrlId": 31263,
+            "frames": [
+                "31263000"
+            ]
+        },
+        {
+            "animctrlId": 31271,
+            "frames": [
+                "31271000"
+            ]
+        },
+        {
+            "animctrlId": 31272,
+            "frames": [
+                "31272000"
+            ]
+        },
+        {
+            "animctrlId": 31273,
+            "frames": [
+                "31273000"
+            ]
+        },
+        {
+            "animctrlId": 31281,
+            "frames": [
+                "31281000"
+            ]
+        },
+        {
+            "animctrlId": 31282,
+            "frames": [
+                "31282000"
+            ]
+        },
+        {
+            "animctrlId": 31283,
+            "frames": [
+                "31283000"
+            ]
+        },
+        {
+            "animctrlId": 31291,
+            "frames": [
+                "31291000"
+            ]
+        },
+        {
+            "animctrlId": 31292,
+            "frames": [
+                "31292000"
+            ]
+        },
+        {
+            "animctrlId": 31293,
+            "frames": [
+                "31293000"
+            ]
+        },
+        {
+            "animctrlId": 31301,
+            "frames": [
+                "31301000"
+            ]
+        },
+        {
+            "animctrlId": 31302,
+            "frames": [
+                "31302000"
+            ]
+        },
+        {
+            "animctrlId": 31303,
+            "frames": [
+                "31303000"
+            ]
+        },
+        {
+            "animctrlId": 32271,
+            "frames": [
+                "32271000"
+            ]
+        },
+        {
+            "animctrlId": 32272,
+            "frames": [
+                "32272000"
+            ]
+        },
+        {
+            "animctrlId": 32273,
+            "frames": [
+                "32273000"
+            ]
+        },
+        {
+            "animctrlId": 39998,
+            "frames": [
+                "39998000"
+            ]
+        },
+        {
+            "animctrlId": 39999
+        },
+        {
+            "animctrlId": 40011,
+            "frames": [
+                "40011000"
+            ]
+        },
+        {
+            "animctrlId": 40021,
+            "frames": [
+                "40021000"
+            ]
+        },
+        {
+            "animctrlId": 40031,
+            "frames": [
+                "40031000"
+            ]
+        },
+        {
+            "animctrlId": 40032,
+            "frames": [
+                "40032000"
+            ]
+        },
+        {
+            "animctrlId": 40041,
+            "frames": [
+                "40041000"
+            ]
+        },
+        {
+            "animctrlId": 40042,
+            "frames": [
+                "40042000"
+            ]
+        },
+        {
+            "animctrlId": 40051,
+            "frames": [
+                "40051000"
+            ]
+        },
+        {
+            "animctrlId": 40052,
+            "frames": [
+                "40052000"
+            ]
+        },
+        {
+            "animctrlId": 40061,
+            "frames": [
+                "40061000"
+            ]
+        },
+        {
+            "animctrlId": 40071,
+            "frames": [
+                "40071000"
+            ]
+        },
+        {
+            "animctrlId": 40072,
+            "frames": [
+                "40072000"
+            ]
+        },
+        {
+            "animctrlId": 40081,
+            "frames": [
+                "40081000"
+            ]
+        },
+        {
+            "animctrlId": 40082,
+            "frames": [
+                "40082000"
+            ]
+        },
+        {
+            "animctrlId": 40091,
+            "frames": [
+                "40091000"
+            ]
+        },
+        {
+            "animctrlId": 40092,
+            "frames": [
+                "40092000"
+            ]
+        },
+        {
+            "animctrlId": 40101,
+            "frames": [
+                "40101000"
+            ]
+        },
+        {
+            "animctrlId": 40102,
+            "frames": [
+                "40102000"
+            ]
+        },
+        {
+            "animctrlId": 40111,
+            "frames": [
+                "40111000"
+            ]
+        },
+        {
+            "animctrlId": 40121,
+            "frames": [
+                "40121000"
+            ]
+        },
+        {
+            "animctrlId": 40130,
+            "frames": [
+                "40130000"
+            ]
+        },
+        {
+            "animctrlId": 40131,
+            "frames": [
+                "40131000"
+            ]
+        },
+        {
+            "animctrlId": 40132,
+            "frames": [
+                "40132000"
+            ]
+        },
+        {
+            "animctrlId": 40133,
+            "frames": [
+                "40133000"
+            ]
+        },
+        {
+            "animctrlId": 40141,
+            "frames": [
+                "40141000"
+            ]
+        },
+        {
+            "animctrlId": 40151,
+            "frames": [
+                "40151000"
+            ]
+        },
+        {
+            "animctrlId": 40152,
+            "frames": [
+                "40152000"
+            ]
+        },
+        {
+            "animctrlId": 50101,
+            "frames": [
+                "50101000"
+            ]
+        },
+        {
+            "animctrlId": 50201,
+            "frames": [
+                "50201000"
+            ]
+        },
+        {
+            "animctrlId": 50301,
+            "frames": [
+                "50301000"
+            ]
+        },
+        {
+            "animctrlId": 50302,
+            "frames": [
+                "50302000"
+            ]
+        },
+        {
+            "animctrlId": 50303,
+            "frames": [
+                "50303000"
+            ]
+        },
+        {
+            "animctrlId": 50601,
+            "frames": [
+                "50601000"
+            ]
+        },
+        {
+            "animctrlId": 50701,
+            "frames": [
+                "50701000"
+            ]
+        },
+        {
+            "animctrlId": 50801,
+            "frames": [
+                "50801000"
+            ]
+        },
+        {
+            "animctrlId": 90000,
+            "frames": [
+                "90000000"
+            ]
+        },
+        {
+            "animctrlId": 90001,
+            "frames": [
+                "90001000"
+            ]
+        },
+        {
+            "animctrlId": 90009,
+            "frames": [
+                "90009000"
+            ]
+        },
+        {
+            "animctrlId": 920012,
+            "frames": [
+                "920012000"
+            ]
+        },
+        {
+            "animctrlId": 5100101,
+            "frames": [
+                "5100101000"
+            ]
+        },
+        {
+            "animctrlId": 5100102,
+            "frames": [
+                "5100102000"
+            ]
+        },
+        {
+            "animctrlId": 5100103,
+            "frames": [
+                "5100103000"
+            ]
+        },
+        {
+            "animctrlId": 5100104,
+            "frames": [
+                "5100104000"
+            ]
+        },
+        {
+            "animctrlId": 5100105,
+            "frames": [
+                "5100105000"
+            ]
+        },
+        {
+            "animctrlId": 5100106,
+            "frames": [
+                "5100106000"
+            ]
+        },
+        {
+            "animctrlId": 5100111,
+            "frames": [
+                "5100111000"
+            ]
+        },
+        {
+            "animctrlId": 5100201,
+            "frames": [
+                "5100201000"
+            ]
+        },
+        {
+            "animctrlId": 5100202,
+            "frames": [
+                "5100202000"
+            ]
+        },
+        {
+            "animctrlId": 5100203,
+            "frames": [
+                "5100203000"
+            ]
+        },
+        {
+            "animctrlId": 5100204,
+            "frames": [
+                "5100204000"
+            ]
+        },
+        {
+            "animctrlId": 5100205,
+            "frames": [
+                "5100205000"
+            ]
+        },
+        {
+            "animctrlId": 5100206,
+            "frames": [
+                "5100206000"
+            ]
+        },
+        {
+            "animctrlId": 5100211,
+            "frames": [
+                "5100211000"
+            ]
+        },
+        {
+            "animctrlId": 5100301,
+            "frames": [
+                "5100301000"
+            ]
+        },
+        {
+            "animctrlId": 5100302,
+            "frames": [
+                "5100302000"
+            ]
+        },
+        {
+            "animctrlId": 5100303,
+            "frames": [
+                "5100303000"
+            ]
+        },
+        {
+            "animctrlId": 5100304,
+            "frames": [
+                "5100304000"
+            ]
+        },
+        {
+            "animctrlId": 5100305,
+            "frames": [
+                "5100305000"
+            ]
+        },
+        {
+            "animctrlId": 5100306,
+            "frames": [
+                "5100306000"
+            ]
+        },
+        {
+            "animctrlId": 5100401,
+            "frames": [
+                "5100401000"
+            ]
+        },
+        {
+            "animctrlId": 5100402,
+            "frames": [
+                "5100402000"
+            ]
+        },
+        {
+            "animctrlId": 5100403,
+            "frames": [
+                "5100403000"
+            ]
+        },
+        {
+            "animctrlId": 5100404,
+            "frames": [
+                "5100404000"
+            ]
+        },
+        {
+            "animctrlId": 5100405,
+            "frames": [
+                "5100405000"
+            ]
+        },
+        {
+            "animctrlId": 5100406,
+            "frames": [
+                "5100406000"
+            ]
+        },
+        {
+            "animctrlId": 5100501,
+            "frames": [
+                "5100501000"
+            ]
+        },
+        {
+            "animctrlId": 5100502,
+            "frames": [
+                "5100502000"
+            ]
+        },
+        {
+            "animctrlId": 5100503,
+            "frames": [
+                "5100503000"
+            ]
+        },
+        {
+            "animctrlId": 5100504,
+            "frames": [
+                "5100504000"
+            ]
+        },
+        {
+            "animctrlId": 5100505,
+            "frames": [
+                "5100505000"
+            ]
+        },
+        {
+            "animctrlId": 5100506,
+            "frames": [
+                "5100506000"
+            ]
+        },
+        {
+            "animctrlId": 5100511,
+            "frames": [
+                "5100511000"
+            ]
+        },
+        {
+            "animctrlId": 5100512,
+            "frames": [
+                "5100512000"
+            ]
+        },
+        {
+            "animctrlId": 5100513,
+            "frames": [
+                "5100513000"
+            ]
+        },
+        {
+            "animctrlId": 5100514,
+            "frames": [
+                "5100514000"
+            ]
+        },
+        {
+            "animctrlId": 5100515,
+            "frames": [
+                "5100515000"
+            ]
+        },
+        {
+            "animctrlId": 5100516,
+            "frames": [
+                "5100516000"
+            ]
+        },
+        {
+            "animctrlId": 5100601,
+            "frames": [
+                "5100601000"
+            ]
+        },
+        {
+            "animctrlId": 5100602,
+            "frames": [
+                "5100602000"
+            ]
+        },
+        {
+            "animctrlId": 5100603,
+            "frames": [
+                "5100603000"
+            ]
+        },
+        {
+            "animctrlId": 5100604,
+            "frames": [
+                "5100604000"
+            ]
+        },
+        {
+            "animctrlId": 5100605,
+            "frames": [
+                "5100605000"
+            ]
+        },
+        {
+            "animctrlId": 5100606,
+            "frames": [
+                "5100606000"
+            ]
+        },
+        {
+            "animctrlId": 5100611,
+            "frames": [
+                "5100611000"
+            ]
+        },
+        {
+            "animctrlId": 5100612,
+            "frames": [
+                "5100612000"
+            ]
+        },
+        {
+            "animctrlId": 5100613,
+            "frames": [
+                "5100613000"
+            ]
+        },
+        {
+            "animctrlId": 5100614,
+            "frames": [
+                "5100614000"
+            ]
+        },
+        {
+            "animctrlId": 5100615,
+            "frames": [
+                "5100615000"
+            ]
+        },
+        {
+            "animctrlId": 5100616,
+            "frames": [
+                "5100616000"
+            ]
+        },
+        {
+            "animctrlId": 5100701,
+            "frames": [
+                "5100701000"
+            ]
+        },
+        {
+            "animctrlId": 5100702,
+            "frames": [
+                "5100702000"
+            ]
+        },
+        {
+            "animctrlId": 5100703,
+            "frames": [
+                "5100703000"
+            ]
+        },
+        {
+            "animctrlId": 5100704,
+            "frames": [
+                "5100704000"
+            ]
+        },
+        {
+            "animctrlId": 5100705,
+            "frames": [
+                "5100705000"
+            ]
+        },
+        {
+            "animctrlId": 5100706,
+            "frames": [
+                "5100706000"
+            ]
+        },
+        {
+            "animctrlId": 5100711,
+            "frames": [
+                "5100711000"
+            ]
+        },
+        {
+            "animctrlId": 5100712,
+            "frames": [
+                "5100712000"
+            ]
+        },
+        {
+            "animctrlId": 5100713,
+            "frames": [
+                "5100713000"
+            ]
+        },
+        {
+            "animctrlId": 5100714,
+            "frames": [
+                "5100714000"
+            ]
+        },
+        {
+            "animctrlId": 5100715,
+            "frames": [
+                "5100715000"
+            ]
+        },
+        {
+            "animctrlId": 5100716,
+            "frames": [
+                "5100716000"
+            ]
+        },
+        {
+            "animctrlId": 5100721,
+            "frames": [
+                "5100721000"
+            ]
+        },
+        {
+            "animctrlId": 5100722,
+            "frames": [
+                "5100722000"
+            ]
+        },
+        {
+            "animctrlId": 5100723,
+            "frames": [
+                "5100723000"
+            ]
+        },
+        {
+            "animctrlId": 5100724,
+            "frames": [
+                "5100724000"
+            ]
+        },
+        {
+            "animctrlId": 5100725,
+            "frames": [
+                "5100725000"
+            ]
+        },
+        {
+            "animctrlId": 5100726,
+            "frames": [
+                "5100726000"
+            ]
+        },
+        {
+            "animctrlId": 5100801,
+            "frames": [
+                "5100801000"
+            ]
+        },
+        {
+            "animctrlId": 5100802,
+            "frames": [
+                "5100802000"
+            ]
+        },
+        {
+            "animctrlId": 5100803,
+            "frames": [
+                "5100803000"
+            ]
+        },
+        {
+            "animctrlId": 5100804,
+            "frames": [
+                "5100804000"
+            ]
+        },
+        {
+            "animctrlId": 5100805,
+            "frames": [
+                "5100805000"
+            ]
+        },
+        {
+            "animctrlId": 5100806,
+            "frames": [
+                "5100806000"
+            ]
+        },
+        {
+            "animctrlId": 5100811,
+            "frames": [
+                "5100811000"
+            ]
+        },
+        {
+            "animctrlId": 5100812,
+            "frames": [
+                "5100812000"
+            ]
+        },
+        {
+            "animctrlId": 5100813,
+            "frames": [
+                "5100813000"
+            ]
+        },
+        {
+            "animctrlId": 5100814,
+            "frames": [
+                "5100814000"
+            ]
+        },
+        {
+            "animctrlId": 5100815,
+            "frames": [
+                "5100815000"
+            ]
+        },
+        {
+            "animctrlId": 5100816,
+            "frames": [
+                "5100816000"
+            ]
+        },
+        {
+            "animctrlId": 5100901,
+            "frames": [
+                "5100901000"
+            ]
+        },
+        {
+            "animctrlId": 5100902,
+            "frames": [
+                "5100902000"
+            ]
+        },
+        {
+            "animctrlId": 5100903,
+            "frames": [
+                "5100903000"
+            ]
+        },
+        {
+            "animctrlId": 5100904,
+            "frames": [
+                "5100904000"
+            ]
+        },
+        {
+            "animctrlId": 5100905,
+            "frames": [
+                "5100905000"
+            ]
+        },
+        {
+            "animctrlId": 5100906,
+            "frames": [
+                "5100906000"
+            ]
+        },
+        {
+            "animctrlId": 5100911,
+            "frames": [
+                "5100911000"
+            ]
+        },
+        {
+            "animctrlId": 5101001,
+            "frames": [
+                "5101001000"
+            ]
+        },
+        {
+            "animctrlId": 5101002,
+            "frames": [
+                "5101002000"
+            ]
+        },
+        {
+            "animctrlId": 5101003,
+            "frames": [
+                "5101003000"
+            ]
+        },
+        {
+            "animctrlId": 5101004,
+            "frames": [
+                "5101004000"
+            ]
+        },
+        {
+            "animctrlId": 5101005,
+            "frames": [
+                "5101005000"
+            ]
+        },
+        {
+            "animctrlId": 5101006,
+            "frames": [
+                "5101006000"
+            ]
+        },
+        {
+            "animctrlId": 5101011,
+            "frames": [
+                "5101011000"
+            ]
+        },
+        {
+            "animctrlId": 5101021,
+            "frames": [
+                "5101021000"
+            ]
+        },
+        {
+            "animctrlId": 5101022,
+            "frames": [
+                "5101022000"
+            ]
+        },
+        {
+            "animctrlId": 5101023,
+            "frames": [
+                "5101023000"
+            ]
+        },
+        {
+            "animctrlId": 5101024,
+            "frames": [
+                "5101024000"
+            ]
+        },
+        {
+            "animctrlId": 5101025,
+            "frames": [
+                "5101025000"
+            ]
+        },
+        {
+            "animctrlId": 5101026,
+            "frames": [
+                "5101026000"
+            ]
+        },
+        {
+            "animctrlId": 5101101,
+            "frames": [
+                "5101101000"
+            ]
+        },
+        {
+            "animctrlId": 5101102,
+            "frames": [
+                "5101102000"
+            ]
+        },
+        {
+            "animctrlId": 5101103,
+            "frames": [
+                "5101103000"
+            ]
+        },
+        {
+            "animctrlId": 5101104,
+            "frames": [
+                "5101104000"
+            ]
+        },
+        {
+            "animctrlId": 5101105,
+            "frames": [
+                "5101105000"
+            ]
+        },
+        {
+            "animctrlId": 5101106,
+            "frames": [
+                "5101106000"
+            ]
+        },
+        {
+            "animctrlId": 5101111,
+            "frames": [
+                "5101111000"
+            ]
+        },
+        {
+            "animctrlId": 5101112,
+            "frames": [
+                "5101112000"
+            ]
+        },
+        {
+            "animctrlId": 5101113,
+            "frames": [
+                "5101113000"
+            ]
+        },
+        {
+            "animctrlId": 5101114,
+            "frames": [
+                "5101114000"
+            ]
+        },
+        {
+            "animctrlId": 5101115,
+            "frames": [
+                "5101115000"
+            ]
+        },
+        {
+            "animctrlId": 5101116,
+            "frames": [
+                "5101116000"
+            ]
+        },
+        {
+            "animctrlId": 5101131,
+            "frames": [
+                "5101131000"
+            ]
+        },
+        {
+            "animctrlId": 5101132,
+            "frames": [
+                "5101132000"
+            ]
+        },
+        {
+            "animctrlId": 5101133,
+            "frames": [
+                "5101133000"
+            ]
+        },
+        {
+            "animctrlId": 5101134,
+            "frames": [
+                "5101134000"
+            ]
+        },
+        {
+            "animctrlId": 5101135,
+            "frames": [
+                "5101135000"
+            ]
+        },
+        {
+            "animctrlId": 5101136,
+            "frames": [
+                "5101136000"
+            ]
+        },
+        {
+            "animctrlId": 5101201,
+            "frames": [
+                "5101201000"
+            ]
+        },
+        {
+            "animctrlId": 5101202,
+            "frames": [
+                "5101202000"
+            ]
+        },
+        {
+            "animctrlId": 5101203,
+            "frames": [
+                "5101203000"
+            ]
+        },
+        {
+            "animctrlId": 5101204,
+            "frames": [
+                "5101204000"
+            ]
+        },
+        {
+            "animctrlId": 5101205,
+            "frames": [
+                "5101205000"
+            ]
+        },
+        {
+            "animctrlId": 5101206,
+            "frames": [
+                "5101206000"
+            ]
+        },
+        {
+            "animctrlId": 5101211,
+            "frames": [
+                "5101211000"
+            ]
+        },
+        {
+            "animctrlId": 5101221,
+            "frames": [
+                "5101221000"
+            ]
+        },
+        {
+            "animctrlId": 5101222,
+            "frames": [
+                "5101222000"
+            ]
+        },
+        {
+            "animctrlId": 5101223,
+            "frames": [
+                "5101223000"
+            ]
+        },
+        {
+            "animctrlId": 5101224,
+            "frames": [
+                "5101224000"
+            ]
+        },
+        {
+            "animctrlId": 5101225,
+            "frames": [
+                "5101225000"
+            ]
+        },
+        {
+            "animctrlId": 5101226,
+            "frames": [
+                "5101226000"
+            ]
+        },
+        {
+            "animctrlId": 5101301,
+            "frames": [
+                "5101301000"
+            ]
+        },
+        {
+            "animctrlId": 5101302,
+            "frames": [
+                "5101302000"
+            ]
+        },
+        {
+            "animctrlId": 5101303,
+            "frames": [
+                "5101303000"
+            ]
+        },
+        {
+            "animctrlId": 5101304,
+            "frames": [
+                "5101304000"
+            ]
+        },
+        {
+            "animctrlId": 5101305,
+            "frames": [
+                "5101305000"
+            ]
+        },
+        {
+            "animctrlId": 5101306,
+            "frames": [
+                "5101306000"
+            ]
+        },
+        {
+            "animctrlId": 5101311,
+            "frames": [
+                "5101311000"
+            ]
+        },
+        {
+            "animctrlId": 5101312,
+            "frames": [
+                "5101312000"
+            ]
+        },
+        {
+            "animctrlId": 5101313,
+            "frames": [
+                "5101313000"
+            ]
+        },
+        {
+            "animctrlId": 5101314,
+            "frames": [
+                "5101314000"
+            ]
+        },
+        {
+            "animctrlId": 5101315,
+            "frames": [
+                "5101315000"
+            ]
+        },
+        {
+            "animctrlId": 5101316,
+            "frames": [
+                "5101316000"
+            ]
+        },
+        {
+            "animctrlId": 5101321,
+            "frames": [
+                "5101321000"
+            ]
+        },
+        {
+            "animctrlId": 5101322,
+            "frames": [
+                "5101322000"
+            ]
+        },
+        {
+            "animctrlId": 5101323,
+            "frames": [
+                "5101323000"
+            ]
+        },
+        {
+            "animctrlId": 5101324,
+            "frames": [
+                "5101324000"
+            ]
+        },
+        {
+            "animctrlId": 5101325,
+            "frames": [
+                "5101325000"
+            ]
+        },
+        {
+            "animctrlId": 5101326,
+            "frames": [
+                "5101326000"
+            ]
+        },
+        {
+            "animctrlId": 5101331,
+            "frames": [
+                "5101331000"
+            ]
+        },
+        {
+            "animctrlId": 5101332,
+            "frames": [
+                "5101332000"
+            ]
+        },
+        {
+            "animctrlId": 5101333,
+            "frames": [
+                "5101333000"
+            ]
+        },
+        {
+            "animctrlId": 5101334,
+            "frames": [
+                "5101334000"
+            ]
+        },
+        {
+            "animctrlId": 5101335,
+            "frames": [
+                "5101335000"
+            ]
+        },
+        {
+            "animctrlId": 5101336,
+            "frames": [
+                "5101336000"
+            ]
+        },
+        {
+            "animctrlId": 5101401,
+            "frames": [
+                "5101401000"
+            ]
+        },
+        {
+            "animctrlId": 5101402,
+            "frames": [
+                "5101402000"
+            ]
+        },
+        {
+            "animctrlId": 5101403,
+            "frames": [
+                "5101403000"
+            ]
+        },
+        {
+            "animctrlId": 5101404,
+            "frames": [
+                "5101404000"
+            ]
+        },
+        {
+            "animctrlId": 5101405,
+            "frames": [
+                "5101405000"
+            ]
+        },
+        {
+            "animctrlId": 5101406,
+            "frames": [
+                "5101406000"
+            ]
+        },
+        {
+            "animctrlId": 5101421,
+            "frames": [
+                "5101421000"
+            ]
+        },
+        {
+            "animctrlId": 5101422,
+            "frames": [
+                "5101422000"
+            ]
+        },
+        {
+            "animctrlId": 5101423,
+            "frames": [
+                "5101423000"
+            ]
+        },
+        {
+            "animctrlId": 5101424,
+            "frames": [
+                "5101424000"
+            ]
+        },
+        {
+            "animctrlId": 5101425,
+            "frames": [
+                "5101425000"
+            ]
+        },
+        {
+            "animctrlId": 5101426,
+            "frames": [
+                "5101426000"
+            ]
+        },
+        {
+            "animctrlId": 5101501,
+            "frames": [
+                "5101501000"
+            ]
+        },
+        {
+            "animctrlId": 5101601,
+            "frames": [
+                "5101601000"
+            ]
+        },
+        {
+            "animctrlId": 5101602,
+            "frames": [
+                "5101602000"
+            ]
+        },
+        {
+            "animctrlId": 5101603,
+            "frames": [
+                "5101603000"
+            ]
+        },
+        {
+            "animctrlId": 5101604,
+            "frames": [
+                "5101604000"
+            ]
+        },
+        {
+            "animctrlId": 5101605,
+            "frames": [
+                "5101605000"
+            ]
+        },
+        {
+            "animctrlId": 5101606,
+            "frames": [
+                "5101606000"
+            ]
+        },
+        {
+            "animctrlId": 5101701,
+            "frames": [
+                "5101701000"
+            ]
+        },
+        {
+            "animctrlId": 5101702,
+            "frames": [
+                "5101702000"
+            ]
+        },
+        {
+            "animctrlId": 5101703,
+            "frames": [
+                "5101703000"
+            ]
+        },
+        {
+            "animctrlId": 5101704,
+            "frames": [
+                "5101704000"
+            ]
+        },
+        {
+            "animctrlId": 5101705,
+            "frames": [
+                "5101705000"
+            ]
+        },
+        {
+            "animctrlId": 5101706,
+            "frames": [
+                "5101706000"
+            ]
+        },
+        {
+            "animctrlId": 5101711,
+            "frames": [
+                "5101711000"
+            ]
+        },
+        {
+            "animctrlId": 5101712,
+            "frames": [
+                "5101712000"
+            ]
+        },
+        {
+            "animctrlId": 5101713,
+            "frames": [
+                "5101713000"
+            ]
+        },
+        {
+            "animctrlId": 5101714,
+            "frames": [
+                "5101714000"
+            ]
+        },
+        {
+            "animctrlId": 5101715,
+            "frames": [
+                "5101715000"
+            ]
+        },
+        {
+            "animctrlId": 5101716,
+            "frames": [
+                "5101716000"
+            ]
+        },
+        {
+            "animctrlId": 5101901,
+            "frames": [
+                "5101901000"
+            ]
+        },
+        {
+            "animctrlId": 5101902,
+            "frames": [
+                "5101902000"
+            ]
+        },
+        {
+            "animctrlId": 5101903,
+            "frames": [
+                "5101903000"
+            ]
+        },
+        {
+            "animctrlId": 5101904,
+            "frames": [
+                "5101904000"
+            ]
+        },
+        {
+            "animctrlId": 5101905,
+            "frames": [
+                "5101905000"
+            ]
+        },
+        {
+            "animctrlId": 5101906,
+            "frames": [
+                "5101906000"
+            ]
+        },
+        {
+            "animctrlId": 5101911,
+            "frames": [
+                "5101911000"
+            ]
+        },
+        {
+            "animctrlId": 5101912,
+            "frames": [
+                "5101912000"
+            ]
+        },
+        {
+            "animctrlId": 5101913,
+            "frames": [
+                "5101913000"
+            ]
+        },
+        {
+            "animctrlId": 5101914,
+            "frames": [
+                "5101914000"
+            ]
+        },
+        {
+            "animctrlId": 5101915,
+            "frames": [
+                "5101915000"
+            ]
+        },
+        {
+            "animctrlId": 5101916,
+            "frames": [
+                "5101916000"
+            ]
+        },
+        {
+            "animctrlId": 5102001,
+            "frames": [
+                "5102001000"
+            ]
+        },
+        {
+            "animctrlId": 5102002,
+            "frames": [
+                "5102002000"
+            ]
+        },
+        {
+            "animctrlId": 5102003,
+            "frames": [
+                "5102003000"
+            ]
+        },
+        {
+            "animctrlId": 5102004,
+            "frames": [
+                "5102004000"
+            ]
+        },
+        {
+            "animctrlId": 5102005,
+            "frames": [
+                "5102005000"
+            ]
+        },
+        {
+            "animctrlId": 5102006,
+            "frames": [
+                "5102006000"
+            ]
+        },
+        {
+            "animctrlId": 5102101,
+            "frames": [
+                "5102101000"
+            ]
+        },
+        {
+            "animctrlId": 5102102,
+            "frames": [
+                "5102102000"
+            ]
+        },
+        {
+            "animctrlId": 5102103,
+            "frames": [
+                "5102103000"
+            ]
+        },
+        {
+            "animctrlId": 5102104,
+            "frames": [
+                "5102104000"
+            ]
+        },
+        {
+            "animctrlId": 5102105,
+            "frames": [
+                "5102105000"
+            ]
+        },
+        {
+            "animctrlId": 5102106,
+            "frames": [
+                "5102106000"
+            ]
+        },
+        {
+            "animctrlId": 5102111,
+            "frames": [
+                "5102111000"
+            ]
+        },
+        {
+            "animctrlId": 6100501,
+            "frames": [
+                "6100501000"
+            ]
+        },
+        {
+            "animctrlId": 6100502,
+            "frames": [
+                "6100502000"
+            ]
+        },
+        {
+            "animctrlId": 6100503,
+            "frames": [
+                "6100503000"
+            ]
+        },
+        {
+            "animctrlId": 6100504,
+            "frames": [
+                "6100504000"
+            ]
+        },
+        {
+            "animctrlId": 6100505,
+            "frames": [
+                "6100505000"
+            ]
+        },
+        {
+            "animctrlId": 6100506,
+            "frames": [
+                "6100506000"
+            ]
+        },
+        {
+            "animctrlId": 6100604,
+            "frames": [
+                "6100604000"
+            ]
+        },
+        {
+            "animctrlId": 6100605,
+            "frames": [
+                "6100605000"
+            ]
+        },
+        {
+            "animctrlId": 6100606,
+            "frames": [
+                "6100606000"
+            ]
+        },
+        {
+            "animctrlId": 6100607,
+            "frames": [
+                "6100607000"
+            ]
+        },
+        {
+            "animctrlId": 6100608,
+            "frames": [
+                "6100608000"
+            ]
+        },
+        {
+            "animctrlId": 6110101,
+            "frames": [
+                "6110101000",
+                "6110101001",
+                "6110101002",
+                "6110101003",
+                "6110101004",
+                "6110101005"
+            ]
+        },
+        {
+            "animctrlId": 6111101,
+            "frames": [
+                "6111101000",
+                "6111101001"
+            ]
+        },
+        {
+            "animctrlId": 6111502,
+            "frames": [
+                "6111502000"
+            ]
+        },
+        {
+            "animctrlId": 6112101,
+            "frames": [
+                "6112101000",
+                "6112101001",
+                "6112101002",
+                "6112101003",
+                "6112101004",
+                "6112101005"
+            ]
+        },
+        {
+            "animctrlId": 6112202,
+            "frames": [
+                "6112202000",
+                "6112202001",
+                "6112202002"
+            ]
+        },
+        {
+            "animctrlId": 6112503,
+            "frames": [
+                "6112503000"
+            ]
+        },
+        {
+            "animctrlId": 6113101,
+            "frames": [
+                "6113101000",
+                "6113101001"
+            ]
+        },
+        {
+            "animctrlId": 6113504,
+            "frames": [
+                "6113504000"
+            ]
+        },
+        {
+            "animctrlId": 6116101,
+            "frames": [
+                "6116101000",
+                "6116101001",
+                "6116101002",
+                "6116101003"
+            ]
+        },
+        {
+            "animctrlId": 6116202,
+            "frames": [
+                "6116202000"
+            ]
+        },
+        {
+            "animctrlId": 6116505,
+            "frames": [
+                "6116505000"
+            ]
+        },
+        {
+            "animctrlId": 6116506,
+            "frames": [
+                "6116506000",
+                "6116506001"
+            ]
+        },
+        {
+            "animctrlId": 6120101,
+            "frames": [
+                "6120101000",
+                "6120101001",
+                "6120101002",
+                "6120101003",
+                "6120101004",
+                "6120101005"
+            ]
+        },
+        {
+            "animctrlId": 6120202,
+            "frames": [
+                "6120202000",
+                "6120202001"
+            ]
+        },
+        {
+            "animctrlId": 6120404,
+            "frames": [
+                "6120404000"
+            ]
+        },
+        {
+            "animctrlId": 6120501,
+            "frames": [
+                "6120501000"
+            ]
+        },
+        {
+            "animctrlId": 6121101,
+            "frames": [
+                "6121101000",
+                "6121101001"
+            ]
+        },
+        {
+            "animctrlId": 6121202,
+            "frames": [
+                "6121202000",
+                "6121202001"
+            ]
+        },
+        {
+            "animctrlId": 6121301,
+            "frames": [
+                "6121301000"
+            ]
+        },
+        {
+            "animctrlId": 6121302,
+            "frames": [
+                "6121302000"
+            ]
+        },
+        {
+            "animctrlId": 6121502,
+            "frames": [
+                "6121502000"
+            ]
+        },
+        {
+            "animctrlId": 6122101,
+            "frames": [
+                "6122101000",
+                "6122101001",
+                "6122101002",
+                "6122101003"
+            ]
+        },
+        {
+            "animctrlId": 6122202,
+            "frames": [
+                "6122202000",
+                "6122202001",
+                "6122202002"
+            ]
+        },
+        {
+            "animctrlId": 6122503,
+            "frames": [
+                "6122503000"
+            ]
+        },
+        {
+            "animctrlId": 6123101,
+            "frames": [
+                "6123101000",
+                "6123101001"
+            ]
+        },
+        {
+            "animctrlId": 6123202,
+            "frames": [
+                "6123202000",
+                "6123202001"
+            ]
+        },
+        {
+            "animctrlId": 6123303,
+            "frames": [
+                "6123303000"
+            ]
+        },
+        {
+            "animctrlId": 6123304,
+            "frames": [
+                "6123304000"
+            ]
+        },
+        {
+            "animctrlId": 6123504,
+            "frames": [
+                "6123504000"
+            ]
+        },
+        {
+            "animctrlId": 6126101,
+            "frames": [
+                "6126101000",
+                "6126101001",
+                "6126101002",
+                "6126101003"
+            ]
+        },
+        {
+            "animctrlId": 6126202,
+            "frames": [
+                "6126202000",
+                "6126202001"
+            ]
+        },
+        {
+            "animctrlId": 6126303,
+            "frames": [
+                "6126303000"
+            ]
+        },
+        {
+            "animctrlId": 6126505,
+            "frames": [
+                "6126505000"
+            ]
+        },
+        {
+            "animctrlId": 6141201,
+            "frames": [
+                "6141201000",
+                "6141201001"
+            ]
+        },
+        {
+            "animctrlId": 6141202,
+            "frames": [
+                "6141202000",
+                "6141202001"
+            ]
+        },
+        {
+            "animctrlId": 6141203,
+            "frames": [
+                "6141203000",
+                "6141203001"
+            ]
+        },
+        {
+            "animctrlId": 6141204,
+            "frames": [
+                "6141204000"
+            ]
+        },
+        {
+            "animctrlId": 6141205,
+            "frames": [
+                "6141205000",
+                "6141205001",
+                "6141205002"
+            ]
+        },
+        {
+            "animctrlId": 6141206,
+            "frames": [
+                "6141206000"
+            ]
+        },
+        {
+            "animctrlId": 6141207,
+            "frames": [
+                "6141207000"
+            ]
+        },
+        {
+            "animctrlId": 6141208,
+            "frames": [
+                "6141208000"
+            ]
+        },
+        {
+            "animctrlId": 6141209,
+            "frames": [
+                "6141209000"
+            ]
+        },
+        {
+            "animctrlId": 6141210,
+            "frames": [
+                "6141210000"
+            ]
+        },
+        {
+            "animctrlId": 6142101,
+            "frames": [
+                "6142101000",
+                "6142101001"
+            ]
+        },
+        {
+            "animctrlId": 6142201,
+            "frames": [
+                "6142201000",
+                "6142201001",
+                "6142201002"
+            ]
+        },
+        {
+            "animctrlId": 6142202,
+            "frames": [
+                "6142202000",
+                "6142202001"
+            ]
+        },
+        {
+            "animctrlId": 6142203,
+            "frames": [
+                "6142203000",
+                "6142203001"
+            ]
+        },
+        {
+            "animctrlId": 6142204,
+            "frames": [
+                "6142204000",
+                "6142204001"
+            ]
+        },
+        {
+            "animctrlId": 6142401,
+            "frames": [
+                "6142401000",
+                "6142401001"
+            ]
+        },
+        {
+            "animctrlId": 6142601,
+            "frames": [
+                "6142601000"
+            ]
+        },
+        {
+            "animctrlId": 6142602,
+            "frames": [
+                "6142602000"
+            ]
+        },
+        {
+            "animctrlId": 6169101,
+            "frames": [
+                "6169101000",
+                "6169101001",
+                "6169101002",
+                "6169101003",
+                "6169101004"
+            ]
+        },
+        {
+            "animctrlId": 6169201,
+            "frames": [
+                "6169201000",
+                "6169201001"
+            ]
+        },
+        {
+            "animctrlId": 6169202,
+            "frames": [
+                "6169202000",
+                "6169202001",
+                "6169202002",
+                "6169202003",
+                "6169202004",
+                "6169202005",
+                "6169202006",
+                "6169202007",
+                "6169202008",
+                "6169202009",
+                "6169202010",
+                "6169202011",
+                "6169202012",
+                "6169202013"
+            ]
+        },
+        {
+            "animctrlId": 6169301,
+            "frames": [
+                "6169301000",
+                "6169301001",
+                "6169301002"
+            ]
+        },
+        {
+            "animctrlId": 6169304,
+            "frames": [
+                "6169304000",
+                "6169304001",
+                "6169304002"
+            ]
+        },
+        {
+            "animctrlId": 6169401,
+            "frames": [
+                "6169401000"
+            ]
+        },
+        {
+            "animctrlId": 6169402,
+            "frames": [
+                "6169402000"
+            ]
+        },
+        {
+            "animctrlId": 6179202,
+            "frames": [
+                "6179202000"
+            ]
+        },
+        {
+            "animctrlId": 6179204,
+            "frames": [
+                "6179204000"
+            ]
+        },
+        {
+            "animctrlId": 6179205,
+            "frames": [
+                "6179205000",
+                "6179205001",
+                "6179205002",
+                "6179205003"
+            ]
+        },
+        {
+            "animctrlId": 6179207,
+            "frames": [
+                "6179207000",
+                "6179207001",
+                "6179207002",
+                "6179207003",
+                "6179207004"
+            ]
+        },
+        {
+            "animctrlId": 6179208,
+            "frames": [
+                "6179208000"
+            ]
+        },
+        {
+            "animctrlId": 6189207,
+            "frames": [
+                "6189207000",
+                "6189207001",
+                "6189207002",
+                "6189207003",
+                "6189207004"
+            ]
+        },
+        {
+            "animctrlId": 6189208,
+            "frames": [
+                "6189208000"
+            ]
+        },
+        {
+            "animctrlId": 6198303,
+            "frames": [
+                "6198303000"
+            ]
+        },
+        {
+            "animctrlId": 6199303,
+            "frames": [
+                "6199303000"
+            ]
+        },
+        {
+            "animctrlId": 6200501,
+            "frames": [
+                "6200501000"
+            ]
+        },
+        {
+            "animctrlId": 6210101,
+            "frames": [
+                "6210101000",
+                "6210101001"
+            ]
+        },
+        {
+            "animctrlId": 6210403,
+            "frames": [
+                "6210403000"
+            ]
+        },
+        {
+            "animctrlId": 6210404,
+            "frames": [
+                "6210404000"
+            ]
+        },
+        {
+            "animctrlId": 6210505,
+            "frames": [
+                "6210505000"
+            ]
+        },
+        {
+            "animctrlId": 6210506,
+            "frames": [
+                "6210506000"
+            ]
+        },
+        {
+            "animctrlId": 6210507,
+            "frames": [
+                "6210507000"
+            ]
+        },
+        {
+            "animctrlId": 6210511,
+            "frames": [
+                "6210511000"
+            ]
+        },
+        {
+            "animctrlId": 6211101,
+            "frames": [
+                "6211101000",
+                "6211101001"
+            ]
+        },
+        {
+            "animctrlId": 6211102,
+            "frames": [
+                "6211102000",
+                "6211102001"
+            ]
+        },
+        {
+            "animctrlId": 6211403,
+            "frames": [
+                "6211403000"
+            ]
+        },
+        {
+            "animctrlId": 6211505,
+            "frames": [
+                "6211505000"
+            ]
+        },
+        {
+            "animctrlId": 6212101,
+            "frames": [
+                "6212101000",
+                "6212101001",
+                "6212101002"
+            ]
+        },
+        {
+            "animctrlId": 6212403,
+            "frames": [
+                "6212403000"
+            ]
+        },
+        {
+            "animctrlId": 6212404,
+            "frames": [
+                "6212404000"
+            ]
+        },
+        {
+            "animctrlId": 6212505,
+            "frames": [
+                "6212505000"
+            ]
+        },
+        {
+            "animctrlId": 6213101,
+            "frames": [
+                "6213101000",
+                "6213101001",
+                "6213101002",
+                "6213101003"
+            ]
+        },
+        {
+            "animctrlId": 6213303,
+            "frames": [
+                "6213303000"
+            ]
+        },
+        {
+            "animctrlId": 6213304,
+            "frames": [
+                "6213304000"
+            ]
+        },
+        {
+            "animctrlId": 6213403,
+            "frames": [
+                "6213403000"
+            ]
+        },
+        {
+            "animctrlId": 6213505,
+            "frames": [
+                "6213505000"
+            ]
+        },
+        {
+            "animctrlId": 6220101,
+            "frames": [
+                "6220101000",
+                "6220101001",
+                "6220101002",
+                "6220101003"
+            ]
+        },
+        {
+            "animctrlId": 6220202,
+            "frames": [
+                "6220202000",
+                "6220202001"
+            ]
+        },
+        {
+            "animctrlId": 6220203,
+            "frames": [
+                "6220203000",
+                "6220203001"
+            ]
+        },
+        {
+            "animctrlId": 6220403,
+            "frames": [
+                "6220403000"
+            ]
+        },
+        {
+            "animctrlId": 6220404,
+            "frames": [
+                "6220404000"
+            ]
+        },
+        {
+            "animctrlId": 6220505,
+            "frames": [
+                "6220505000"
+            ]
+        },
+        {
+            "animctrlId": 6221101,
+            "frames": [
+                "6221101000",
+                "6221101001"
+            ]
+        },
+        {
+            "animctrlId": 6221202,
+            "frames": [
+                "6221202000",
+                "6221202001"
+            ]
+        },
+        {
+            "animctrlId": 6221403,
+            "frames": [
+                "6221403000"
+            ]
+        },
+        {
+            "animctrlId": 6221505,
+            "frames": [
+                "6221505000"
+            ]
+        },
+        {
+            "animctrlId": 6222101,
+            "frames": [
+                "6222101000",
+                "6222101001"
+            ]
+        },
+        {
+            "animctrlId": 6222202,
+            "frames": [
+                "6222202000",
+                "6222202001"
+            ]
+        },
+        {
+            "animctrlId": 6222403,
+            "frames": [
+                "6222403000"
+            ]
+        },
+        {
+            "animctrlId": 6222404,
+            "frames": [
+                "6222404000"
+            ]
+        },
+        {
+            "animctrlId": 6222505,
+            "frames": [
+                "6222505000"
+            ]
+        },
+        {
+            "animctrlId": 6223101,
+            "frames": [
+                "6223101000",
+                "6223101001"
+            ]
+        },
+        {
+            "animctrlId": 6223202,
+            "frames": [
+                "6223202000",
+                "6223202001"
+            ]
+        },
+        {
+            "animctrlId": 6223303,
+            "frames": [
+                "6223303000"
+            ]
+        },
+        {
+            "animctrlId": 6223403,
+            "frames": [
+                "6223403000"
+            ]
+        },
+        {
+            "animctrlId": 6223505,
+            "frames": [
+                "6223505000"
+            ]
+        },
+        {
+            "animctrlId": 6241101,
+            "frames": [
+                "6241101000",
+                "6241101001"
+            ]
+        },
+        {
+            "animctrlId": 6241301,
+            "frames": [
+                "6241301000"
+            ]
+        },
+        {
+            "animctrlId": 6241302,
+            "frames": [
+                "6241302000"
+            ]
+        },
+        {
+            "animctrlId": 6241303,
+            "frames": [
+                "6241303000"
+            ]
+        },
+        {
+            "animctrlId": 6241306,
+            "frames": [
+                "6241306000"
+            ]
+        },
+        {
+            "animctrlId": 6241500,
+            "frames": [
+                "6241500000",
+                "6241500001"
+            ]
+        },
+        {
+            "animctrlId": 6241501,
+            "frames": [
+                "6241501000"
+            ]
+        },
+        {
+            "animctrlId": 6241502,
+            "frames": [
+                "6241502000"
+            ]
+        },
+        {
+            "animctrlId": 6241503,
+            "frames": [
+                "6241503000"
+            ]
+        },
+        {
+            "animctrlId": 6241504,
+            "frames": [
+                "6241504000"
+            ]
+        },
+        {
+            "animctrlId": 6241505,
+            "frames": [
+                "6241505000"
+            ]
+        },
+        {
+            "animctrlId": 6241506,
+            "frames": [
+                "6241506000"
+            ]
+        },
+        {
+            "animctrlId": 6242101,
+            "frames": [
+                "6242101000",
+                "6242101001",
+                "6242101002",
+                "6242101003"
+            ]
+        },
+        {
+            "animctrlId": 6242102,
+            "frames": [
+                "6242102000",
+                "6242102001"
+            ]
+        },
+        {
+            "animctrlId": 6242301,
+            "frames": [
+                "6242301000",
+                "6242301001"
+            ]
+        },
+        {
+            "animctrlId": 6242302,
+            "frames": [
+                "6242302000"
+            ]
+        },
+        {
+            "animctrlId": 6242303,
+            "frames": [
+                "6242303000"
+            ]
+        },
+        {
+            "animctrlId": 6242401,
+            "frames": [
+                "6242401000"
+            ]
+        },
+        {
+            "animctrlId": 6242402,
+            "frames": [
+                "6242402000"
+            ]
+        },
+        {
+            "animctrlId": 6242403,
+            "frames": [
+                "6242403000"
+            ]
+        },
+        {
+            "animctrlId": 6243500,
+            "frames": [
+                "6243500000"
+            ]
+        },
+        {
+            "animctrlId": 6243501,
+            "frames": [
+                "6243501000"
+            ]
+        },
+        {
+            "animctrlId": 6243502,
+            "frames": [
+                "6243502000"
+            ]
+        },
+        {
+            "animctrlId": 6243503,
+            "frames": [
+                "6243503000"
+            ]
+        },
+        {
+            "animctrlId": 6243504,
+            "frames": [
+                "6243504000"
+            ]
+        },
+        {
+            "animctrlId": 6243506,
+            "frames": [
+                "6243506000"
+            ]
+        },
+        {
+            "animctrlId": 6243507,
+            "frames": [
+                "6243507000"
+            ]
+        },
+        {
+            "animctrlId": 6243508,
+            "frames": [
+                "6243508000"
+            ]
+        },
+        {
+            "animctrlId": 6243509,
+            "frames": [
+                "6243509000"
+            ]
+        },
+        {
+            "animctrlId": 6259101,
+            "frames": [
+                "6259101000",
+                "6259101001"
+            ]
+        },
+        {
+            "animctrlId": 6259201,
+            "frames": [
+                "6259201000",
+                "6259201001",
+                "6259201002",
+                "6259201003",
+                "6259201004",
+                "6259201005",
+                "6259201006",
+                "6259201007"
+            ]
+        },
+        {
+            "animctrlId": 6259301,
+            "frames": [
+                "6259301000"
+            ]
+        },
+        {
+            "animctrlId": 6259302,
+            "frames": [
+                "6259302000"
+            ]
+        },
+        {
+            "animctrlId": 6259401,
+            "frames": [
+                "6259401000",
+                "6259401001",
+                "6259401002",
+                "6259401003"
+            ]
+        },
+        {
+            "animctrlId": 6259402,
+            "frames": [
+                "6259402000",
+                "6259402001",
+                "6259402002",
+                "6259402003",
+                "6259402004",
+                "6259402005"
+            ]
+        },
+        {
+            "animctrlId": 6269101,
+            "frames": [
+                "6269101000",
+                "6269101001"
+            ]
+        },
+        {
+            "animctrlId": 6269201,
+            "frames": [
+                "6269201000",
+                "6269201001",
+                "6269201002",
+                "6269201003",
+                "6269201004",
+                "6269201005",
+                "6269201006",
+                "6269201007"
+            ]
+        },
+        {
+            "animctrlId": 6269401,
+            "frames": [
+                "6269401000",
+                "6269401001",
+                "6269401002",
+                "6269401003"
+            ]
+        },
+        {
+            "animctrlId": 6269402,
+            "frames": [
+                "6269402000",
+                "6269402001",
+                "6269402002",
+                "6269402003",
+                "6269402004",
+                "6269402005"
+            ]
+        },
+        {
+            "animctrlId": 6300501,
+            "frames": [
+                "6300501000"
+            ]
+        },
+        {
+            "animctrlId": 6310101,
+            "frames": [
+                "6310101000",
+                "6310101001"
+            ]
+        },
+        {
+            "animctrlId": 6310505,
+            "frames": [
+                "6310505000"
+            ]
+        },
+        {
+            "animctrlId": 6310506,
+            "frames": [
+                "6310506000"
+            ]
+        },
+        {
+            "animctrlId": 6311101,
+            "frames": [
+                "6311101000",
+                "6311101001"
+            ]
+        },
+        {
+            "animctrlId": 6312202,
+            "frames": [
+                "6312202000"
+            ]
+        },
+        {
+            "animctrlId": 6312303,
+            "frames": [
+                "6312303000"
+            ]
+        },
+        {
+            "animctrlId": 6312304,
+            "frames": [
+                "6312304000"
+            ]
+        },
+        {
+            "animctrlId": 6313101,
+            "frames": [
+                "6313101000",
+                "6313101001"
+            ]
+        },
+        {
+            "animctrlId": 6313303,
+            "frames": [
+                "6313303000"
+            ]
+        },
+        {
+            "animctrlId": 6314101,
+            "frames": [
+                "6314101000",
+                "6314101001"
+            ]
+        },
+        {
+            "animctrlId": 6314202,
+            "frames": [
+                "6314202000",
+                "6314202001"
+            ]
+        },
+        {
+            "animctrlId": 6314303
+        },
+        {
+            "animctrlId": 6315101,
+            "frames": [
+                "6315101000",
+                "6315101001"
+            ]
+        },
+        {
+            "animctrlId": 6315301,
+            "frames": [
+                "6315301000"
+            ]
+        },
+        {
+            "animctrlId": 6315303,
+            "frames": [
+                "6315303000"
+            ]
+        },
+        {
+            "animctrlId": 6315304,
+            "frames": [
+                "6315304000"
+            ]
+        },
+        {
+            "animctrlId": 6320101,
+            "frames": [
+                "6320101000",
+                "6320101001"
+            ]
+        },
+        {
+            "animctrlId": 6320202,
+            "frames": [
+                "6320202000",
+                "6320202001"
+            ]
+        },
+        {
+            "animctrlId": 6320505,
+            "frames": [
+                "6320505000"
+            ]
+        },
+        {
+            "animctrlId": 6321101,
+            "frames": [
+                "6321101000",
+                "6321101001"
+            ]
+        },
+        {
+            "animctrlId": 6321202,
+            "frames": [
+                "6321202000",
+                "6321202001",
+                "6321202002"
+            ]
+        },
+        {
+            "animctrlId": 6322303,
+            "frames": [
+                "6322303000"
+            ]
+        },
+        {
+            "animctrlId": 6322304,
+            "frames": [
+                "6322304000"
+            ]
+        },
+        {
+            "animctrlId": 6323101,
+            "frames": [
+                "6323101000",
+                "6323101001"
+            ]
+        },
+        {
+            "animctrlId": 6323202,
+            "frames": [
+                "6323202000",
+                "6323202001"
+            ]
+        },
+        {
+            "animctrlId": 6323303,
+            "frames": [
+                "6323303000"
+            ]
+        },
+        {
+            "animctrlId": 6323304,
+            "frames": [
+                "6323304000"
+            ]
+        },
+        {
+            "animctrlId": 6324101,
+            "frames": [
+                "6324101000",
+                "6324101001"
+            ]
+        },
+        {
+            "animctrlId": 6324201,
+            "frames": [
+                "6324201000",
+                "6324201001"
+            ]
+        },
+        {
+            "animctrlId": 6324301,
+            "frames": [
+                "6324301000"
+            ]
+        },
+        {
+            "animctrlId": 6325101,
+            "frames": [
+                "6325101000",
+                "6325101001"
+            ]
+        },
+        {
+            "animctrlId": 6325301,
+            "frames": [
+                "6325301000"
+            ]
+        },
+        {
+            "animctrlId": 6325303,
+            "frames": [
+                "6325303000",
+                "6325303001"
+            ]
+        },
+        {
+            "animctrlId": 6325304,
+            "frames": [
+                "6325304000"
+            ]
+        },
+        {
+            "animctrlId": 6341101,
+            "frames": [
+                "6341101000",
+                "6341101001"
+            ]
+        },
+        {
+            "animctrlId": 6341102,
+            "frames": [
+                "6341102000",
+                "6341102001"
+            ]
+        },
+        {
+            "animctrlId": 6341201,
+            "frames": [
+                "6341201000",
+                "6341201001"
+            ]
+        },
+        {
+            "animctrlId": 6341202,
+            "frames": [
+                "6341202000",
+                "6341202001"
+            ]
+        },
+        {
+            "animctrlId": 6341501,
+            "frames": [
+                "6341501000"
+            ]
+        },
+        {
+            "animctrlId": 6341505,
+            "frames": [
+                "6341505000"
+            ]
+        },
+        {
+            "animctrlId": 6342101,
+            "frames": [
+                "6342101000",
+                "6342101001"
+            ]
+        },
+        {
+            "animctrlId": 6342102,
+            "frames": [
+                "6342102000",
+                "6342102001"
+            ]
+        },
+        {
+            "animctrlId": 6342201,
+            "frames": [
+                "6342201000",
+                "6342201001"
+            ]
+        },
+        {
+            "animctrlId": 6342301,
+            "frames": [
+                "6342301000"
+            ]
+        },
+        {
+            "animctrlId": 6343201,
+            "frames": [
+                "6343201000",
+                "6343201001"
+            ]
+        },
+        {
+            "animctrlId": 6343401,
+            "frames": [
+                "6343401000"
+            ]
+        },
+        {
+            "animctrlId": 6343402,
+            "frames": [
+                "6343402000"
+            ]
+        },
+        {
+            "animctrlId": 6343403,
+            "frames": [
+                "6343403000"
+            ]
+        },
+        {
+            "animctrlId": 6344101,
+            "frames": [
+                "6344101000",
+                "6344101001"
+            ]
+        },
+        {
+            "animctrlId": 6344201,
+            "frames": [
+                "6344201000"
+            ]
+        },
+        {
+            "animctrlId": 6344301,
+            "frames": [
+                "6344301000",
+                "6344301001"
+            ]
+        },
+        {
+            "animctrlId": 6344302,
+            "frames": [
+                "6344302000"
+            ]
+        },
+        {
+            "animctrlId": 6344401,
+            "frames": [
+                "6344401000",
+                "6344401001"
+            ]
+        },
+        {
+            "animctrlId": 6345401,
+            "frames": [
+                "6345401000"
+            ]
+        },
+        {
+            "animctrlId": 6345411,
+            "frames": [
+                "6345411000"
+            ]
+        },
+        {
+            "animctrlId": 6800501,
+            "frames": [
+                "6800501000"
+            ]
+        },
+        {
+            "animctrlId": 6851001,
+            "frames": [
+                "6851001000",
+                "6851001001"
+            ]
+        },
+        {
+            "animctrlId": 6851002,
+            "frames": [
+                "6851002000",
+                "6851002001"
+            ]
+        },
+        {
+            "animctrlId": 6851003,
+            "frames": [
+                "6851003000",
+                "6851003001"
+            ]
+        },
+        {
+            "animctrlId": 6851004,
+            "frames": [
+                "6851004000",
+                "6851004001",
+                "6851004002",
+                "6851004003"
+            ]
+        },
+        {
+            "animctrlId": 6851006,
+            "frames": [
+                "6851006000"
+            ]
+        },
+        {
+            "animctrlId": 6851007,
+            "frames": [
+                "6851007000"
+            ]
+        },
+        {
+            "animctrlId": 6851008,
+            "frames": [
+                "6851008000"
+            ]
+        },
+        {
+            "animctrlId": 6851009,
+            "frames": [
+                "6851009000",
+                "6851009001"
+            ]
+        },
+        {
+            "animctrlId": 6851010,
+            "frames": [
+                "6851010000"
+            ]
+        },
+        {
+            "animctrlId": 6851011,
+            "frames": [
+                "6851011000"
+            ]
+        },
+        {
+            "animctrlId": 6851012,
+            "frames": [
+                "6851012000"
+            ]
+        },
+        {
+            "animctrlId": 6851013,
+            "frames": [
+                "6851013000"
+            ]
+        },
+        {
+            "animctrlId": 6851014,
+            "frames": [
+                "6851014000"
+            ]
+        },
+        {
+            "animctrlId": 6851101,
+            "frames": [
+                "6851101000",
+                "6851101001"
+            ]
+        },
+        {
+            "animctrlId": 6851102,
+            "frames": [
+                "6851102000",
+                "6851102001"
+            ]
+        },
+        {
+            "animctrlId": 6851401,
+            "frames": [
+                "6851401000",
+                "6851401001"
+            ]
+        },
+        {
+            "animctrlId": 6851402,
+            "frames": [
+                "6851402000",
+                "6851402001",
+                "6851402002",
+                "6851402003"
+            ]
+        },
+        {
+            "animctrlId": 6851404,
+            "frames": [
+                "6851404000"
+            ]
+        },
+        {
+            "animctrlId": 6851405,
+            "frames": [
+                "6851405000"
+            ]
+        },
+        {
+            "animctrlId": 6851406,
+            "frames": [
+                "6851406000"
+            ]
+        },
+        {
+            "animctrlId": 6851411,
+            "frames": [
+                "6851411000",
+                "6851411001"
+            ]
+        },
+        {
+            "animctrlId": 6851501,
+            "frames": [
+                "6851501000",
+                "6851501001",
+                "6851501002"
+            ]
+        },
+        {
+            "animctrlId": 6851502,
+            "frames": [
+                "6851502000"
+            ]
+        },
+        {
+            "animctrlId": 6851503,
+            "frames": [
+                "6851503000"
+            ]
+        },
+        {
+            "animctrlId": 6851504,
+            "frames": [
+                "6851504000"
+            ]
+        },
+        {
+            "animctrlId": 6851510,
+            "frames": [
+                "6851510000"
+            ]
+        },
+        {
+            "animctrlId": 6851511
+        },
+        {
+            "animctrlId": 6851701,
+            "frames": [
+                "6851701000"
+            ]
+        },
+        {
+            "animctrlId": 6851711,
+            "frames": [
+                "6851711000"
+            ]
+        },
+        {
+            "animctrlId": 6851712,
+            "frames": [
+                "6851712000"
+            ]
+        },
+        {
+            "animctrlId": 6851713,
+            "frames": [
+                "6851713000"
+            ]
+        },
+        {
+            "animctrlId": 6853101,
+            "frames": [
+                "6853101000",
+                "6853101001"
+            ]
+        },
+        {
+            "animctrlId": 6853102,
+            "frames": [
+                "6853102000",
+                "6853102001",
+                "6853102002"
+            ]
+        },
+        {
+            "animctrlId": 6853401,
+            "frames": [
+                "6853401000",
+                "6853401001"
+            ]
+        },
+        {
+            "animctrlId": 6853402,
+            "frames": [
+                "6853402000",
+                "6853402001"
+            ]
+        },
+        {
+            "animctrlId": 6853403,
+            "frames": [
+                "6853403000",
+                "6853403001"
+            ]
+        },
+        {
+            "animctrlId": 6853404,
+            "frames": [
+                "6853404000"
+            ]
+        },
+        {
+            "animctrlId": 6853405,
+            "frames": [
+                "6853405000"
+            ]
+        },
+        {
+            "animctrlId": 6853406,
+            "frames": [
+                "6853406000"
+            ]
+        },
+        {
+            "animctrlId": 6853411,
+            "frames": [
+                "6853411000",
+                "6853411001"
+            ]
+        },
+        {
+            "animctrlId": 6853412,
+            "frames": [
+                "6853412000"
+            ]
+        },
+        {
+            "animctrlId": 6853413,
+            "frames": [
+                "6853413000"
+            ]
+        },
+        {
+            "animctrlId": 6853421,
+            "frames": [
+                "6853421000",
+                "6853421001"
+            ]
+        },
+        {
+            "animctrlId": 6853431,
+            "frames": [
+                "6853431000",
+                "6853431001"
+            ]
+        },
+        {
+            "animctrlId": 6853441,
+            "frames": [
+                "6853441000",
+                "6853441001"
+            ]
+        },
+        {
+            "animctrlId": 6853442,
+            "frames": [
+                "6853442000",
+                "6853442001"
+            ]
+        },
+        {
+            "animctrlId": 6853443,
+            "frames": [
+                "6853443000",
+                "6853443001"
+            ]
+        },
+        {
+            "animctrlId": 6853501,
+            "frames": [
+                "6853501000",
+                "6853501001"
+            ]
+        },
+        {
+            "animctrlId": 6853502,
+            "frames": [
+                "6853502000"
+            ]
+        },
+        {
+            "animctrlId": 6853503,
+            "frames": [
+                "6853503000"
+            ]
+        },
+        {
+            "animctrlId": 6853504,
+            "frames": [
+                "6853504000"
+            ]
+        },
+        {
+            "animctrlId": 6853506,
+            "frames": [
+                "6853506000"
+            ]
+        },
+        {
+            "animctrlId": 6853701,
+            "frames": [
+                "6853701000"
+            ]
+        },
+        {
+            "animctrlId": 6853702,
+            "frames": [
+                "6853702000"
+            ]
+        },
+        {
+            "animctrlId": 6853703,
+            "frames": [
+                "6853703000"
+            ]
+        },
+        {
+            "animctrlId": 6853711,
+            "frames": [
+                "6853711000"
+            ]
+        },
+        {
+            "animctrlId": 6853712,
+            "frames": [
+                "6853712000"
+            ]
+        },
+        {
+            "animctrlId": 6853713,
+            "frames": [
+                "6853713000"
+            ]
+        },
+        {
+            "animctrlId": 6860101,
+            "frames": [
+                "6860101000",
+                "6860101001"
+            ]
+        },
+        {
+            "animctrlId": 6860201,
+            "frames": [
+                "6860201000",
+                "6860201001",
+                "6860201002"
+            ]
+        },
+        {
+            "animctrlId": 6860301,
+            "frames": [
+                "6860301000",
+                "6860301001"
+            ]
+        },
+        {
+            "animctrlId": 6860401,
+            "frames": [
+                "6860401000"
+            ]
+        },
+        {
+            "animctrlId": 6860501,
+            "frames": [
+                "6860501000"
+            ]
+        },
+        {
+            "animctrlId": 6860601,
+            "frames": [
+                "6860601000",
+                "6860601001",
+                "6860601002",
+                "6860601003",
+                "6860601004"
+            ]
+        },
+        {
+            "animctrlId": 6860701,
+            "frames": [
+                "6860701000"
+            ]
+        },
+        {
+            "animctrlId": 6861101,
+            "frames": [
+                "6861101000",
+                "6861101001"
+            ]
+        },
+        {
+            "animctrlId": 6861201,
+            "frames": [
+                "6861201000",
+                "6861201001"
+            ]
+        },
+        {
+            "animctrlId": 6861301,
+            "frames": [
+                "6861301000",
+                "6861301001"
+            ]
+        },
+        {
+            "animctrlId": 6861401,
+            "frames": [
+                "6861401000"
+            ]
+        },
+        {
+            "animctrlId": 6900501,
+            "frames": [
+                "6900501000"
+            ]
+        },
+        {
+            "animctrlId": 10010101,
+            "frames": [
+                "10010101000",
+                "10010101001"
+            ]
+        },
+        {
+            "animctrlId": 10010102,
+            "frames": [
+                "10010102000",
+                "10010102001"
+            ]
+        },
+        {
+            "animctrlId": 10010111,
+            "frames": [
+                "10010111000",
+                "10010111001"
+            ]
+        },
+        {
+            "animctrlId": 10010112,
+            "frames": [
+                "10010112000",
+                "10010112001"
+            ]
+        },
+        {
+            "animctrlId": 10010401,
+            "frames": [
+                "10010401000",
+                "10010401001",
+                "10010401002"
+            ]
+        },
+        {
+            "animctrlId": 10010410,
+            "frames": [
+                "10010410000"
+            ]
+        },
+        {
+            "animctrlId": 10010411,
+            "frames": [
+                "10010411000"
+            ]
+        },
+        {
+            "animctrlId": 10010412,
+            "frames": [
+                "10010412000"
+            ]
+        },
+        {
+            "animctrlId": 10010413,
+            "frames": [
+                "10010413000"
+            ]
+        },
+        {
+            "animctrlId": 10010501,
+            "frames": [
+                "10010501000",
+                "10010501001",
+                "10010501002",
+                "10010501003",
+                "10010501004"
+            ]
+        },
+        {
+            "animctrlId": 10010502,
+            "frames": [
+                "10010502000",
+                "10010502001"
+            ]
+        },
+        {
+            "animctrlId": 10010701,
+            "frames": [
+                "10010701000"
+            ]
+        },
+        {
+            "animctrlId": 10010702,
+            "frames": [
+                "10010702000"
+            ]
+        },
+        {
+            "animctrlId": 10010703,
+            "frames": [
+                "10010703000"
+            ]
+        },
+        {
+            "animctrlId": 10010801,
+            "frames": [
+                "10010801000"
+            ]
+        },
+        {
+            "animctrlId": 10010802,
+            "frames": [
+                "10010802000"
+            ]
+        },
+        {
+            "animctrlId": 10010811,
+            "frames": [
+                "10010811000"
+            ]
+        },
+        {
+            "animctrlId": 10010812,
+            "frames": [
+                "10010812000"
+            ]
+        },
+        {
+            "animctrlId": 10010901,
+            "frames": [
+                "10010901000"
+            ]
+        },
+        {
+            "animctrlId": 10010902,
+            "frames": [
+                "10010902000"
+            ]
+        },
+        {
+            "animctrlId": 10010911,
+            "frames": [
+                "10010911000"
+            ]
+        },
+        {
+            "animctrlId": 10020101,
+            "frames": [
+                "10020101000",
+                "10020101001",
+                "10020101002",
+                "10020101003"
+            ]
+        },
+        {
+            "animctrlId": 10020401,
+            "frames": [
+                "10020401000",
+                "10020401001"
+            ]
+        },
+        {
+            "animctrlId": 10020501,
+            "frames": [
+                "10020501000",
+                "10020501001"
+            ]
+        },
+        {
+            "animctrlId": 10020502,
+            "frames": [
+                "10020502000",
+                "10020502001"
+            ]
+        },
+        {
+            "animctrlId": 10020503,
+            "frames": [
+                "10020503000",
+                "10020503001"
+            ]
+        },
+        {
+            "animctrlId": 10020701,
+            "frames": [
+                "10020701000"
+            ]
+        },
+        {
+            "animctrlId": 10020702,
+            "frames": [
+                "10020702000"
+            ]
+        },
+        {
+            "animctrlId": 10020703,
+            "frames": [
+                "10020703000"
+            ]
+        },
+        {
+            "animctrlId": 10020801,
+            "frames": [
+                "10020801000"
+            ]
+        },
+        {
+            "animctrlId": 10020802,
+            "frames": [
+                "10020802000"
+            ]
+        },
+        {
+            "animctrlId": 10020811,
+            "frames": [
+                "10020811000"
+            ]
+        },
+        {
+            "animctrlId": 10020901,
+            "frames": [
+                "10020901000"
+            ]
+        },
+        {
+            "animctrlId": 10020902,
+            "frames": [
+                "10020902000"
+            ]
+        },
+        {
+            "animctrlId": 10020911,
+            "frames": [
+                "10020911000"
+            ]
+        },
+        {
+            "animctrlId": 10020912,
+            "frames": [
+                "10020912000"
+            ]
+        },
+        {
+            "animctrlId": 10030101,
+            "frames": [
+                "10030101000",
+                "10030101001"
+            ]
+        },
+        {
+            "animctrlId": 10030401,
+            "frames": [
+                "10030401000",
+                "10030401001",
+                "10030401002"
+            ]
+        },
+        {
+            "animctrlId": 10030411,
+            "frames": [
+                "10030411000"
+            ]
+        },
+        {
+            "animctrlId": 10030412,
+            "frames": [
+                "10030412000"
+            ]
+        },
+        {
+            "animctrlId": 10030413,
+            "frames": [
+                "10030413000"
+            ]
+        },
+        {
+            "animctrlId": 10030501,
+            "frames": [
+                "10030501000",
+                "10030501001",
+                "10030501002"
+            ]
+        },
+        {
+            "animctrlId": 10030511,
+            "frames": [
+                "10030511000"
+            ]
+        },
+        {
+            "animctrlId": 10030512,
+            "frames": [
+                "10030512000"
+            ]
+        },
+        {
+            "animctrlId": 10030513,
+            "frames": [
+                "10030513000"
+            ]
+        },
+        {
+            "animctrlId": 10030701,
+            "frames": [
+                "10030701000"
+            ]
+        },
+        {
+            "animctrlId": 10030702,
+            "frames": [
+                "10030702000"
+            ]
+        },
+        {
+            "animctrlId": 10030703,
+            "frames": [
+                "10030703000"
+            ]
+        },
+        {
+            "animctrlId": 10030801,
+            "frames": [
+                "10030801000"
+            ]
+        },
+        {
+            "animctrlId": 10030802,
+            "frames": [
+                "10030802000"
+            ]
+        },
+        {
+            "animctrlId": 10030811,
+            "frames": [
+                "10030811000"
+            ]
+        },
+        {
+            "animctrlId": 10030812,
+            "frames": [
+                "10030812000"
+            ]
+        },
+        {
+            "animctrlId": 10030901,
+            "frames": [
+                "10030901000"
+            ]
+        },
+        {
+            "animctrlId": 10030902,
+            "frames": [
+                "10030902000"
+            ]
+        },
+        {
+            "animctrlId": 10031001,
+            "frames": [
+                "10031001000"
+            ]
+        },
+        {
+            "animctrlId": 10040101,
+            "frames": [
+                "10040101000",
+                "10040101001",
+                "10040101002",
+                "10040101003",
+                "10040101004",
+                "10040101005",
+                "10040101006",
+                "10040101007",
+                "10040101008"
+            ]
+        },
+        {
+            "animctrlId": 10040401,
+            "frames": [
+                "10040401000",
+                "10040401001"
+            ]
+        },
+        {
+            "animctrlId": 10040501,
+            "frames": [
+                "10040501000",
+                "10040501001"
+            ]
+        },
+        {
+            "animctrlId": 10040701,
+            "frames": [
+                "10040701000"
+            ]
+        },
+        {
+            "animctrlId": 10040702,
+            "frames": [
+                "10040702000"
+            ]
+        },
+        {
+            "animctrlId": 10040703,
+            "frames": [
+                "10040703000"
+            ]
+        },
+        {
+            "animctrlId": 10040711,
+            "frames": [
+                "10040711000"
+            ]
+        },
+        {
+            "animctrlId": 10040712,
+            "frames": [
+                "10040712000"
+            ]
+        },
+        {
+            "animctrlId": 10040713,
+            "frames": [
+                "10040713000"
+            ]
+        },
+        {
+            "animctrlId": 10040801,
+            "frames": [
+                "10040801000"
+            ]
+        },
+        {
+            "animctrlId": 10040802,
+            "frames": [
+                "10040802000"
+            ]
+        },
+        {
+            "animctrlId": 10040811,
+            "frames": [
+                "10040811000"
+            ]
+        },
+        {
+            "animctrlId": 10040812,
+            "frames": [
+                "10040812000"
+            ]
+        },
+        {
+            "animctrlId": 10040813,
+            "frames": [
+                "10040813000"
+            ]
+        },
+        {
+            "animctrlId": 10040814,
+            "frames": [
+                "10040814000"
+            ]
+        },
+        {
+            "animctrlId": 10040815,
+            "frames": [
+                "10040815000"
+            ]
+        },
+        {
+            "animctrlId": 10040901,
+            "frames": [
+                "10040901000"
+            ]
+        },
+        {
+            "animctrlId": 10040902,
+            "frames": [
+                "10040902000"
+            ]
+        },
+        {
+            "animctrlId": 10040911,
+            "frames": [
+                "10040911000"
+            ]
+        },
+        {
+            "animctrlId": 10040912,
+            "frames": [
+                "10040912000"
+            ]
+        },
+        {
+            "animctrlId": 10050101,
+            "frames": [
+                "10050101000",
+                "10050101001"
+            ]
+        },
+        {
+            "animctrlId": 10050102,
+            "frames": [
+                "10050102000",
+                "10050102001"
+            ]
+        },
+        {
+            "animctrlId": 10050111,
+            "frames": [
+                "10050111000",
+                "10050111001"
+            ]
+        },
+        {
+            "animctrlId": 10050401,
+            "frames": [
+                "10050401000",
+                "10050401001"
+            ]
+        },
+        {
+            "animctrlId": 10050402,
+            "frames": [
+                "10050402000",
+                "10050402001"
+            ]
+        },
+        {
+            "animctrlId": 10050403,
+            "frames": [
+                "10050403000",
+                "10050403001"
+            ]
+        },
+        {
+            "animctrlId": 10050404,
+            "frames": [
+                "10050404000",
+                "10050404001"
+            ]
+        },
+        {
+            "animctrlId": 10050405,
+            "frames": [
+                "10050405000",
+                "10050405001"
+            ]
+        },
+        {
+            "animctrlId": 10050410,
+            "frames": [
+                "10050410000"
+            ]
+        },
+        {
+            "animctrlId": 10050411,
+            "frames": [
+                "10050411000"
+            ]
+        },
+        {
+            "animctrlId": 10050412,
+            "frames": [
+                "10050412000"
+            ]
+        },
+        {
+            "animctrlId": 10050413,
+            "frames": [
+                "10050413000"
+            ]
+        },
+        {
+            "animctrlId": 10050501,
+            "frames": [
+                "10050501000",
+                "10050501001"
+            ]
+        },
+        {
+            "animctrlId": 10050502,
+            "frames": [
+                "10050502000",
+                "10050502001",
+                "10050502002"
+            ]
+        },
+        {
+            "animctrlId": 10050503,
+            "frames": [
+                "10050503000",
+                "10050503001",
+                "10050503002"
+            ]
+        },
+        {
+            "animctrlId": 10050504,
+            "frames": [
+                "10050504000",
+                "10050504001",
+                "10050504002"
+            ]
+        },
+        {
+            "animctrlId": 10050505,
+            "frames": [
+                "10050505000",
+                "10050505001",
+                "10050505002"
+            ]
+        },
+        {
+            "animctrlId": 10050511,
+            "frames": [
+                "10050511000"
+            ]
+        },
+        {
+            "animctrlId": 10050512,
+            "frames": [
+                "10050512000"
+            ]
+        },
+        {
+            "animctrlId": 10050513,
+            "frames": [
+                "10050513000"
+            ]
+        },
+        {
+            "animctrlId": 10050521,
+            "frames": [
+                "10050521000"
+            ]
+        },
+        {
+            "animctrlId": 10050701,
+            "frames": [
+                "10050701000"
+            ]
+        },
+        {
+            "animctrlId": 10050702,
+            "frames": [
+                "10050702000"
+            ]
+        },
+        {
+            "animctrlId": 10050703,
+            "frames": [
+                "10050703000"
+            ]
+        },
+        {
+            "animctrlId": 10050704,
+            "frames": [
+                "10050704000"
+            ]
+        },
+        {
+            "animctrlId": 10050705,
+            "frames": [
+                "10050705000"
+            ]
+        },
+        {
+            "animctrlId": 10050721,
+            "frames": [
+                "10050721000"
+            ]
+        },
+        {
+            "animctrlId": 10050722,
+            "frames": [
+                "10050722000"
+            ]
+        },
+        {
+            "animctrlId": 10050723,
+            "frames": [
+                "10050723000"
+            ]
+        },
+        {
+            "animctrlId": 10050724,
+            "frames": [
+                "10050724000"
+            ]
+        },
+        {
+            "animctrlId": 10050725,
+            "frames": [
+                "10050725000"
+            ]
+        },
+        {
+            "animctrlId": 10050801,
+            "frames": [
+                "10050801000"
+            ]
+        },
+        {
+            "animctrlId": 10050901,
+            "frames": [
+                "10050901000"
+            ]
+        },
+        {
+            "animctrlId": 10050911,
+            "frames": [
+                "10050911000"
+            ]
+        },
+        {
+            "animctrlId": 10060101,
+            "frames": [
+                "10060101000",
+                "10060101001"
+            ]
+        },
+        {
+            "animctrlId": 10060401,
+            "frames": [
+                "10060401000",
+                "10060401001"
+            ]
+        },
+        {
+            "animctrlId": 10060405,
+            "frames": [
+                "10060405000",
+                "10060405001"
+            ]
+        },
+        {
+            "animctrlId": 10060501,
+            "frames": [
+                "10060501000",
+                "10060501001"
+            ]
+        },
+        {
+            "animctrlId": 10060502,
+            "frames": [
+                "10060502000",
+                "10060502001"
+            ]
+        },
+        {
+            "animctrlId": 10060503,
+            "frames": [
+                "10060503000",
+                "10060503001"
+            ]
+        },
+        {
+            "animctrlId": 10060504,
+            "frames": [
+                "10060504000",
+                "10060504001"
+            ]
+        },
+        {
+            "animctrlId": 10060505,
+            "frames": [
+                "10060505000",
+                "10060505001"
+            ]
+        },
+        {
+            "animctrlId": 10060506,
+            "frames": [
+                "10060506000",
+                "10060506001"
+            ]
+        },
+        {
+            "animctrlId": 10060701,
+            "frames": [
+                "10060701000"
+            ]
+        },
+        {
+            "animctrlId": 10060702,
+            "frames": [
+                "10060702000"
+            ]
+        },
+        {
+            "animctrlId": 10060703,
+            "frames": [
+                "10060703000"
+            ]
+        },
+        {
+            "animctrlId": 10060704,
+            "frames": [
+                "10060704000"
+            ]
+        },
+        {
+            "animctrlId": 10060705,
+            "frames": [
+                "10060705000"
+            ]
+        },
+        {
+            "animctrlId": 10060711,
+            "frames": [
+                "10060711000"
+            ]
+        },
+        {
+            "animctrlId": 10060712,
+            "frames": [
+                "10060712000"
+            ]
+        },
+        {
+            "animctrlId": 10060713,
+            "frames": [
+                "10060713000"
+            ]
+        },
+        {
+            "animctrlId": 10060721,
+            "frames": [
+                "10060721000"
+            ]
+        },
+        {
+            "animctrlId": 10060722,
+            "frames": [
+                "10060722000"
+            ]
+        },
+        {
+            "animctrlId": 10060801,
+            "frames": [
+                "10060801000"
+            ]
+        },
+        {
+            "animctrlId": 10060901,
+            "frames": [
+                "10060901000"
+            ]
+        },
+        {
+            "animctrlId": 10070101,
+            "frames": [
+                "10070101000",
+                "10070101001"
+            ]
+        },
+        {
+            "animctrlId": 10070401,
+            "frames": [
+                "10070401000",
+                "10070401001"
+            ]
+        },
+        {
+            "animctrlId": 10070501,
+            "frames": [
+                "10070501000",
+                "10070501001",
+                "10070501002",
+                "10070501003"
+            ]
+        },
+        {
+            "animctrlId": 10070502,
+            "frames": [
+                "10070502000",
+                "10070502001",
+                "10070502002",
+                "10070502003",
+                "10070502004"
+            ]
+        },
+        {
+            "animctrlId": 10070701,
+            "frames": [
+                "10070701000"
+            ]
+        },
+        {
+            "animctrlId": 10070702,
+            "frames": [
+                "10070702000"
+            ]
+        },
+        {
+            "animctrlId": 10070703,
+            "frames": [
+                "10070703000"
+            ]
+        },
+        {
+            "animctrlId": 10070711,
+            "frames": [
+                "10070711000"
+            ]
+        },
+        {
+            "animctrlId": 10070721,
+            "frames": [
+                "10070721000"
+            ]
+        },
+        {
+            "animctrlId": 10070801,
+            "frames": [
+                "10070801000"
+            ]
+        },
+        {
+            "animctrlId": 10070802,
+            "frames": [
+                "10070802000"
+            ]
+        },
+        {
+            "animctrlId": 10070811,
+            "frames": [
+                "10070811000"
+            ]
+        },
+        {
+            "animctrlId": 10070812,
+            "frames": [
+                "10070812000"
+            ]
+        },
+        {
+            "animctrlId": 10070901,
+            "frames": [
+                "10070901000"
+            ]
+        },
+        {
+            "animctrlId": 10070902,
+            "frames": [
+                "10070902000"
+            ]
+        },
+        {
+            "animctrlId": 10071001,
+            "frames": [
+                "10071001000"
+            ]
+        },
+        {
+            "animctrlId": 10071002,
+            "frames": [
+                "10071002000"
+            ]
+        },
+        {
+            "animctrlId": 10080101,
+            "frames": [
+                "10080101000",
+                "10080101001"
+            ]
+        },
+        {
+            "animctrlId": 10080401,
+            "frames": [
+                "10080401000",
+                "10080401001"
+            ]
+        },
+        {
+            "animctrlId": 10080411,
+            "frames": [
+                "10080411000"
+            ]
+        },
+        {
+            "animctrlId": 10080412,
+            "frames": [
+                "10080412000"
+            ]
+        },
+        {
+            "animctrlId": 10080413,
+            "frames": [
+                "10080413000"
+            ]
+        },
+        {
+            "animctrlId": 10080414,
+            "frames": [
+                "10080414000"
+            ]
+        },
+        {
+            "animctrlId": 10080415,
+            "frames": [
+                "10080415000"
+            ]
+        },
+        {
+            "animctrlId": 10080416,
+            "frames": [
+                "10080416000"
+            ]
+        },
+        {
+            "animctrlId": 10080501,
+            "frames": [
+                "10080501000",
+                "10080501001"
+            ]
+        },
+        {
+            "animctrlId": 10080511,
+            "frames": [
+                "10080511000"
+            ]
+        },
+        {
+            "animctrlId": 10080512,
+            "frames": [
+                "10080512000"
+            ]
+        },
+        {
+            "animctrlId": 10080513,
+            "frames": [
+                "10080513000"
+            ]
+        },
+        {
+            "animctrlId": 10080521,
+            "frames": [
+                "10080521000"
+            ]
+        },
+        {
+            "animctrlId": 10080522,
+            "frames": [
+                "10080522000"
+            ]
+        },
+        {
+            "animctrlId": 10080523,
+            "frames": [
+                "10080523000"
+            ]
+        },
+        {
+            "animctrlId": 10080701,
+            "frames": [
+                "10080701000"
+            ]
+        },
+        {
+            "animctrlId": 10080702,
+            "frames": [
+                "10080702000"
+            ]
+        },
+        {
+            "animctrlId": 10080703,
+            "frames": [
+                "10080703000"
+            ]
+        },
+        {
+            "animctrlId": 10080711,
+            "frames": [
+                "10080711000"
+            ]
+        },
+        {
+            "animctrlId": 10080712,
+            "frames": [
+                "10080712000"
+            ]
+        },
+        {
+            "animctrlId": 10080713,
+            "frames": [
+                "10080713000"
+            ]
+        },
+        {
+            "animctrlId": 10080801,
+            "frames": [
+                "10080801000"
+            ]
+        },
+        {
+            "animctrlId": 10080802,
+            "frames": [
+                "10080802000"
+            ]
+        },
+        {
+            "animctrlId": 10080811,
+            "frames": [
+                "10080811000"
+            ]
+        },
+        {
+            "animctrlId": 10080812,
+            "frames": [
+                "10080812000"
+            ]
+        },
+        {
+            "animctrlId": 10080901,
+            "frames": [
+                "10080901000"
+            ]
+        },
+        {
+            "animctrlId": 10080902,
+            "frames": [
+                "10080902000"
+            ]
+        },
+        {
+            "animctrlId": 10080911,
+            "frames": [
+                "10080911000"
+            ]
+        },
+        {
+            "animctrlId": 10080912,
+            "frames": [
+                "10080912000"
+            ]
+        },
+        {
+            "animctrlId": 10090101,
+            "frames": [
+                "10090101000",
+                "10090101001",
+                "10090101002",
+                "10090101003"
+            ]
+        },
+        {
+            "animctrlId": 10090401,
+            "frames": [
+                "10090401000",
+                "10090401001"
+            ]
+        },
+        {
+            "animctrlId": 10090411,
+            "frames": [
+                "10090411000"
+            ]
+        },
+        {
+            "animctrlId": 10090412,
+            "frames": [
+                "10090412000"
+            ]
+        },
+        {
+            "animctrlId": 10090413,
+            "frames": [
+                "10090413000"
+            ]
+        },
+        {
+            "animctrlId": 10090421,
+            "frames": [
+                "10090421000"
+            ]
+        },
+        {
+            "animctrlId": 10090422,
+            "frames": [
+                "10090422000"
+            ]
+        },
+        {
+            "animctrlId": 10090423,
+            "frames": [
+                "10090423000"
+            ]
+        },
+        {
+            "animctrlId": 10090501,
+            "frames": [
+                "10090501000",
+                "10090501001"
+            ]
+        },
+        {
+            "animctrlId": 10090502,
+            "frames": [
+                "10090502000",
+                "10090502001"
+            ]
+        },
+        {
+            "animctrlId": 10090503,
+            "frames": [
+                "10090503000",
+                "10090503001"
+            ]
+        },
+        {
+            "animctrlId": 10090504,
+            "frames": [
+                "10090504000",
+                "10090504001"
+            ]
+        },
+        {
+            "animctrlId": 10090505,
+            "frames": [
+                "10090505000",
+                "10090505001"
+            ]
+        },
+        {
+            "animctrlId": 10090506,
+            "frames": [
+                "10090506000",
+                "10090506001"
+            ]
+        },
+        {
+            "animctrlId": 10090701,
+            "frames": [
+                "10090701000"
+            ]
+        },
+        {
+            "animctrlId": 10090702,
+            "frames": [
+                "10090702000"
+            ]
+        },
+        {
+            "animctrlId": 10090703,
+            "frames": [
+                "10090703000"
+            ]
+        },
+        {
+            "animctrlId": 10090711,
+            "frames": [
+                "10090711000"
+            ]
+        },
+        {
+            "animctrlId": 10090801,
+            "frames": [
+                "10090801000"
+            ]
+        },
+        {
+            "animctrlId": 10090802,
+            "frames": [
+                "10090802000"
+            ]
+        },
+        {
+            "animctrlId": 10090901,
+            "frames": [
+                "10090901000"
+            ]
+        },
+        {
+            "animctrlId": 10090902,
+            "frames": [
+                "10090902000"
+            ]
+        },
+        {
+            "animctrlId": 10090911,
+            "frames": [
+                "10090911000"
+            ]
+        },
+        {
+            "animctrlId": 10090912,
+            "frames": [
+                "10090912000"
+            ]
+        },
+        {
+            "animctrlId": 10091001,
+            "frames": [
+                "10091001000"
+            ]
+        },
+        {
+            "animctrlId": 10091011,
+            "frames": [
+                "10091011000"
+            ]
+        },
+        {
+            "animctrlId": 10100101,
+            "frames": [
+                "10100101000",
+                "10100101001",
+                "10100101002",
+                "10100101003"
+            ]
+        },
+        {
+            "animctrlId": 10100401,
+            "frames": [
+                "10100401000",
+                "10100401001",
+                "10100401002",
+                "10100401003"
+            ]
+        },
+        {
+            "animctrlId": 10100501,
+            "frames": [
+                "10100501000",
+                "10100501001"
+            ]
+        },
+        {
+            "animctrlId": 10100701,
+            "frames": [
+                "10100701000"
+            ]
+        },
+        {
+            "animctrlId": 10100702,
+            "frames": [
+                "10100702000"
+            ]
+        },
+        {
+            "animctrlId": 10100703,
+            "frames": [
+                "10100703000"
+            ]
+        },
+        {
+            "animctrlId": 10100801,
+            "frames": [
+                "10100801000"
+            ]
+        },
+        {
+            "animctrlId": 10100802,
+            "frames": [
+                "10100802000"
+            ]
+        },
+        {
+            "animctrlId": 10100811,
+            "frames": [
+                "10100811000"
+            ]
+        },
+        {
+            "animctrlId": 10100812,
+            "frames": [
+                "10100812000"
+            ]
+        },
+        {
+            "animctrlId": 10100901,
+            "frames": [
+                "10100901000"
+            ]
+        },
+        {
+            "animctrlId": 10100911,
+            "frames": [
+                "10100911000"
+            ]
+        },
+        {
+            "animctrlId": 10101001,
+            "frames": [
+                "10101001000"
+            ]
+        },
+        {
+            "animctrlId": 10110101,
+            "frames": [
+                "10110101000",
+                "10110101001",
+                "10110101002",
+                "10110101003",
+                "10110101004",
+                "10110101005",
+                "10110101006"
+            ]
+        },
+        {
+            "animctrlId": 10110102,
+            "frames": [
+                "10110102000",
+                "10110102001",
+                "10110102002",
+                "10110102003",
+                "10110102004",
+                "10110102005",
+                "10110102006"
+            ]
+        },
+        {
+            "animctrlId": 10110401,
+            "frames": [
+                "10110401000",
+                "10110401001",
+                "10110401002"
+            ]
+        },
+        {
+            "animctrlId": 10110402,
+            "frames": [
+                "10110402000",
+                "10110402001"
+            ]
+        },
+        {
+            "animctrlId": 10110403,
+            "frames": [
+                "10110403000",
+                "10110403001"
+            ]
+        },
+        {
+            "animctrlId": 10110404,
+            "frames": [
+                "10110404000",
+                "10110404001"
+            ]
+        },
+        {
+            "animctrlId": 10110405,
+            "frames": [
+                "10110405000",
+                "10110405001"
+            ]
+        },
+        {
+            "animctrlId": 10110406,
+            "frames": [
+                "10110406000",
+                "10110406001"
+            ]
+        },
+        {
+            "animctrlId": 10110501,
+            "frames": [
+                "10110501000",
+                "10110501001"
+            ]
+        },
+        {
+            "animctrlId": 10110701,
+            "frames": [
+                "10110701000"
+            ]
+        },
+        {
+            "animctrlId": 10110702,
+            "frames": [
+                "10110702000"
+            ]
+        },
+        {
+            "animctrlId": 10110703,
+            "frames": [
+                "10110703000"
+            ]
+        },
+        {
+            "animctrlId": 10110801,
+            "frames": [
+                "10110801000"
+            ]
+        },
+        {
+            "animctrlId": 10110802,
+            "frames": [
+                "10110802000"
+            ]
+        },
+        {
+            "animctrlId": 10110811,
+            "frames": [
+                "10110811000"
+            ]
+        },
+        {
+            "animctrlId": 10110812,
+            "frames": [
+                "10110812000"
+            ]
+        },
+        {
+            "animctrlId": 10110901,
+            "frames": [
+                "10110901000"
+            ]
+        },
+        {
+            "animctrlId": 10110902,
+            "frames": [
+                "10110902000"
+            ]
+        },
+        {
+            "animctrlId": 10110911,
+            "frames": [
+                "10110911000"
+            ]
+        },
+        {
+            "animctrlId": 10110912,
+            "frames": [
+                "10110912000"
+            ]
+        },
+        {
+            "animctrlId": 10120101,
+            "frames": [
+                "10120101000",
+                "10120101001",
+                "10120101002",
+                "10120101003"
+            ]
+        },
+        {
+            "animctrlId": 10120401,
+            "frames": [
+                "10120401000",
+                "10120401001"
+            ]
+        },
+        {
+            "animctrlId": 10120501,
+            "frames": [
+                "10120501000",
+                "10120501001"
+            ]
+        },
+        {
+            "animctrlId": 10120502,
+            "frames": [
+                "10120502000",
+                "10120502001"
+            ]
+        },
+        {
+            "animctrlId": 10120503,
+            "frames": [
+                "10120503000",
+                "10120503001"
+            ]
+        },
+        {
+            "animctrlId": 10120504,
+            "frames": [
+                "10120504000",
+                "10120504001"
+            ]
+        },
+        {
+            "animctrlId": 10120505,
+            "frames": [
+                "10120505000",
+                "10120505001"
+            ]
+        },
+        {
+            "animctrlId": 10120506,
+            "frames": [
+                "10120506000",
+                "10120506001"
+            ]
+        },
+        {
+            "animctrlId": 10120511,
+            "frames": [
+                "10120511000"
+            ]
+        },
+        {
+            "animctrlId": 10120512,
+            "frames": [
+                "10120512000"
+            ]
+        },
+        {
+            "animctrlId": 10120513,
+            "frames": [
+                "10120513000"
+            ]
+        },
+        {
+            "animctrlId": 10120521,
+            "frames": [
+                "10120521000"
+            ]
+        },
+        {
+            "animctrlId": 10120522,
+            "frames": [
+                "10120522000"
+            ]
+        },
+        {
+            "animctrlId": 10120523,
+            "frames": [
+                "10120523000"
+            ]
+        },
+        {
+            "animctrlId": 10120531,
+            "frames": [
+                "10120531000"
+            ]
+        },
+        {
+            "animctrlId": 10120701,
+            "frames": [
+                "10120701000"
+            ]
+        },
+        {
+            "animctrlId": 10120702,
+            "frames": [
+                "10120702000"
+            ]
+        },
+        {
+            "animctrlId": 10120703,
+            "frames": [
+                "10120703000"
+            ]
+        },
+        {
+            "animctrlId": 10120801,
+            "frames": [
+                "10120801000"
+            ]
+        },
+        {
+            "animctrlId": 10120802,
+            "frames": [
+                "10120802000"
+            ]
+        },
+        {
+            "animctrlId": 10120811,
+            "frames": [
+                "10120811000"
+            ]
+        },
+        {
+            "animctrlId": 10120901,
+            "frames": [
+                "10120901000"
+            ]
+        },
+        {
+            "animctrlId": 10120911,
+            "frames": [
+                "10120911000"
+            ]
+        },
+        {
+            "animctrlId": 10121001,
+            "frames": [
+                "10121001000"
+            ]
+        },
+        {
+            "animctrlId": 10121011,
+            "frames": [
+                "10121011000"
+            ]
+        },
+        {
+            "animctrlId": 10121012,
+            "frames": [
+                "10121012000"
+            ]
+        },
+        {
+            "animctrlId": 10130101,
+            "frames": [
+                "10130101000",
+                "10130101001",
+                "10130101002",
+                "10130101003",
+                "10130101004",
+                "10130101005",
+                "10130101006"
+            ]
+        },
+        {
+            "animctrlId": 10130401,
+            "frames": [
+                "10130401000",
+                "10130401001",
+                "10130401002"
+            ]
+        },
+        {
+            "animctrlId": 10130410,
+            "frames": [
+                "10130410000"
+            ]
+        },
+        {
+            "animctrlId": 10130411,
+            "frames": [
+                "10130411000",
+                "10130411001",
+                "10130411002",
+                "10130411003",
+                "10130411004",
+                "10130411005",
+                "10130411006",
+                "10130411007",
+                "10130411008",
+                "10130411009"
+            ]
+        },
+        {
+            "animctrlId": 10130421,
+            "frames": [
+                "10130421000"
+            ]
+        },
+        {
+            "animctrlId": 10130501,
+            "frames": [
+                "10130501000",
+                "10130501001",
+                "10130501002"
+            ]
+        },
+        {
+            "animctrlId": 10130502,
+            "frames": [
+                "10130502000",
+                "10130502001",
+                "10130502002"
+            ]
+        },
+        {
+            "animctrlId": 10130511,
+            "frames": [
+                "10130511000"
+            ]
+        },
+        {
+            "animctrlId": 10130512,
+            "frames": [
+                "10130512000"
+            ]
+        },
+        {
+            "animctrlId": 10130513,
+            "frames": [
+                "10130513000"
+            ]
+        },
+        {
+            "animctrlId": 10130514,
+            "frames": [
+                "10130514000"
+            ]
+        },
+        {
+            "animctrlId": 10130515,
+            "frames": [
+                "10130515000"
+            ]
+        },
+        {
+            "animctrlId": 10130516,
+            "frames": [
+                "10130516000"
+            ]
+        },
+        {
+            "animctrlId": 10130521,
+            "frames": [
+                "10130521000",
+                "10130521001",
+                "10130521002",
+                "10130521003",
+                "10130521004",
+                "10130521005",
+                "10130521006",
+                "10130521007",
+                "10130521008",
+                "10130521009"
+            ]
+        },
+        {
+            "animctrlId": 10130522,
+            "frames": [
+                "10130522000",
+                "10130522001",
+                "10130522002",
+                "10130522003",
+                "10130522004",
+                "10130522005",
+                "10130522006",
+                "10130522007",
+                "10130522008",
+                "10130522009"
+            ]
+        },
+        {
+            "animctrlId": 10130701,
+            "frames": [
+                "10130701000"
+            ]
+        },
+        {
+            "animctrlId": 10130702,
+            "frames": [
+                "10130702000"
+            ]
+        },
+        {
+            "animctrlId": 10130711,
+            "frames": [
+                "10130711000"
+            ]
+        },
+        {
+            "animctrlId": 10130712,
+            "frames": [
+                "10130712000"
+            ]
+        },
+        {
+            "animctrlId": 10130713,
+            "frames": [
+                "10130713000"
+            ]
+        },
+        {
+            "animctrlId": 10130714,
+            "frames": [
+                "10130714000"
+            ]
+        },
+        {
+            "animctrlId": 10130721,
+            "frames": [
+                "10130721000"
+            ]
+        },
+        {
+            "animctrlId": 10130722,
+            "frames": [
+                "10130722000"
+            ]
+        },
+        {
+            "animctrlId": 10130801,
+            "frames": [
+                "10130801000"
+            ]
+        },
+        {
+            "animctrlId": 10130802,
+            "frames": [
+                "10130802000"
+            ]
+        },
+        {
+            "animctrlId": 10130811,
+            "frames": [
+                "10130811000"
+            ]
+        },
+        {
+            "animctrlId": 10130812,
+            "frames": [
+                "10130812000"
+            ]
+        },
+        {
+            "animctrlId": 10130821,
+            "frames": [
+                "10130821000"
+            ]
+        },
+        {
+            "animctrlId": 10130822,
+            "frames": [
+                "10130822000"
+            ]
+        },
+        {
+            "animctrlId": 10130901,
+            "frames": [
+                "10130901000"
+            ]
+        },
+        {
+            "animctrlId": 10130911,
+            "frames": [
+                "10130911000"
+            ]
+        },
+        {
+            "animctrlId": 10140101,
+            "frames": [
+                "10140101000",
+                "10140101001",
+                "10140101002",
+                "10140101003",
+                "10140101004",
+                "10140101005",
+                "10140101006"
+            ]
+        },
+        {
+            "animctrlId": 10140401,
+            "frames": [
+                "10140401000",
+                "10140401001",
+                "10140401002",
+                "10140401003",
+                "10140401004",
+                "10140401005",
+                "10140401006"
+            ]
+        },
+        {
+            "animctrlId": 10140411,
+            "frames": [
+                "10140411000",
+                "10140411001",
+                "10140411002",
+                "10140411003",
+                "10140411004",
+                "10140411005",
+                "10140411006"
+            ]
+        },
+        {
+            "animctrlId": 10140421,
+            "frames": [
+                "10140421000"
+            ]
+        },
+        {
+            "animctrlId": 10140422,
+            "frames": [
+                "10140422000"
+            ]
+        },
+        {
+            "animctrlId": 10140423,
+            "frames": [
+                "10140423000"
+            ]
+        },
+        {
+            "animctrlId": 10140501,
+            "frames": [
+                "10140501000",
+                "10140501001",
+                "10140501002"
+            ]
+        },
+        {
+            "animctrlId": 10140502,
+            "frames": [
+                "10140502000",
+                "10140502001",
+                "10140502002"
+            ]
+        },
+        {
+            "animctrlId": 10140503,
+            "frames": [
+                "10140503000",
+                "10140503001",
+                "10140503002"
+            ]
+        },
+        {
+            "animctrlId": 10140504,
+            "frames": [
+                "10140504000",
+                "10140504001",
+                "10140504002"
+            ]
+        },
+        {
+            "animctrlId": 10140505,
+            "frames": [
+                "10140505000",
+                "10140505001",
+                "10140505002"
+            ]
+        },
+        {
+            "animctrlId": 10140506,
+            "frames": [
+                "10140506000",
+                "10140506001",
+                "10140506002"
+            ]
+        },
+        {
+            "animctrlId": 10140511,
+            "frames": [
+                "10140511000",
+                "10140511001"
+            ]
+        },
+        {
+            "animctrlId": 10140512,
+            "frames": [
+                "10140512000",
+                "10140512001"
+            ]
+        },
+        {
+            "animctrlId": 10140513,
+            "frames": [
+                "10140513000",
+                "10140513001"
+            ]
+        },
+        {
+            "animctrlId": 10140514,
+            "frames": [
+                "10140514000",
+                "10140514001"
+            ]
+        },
+        {
+            "animctrlId": 10140515,
+            "frames": [
+                "10140515000",
+                "10140515001"
+            ]
+        },
+        {
+            "animctrlId": 10140516,
+            "frames": [
+                "10140516000",
+                "10140516001"
+            ]
+        },
+        {
+            "animctrlId": 10140701,
+            "frames": [
+                "10140701000"
+            ]
+        },
+        {
+            "animctrlId": 10140702,
+            "frames": [
+                "10140702000"
+            ]
+        },
+        {
+            "animctrlId": 10140703,
+            "frames": [
+                "10140703000"
+            ]
+        },
+        {
+            "animctrlId": 10140801,
+            "frames": [
+                "10140801000"
+            ]
+        },
+        {
+            "animctrlId": 10140802,
+            "frames": [
+                "10140802000"
+            ]
+        },
+        {
+            "animctrlId": 10140811,
+            "frames": [
+                "10140811000"
+            ]
+        },
+        {
+            "animctrlId": 10140812,
+            "frames": [
+                "10140812000"
+            ]
+        },
+        {
+            "animctrlId": 10140901,
+            "frames": [
+                "10140901000"
+            ]
+        },
+        {
+            "animctrlId": 10140902,
+            "frames": [
+                "10140902000"
+            ]
+        },
+        {
+            "animctrlId": 10140911,
+            "frames": [
+                "10140911000"
+            ]
+        },
+        {
+            "animctrlId": 10140912,
+            "frames": [
+                "10140912000"
+            ]
+        },
+        {
+            "animctrlId": 10150101,
+            "frames": [
+                "10150101000",
+                "10150101001",
+                "10150101002",
+                "10150101003",
+                "10150101004",
+                "10150101005",
+                "10150101006"
+            ]
+        },
+        {
+            "animctrlId": 10150111,
+            "frames": [
+                "10150111000"
+            ]
+        },
+        {
+            "animctrlId": 10150401,
+            "frames": [
+                "10150401000",
+                "10150401001",
+                "10150401002"
+            ]
+        },
+        {
+            "animctrlId": 10150402,
+            "frames": [
+                "10150402000",
+                "10150402001"
+            ]
+        },
+        {
+            "animctrlId": 10150403,
+            "frames": [
+                "10150403000",
+                "10150403001"
+            ]
+        },
+        {
+            "animctrlId": 10150404,
+            "frames": [
+                "10150404000",
+                "10150404001"
+            ]
+        },
+        {
+            "animctrlId": 10150405,
+            "frames": [
+                "10150405000",
+                "10150405001"
+            ]
+        },
+        {
+            "animctrlId": 10150406,
+            "frames": [
+                "10150406000",
+                "10150406001"
+            ]
+        },
+        {
+            "animctrlId": 10150501,
+            "frames": [
+                "10150501000",
+                "10150501001"
+            ]
+        },
+        {
+            "animctrlId": 10150701,
+            "frames": [
+                "10150701000"
+            ]
+        },
+        {
+            "animctrlId": 10150702,
+            "frames": [
+                "10150702000"
+            ]
+        },
+        {
+            "animctrlId": 10150703,
+            "frames": [
+                "10150703000"
+            ]
+        },
+        {
+            "animctrlId": 10150801,
+            "frames": [
+                "10150801000"
+            ]
+        },
+        {
+            "animctrlId": 10150802,
+            "frames": [
+                "10150802000"
+            ]
+        },
+        {
+            "animctrlId": 10150811,
+            "frames": [
+                "10150811000"
+            ]
+        },
+        {
+            "animctrlId": 10150812,
+            "frames": [
+                "10150812000"
+            ]
+        },
+        {
+            "animctrlId": 10150901,
+            "frames": [
+                "10150901000"
+            ]
+        },
+        {
+            "animctrlId": 10150902,
+            "frames": [
+                "10150902000"
+            ]
+        },
+        {
+            "animctrlId": 10150911,
+            "frames": [
+                "10150911000"
+            ]
+        },
+        {
+            "animctrlId": 10150912,
+            "frames": [
+                "10150912000"
+            ]
+        },
+        {
+            "animctrlId": 10160101,
+            "frames": [
+                "10160101000",
+                "10160101001"
+            ]
+        },
+        {
+            "animctrlId": 10160109,
+            "frames": [
+                "10160109000",
+                "10160109001"
+            ]
+        },
+        {
+            "animctrlId": 10160111,
+            "frames": [
+                "10160111000",
+                "10160111001"
+            ]
+        },
+        {
+            "animctrlId": 10160119,
+            "frames": [
+                "10160119000",
+                "10160119001"
+            ]
+        },
+        {
+            "animctrlId": 10160401,
+            "frames": [
+                "10160401000",
+                "10160401001"
+            ]
+        },
+        {
+            "animctrlId": 10160501,
+            "frames": [
+                "10160501000",
+                "10160501001"
+            ]
+        },
+        {
+            "animctrlId": 10160511,
+            "frames": [
+                "10160511000"
+            ]
+        },
+        {
+            "animctrlId": 10160512,
+            "frames": [
+                "10160512000"
+            ]
+        },
+        {
+            "animctrlId": 10160701,
+            "frames": [
+                "10160701000"
+            ]
+        },
+        {
+            "animctrlId": 10160702,
+            "frames": [
+                "10160702000"
+            ]
+        },
+        {
+            "animctrlId": 10160703,
+            "frames": [
+                "10160703000"
+            ]
+        },
+        {
+            "animctrlId": 10160801,
+            "frames": [
+                "10160801000"
+            ]
+        },
+        {
+            "animctrlId": 10160802,
+            "frames": [
+                "10160802000"
+            ]
+        },
+        {
+            "animctrlId": 10160811,
+            "frames": [
+                "10160811000"
+            ]
+        },
+        {
+            "animctrlId": 10160812,
+            "frames": [
+                "10160812000"
+            ]
+        },
+        {
+            "animctrlId": 10160901,
+            "frames": [
+                "10160901000"
+            ]
+        },
+        {
+            "animctrlId": 10161001,
+            "frames": [
+                "10161001000"
+            ]
+        },
+        {
+            "animctrlId": 10161011,
+            "frames": [
+                "10161011000"
+            ]
+        },
+        {
+            "animctrlId": 10170101,
+            "frames": [
+                "10170101000",
+                "10170101001",
+                "10170101002",
+                "10170101003",
+                "10170101004",
+                "10170101005",
+                "10170101006",
+                "10170101007",
+                "10170101008"
+            ]
+        },
+        {
+            "animctrlId": 10170401,
+            "frames": [
+                "10170401000",
+                "10170401001"
+            ]
+        },
+        {
+            "animctrlId": 10170501,
+            "frames": [
+                "10170501000",
+                "10170501001",
+                "10170501002",
+                "10170501003",
+                "10170501004",
+                "10170501005",
+                "10170501006",
+                "10170501007",
+                "10170501008",
+                "10170501009",
+                "10170501010",
+                "10170501011"
+            ]
+        },
+        {
+            "animctrlId": 10170502,
+            "frames": [
+                "10170502000",
+                "10170502001",
+                "10170502002"
+            ]
+        },
+        {
+            "animctrlId": 10170701,
+            "frames": [
+                "10170701000"
+            ]
+        },
+        {
+            "animctrlId": 10170702,
+            "frames": [
+                "10170702000"
+            ]
+        },
+        {
+            "animctrlId": 10170703,
+            "frames": [
+                "10170703000"
+            ]
+        },
+        {
+            "animctrlId": 10170711,
+            "frames": [
+                "10170711000"
+            ]
+        },
+        {
+            "animctrlId": 10170801,
+            "frames": [
+                "10170801000"
+            ]
+        },
+        {
+            "animctrlId": 10170802,
+            "frames": [
+                "10170802000"
+            ]
+        },
+        {
+            "animctrlId": 10170811,
+            "frames": [
+                "10170811000"
+            ]
+        },
+        {
+            "animctrlId": 10170812,
+            "frames": [
+                "10170812000"
+            ]
+        },
+        {
+            "animctrlId": 10170901,
+            "frames": [
+                "10170901000"
+            ]
+        },
+        {
+            "animctrlId": 10170902,
+            "frames": [
+                "10170902000"
+            ]
+        },
+        {
+            "animctrlId": 10190101,
+            "frames": [
+                "10190101000",
+                "10190101001",
+                "10190101002",
+                "10190101003",
+                "10190101004",
+                "10190101005",
+                "10190101006",
+                "10190101007",
+                "10190101008"
+            ]
+        },
+        {
+            "animctrlId": 10190102,
+            "frames": [
+                "10190102000",
+                "10190102001",
+                "10190102002",
+                "10190102003",
+                "10190102004",
+                "10190102005",
+                "10190102006",
+                "10190102007",
+                "10190102008"
+            ]
+        },
+        {
+            "animctrlId": 10190401,
+            "frames": [
+                "10190401000",
+                "10190401001",
+                "10190401002",
+                "10190401003",
+                "10190401004",
+                "10190401005",
+                "10190401006",
+                "10190401007",
+                "10190401008",
+                "10190401009"
+            ]
+        },
+        {
+            "animctrlId": 10190402,
+            "frames": [
+                "10190402000",
+                "10190402001",
+                "10190402002"
+            ]
+        },
+        {
+            "animctrlId": 10190403,
+            "frames": [
+                "10190403000",
+                "10190403001",
+                "10190403002"
+            ]
+        },
+        {
+            "animctrlId": 10190411,
+            "frames": [
+                "10190411000",
+                "10190411001",
+                "10190411002",
+                "10190411003",
+                "10190411004",
+                "10190411005",
+                "10190411006",
+                "10190411007",
+                "10190411008"
+            ]
+        },
+        {
+            "animctrlId": 10190501,
+            "frames": [
+                "10190501000",
+                "10190501001"
+            ]
+        },
+        {
+            "animctrlId": 10190701,
+            "frames": [
+                "10190701000"
+            ]
+        },
+        {
+            "animctrlId": 10190702,
+            "frames": [
+                "10190702000"
+            ]
+        },
+        {
+            "animctrlId": 10190703,
+            "frames": [
+                "10190703000"
+            ]
+        },
+        {
+            "animctrlId": 10190711,
+            "frames": [
+                "10190711000"
+            ]
+        },
+        {
+            "animctrlId": 10190801,
+            "frames": [
+                "10190801000"
+            ]
+        },
+        {
+            "animctrlId": 10190802,
+            "frames": [
+                "10190802000"
+            ]
+        },
+        {
+            "animctrlId": 10190811,
+            "frames": [
+                "10190811000"
+            ]
+        },
+        {
+            "animctrlId": 10190812,
+            "frames": [
+                "10190812000"
+            ]
+        },
+        {
+            "animctrlId": 10190901,
+            "frames": [
+                "10190901000"
+            ]
+        },
+        {
+            "animctrlId": 10190902,
+            "frames": [
+                "10190902000"
+            ]
+        },
+        {
+            "animctrlId": 10190911,
+            "frames": [
+                "10190911000"
+            ]
+        },
+        {
+            "animctrlId": 10190912,
+            "frames": [
+                "10190912000"
+            ]
+        },
+        {
+            "animctrlId": 10200101,
+            "frames": [
+                "10200101000",
+                "10200101001",
+                "10200101002",
+                "10200101003",
+                "10200101004",
+                "10200101005",
+                "10200101006"
+            ]
+        },
+        {
+            "animctrlId": 10200401,
+            "frames": [
+                "10200401000",
+                "10200401001"
+            ]
+        },
+        {
+            "animctrlId": 10200501,
+            "frames": [
+                "10200501000",
+                "10200501001",
+                "10200501002"
+            ]
+        },
+        {
+            "animctrlId": 10200511,
+            "frames": [
+                "10200511000"
+            ]
+        },
+        {
+            "animctrlId": 10200512,
+            "frames": [
+                "10200512000"
+            ]
+        },
+        {
+            "animctrlId": 10200513,
+            "frames": [
+                "10200513000"
+            ]
+        },
+        {
+            "animctrlId": 10200514,
+            "frames": [
+                "10200514000"
+            ]
+        },
+        {
+            "animctrlId": 10200515,
+            "frames": [
+                "10200515000"
+            ]
+        },
+        {
+            "animctrlId": 10200516,
+            "frames": [
+                "10200516000"
+            ]
+        },
+        {
+            "animctrlId": 10200521,
+            "frames": [
+                "10200521000"
+            ]
+        },
+        {
+            "animctrlId": 10200522,
+            "frames": [
+                "10200522000"
+            ]
+        },
+        {
+            "animctrlId": 10200523,
+            "frames": [
+                "10200523000"
+            ]
+        },
+        {
+            "animctrlId": 10200531,
+            "frames": [
+                "10200531000"
+            ]
+        },
+        {
+            "animctrlId": 10200532,
+            "frames": [
+                "10200532000"
+            ]
+        },
+        {
+            "animctrlId": 10200533,
+            "frames": [
+                "10200533000"
+            ]
+        },
+        {
+            "animctrlId": 10200701,
+            "frames": [
+                "10200701000"
+            ]
+        },
+        {
+            "animctrlId": 10200801,
+            "frames": [
+                "10200801000"
+            ]
+        },
+        {
+            "animctrlId": 10200802,
+            "frames": [
+                "10200802000"
+            ]
+        },
+        {
+            "animctrlId": 10200811,
+            "frames": [
+                "10200811000"
+            ]
+        },
+        {
+            "animctrlId": 10200812,
+            "frames": [
+                "10200812000"
+            ]
+        },
+        {
+            "animctrlId": 10200901,
+            "frames": [
+                "10200901000"
+            ]
+        },
+        {
+            "animctrlId": 10200902,
+            "frames": [
+                "10200902000"
+            ]
+        },
+        {
+            "animctrlId": 10200911,
+            "frames": [
+                "10200911000"
+            ]
+        },
+        {
+            "animctrlId": 10200912,
+            "frames": [
+                "10200912000"
+            ]
+        },
+        {
+            "animctrlId": 10200921,
+            "frames": [
+                "10200921000"
+            ]
+        },
+        {
+            "animctrlId": 10200922,
+            "frames": [
+                "10200922000"
+            ]
+        },
+        {
+            "animctrlId": 10210101,
+            "frames": [
+                "10210101000",
+                "10210101001",
+                "10210101002",
+                "10210101003",
+                "10210101004",
+                "10210101005",
+                "10210101006",
+                "10210101007",
+                "10210101008"
+            ]
+        },
+        {
+            "animctrlId": 10210102,
+            "frames": [
+                "10210102000",
+                "10210102001",
+                "10210102002",
+                "10210102003",
+                "10210102004",
+                "10210102005",
+                "10210102006",
+                "10210102007",
+                "10210102008"
+            ]
+        },
+        {
+            "animctrlId": 10210401,
+            "frames": [
+                "10210401000",
+                "10210401001",
+                "10210401002",
+                "10210401003",
+                "10210401004",
+                "10210401005",
+                "10210401006",
+                "10210401007",
+                "10210401008"
+            ]
+        },
+        {
+            "animctrlId": 10210411,
+            "frames": [
+                "10210411000"
+            ]
+        },
+        {
+            "animctrlId": 10210501,
+            "frames": [
+                "10210501000",
+                "10210501001",
+                "10210501002",
+                "10210501003",
+                "10210501004",
+                "10210501005",
+                "10210501006",
+                "10210501007",
+                "10210501008",
+                "10210501009",
+                "10210501010",
+                "10210501011"
+            ]
+        },
+        {
+            "animctrlId": 10210701,
+            "frames": [
+                "10210701000"
+            ]
+        },
+        {
+            "animctrlId": 10210711,
+            "frames": [
+                "10210711000"
+            ]
+        },
+        {
+            "animctrlId": 10210712,
+            "frames": [
+                "10210712000"
+            ]
+        },
+        {
+            "animctrlId": 10210801,
+            "frames": [
+                "10210801000"
+            ]
+        },
+        {
+            "animctrlId": 10210802,
+            "frames": [
+                "10210802000"
+            ]
+        },
+        {
+            "animctrlId": 10210811,
+            "frames": [
+                "10210811000"
+            ]
+        },
+        {
+            "animctrlId": 10210812,
+            "frames": [
+                "10210812000"
+            ]
+        },
+        {
+            "animctrlId": 10210821,
+            "frames": [
+                "10210821000"
+            ]
+        },
+        {
+            "animctrlId": 10210822,
+            "frames": [
+                "10210822000"
+            ]
+        },
+        {
+            "animctrlId": 10210901,
+            "frames": [
+                "10210901000"
+            ]
+        },
+        {
+            "animctrlId": 10210902,
+            "frames": [
+                "10210902000"
+            ]
+        },
+        {
+            "animctrlId": 10210911,
+            "frames": [
+                "10210911000"
+            ]
+        },
+        {
+            "animctrlId": 10210912,
+            "frames": [
+                "10210912000"
+            ]
+        },
+        {
+            "animctrlId": 10210921,
+            "frames": [
+                "10210921000"
+            ]
+        },
+        {
+            "animctrlId": 10210922,
+            "frames": [
+                "10210922000"
+            ]
+        },
+        {
+            "animctrlId": 10211001,
+            "frames": [
+                "10211001000"
+            ]
+        },
+        {
+            "animctrlId": 10211002,
+            "frames": [
+                "10211002000"
+            ]
+        },
+        {
+            "animctrlId": 10211011,
+            "frames": [
+                "10211011000"
+            ]
+        },
+        {
+            "animctrlId": 10211012,
+            "frames": [
+                "10211012000"
+            ]
+        },
+        {
+            "animctrlId": 10211021,
+            "frames": [
+                "10211021000"
+            ]
+        },
+        {
+            "animctrlId": 10211022,
+            "frames": [
+                "10211022000"
+            ]
+        },
+        {
+            "animctrlId": 10300101,
+            "frames": [
+                "10300101000",
+                "10300101001"
+            ]
+        },
+        {
+            "animctrlId": 10300401,
+            "frames": [
+                "10300401000",
+                "10300401001",
+                "10300401002"
+            ]
+        },
+        {
+            "animctrlId": 10300402,
+            "frames": [
+                "10300402000",
+                "10300402001",
+                "10300402002"
+            ]
+        },
+        {
+            "animctrlId": 10300403,
+            "frames": [
+                "10300403000",
+                "10300403001",
+                "10300403002"
+            ]
+        },
+        {
+            "animctrlId": 10300404,
+            "frames": [
+                "10300404000",
+                "10300404001",
+                "10300404002"
+            ]
+        },
+        {
+            "animctrlId": 10300405,
+            "frames": [
+                "10300405000",
+                "10300405001",
+                "10300405002"
+            ]
+        },
+        {
+            "animctrlId": 10300406,
+            "frames": [
+                "10300406000",
+                "10300406001",
+                "10300406002"
+            ]
+        },
+        {
+            "animctrlId": 10300501,
+            "frames": [
+                "10300501000",
+                "10300501001",
+                "10300501002",
+                "10300501003",
+                "10300501004",
+                "10300501005",
+                "10300501006",
+                "10300501007"
+            ]
+        },
+        {
+            "animctrlId": 10300701,
+            "frames": [
+                "10300701000"
+            ]
+        },
+        {
+            "animctrlId": 10300702,
+            "frames": [
+                "10300702000"
+            ]
+        },
+        {
+            "animctrlId": 10300703,
+            "frames": [
+                "10300703000"
+            ]
+        },
+        {
+            "animctrlId": 10300801,
+            "frames": [
+                "10300801000"
+            ]
+        },
+        {
+            "animctrlId": 10300802,
+            "frames": [
+                "10300802000"
+            ]
+        },
+        {
+            "animctrlId": 10300811,
+            "frames": [
+                "10300811000"
+            ]
+        },
+        {
+            "animctrlId": 10300812,
+            "frames": [
+                "10300812000"
+            ]
+        },
+        {
+            "animctrlId": 10300821,
+            "frames": [
+                "10300821000"
+            ]
+        },
+        {
+            "animctrlId": 10300831,
+            "frames": [
+                "10300831000"
+            ]
+        },
+        {
+            "animctrlId": 10300841,
+            "frames": [
+                "10300841000"
+            ]
+        },
+        {
+            "animctrlId": 10300851,
+            "frames": [
+                "10300851000"
+            ]
+        },
+        {
+            "animctrlId": 10300901,
+            "frames": [
+                "10300901000"
+            ]
+        },
+        {
+            "animctrlId": 10301001,
+            "frames": [
+                "10301001000"
+            ]
+        },
+        {
+            "animctrlId": 10301011,
+            "frames": [
+                "10301011000"
+            ]
+        },
+        {
+            "animctrlId": 10310101,
+            "frames": [
+                "10310101000",
+                "10310101001",
+                "10310101002",
+                "10310101003",
+                "10310101004",
+                "10310101005",
+                "10310101006",
+                "10310101007",
+                "10310101008",
+                "10310101009",
+                "10310101010",
+                "10310101011",
+                "10310101012"
+            ]
+        },
+        {
+            "animctrlId": 10310401,
+            "frames": [
+                "10310401000",
+                "10310401001"
+            ]
+        },
+        {
+            "animctrlId": 10310402,
+            "frames": [
+                "10310402000",
+                "10310402001"
+            ]
+        },
+        {
+            "animctrlId": 10310403,
+            "frames": [
+                "10310403000",
+                "10310403001"
+            ]
+        },
+        {
+            "animctrlId": 10310404,
+            "frames": [
+                "10310404000",
+                "10310404001"
+            ]
+        },
+        {
+            "animctrlId": 10310405,
+            "frames": [
+                "10310405000",
+                "10310405001"
+            ]
+        },
+        {
+            "animctrlId": 10310406,
+            "frames": [
+                "10310406000",
+                "10310406001"
+            ]
+        },
+        {
+            "animctrlId": 10310411,
+            "frames": [
+                "10310411000",
+                "10310411001"
+            ]
+        },
+        {
+            "animctrlId": 10310501,
+            "frames": [
+                "10310501000",
+                "10310501001",
+                "10310501002",
+                "10310501003",
+                "10310501004",
+                "10310501005",
+                "10310501006",
+                "10310501007",
+                "10310501008",
+                "10310501009",
+                "10310501010",
+                "10310501011",
+                "10310501012",
+                "10310501013",
+                "10310501014",
+                "10310501015"
+            ]
+        },
+        {
+            "animctrlId": 10310502,
+            "frames": [
+                "10310502000",
+                "10310502001"
+            ]
+        },
+        {
+            "animctrlId": 10310503,
+            "frames": [
+                "10310503000",
+                "10310503001"
+            ]
+        },
+        {
+            "animctrlId": 10310701,
+            "frames": [
+                "10310701000"
+            ]
+        },
+        {
+            "animctrlId": 10310702,
+            "frames": [
+                "10310702000"
+            ]
+        },
+        {
+            "animctrlId": 10310703,
+            "frames": [
+                "10310703000"
+            ]
+        },
+        {
+            "animctrlId": 10310711,
+            "frames": [
+                "10310711000"
+            ]
+        },
+        {
+            "animctrlId": 10310712,
+            "frames": [
+                "10310712000"
+            ]
+        },
+        {
+            "animctrlId": 10310721,
+            "frames": [
+                "10310721000"
+            ]
+        },
+        {
+            "animctrlId": 10310722,
+            "frames": [
+                "10310722000"
+            ]
+        },
+        {
+            "animctrlId": 10310731,
+            "frames": [
+                "10310731000"
+            ]
+        },
+        {
+            "animctrlId": 10310732,
+            "frames": [
+                "10310732000"
+            ]
+        },
+        {
+            "animctrlId": 10310733,
+            "frames": [
+                "10310733000"
+            ]
+        },
+        {
+            "animctrlId": 10310741,
+            "frames": [
+                "10310741000"
+            ]
+        },
+        {
+            "animctrlId": 10310742,
+            "frames": [
+                "10310742000"
+            ]
+        },
+        {
+            "animctrlId": 10310743,
+            "frames": [
+                "10310743000"
+            ]
+        },
+        {
+            "animctrlId": 10310801,
+            "frames": [
+                "10310801000"
+            ]
+        },
+        {
+            "animctrlId": 10310802,
+            "frames": [
+                "10310802000"
+            ]
+        },
+        {
+            "animctrlId": 10310811,
+            "frames": [
+                "10310811000"
+            ]
+        },
+        {
+            "animctrlId": 10310812,
+            "frames": [
+                "10310812000"
+            ]
+        },
+        {
+            "animctrlId": 10310901,
+            "frames": [
+                "10310901000"
+            ]
+        },
+        {
+            "animctrlId": 10311001,
+            "frames": [
+                "10311001000"
+            ]
+        },
+        {
+            "animctrlId": 10311011,
+            "frames": [
+                "10311011000"
+            ]
+        },
+        {
+            "animctrlId": 10900101,
+            "frames": [
+                "10900101000"
+            ]
+        },
+        {
+            "animctrlId": 10900102,
+            "frames": [
+                "10900102000"
+            ]
+        },
+        {
+            "animctrlId": 20010101,
+            "frames": [
+                "20010101000"
+            ]
+        },
+        {
+            "animctrlId": 20010111,
+            "frames": [
+                "20010111000"
+            ]
+        },
+        {
+            "animctrlId": 20010201,
+            "frames": [
+                "20010201000"
+            ]
+        },
+        {
+            "animctrlId": 20010202,
+            "frames": [
+                "20010202000"
+            ]
+        },
+        {
+            "animctrlId": 20010203,
+            "frames": [
+                "20010203000"
+            ]
+        },
+        {
+            "animctrlId": 20010204,
+            "frames": [
+                "20010204000"
+            ]
+        },
+        {
+            "animctrlId": 20010301,
+            "frames": [
+                "20010301000"
+            ]
+        },
+        {
+            "animctrlId": 20010401,
+            "frames": [
+                "20010401000"
+            ]
+        },
+        {
+            "animctrlId": 20010402,
+            "frames": [
+                "20010402000"
+            ]
+        },
+        {
+            "animctrlId": 20010501,
+            "frames": [
+                "20010501000"
+            ]
+        },
+        {
+            "animctrlId": 20010502,
+            "frames": [
+                "20010502000"
+            ]
+        },
+        {
+            "animctrlId": 20010601,
+            "frames": [
+                "20010601000"
+            ]
+        },
+        {
+            "animctrlId": 20010602,
+            "frames": [
+                "20010602000"
+            ]
+        },
+        {
+            "animctrlId": 20010701,
+            "frames": [
+                "20010701000"
+            ]
+        },
+        {
+            "animctrlId": 60000101,
+            "frames": [
+                "60000101000"
+            ]
+        },
+        {
+            "animctrlId": 68510071,
+            "frames": [
+                "68510071000"
+            ]
+        },
+        {
+            "animctrlId": 70010101,
+            "frames": [
+                "70010101000"
+            ]
+        },
+        {
+            "animctrlId": 70013001,
+            "frames": [
+                "70013001000"
+            ]
+        },
+        {
+            "animctrlId": 70020101,
+            "frames": [
+                "70020101000",
+                "70020101001",
+                "70020101002",
+                "70020101003",
+                "70020101004",
+                "70020101005",
+                "70020101006",
+                "70020101007",
+                "70020101008",
+                "70020101009",
+                "70020101010",
+                "70020101011",
+                "70020101012"
+            ]
+        },
+        {
+            "animctrlId": 70030101,
+            "frames": [
+                "70030101000"
+            ]
+        },
+        {
+            "animctrlId": 80010101,
+            "frames": [
+                "80010101000"
+            ]
+        },
+        {
+            "animctrlId": 80010104,
+            "frames": [
+                "80010104000"
+            ]
+        },
+        {
+            "animctrlId": 80010301,
+            "frames": [
+                "80010301000"
+            ]
+        },
+        {
+            "animctrlId": 80020101,
+            "frames": [
+                "80020101000",
+                "80020101001"
+            ]
+        },
+        {
+            "animctrlId": 90000001,
+            "frames": [
+                "90000001000"
+            ]
+        },
+        {
+            "animctrlId": 90000002,
+            "frames": [
+                "90000002000"
+            ]
+        },
+        {
+            "animctrlId": 90000003,
+            "frames": [
+                "90000003000"
+            ]
+        },
+        {
+            "animctrlId": 90000004,
+            "frames": [
+                "90000004000"
+            ]
+        },
+        {
+            "animctrlId": 90000005,
+            "frames": [
+                "90000005000"
+            ]
+        },
+        {
+            "animctrlId": 90000006,
+            "frames": [
+                "90000006000"
+            ]
+        },
+        {
+            "animctrlId": 90000007,
+            "frames": [
+                "90000007000"
+            ]
+        },
+        {
+            "animctrlId": 90000008,
+            "frames": [
+                "90000008000"
+            ]
+        },
+        {
+            "animctrlId": 90000009,
+            "frames": [
+                "90000009000"
+            ]
+        },
+        {
+            "animctrlId": 90000010,
+            "frames": [
+                "90000010000"
+            ]
+        },
+        {
+            "animctrlId": 90000011,
+            "frames": [
+                "90000011000"
+            ]
+        },
+        {
+            "animctrlId": 90000012,
+            "frames": [
+                "90000012000"
+            ]
+        },
+        {
+            "animctrlId": 90000013,
+            "frames": [
+                "90000013000"
+            ]
+        },
+        {
+            "animctrlId": 90000014,
+            "frames": [
+                "90000014000"
+            ]
+        },
+        {
+            "animctrlId": 90000015,
+            "frames": [
+                "90000015000"
+            ]
+        },
+        {
+            "animctrlId": 90000016,
+            "frames": [
+                "90000016000"
+            ]
+        },
+        {
+            "animctrlId": 90000017,
+            "frames": [
+                "90000017000"
+            ]
+        },
+        {
+            "animctrlId": 90000018,
+            "frames": [
+                "90000018000"
+            ]
+        },
+        {
+            "animctrlId": 92000001,
+            "frames": [
+                "92000001000"
+            ]
+        },
+        {
+            "animctrlId": 92000002,
+            "frames": [
+                "92000002000"
+            ]
+        },
+        {
+            "animctrlId": 92000003,
+            "frames": [
+                "92000003000"
+            ]
+        },
+        {
+            "animctrlId": 96121202,
+            "frames": [
+                "96121202000",
+                "96121202001"
+            ]
+        },
+        {
+            "animctrlId": 96142602,
+            "frames": [
+                "96142602000"
+            ]
+        },
+        {
+            "animctrlId": 96169202,
+            "frames": [
+                "96169202000",
+                "96169202001",
+                "96169202002",
+                "96169202003",
+                "96169202004",
+                "96169202005"
+            ]
+        },
+        {
+            "animctrlId": 96169301,
+            "frames": [
+                "96169301000",
+                "96169301001"
+            ]
+        },
+        {
+            "animctrlId": 96179504,
+            "frames": [
+                "96179504000"
+            ]
+        },
+        {
+            "animctrlId": 96241304,
+            "frames": [
+                "96241304000"
+            ]
+        },
+        {
+            "animctrlId": 96242201,
+            "frames": [
+                "96242201000",
+                "96242201001"
+            ]
+        },
+        {
+            "animctrlId": 96259201,
+            "frames": [
+                "96259201000",
+                "96259201001"
+            ]
+        },
+        {
+            "animctrlId": 96259401,
+            "frames": [
+                "96259401000",
+                "96259401001"
+            ]
+        },
+        {
+            "animctrlId": 96259411,
+            "frames": [
+                "96259411000"
+            ]
+        },
+        {
+            "animctrlId": 96269201,
+            "frames": [
+                "96269201000",
+                "96269201001"
+            ]
+        },
+        {
+            "animctrlId": 96269401,
+            "frames": [
+                "96269401000",
+                "96269401001"
+            ]
+        },
+        {
+            "animctrlId": 96860201,
+            "frames": [
+                "96860201000",
+                "96860201001"
+            ]
+        },
+        {
+            "animctrlId": 96861201,
+            "frames": [
+                "96861201000",
+                "96861201001"
+            ]
+        },
+        {
+            "animctrlId": 99000001,
+            "frames": [
+                "99000001000"
+            ]
+        },
+        {
+            "animctrlId": 99000002,
+            "frames": [
+                "99000002000"
+            ]
+        },
+        {
+            "animctrlId": 99000003,
+            "frames": [
+                "99000003000"
+            ]
+        },
+        {
+            "animctrlId": 99000004,
+            "frames": [
+                "99000004000"
+            ]
+        },
+        {
+            "animctrlId": 99000005,
+            "frames": [
+                "99000005000"
+            ]
+        },
+        {
+            "animctrlId": 99000006,
+            "frames": [
+                "99000006000"
+            ]
+        },
+        {
+            "animctrlId": 99000010,
+            "frames": [
+                "99000010000"
+            ]
+        },
+        {
+            "animctrlId": 99000012,
+            "frames": [
+                "99000012000"
+            ]
+        },
+        {
+            "animctrlId": 99000013,
+            "frames": [
+                "99000013000"
+            ]
+        },
+        {
+            "animctrlId": 99000106,
+            "frames": [
+                "99000106000"
+            ]
+        },
+        {
+            "animctrlId": 99900001,
+            "frames": [
+                "99900001000"
+            ]
+        },
+        {
+            "animctrlId": 99900002,
+            "frames": [
+                "99900002000"
+            ]
+        },
+        {
+            "animctrlId": 99990001,
+            "frames": [
+                "99990001000"
+            ]
+        },
+        {
+            "animctrlId": 200103011,
+            "frames": [
+                "200103011000",
+                "200103011001"
+            ]
+        },
+        {
+            "animctrlId": 910000001,
+            "frames": [
+                "910000001000"
+            ]
+        },
+        {
+            "animctrlId": 910040701,
+            "frames": [
+                "910040701000"
+            ]
+        },
+        {
+            "animctrlId": 920000001,
+            "frames": [
+                "920000001000"
+            ]
+        },
+        {
+            "animctrlId": 920000002,
+            "frames": [
+                "920000002000"
+            ]
+        },
+        {
+            "animctrlId": 951911101,
+            "frames": [
+                "951911101000",
+                "951911101001"
+            ]
+        },
+        {
+            "animctrlId": 952130101,
+            "frames": [
+                "952130101000",
+                "952130101001"
+            ]
+        },
+        {
+            "animctrlId": 952130102,
+            "frames": [
+                "952130102000",
+                "952130102001",
+                "952130102002"
+            ]
+        }
+    ]
+}

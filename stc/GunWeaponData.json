@@ -1,0 +1,765 @@
+{
+    "data": [
+        {
+            "id": 50001,
+            "name": {
+                "id": "4710"
+            },
+            "description": {
+                "id": "4711"
+            },
+            "type": 1,
+            "scale": "0,-0.35,3.2",
+            "element": 6,
+            "resCode": "Weapon_HareOrigin",
+            "resPath": "Player/CharolicR01/CharolicR01_WL",
+            "brand": "brand_icon01",
+            "rank": 2,
+            "expRate": 500,
+            "weaponOfferExp": 450,
+            "weaponNeedCash": 4500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "2": 500
+            },
+            "pow": 20
+        },
+        {
+            "id": 50002,
+            "name": {
+                "id": "4712"
+            },
+            "description": {
+                "id": "4713"
+            },
+            "type": 2,
+            "scale": "0,0.243,0.8",
+            "element": 6,
+            "resCode": "Weapon_TaurusCurveOrigin",
+            "resPath": "Player/ColphneR01/ColphneR01_WL",
+            "brand": "brand_icon02",
+            "rank": 2,
+            "expRate": 500,
+            "weaponOfferExp": 450,
+            "weaponNeedCash": 4500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "2": 500
+            },
+            "pow": 20
+        },
+        {
+            "id": 50003,
+            "name": {
+                "id": "4714"
+            },
+            "description": {
+                "id": "4715"
+            },
+            "type": 3,
+            "scale": "0,0,3.5",
+            "element": 6,
+            "resCode": "Weapon_OM50Origin",
+            "resPath": "Player/NemesisR01/NemesisR01_WL",
+            "brand": "brand_icon01",
+            "rank": 2,
+            "expRate": 500,
+            "weaponOfferExp": 450,
+            "weaponNeedCash": 4500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "2": 500
+            },
+            "pow": 20
+        },
+        {
+            "id": 50004,
+            "name": {
+                "id": "4716"
+            },
+            "description": {
+                "id": "4717"
+            },
+            "type": 4,
+            "scale": "0,0,2.6",
+            "element": 6,
+            "resCode": "Weapon_OTS14Origin",
+            "resPath": "Player/GrozaR01/GrozaR01_WL",
+            "brand": "brand_icon01",
+            "rank": 2,
+            "expRate": 500,
+            "weaponOfferExp": 450,
+            "weaponNeedCash": 4500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "2": 500
+            },
+            "pow": 20
+        },
+        {
+            "id": 50005,
+            "name": {
+                "id": "4718"
+            },
+            "description": {
+                "id": "4719"
+            },
+            "type": 5,
+            "scale": "0,0,2.4",
+            "element": 6,
+            "resCode": "Weapon_Vepr12Origin",
+            "resPath": "Player/VepleyR01/VepleyR01_WL",
+            "brand": "brand_icon01",
+            "rank": 2,
+            "expRate": 500,
+            "weaponOfferExp": 450,
+            "weaponNeedCash": 4500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "2": 500
+            },
+            "pow": 20
+        },
+        {
+            "id": 50006,
+            "name": {
+                "id": "4720"
+            },
+            "description": {
+                "id": "4721"
+            },
+            "type": 6,
+            "scale": "0,0,2.8",
+            "element": 6,
+            "resCode": "Weapon_UMP9Origin",
+            "resPath": "Player/LennaR01/LennaR01_Default",
+            "brand": "brand_icon02",
+            "rank": 2,
+            "expRate": 500,
+            "weaponOfferExp": 450,
+            "weaponNeedCash": 4500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "2": 500
+            },
+            "pow": 20
+        },
+        {
+            "id": 50007,
+            "name": {
+                "id": "4722"
+            },
+            "description": {
+                "id": "4723"
+            },
+            "type": 7,
+            "scale": "0,-0.04,3",
+            "element": 6,
+            "resCode": "Weapon_PechenegSPOrigin",
+            "resPath": "Player/PerityaR01/PerityaR01_WL",
+            "brand": "brand_icon02",
+            "rank": 2,
+            "expRate": 500,
+            "weaponOfferExp": 450,
+            "weaponNeedCash": 4500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "2": 500
+            },
+            "pow": 20
+        },
+        {
+            "id": 51001,
+            "name": {
+                "id": "4724"
+            },
+            "description": {
+                "id": "4725"
+            },
+            "type": 1,
+            "scale": "0,-0.35,3.2",
+            "element": 2,
+            "resCode": "Weapon_HarePlus",
+            "resPath": "Player/CharolicR01/CharolicR01_WL",
+            "brand": "brand_icon01",
+            "rank": 4,
+            "skill": 5100100,
+            "expRate": 1000,
+            "weaponOfferExp": 750,
+            "weaponNeedCash": 7500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 2
+            },
+            "pow": 30,
+            "armor": 40,
+            "dodgePercentage": 40
+        },
+        {
+            "id": 51002,
+            "name": {
+                "id": "4726"
+            },
+            "description": {
+                "id": "4727"
+            },
+            "type": 2,
+            "scale": "0,0.243,0.8",
+            "element": 1,
+            "resCode": "Weapon_TaurusCurve",
+            "resPath": "Player/ColphneR01/ColphneR01_WL",
+            "brand": "brand_icon01",
+            "rank": 3,
+            "skill": 5100200,
+            "expRate": 750,
+            "weaponOfferExp": 600,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "16": 2
+            },
+            "maxHp": 100,
+            "pow": 20
+        },
+        {
+            "id": 51003,
+            "name": {
+                "id": "4728"
+            },
+            "description": {
+                "id": "4729"
+            },
+            "type": 3,
+            "scale": "0,0,3.5",
+            "element": 3,
+            "resCode": "Weapon_OM50",
+            "resPath": "Player/NemesisR01/NemesisR01_WL",
+            "brand": "brand_icon02",
+            "rank": 3,
+            "skill": 5100300,
+            "expRate": 750,
+            "weaponOfferExp": 600,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "16": 2
+            },
+            "pow": 40
+        },
+        {
+            "id": 51004,
+            "name": {
+                "id": "4730"
+            },
+            "description": {
+                "id": "4731"
+            },
+            "type": 4,
+            "scale": "0,0,2.6",
+            "element": 1,
+            "resCode": "Weapon_OTS14",
+            "resPath": "Player/GrozaR01/GrozaR01_WL",
+            "brand": "brand_icon01",
+            "rank": 3,
+            "skill": 5100400,
+            "expRate": 750,
+            "weaponOfferExp": 600,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "16": 2
+            },
+            "pow": 40
+        },
+        {
+            "id": 51005,
+            "name": {
+                "id": "4732"
+            },
+            "description": {
+                "id": "4733"
+            },
+            "type": 1,
+            "scale": "0,-0.35,3.2",
+            "element": 1,
+            "resCode": "Weapon_JackAlope",
+            "resPath": "Player/CharolicR01/CharolicR01_WL",
+            "brand": "brand_icon03",
+            "rank": 5,
+            "elemenSkill": 5100510,
+            "skill": 5100500,
+            "expRate": 1250,
+            "weaponOfferExp": 900,
+            "weaponNeedCash": 9000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 10
+            },
+            "pow": 40,
+            "armor": 40,
+            "crit": 20,
+            "critMult": 40
+        },
+        {
+            "id": 51006,
+            "name": {
+                "id": "4734"
+            },
+            "description": {
+                "id": "4735"
+            },
+            "type": 3,
+            "scale": "0,0,3.5",
+            "element": 1,
+            "resCode": "Weapon_DeamVindictae",
+            "resPath": "Player/NemesisR01/NemesisR01_WL",
+            "brand": "brand_icon01",
+            "rank": 5,
+            "elemenSkill": 5100610,
+            "skill": 5100600,
+            "expRate": 1250,
+            "weaponOfferExp": 900,
+            "weaponNeedCash": 9000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 10
+            },
+            "pow": 60,
+            "hitPercentage": 50
+        },
+        {
+            "id": 51007,
+            "name": {
+                "id": "4736"
+            },
+            "description": {
+                "id": "4737"
+            },
+            "type": 4,
+            "scale": "0,0,2.6",
+            "element": 5,
+            "resCode": "Weapon_Geironul",
+            "resPath": "Player/GrozaR01/GrozaR01_WL",
+            "brand": "brand_icon01",
+            "rank": 5,
+            "elemenSkill": 5100720,
+            "skill": 5100700,
+            "expRate": 1250,
+            "weaponOfferExp": 900,
+            "weaponNeedCash": 9000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 10
+            },
+            "maxHp": 50,
+            "pow": 50,
+            "crit": 20,
+            "critMult": 40
+        },
+        {
+            "id": 51008,
+            "name": {
+                "id": "4738"
+            },
+            "description": {
+                "id": "4739"
+            },
+            "type": 3,
+            "scale": "0,0,3.5",
+            "element": 2,
+            "resCode": "Weapon_OM50Plus",
+            "resPath": "Player/NemesisSR01/NemesisSR01_WL",
+            "brand": "brand_icon01",
+            "rank": 4,
+            "skill": 5100800,
+            "expRate": 1000,
+            "weaponOfferExp": 750,
+            "weaponNeedCash": 7500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 2
+            },
+            "pow": 50,
+            "hitPercentage": 40
+        },
+        {
+            "id": 51009,
+            "name": {
+                "id": "4740"
+            },
+            "description": {
+                "id": "4741"
+            },
+            "type": 2,
+            "scale": "0,0.243,0.8",
+            "element": 5,
+            "resCode": "Weapon_TaurusCurvePlus",
+            "resPath": "Player/ColphneSR01/ColphneSR01_WL",
+            "brand": "brand_icon02",
+            "rank": 4,
+            "skill": 5100900,
+            "expRate": 1000,
+            "weaponOfferExp": 750,
+            "weaponNeedCash": 7500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 2
+            },
+            "maxHp": 100,
+            "pow": 30,
+            "dodgePercentage": 40
+        },
+        {
+            "id": 51010,
+            "name": {
+                "id": "4742"
+            },
+            "description": {
+                "id": "4743"
+            },
+            "type": 5,
+            "scale": "0,0,2.4",
+            "element": 3,
+            "resCode": "Weapon_HeartHunter",
+            "resPath": "Player/VepleyR01/VepleyR01_WL",
+            "brand": "brand_icon03",
+            "rank": 5,
+            "elemenSkill": 5101020,
+            "skill": 5101000,
+            "expRate": 1250,
+            "weaponOfferExp": 900,
+            "weaponNeedCash": 9000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 10
+            },
+            "maxHp": 150,
+            "pow": 30,
+            "dodgePercentage": 50
+        },
+        {
+            "id": 51011,
+            "name": {
+                "id": "4744"
+            },
+            "description": {
+                "id": "4745"
+            },
+            "type": 5,
+            "scale": "0,0,2.4",
+            "element": 2,
+            "resCode": "Weapon_Vepr12",
+            "resPath": "Player/VepleyR01/VepleyR01_WL",
+            "brand": "brand_icon01",
+            "rank": 3,
+            "skill": 5101100,
+            "expRate": 750,
+            "weaponOfferExp": 600,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "16": 2
+            },
+            "maxHp": 100,
+            "pow": 20
+        },
+        {
+            "id": 51012,
+            "name": {
+                "id": "4746"
+            },
+            "description": {
+                "id": "4747"
+            },
+            "type": 2,
+            "scale": "0,0.243,0.8",
+            "element": 2,
+            "resCode": "Weapon_Cuca",
+            "resPath": "Player/ColphneR01/ColphneR01_WL",
+            "brand": "brand_icon03",
+            "rank": 5,
+            "elemenSkill": 5101220,
+            "skill": 5101200,
+            "expRate": 1250,
+            "weaponOfferExp": 900,
+            "weaponNeedCash": 9000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 10
+            },
+            "maxHp": 150,
+            "pow": 30,
+            "crit": 30
+        },
+        {
+            "id": 51013,
+            "name": {
+                "id": "4748"
+            },
+            "description": {
+                "id": "4749"
+            },
+            "type": 6,
+            "scale": "0,0,2.8",
+            "element": 5,
+            "resCode": "Weapon_KleinerLowe",
+            "resPath": "Player/LennaR01/LennaR01_Default",
+            "brand": "brand_icon01",
+            "rank": 5,
+            "elemenSkill": 5101330,
+            "skill": 5101300,
+            "expRate": 1250,
+            "weaponOfferExp": 900,
+            "weaponNeedCash": 9000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 10
+            },
+            "pow": 40,
+            "armor": 40,
+            "crit": 30
+        },
+        {
+            "id": 51014,
+            "name": {
+                "id": "4750"
+            },
+            "description": {
+                "id": "4751"
+            },
+            "type": 7,
+            "scale": "0,-0.04,3",
+            "element": 2,
+            "resCode": "Weapon_OpticalIllusion",
+            "resPath": "Player/PerityaR01/PerityaR01_WL",
+            "brand": "brand_icon03",
+            "rank": 5,
+            "elemenSkill": 5101420,
+            "skill": 5101400,
+            "expRate": 1250,
+            "weaponOfferExp": 900,
+            "weaponNeedCash": 9000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 10
+            },
+            "maxHp": 50,
+            "pow": 50,
+            "crit": 20,
+            "critMult": 40
+        },
+        {
+            "id": 51015,
+            "name": {
+                "id": "4752"
+            },
+            "description": {
+                "id": "4753"
+            },
+            "type": 5,
+            "scale": "0,0,2.4",
+            "element": 1,
+            "resCode": "Weapon_Vepr12Plus",
+            "resPath": "Player/VepleySR01/cw_VepleySR01_WL",
+            "brand": "brand_icon01",
+            "rank": 4,
+            "skill": 5101500,
+            "expRate": 1000,
+            "weaponOfferExp": 750,
+            "weaponNeedCash": 7500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 2
+            },
+            "maxHp": 100,
+            "pow": 20,
+            "armor": 20,
+            "dodgePercentage": 40
+        },
+        {
+            "id": 51016,
+            "name": {
+                "id": "4754"
+            },
+            "description": {
+                "id": "4755"
+            },
+            "type": 1,
+            "scale": "0,-0.35,3.2",
+            "element": 4,
+            "resCode": "Weapon_Hare",
+            "resPath": "Player/CharolicR01/CharolicR01_WL",
+            "brand": "brand_icon01",
+            "rank": 3,
+            "skill": 5101600,
+            "expRate": 750,
+            "weaponOfferExp": 600,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "16": 2
+            },
+            "pow": 30,
+            "armor": 20
+        },
+        {
+            "id": 51017,
+            "name": {
+                "id": "4756"
+            },
+            "description": {
+                "id": "4757"
+            },
+            "type": 4,
+            "scale": "0,0,2.6",
+            "element": 3,
+            "resCode": "Weapon_OTS14Plus",
+            "resPath": "Player/GrozaR01/GrozaR01_WL",
+            "brand": "brand_icon01",
+            "rank": 4,
+            "skill": 5101700,
+            "expRate": 1000,
+            "weaponOfferExp": 750,
+            "weaponNeedCash": 7500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 2
+            },
+            "maxHp": 50,
+            "pow": 40,
+            "crit": 20
+        },
+        {
+            "id": 51019,
+            "name": {
+                "id": "4758"
+            },
+            "description": {
+                "id": "4759"
+            },
+            "type": 7,
+            "scale": "0,-0.04,3",
+            "element": 3,
+            "resCode": "Weapon_Pecheneg",
+            "resPath": "Player/PerityaR01/PerityaR01_WL",
+            "brand": "brand_icon01",
+            "rank": 3,
+            "skill": 5101900,
+            "expRate": 750,
+            "weaponOfferExp": 600,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "16": 2
+            },
+            "maxHp": 100,
+            "pow": 20
+        },
+        {
+            "id": 51020,
+            "name": {
+                "id": "4760"
+            },
+            "description": {
+                "id": "4761"
+            },
+            "type": 6,
+            "scale": "0,0,2.8",
+            "element": 1,
+            "resCode": "Weapon_UMP9Plus",
+            "resPath": "Player/LennaR01/LennaR01_Default",
+            "brand": "brand_icon01",
+            "rank": 4,
+            "skill": 5102000,
+            "expRate": 1000,
+            "weaponOfferExp": 750,
+            "weaponNeedCash": 7500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 2
+            },
+            "pow": 30,
+            "armor": 40,
+            "dodgePercentage": 40
+        },
+        {
+            "id": 51021,
+            "name": {
+                "id": "4762"
+            },
+            "description": {
+                "id": "4763"
+            },
+            "type": 7,
+            "scale": "0,-0.04,3",
+            "element": 5,
+            "resCode": "Weapon_PechenegSPPlus",
+            "resPath": "Player/PerityaSR01/PerityaSR01_WL",
+            "brand": "brand_icon01",
+            "rank": 4,
+            "skill": 5102100,
+            "expRate": 1000,
+            "weaponOfferExp": 750,
+            "weaponNeedCash": 7500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "17": 2
+            },
+            "maxHp": 100,
+            "pow": 30,
+            "crit": 20
+        },
+        {
+            "id": 950001,
+            "name": {
+                "id": "4764"
+            },
+            "description": {
+                "id": "4765"
+            },
+            "type": 4,
+            "scale": "0,0,2.6",
+            "element": 1,
+            "resCode": "Weapon_OTS14Plus",
+            "resPath": "Player/GrozaR01/GrozaR01_WL",
+            "brand": "brand_icon01",
+            "rank": 2,
+            "expRate": 500,
+            "weaponOfferExp": 450,
+            "weaponNeedCash": 4500,
+            "defaultMaxlv": 15,
+            "maxBreak": 5,
+            "soldGet": {
+                "2": 500
+            },
+            "pow": 20
+        }
+    ]
+}

@@ -1,0 +1,408 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 1,
+            "speed": 150.0
+        },
+        {
+            "id": 2,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 109,
+            "routeType": 1,
+            "speed": 150.0
+        },
+        {
+            "id": 3,
+            "birthType": 1,
+            "birthLgpType": 104,
+            "destType": 1,
+            "destLgpType": 104
+        },
+        {
+            "id": 4,
+            "birthType": 2,
+            "birthLgpType": 104,
+            "destType": 2,
+            "destLgpType": 104
+        },
+        {
+            "id": 5,
+            "birthType": 2,
+            "birthLgpType": 109,
+            "destType": 2,
+            "destLgpType": 109
+        },
+        {
+            "id": 6,
+            "birthType": 2,
+            "birthLgpType": 103,
+            "destType": 2,
+            "destLgpType": 103
+        },
+        {
+            "id": 7,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 1,
+            "destLgpType": 108
+        },
+        {
+            "id": 8,
+            "birthType": 3,
+            "destType": 3
+        },
+        {
+            "id": 9,
+            "birthType": 4,
+            "destType": 4
+        },
+        {
+            "id": 10,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 3,
+            "speed": 294.0
+        },
+        {
+            "id": 11,
+            "birthType": 3,
+            "destType": 3,
+            "effectPoint": 1
+        },
+        {
+            "id": 12,
+            "birthType": 2,
+            "birthLgpType": 102,
+            "destType": 2,
+            "destLgpType": 102
+        },
+        {
+            "id": 13,
+            "birthType": 1,
+            "birthLgpType": 109,
+            "destType": 1,
+            "destLgpType": 109
+        },
+        {
+            "id": 14,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 4,
+            "routeType": 2,
+            "speed": 10.0,
+            "routePara": 10.0
+        },
+        {
+            "id": 15,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 1,
+            "speed": 150.0,
+            "effectPoint": 1
+        },
+        {
+            "id": 16,
+            "birthType": 1,
+            "birthLgpType": 114,
+            "destType": 2,
+            "destLgpType": 114,
+            "routeType": 3
+        },
+        {
+            "id": 17,
+            "birthType": 1,
+            "birthLgpType": 201,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 1,
+            "speed": 60.0
+        },
+        {
+            "id": 18,
+            "birthType": 1,
+            "birthLgpType": 202,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 1,
+            "speed": 150.0
+        },
+        {
+            "id": 19,
+            "birthType": 1,
+            "birthLgpType": 203,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 1,
+            "speed": 150.0
+        },
+        {
+            "id": 20,
+            "birthType": 1,
+            "birthLgpType": 201,
+            "destType": 4,
+            "routeType": 2,
+            "speed": 10.0,
+            "routePara": 10.0
+        },
+        {
+            "id": 21,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 1,
+            "speed": 10.0,
+            "effectPoint": 1
+        },
+        {
+            "id": 22,
+            "birthType": 6,
+            "destType": 6
+        },
+        {
+            "id": 23,
+            "birthType": 1,
+            "birthLgpType": 109,
+            "destType": 2,
+            "destLgpType": 109,
+            "routeType": 1,
+            "speed": 5.0
+        },
+        {
+            "id": 24,
+            "birthType": 2,
+            "birthLgpType": 109,
+            "destType": 2,
+            "destLgpType": 109
+        },
+        {
+            "id": 25,
+            "birthType": 1,
+            "birthLgpType": 201,
+            "destType": 1,
+            "destLgpType": 201
+        },
+        {
+            "id": 26,
+            "birthType": 1,
+            "birthLgpType": 202,
+            "destType": 1,
+            "destLgpType": 202
+        },
+        {
+            "id": 27,
+            "birthType": 1,
+            "birthLgpType": 203,
+            "destType": 1,
+            "destLgpType": 203
+        },
+        {
+            "id": 28,
+            "birthType": 1,
+            "birthLgpType": 102,
+            "destType": 4,
+            "routeType": 2,
+            "speed": 10.0,
+            "routePara": 10.0
+        },
+        {
+            "id": 29,
+            "birthType": 1,
+            "birthLgpType": 101,
+            "destType": 4,
+            "routeType": 2,
+            "speed": 10.0,
+            "routePara": 10.0
+        },
+        {
+            "id": 30,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 2,
+            "speed": 10.0,
+            "routePara": 10.0
+        },
+        {
+            "id": 31,
+            "birthType": 1,
+            "birthLgpType": 115,
+            "destType": 1,
+            "destLgpType": 115
+        },
+        {
+            "id": 32,
+            "birthType": 1,
+            "birthLgpType": 204,
+            "destType": 1,
+            "destLgpType": 204
+        },
+        {
+            "id": 33,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 6,
+            "speed": 20.0
+        },
+        {
+            "id": 34,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 4,
+            "routeType": 1,
+            "speed": 150.0
+        },
+        {
+            "id": 35,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 1,
+            "speed": 10.0
+        },
+        {
+            "id": 36,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 1,
+            "speed": 20.0
+        },
+        {
+            "id": 37,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 2,
+            "speed": 8.0,
+            "routePara": 15.0
+        },
+        {
+            "id": 38,
+            "birthType": 2,
+            "birthLgpType": 108,
+            "destType": 1,
+            "destLgpType": 108,
+            "routeType": 2,
+            "speed": 10.0,
+            "routePara": 10.0
+        },
+        {
+            "id": 39,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 1,
+            "destLgpType": 108,
+            "routeType": 7
+        },
+        {
+            "id": 100,
+            "birthType": 5,
+            "birthGameobjectName": "EffectRoot"
+        },
+        {
+            "id": 101,
+            "birthType": 1,
+            "birthLgpType": 104,
+            "destType": 1,
+            "destLgpType": 104,
+            "routeType": 4
+        },
+        {
+            "id": 102,
+            "birthType": 2,
+            "birthLgpType": 104,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 4
+        },
+        {
+            "id": 103,
+            "birthType": 2,
+            "birthLgpType": 109,
+            "destType": 2,
+            "destLgpType": 109,
+            "routeType": 4
+        },
+        {
+            "id": 104,
+            "birthType": 2,
+            "birthLgpType": 103,
+            "destType": 2,
+            "destLgpType": 103,
+            "routeType": 4
+        },
+        {
+            "id": 105,
+            "birthType": 2,
+            "birthLgpType": 102,
+            "destType": 2,
+            "destLgpType": 102,
+            "routeType": 4
+        },
+        {
+            "id": 106,
+            "birthType": 4,
+            "destType": 4,
+            "routeType": 4
+        },
+        {
+            "id": 107,
+            "birthType": 1,
+            "birthLgpType": 109,
+            "destType": 1,
+            "destLgpType": 109,
+            "routeType": 4
+        },
+        {
+            "id": 108,
+            "birthType": 1,
+            "birthLgpType": 108,
+            "destType": 3,
+            "routeType": 4,
+            "effectPoint": 1
+        },
+        {
+            "id": 197,
+            "birthType": 5,
+            "birthGameobjectName": "Tactic_Effect_Camera_Point",
+            "destType": 4,
+            "routeType": 2,
+            "speed": 15.0,
+            "routePara": 5.0
+        },
+        {
+            "id": 198,
+            "birthType": 5,
+            "birthGameobjectName": "Tactic_Effect_Camera_Point",
+            "destType": 4,
+            "routeType": 1,
+            "speed": 60.0
+        },
+        {
+            "id": 199,
+            "birthType": 5,
+            "birthGameobjectName": "Tactic_Effect_Camera_Point",
+            "destType": 4,
+            "routeType": 1,
+            "speed": 30.0
+        }
+    ]
+}

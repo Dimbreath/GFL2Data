@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "id": 990101,
+            "model": "Ots14_B",
+            "lgpType": 101,
+            "lgpPath": "B_Root/Bip001/Weapon_L_Hand_Point"
+        },
+        {
+            "id": 990102,
+            "model": "Ots14_B",
+            "lgpType": 102,
+            "lgpPath": "B_Root/Bip001/Weapon_R_Hand_Point"
+        },
+        {
+            "id": 990103,
+            "model": "Ots14_B",
+            "lgpType": 103,
+            "lgpPath": "B_Root/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head"
+        },
+        {
+            "id": 990104,
+            "model": "Ots14_B",
+            "featureCode": 2,
+            "lgpType": 104,
+            "lgpPath": "lgp_Chest"
+        },
+        {
+            "id": 990105,
+            "model": "Ots14_B",
+            "lgpType": 108,
+            "lgpPath": "B_Root/Bip001/Weapon_R_Hand_Point/Weapon/lgp_muzzle"
+        },
+        {
+            "id": 990106,
+            "model": "Ots14_B",
+            "lgpType": 109,
+            "lgpPath": "lgp_Root"
+        },
+        {
+            "id": 990107,
+            "model": "Ots14_B",
+            "lgpType": 111,
+            "lgpPath": "body"
+        },
+        {
+            "id": 990108,
+            "model": "Ots14_B",
+            "lgpType": 114,
+            "lgpPath": "HPPoint"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "data": [
+        {
+            "id": 503401,
+            "round": 1,
+            "moveGrid": 1572886,
+            "useSkill": 53230101,
+            "skillPoint": 1572886
+        },
+        {
+            "id": 503402,
+            "round": 1,
+            "moveGrid": 1572889,
+            "useSkill": 53230101,
+            "skillPoint": 1572889
+        },
+        {
+            "id": 1010201,
+            "round": 1,
+            "moveGrid": 1703961,
+            "useSkill": 6110101,
+            "skillPoint": 1507358
+        },
+        {
+            "id": 1010202,
+            "round": 1,
+            "moveGrid": 1703960
+        },
+        {
+            "id": 1010401,
+            "round": 1,
+            "moveGrid": 1376287,
+            "useSkill": 6210101,
+            "skillPoint": 1376288
+        },
+        {
+            "id": 1010402,
+            "round": 1,
+            "moveGrid": 1310749,
+            "useSkill": 6210101,
+            "skillPoint": 1376288
+        },
+        {
+            "id": 1010403,
+            "round": 1,
+            "moveGrid": 1441820,
+            "useSkill": 6210101,
+            "skillPoint": 1376288
+        },
+        {
+            "id": 1010404,
+            "round": 1,
+            "moveGrid": 1638430,
+            "useSkill": 6210101,
+            "skillPoint": 1376288
+        },
+        {
+            "id": 1300101,
+            "round": 1,
+            "moveGrid": 1507353,
+            "useSkill": 50030101,
+            "skillPoint": 1572888
+        },
+        {
+            "id": 1300102,
+            "round": 2,
+            "moveGrid": 1507350,
+            "useSkill": 50030101,
+            "skillPoint": 1507349
+        },
+        {
+            "id": 1300103,
+            "round": 3,
+            "moveGrid": 1507347,
+            "useSkill": 50030101,
+            "skillPoint": 1507346
+        },
+        {
+            "id": 1400501,
+            "round": 1,
+            "moveGrid": 1441819,
+            "useSkill": 80020101,
+            "skillPoint": 1441814
+        },
+        {
+            "id": 1400601,
+            "round": 1,
+            "moveGrid": 1310747
+        },
+        {
+            "id": 1400701,
+            "round": 1,
+            "moveGrid": 1376283
+        },
+        {
+            "id": 1400801,
+            "round": 1,
+            "moveGrid": 1507355
+        },
+        {
+            "id": 1400901,
+            "round": 1,
+            "moveGrid": 1572890
+        },
+        {
+            "id": 1500401,
+            "round": 1,
+            "moveGrid": 1703958,
+            "useSkill": 52130101,
+            "skillPoint": 1441817
+        },
+        {
+            "id": 1501101,
+            "round": 1,
+            "moveGrid": 1835038
+        },
+        {
+            "id": 8010301,
+            "round": 1,
+            "moveGrid": 1638421
+        },
+        {
+            "id": 8010302,
+            "round": 2,
+            "moveGrid": 1703955
+        },
+        {
+            "id": 8010303,
+            "round": 3,
+            "moveGrid": 1900563
+        },
+        {
+            "id": 8010304,
+            "round": 4,
+            "moveGrid": 1966097
+        },
+        {
+            "id": 8010305,
+            "round": 5,
+            "moveGrid": 2162705
+        },
+        {
+            "id": 8010311,
+            "round": 1,
+            "moveGrid": 1638419
+        },
+        {
+            "id": 8010312,
+            "round": 2,
+            "moveGrid": 1835027
+        },
+        {
+            "id": 8010313,
+            "round": 3,
+            "moveGrid": 1900561
+        },
+        {
+            "id": 8010314,
+            "round": 4,
+            "moveGrid": 2097169
+        }
+    ]
+}

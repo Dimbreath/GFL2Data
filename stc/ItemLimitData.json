@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "1"
+            }
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "2"
+            },
+            "initNum": 5000
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "3"
+            }
+        },
+        {
+            "id": 4,
+            "name": {
+                "id": "4"
+            },
+            "isBag": true,
+            "initNum": 200,
+            "maxLimit": 1000,
+            "overflow": true
+        },
+        {
+            "id": 5,
+            "name": {
+                "id": "5"
+            },
+            "isBag": true,
+            "initNum": 100,
+            "maxLimit": 500,
+            "overflow": true
+        },
+        {
+            "id": 6,
+            "name": {
+                "id": "6"
+            },
+            "isBag": true,
+            "initNum": 100,
+            "maxLimit": 500,
+            "overflow": true
+        },
+        {
+            "id": 7,
+            "name": {
+                "id": "7"
+            },
+            "isBag": true,
+            "initNum": 5
+        },
+        {
+            "id": 9,
+            "name": {
+                "id": "8"
+            },
+            "initNum": 3,
+            "maxLimit": 3000,
+            "overflow": true
+        },
+        {
+            "id": 101,
+            "name": {
+                "id": "9"
+            },
+            "initNum": 100,
+            "maxLimit": 800,
+            "overflow": true
+        },
+        {
+            "id": 102,
+            "name": {
+                "id": "10"
+            },
+            "initNum": 5,
+            "maxLimit": 5000,
+            "overflow": true
+        },
+        {
+            "id": 1001003,
+            "name": {
+                "id": "11"
+            },
+            "initNum": 1
+        },
+        {
+            "id": 1001004,
+            "name": {
+                "id": "11"
+            },
+            "initNum": 1
+        }
+    ]
+}

@@ -1,0 +1,423 @@
+{
+    "data": [
+        {
+            "level": 1,
+            "powLevelFactor": 1000,
+            "hpLevelFactor": 1000,
+            "armorLevelFactor": 1000
+        },
+        {
+            "level": 2,
+            "exp": 130,
+            "powLevelFactor": 1070,
+            "hpLevelFactor": 1070,
+            "armorLevelFactor": 1070
+        },
+        {
+            "level": 3,
+            "exp": 150,
+            "powLevelFactor": 1161,
+            "hpLevelFactor": 1161,
+            "armorLevelFactor": 1161
+        },
+        {
+            "level": 4,
+            "exp": 210,
+            "powLevelFactor": 1262,
+            "hpLevelFactor": 1262,
+            "armorLevelFactor": 1262
+        },
+        {
+            "level": 5,
+            "exp": 320,
+            "powLevelFactor": 1370,
+            "hpLevelFactor": 1370,
+            "armorLevelFactor": 1370
+        },
+        {
+            "level": 6,
+            "exp": 500,
+            "powLevelFactor": 1483,
+            "hpLevelFactor": 1483,
+            "armorLevelFactor": 1483
+        },
+        {
+            "level": 7,
+            "exp": 770,
+            "powLevelFactor": 1602,
+            "hpLevelFactor": 1602,
+            "armorLevelFactor": 1602
+        },
+        {
+            "level": 8,
+            "exp": 1150,
+            "powLevelFactor": 1724,
+            "hpLevelFactor": 1724,
+            "armorLevelFactor": 1724
+        },
+        {
+            "level": 9,
+            "exp": 1660,
+            "powLevelFactor": 1849,
+            "hpLevelFactor": 1849,
+            "armorLevelFactor": 1849
+        },
+        {
+            "level": 10,
+            "exp": 2310,
+            "powLevelFactor": 1978,
+            "hpLevelFactor": 1978,
+            "armorLevelFactor": 1978
+        },
+        {
+            "level": 11,
+            "exp": 3130,
+            "powLevelFactor": 2110,
+            "hpLevelFactor": 2110,
+            "armorLevelFactor": 2110
+        },
+        {
+            "level": 12,
+            "exp": 4120,
+            "powLevelFactor": 2244,
+            "hpLevelFactor": 2244,
+            "armorLevelFactor": 2244
+        },
+        {
+            "level": 13,
+            "exp": 5310,
+            "powLevelFactor": 2381,
+            "hpLevelFactor": 2381,
+            "armorLevelFactor": 2381
+        },
+        {
+            "level": 14,
+            "exp": 6720,
+            "powLevelFactor": 2520,
+            "hpLevelFactor": 2520,
+            "armorLevelFactor": 2520
+        },
+        {
+            "level": 15,
+            "exp": 8360,
+            "powLevelFactor": 2662,
+            "hpLevelFactor": 2662,
+            "armorLevelFactor": 2662
+        },
+        {
+            "level": 16,
+            "exp": 10250,
+            "powLevelFactor": 2805,
+            "hpLevelFactor": 2805,
+            "armorLevelFactor": 2805
+        },
+        {
+            "level": 17,
+            "exp": 12410,
+            "powLevelFactor": 2951,
+            "hpLevelFactor": 2951,
+            "armorLevelFactor": 2951
+        },
+        {
+            "level": 18,
+            "exp": 14860,
+            "powLevelFactor": 3098,
+            "hpLevelFactor": 3098,
+            "armorLevelFactor": 3098
+        },
+        {
+            "level": 19,
+            "exp": 17620,
+            "powLevelFactor": 3247,
+            "hpLevelFactor": 3247,
+            "armorLevelFactor": 3247
+        },
+        {
+            "level": 20,
+            "exp": 20700,
+            "powLevelFactor": 3397,
+            "hpLevelFactor": 3397,
+            "armorLevelFactor": 3397
+        },
+        {
+            "level": 21,
+            "exp": 24130,
+            "powLevelFactor": 3549,
+            "hpLevelFactor": 3549,
+            "armorLevelFactor": 3549
+        },
+        {
+            "level": 22,
+            "exp": 27910,
+            "powLevelFactor": 3703,
+            "hpLevelFactor": 3703,
+            "armorLevelFactor": 3703
+        },
+        {
+            "level": 23,
+            "exp": 32070,
+            "powLevelFactor": 3858,
+            "hpLevelFactor": 3858,
+            "armorLevelFactor": 3858
+        },
+        {
+            "level": 24,
+            "exp": 36630,
+            "powLevelFactor": 4015,
+            "hpLevelFactor": 4015,
+            "armorLevelFactor": 4015
+        },
+        {
+            "level": 25,
+            "exp": 41600,
+            "powLevelFactor": 4173,
+            "hpLevelFactor": 4173,
+            "armorLevelFactor": 4173
+        },
+        {
+            "level": 26,
+            "exp": 47000,
+            "powLevelFactor": 4332,
+            "hpLevelFactor": 4332,
+            "armorLevelFactor": 4332
+        },
+        {
+            "level": 27,
+            "exp": 52850,
+            "powLevelFactor": 4492,
+            "hpLevelFactor": 4492,
+            "armorLevelFactor": 4492
+        },
+        {
+            "level": 28,
+            "exp": 59170,
+            "powLevelFactor": 4654,
+            "hpLevelFactor": 4654,
+            "armorLevelFactor": 4654
+        },
+        {
+            "level": 29,
+            "exp": 65980,
+            "powLevelFactor": 4817,
+            "hpLevelFactor": 4817,
+            "armorLevelFactor": 4817
+        },
+        {
+            "level": 30,
+            "exp": 73290,
+            "powLevelFactor": 4981,
+            "hpLevelFactor": 4981,
+            "armorLevelFactor": 4981
+        },
+        {
+            "level": 31,
+            "exp": 81130,
+            "powLevelFactor": 5147,
+            "hpLevelFactor": 5147,
+            "armorLevelFactor": 5147
+        },
+        {
+            "level": 32,
+            "exp": 89500,
+            "powLevelFactor": 5313,
+            "hpLevelFactor": 5313,
+            "armorLevelFactor": 5313
+        },
+        {
+            "level": 33,
+            "exp": 98430,
+            "powLevelFactor": 5480,
+            "hpLevelFactor": 5480,
+            "armorLevelFactor": 5480
+        },
+        {
+            "level": 34,
+            "exp": 107940,
+            "powLevelFactor": 5649,
+            "hpLevelFactor": 5649,
+            "armorLevelFactor": 5649
+        },
+        {
+            "level": 35,
+            "exp": 118040,
+            "powLevelFactor": 5819,
+            "hpLevelFactor": 5819,
+            "armorLevelFactor": 5819
+        },
+        {
+            "level": 36,
+            "exp": 128750,
+            "powLevelFactor": 5989,
+            "hpLevelFactor": 5989,
+            "armorLevelFactor": 5989
+        },
+        {
+            "level": 37,
+            "exp": 140090,
+            "powLevelFactor": 6161,
+            "hpLevelFactor": 6161,
+            "armorLevelFactor": 6161
+        },
+        {
+            "level": 38,
+            "exp": 152080,
+            "powLevelFactor": 6333,
+            "hpLevelFactor": 6333,
+            "armorLevelFactor": 6333
+        },
+        {
+            "level": 39,
+            "exp": 164740,
+            "powLevelFactor": 6507,
+            "hpLevelFactor": 6507,
+            "armorLevelFactor": 6507
+        },
+        {
+            "level": 40,
+            "exp": 178080,
+            "powLevelFactor": 6681,
+            "hpLevelFactor": 6681,
+            "armorLevelFactor": 6681
+        },
+        {
+            "level": 41,
+            "exp": 192130,
+            "powLevelFactor": 6856,
+            "hpLevelFactor": 6856,
+            "armorLevelFactor": 6856
+        },
+        {
+            "level": 42,
+            "exp": 206890,
+            "powLevelFactor": 7032,
+            "hpLevelFactor": 7032,
+            "armorLevelFactor": 7032
+        },
+        {
+            "level": 43,
+            "exp": 222390,
+            "powLevelFactor": 7209,
+            "hpLevelFactor": 7209,
+            "armorLevelFactor": 7209
+        },
+        {
+            "level": 44,
+            "exp": 238650,
+            "powLevelFactor": 7387,
+            "hpLevelFactor": 7387,
+            "armorLevelFactor": 7387
+        },
+        {
+            "level": 45,
+            "exp": 255680,
+            "powLevelFactor": 7566,
+            "hpLevelFactor": 7566,
+            "armorLevelFactor": 7566
+        },
+        {
+            "level": 46,
+            "exp": 273500,
+            "powLevelFactor": 7745,
+            "hpLevelFactor": 7745,
+            "armorLevelFactor": 7745
+        },
+        {
+            "level": 47,
+            "exp": 292130,
+            "powLevelFactor": 7925,
+            "hpLevelFactor": 7925,
+            "armorLevelFactor": 7925
+        },
+        {
+            "level": 48,
+            "exp": 311590,
+            "powLevelFactor": 8106,
+            "hpLevelFactor": 8106,
+            "armorLevelFactor": 8106
+        },
+        {
+            "level": 49,
+            "exp": 331900,
+            "powLevelFactor": 8288,
+            "hpLevelFactor": 8288,
+            "armorLevelFactor": 8288
+        },
+        {
+            "level": 50,
+            "exp": 353070,
+            "powLevelFactor": 8471,
+            "hpLevelFactor": 8471,
+            "armorLevelFactor": 8471
+        },
+        {
+            "level": 51,
+            "exp": 375130,
+            "powLevelFactor": 8654,
+            "hpLevelFactor": 8654,
+            "armorLevelFactor": 8654
+        },
+        {
+            "level": 52,
+            "exp": 398080,
+            "powLevelFactor": 8838,
+            "hpLevelFactor": 8838,
+            "armorLevelFactor": 8838
+        },
+        {
+            "level": 53,
+            "exp": 421950,
+            "powLevelFactor": 9023,
+            "hpLevelFactor": 9023,
+            "armorLevelFactor": 9023
+        },
+        {
+            "level": 54,
+            "exp": 446760,
+            "powLevelFactor": 9208,
+            "hpLevelFactor": 9208,
+            "armorLevelFactor": 9208
+        },
+        {
+            "level": 55,
+            "exp": 472520,
+            "powLevelFactor": 9395,
+            "hpLevelFactor": 9395,
+            "armorLevelFactor": 9395
+        },
+        {
+            "level": 56,
+            "exp": 499250,
+            "powLevelFactor": 9581,
+            "hpLevelFactor": 9581,
+            "armorLevelFactor": 9581
+        },
+        {
+            "level": 57,
+            "exp": 526970,
+            "powLevelFactor": 9769,
+            "hpLevelFactor": 9769,
+            "armorLevelFactor": 9769
+        },
+        {
+            "level": 58,
+            "exp": 555700,
+            "powLevelFactor": 9957,
+            "hpLevelFactor": 9957,
+            "armorLevelFactor": 9957
+        },
+        {
+            "level": 59,
+            "exp": 585460,
+            "powLevelFactor": 10146,
+            "hpLevelFactor": 10146,
+            "armorLevelFactor": 10146
+        },
+        {
+            "level": 60,
+            "exp": 616260,
+            "powLevelFactor": 10336,
+            "hpLevelFactor": 10336,
+            "armorLevelFactor": 10336
+        }
+    ]
+}

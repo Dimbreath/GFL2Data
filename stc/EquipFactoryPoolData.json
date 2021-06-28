@@ -1,0 +1,160 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": 1,
+            "name": {
+                "id": "2270"
+            },
+            "preview": "201:3,202:3,203:14,204:33",
+            "dropId": 1001,
+            "cost": {
+                "108": 10
+            },
+            "background": "CommonFactoryPool123"
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "name": {
+                "id": "2271"
+            },
+            "preview": "301:3,302:3,303:14",
+            "dropId": 1002,
+            "cost": {
+                "112": 10
+            },
+            "background": "CommonFactoryPool456"
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "name": {
+                "id": "2272"
+            },
+            "preview": "101:3,102:3,103:14,104:35,105:35,106:35,107:35",
+            "dropId": 1003,
+            "cost": {
+                "115": 10
+            },
+            "background": "CommonFactoryPool789"
+        },
+        {
+            "id": 4,
+            "type": 1,
+            "name": {
+                "id": "2273"
+            },
+            "preview": "401:63",
+            "dropId": 1004,
+            "cost": {
+                "118": 10
+            },
+            "background": "CommonFactoryPool101112"
+        },
+        {
+            "id": 5,
+            "type": 2,
+            "name": {
+                "id": "2270"
+            },
+            "preview": "201:3,202:3,203:14,204:33",
+            "dropId": 1005,
+            "cost": {
+                "109": 10
+            },
+            "background": "AdvanceFactoryPool123"
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "name": {
+                "id": "2271"
+            },
+            "preview": "301:3,302:3,303:14",
+            "dropId": 1006,
+            "cost": {
+                "113": 10
+            },
+            "background": "AdvanceFactoryPool456"
+        },
+        {
+            "id": 7,
+            "type": 2,
+            "name": {
+                "id": "2272"
+            },
+            "preview": "101:3,102:3,103:14,104:35,105:35,106:35,107:35",
+            "dropId": 1007,
+            "cost": {
+                "116": 10
+            },
+            "background": "AdvanceFactoryPool789"
+        },
+        {
+            "id": 8,
+            "type": 2,
+            "name": {
+                "id": "2273"
+            },
+            "preview": "401:63",
+            "dropId": 1008,
+            "cost": {
+                "119": 10
+            },
+            "background": "AdvanceFactoryPool101112"
+        },
+        {
+            "id": 9,
+            "type": 3,
+            "name": {
+                "id": "2270"
+            },
+            "preview": "201:3,202:3,203:14,204:33",
+            "dropId": 1009,
+            "cost": {
+                "110": 10
+            },
+            "background": "ProFactoryPool123"
+        },
+        {
+            "id": 10,
+            "type": 3,
+            "name": {
+                "id": "2271"
+            },
+            "preview": "301:3,302:3,303:14",
+            "dropId": 1010,
+            "cost": {
+                "114": 10
+            },
+            "background": "ProFactoryPool456"
+        },
+        {
+            "id": 11,
+            "type": 3,
+            "name": {
+                "id": "2272"
+            },
+            "preview": "101:3,102:3,103:14,104:35,105:35,106:35,107:35",
+            "dropId": 1011,
+            "cost": {
+                "117": 10
+            },
+            "background": "ProFactoryPool789"
+        },
+        {
+            "id": 12,
+            "type": 3,
+            "name": {
+                "id": "2273"
+            },
+            "preview": "401:63",
+            "dropId": 1012,
+            "cost": {
+                "120": 10
+            },
+            "background": "ProFactoryPool101112"
+        }
+    ]
+}

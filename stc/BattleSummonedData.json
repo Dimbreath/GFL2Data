@@ -1,0 +1,612 @@
+{
+    "data": [
+        {
+            "id": 106,
+            "skillGroupList": [
+                "*99000106",
+                "",
+                "",
+                ""
+            ],
+            "aiList": [
+                10601
+            ],
+            "modelCode": 106,
+            "isEntity": true,
+            "characterPic": "Gatling",
+            "gridOccupied": true,
+            "name": "全局大招-炮塔",
+            "isSelectable": true,
+            "summonLevel": 1
+        },
+        {
+            "id": 9901,
+            "skillGroupList": [
+                "*10010101",
+                "*10010401",
+                "*10010501",
+                ""
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                100101
+            ],
+            "modelCode": 5001,
+            "isEntity": true,
+            "characterPic": "None",
+            "gridOccupied": true,
+            "name": "测试用",
+            "isSelectable": true
+        },
+        {
+            "id": 9902,
+            "skillGroupList": [
+                "",
+                "",
+                "",
+                "*99000003"
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "点火",
+            "summonGroup": 99,
+            "summonLevel": 1
+        },
+        {
+            "id": 9903,
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "灭火",
+            "summonGroup": 99,
+            "summonLevel": 1
+        },
+        {
+            "id": 40130,
+            "skillGroupList": [
+                "*40131"
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "施法动作召唤物",
+            "summonGroup": 40130,
+            "summonLevel": 1
+        },
+        {
+            "id": 40131,
+            "skillGroupList": [
+                "*40133"
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "火柱预警召唤物",
+            "summonGroup": 40131,
+            "summonLevel": 1
+        },
+        {
+            "id": 50302,
+            "skillGroupList": [
+                "*50303"
+            ],
+            "modelCode": 106,
+            "isEntity": true,
+            "characterPic": "None",
+            "gridOccupied": true,
+            "name": "监视BUFF",
+            "isSelectable": true
+        },
+        {
+            "id": 6241304,
+            "skillGroupList": [
+                "",
+                "",
+                "",
+                "*6241304"
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "攻击范围标识",
+            "summonGroup": 6241304,
+            "summonLevel": 1
+        },
+        {
+            "id": 6851403,
+            "skillGroupList": [
+                "*6851404",
+                "*6851405",
+                "",
+                "*6851406"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "火焰",
+            "summonGroup": 1,
+            "summonLevel": 1
+        },
+        {
+            "id": 6851501,
+            "skillGroupList": [
+                "*6851502",
+                "",
+                "",
+                ""
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                6851501
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "天罚"
+        },
+        {
+            "id": 6851502,
+            "skillGroupList": [
+                "*6851503",
+                "",
+                "",
+                ""
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                6851502
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "天罚"
+        },
+        {
+            "id": 6853401,
+            "skillGroupList": [
+                "*6853412"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                999801
+            ],
+            "modelCode": 7008,
+            "isEntity": true,
+            "characterPic": "Sextans03",
+            "gridOccupied": true,
+            "name": "暗翼",
+            "isSelectable": true,
+            "summonLevel": 10
+        },
+        {
+            "id": 6853402,
+            "skillGroupList": [
+                "*6853421"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7006,
+            "isEntity": true,
+            "characterPic": "Sextans01",
+            "gridOccupied": true,
+            "name": "尖星碑",
+            "isSelectable": true,
+            "summonLevel": 10
+        },
+        {
+            "id": 6853403,
+            "skillGroupList": [
+                "*6853431"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7007,
+            "isEntity": true,
+            "characterPic": "Sextans02",
+            "gridOccupied": true,
+            "name": "银面钟",
+            "isSelectable": true,
+            "summonLevel": 10
+        },
+        {
+            "id": 6853711,
+            "skillGroupList": [
+                "*6853701"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "普攻图腾的父亲"
+        },
+        {
+            "id": 6853712,
+            "skillGroupList": [
+                "*6853702"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "加血图腾的父亲"
+        },
+        {
+            "id": 6853713,
+            "skillGroupList": [
+                "*6853703"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "加攻图腾的父亲"
+        },
+        {
+            "id": 10130401,
+            "skillGroupList": [
+                "10130410",
+                "10130520",
+                "*10130421",
+                "10130710"
+            ],
+            "reflectGroupList": [
+                10130400,
+                10130500,
+                0,
+                10130700
+            ],
+            "aiList": [
+                10130401
+            ],
+            "modelCode": 6113,
+            "isEntity": true,
+            "characterPic": "None",
+            "gridOccupied": true,
+            "name": "监视无人机",
+            "isSelectable": true
+        },
+        {
+            "id": 10130701,
+            "skillGroupList": [
+                "10130410",
+                "10130520",
+                "",
+                "10130710"
+            ],
+            "reflectGroupList": [
+                10130400,
+                10130500,
+                0,
+                10130700
+            ],
+            "aiList": [
+                10130701
+            ],
+            "modelCode": 1998,
+            "characterPic": "None",
+            "bindType": 1,
+            "name": "监视无人机"
+        },
+        {
+            "id": 10200501,
+            "skillGroupList": [
+                "10200510",
+                "",
+                "",
+                ""
+            ],
+            "reflectGroupList": [
+                10200500,
+                0,
+                0,
+                0
+            ],
+            "aiList": [
+                10200501
+            ],
+            "modelCode": 107,
+            "isEntity": true,
+            "characterPic": "Spire",
+            "gridOccupied": true,
+            "name": "量子发生器",
+            "isSelectable": true
+        },
+        {
+            "id": 10210701,
+            "skillGroupList": [
+                "*10210711",
+                "*10210712",
+                "",
+                ""
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "modelCode": 7002,
+            "characterPic": "None",
+            "name": "佩里缇亚火焰",
+            "summonGroup": 1,
+            "summonLevel": 1
+        },
+        {
+            "id": 10300801,
+            "skillGroupList": [
+                "*10300851",
+                "",
+                "",
+                "*10300821"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "modelCode": 108,
+            "characterPic": "None",
+            "name": "炮车烟雾",
+            "summonGroup": 1,
+            "summonLevel": 10
+        },
+        {
+            "id": 51010101,
+            "skillGroupList": [
+                "",
+                "",
+                "",
+                "*99000003"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "测试用",
+            "summonGroup": 1,
+            "summonLevel": 1
+        },
+        {
+            "id": 59010401,
+            "skillGroupList": [
+                "",
+                "",
+                "",
+                "*99000005"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "测试用",
+            "summonGroup": 1,
+            "summonLevel": 1
+        },
+        {
+            "id": 61412041,
+            "skillGroupList": [
+                "*6141204"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "匪帮小队长黏性弹"
+        },
+        {
+            "id": 61422031,
+            "skillGroupList": [
+                "*6142601",
+                "",
+                "",
+                "*6142602"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "匪帮狗BOSS炸弹"
+        },
+        {
+            "id": 61692021,
+            "skillGroupList": [
+                "",
+                "",
+                "",
+                "*6179203"
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "布瑟尔震撼弹",
+            "summonLevel": 1
+        },
+        {
+            "id": 61692022,
+            "skillGroupList": [
+                "",
+                "",
+                "",
+                "*6179208"
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "布瑟尔震撼弹选敌"
+        },
+        {
+            "id": 61892021,
+            "skillGroupList": [
+                "",
+                "",
+                "",
+                "*6189203"
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "布瑟尔震撼弹（无延迟）",
+            "summonLevel": 1
+        },
+        {
+            "id": 61892022,
+            "skillGroupList": [
+                "",
+                "",
+                "",
+                "*6189208"
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "布瑟尔震撼弹选敌"
+        },
+        {
+            "id": 62124031,
+            "skillGroupList": [
+                "",
+                "",
+                "",
+                "*6210404"
+            ],
+            "reflectGroupList": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "毒雾",
+            "summonGroup": 1,
+            "summonLevel": 1
+        },
+        {
+            "id": 62413041,
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "攻击范围清除",
+            "summonGroup": 6241304,
+            "summonLevel": 1
+        },
+        {
+            "id": 68510081,
+            "skillGroupList": [
+                "*6851010",
+                "*6851011",
+                "*6851012",
+                "*6851014"
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 6851,
+            "isEntity": true,
+            "characterPic": "Darture",
+            "gridOccupied": true,
+            "name": "黑眼分身",
+            "isSelectable": true,
+            "summonLevel": 10
+        },
+        {
+            "id": 80010301,
+            "skillGroupList": [
+                "*80010101"
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "能量系统开场SET"
+        },
+        {
+            "id": 200102012,
+            "skillGroupList": [
+                "*20010202"
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "一般手枪回血被动召唤物"
+        },
+        {
+            "id": 200102013,
+            "skillGroupList": [
+                "*20010204"
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "手枪回血回能被动召唤物"
+        }
+    ]
+}

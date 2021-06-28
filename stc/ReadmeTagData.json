@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "tagName": {
+                "id": "4218"
+            },
+            "bannerName": "GachaBanner1",
+            "titleName": {
+                "id": "4219"
+            },
+            "hintDetail": {
+                "id": "4220"
+            }
+        },
+        {
+            "id": 2,
+            "tagName": {
+                "id": "4221"
+            },
+            "titleName": {
+                "id": "4222"
+            },
+            "imgName": "datu",
+            "hintDetail": {
+                "id": "4223"
+            }
+        },
+        {
+            "id": 3,
+            "tagName": {
+                "id": "4224"
+            },
+            "titleName": {
+                "id": "4223"
+            },
+            "hintDetail": {
+                "id": "4225"
+            }
+        },
+        {
+            "id": 4,
+            "tagName": {
+                "id": "4226"
+            },
+            "titleName": {
+                "id": "4223"
+            },
+            "hintDetail": {
+                "id": "4227"
+            }
+        },
+        {
+            "id": 5,
+            "tagName": {
+                "id": "4228"
+            },
+            "titleName": {
+                "id": "4223"
+            },
+            "hintDetail": {
+                "id": "4229"
+            }
+        },
+        {
+            "id": 6,
+            "tagName": {
+                "id": "4230"
+            },
+            "titleName": {
+                "id": "4223"
+            },
+            "hintDetail": {
+                "id": "4231"
+            }
+        },
+        {
+            "id": 7,
+            "tagName": {
+                "id": "4232"
+            },
+            "titleName": {
+                "id": "4223"
+            },
+            "hintDetail": {
+                "id": "4233"
+            }
+        },
+        {
+            "id": 8,
+            "tagName": {
+                "id": "4234"
+            },
+            "titleName": {
+                "id": "4223"
+            },
+            "hintDetail": {
+                "id": "4235"
+            }
+        }
+    ]
+}

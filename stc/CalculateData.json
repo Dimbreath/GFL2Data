@@ -1,0 +1,219 @@
+{
+    "data": [
+        {
+            "id": 1002,
+            "formula": "({0}+{1})/4",
+            "parameter": "1:hp,1:pow"
+        },
+        {
+            "id": 1003,
+            "formula": "({0}/{1})*1000",
+            "parameter": "2:hp,2:max_hp"
+        },
+        {
+            "id": 1004,
+            "formula": "100+{0}*2",
+            "potentialParameter": "1"
+        },
+        {
+            "id": 301111,
+            "formula": "({0}/{1})*100",
+            "parameter": "2:hp,2:max_hp"
+        },
+        {
+            "id": 301121,
+            "formula": "({0}/{1})*200",
+            "parameter": "2:hp,2:max_hp"
+        },
+        {
+            "id": 301131,
+            "formula": "({0}/{1})*300",
+            "parameter": "2:hp,2:max_hp"
+        },
+        {
+            "id": 301411,
+            "formula": "(1-{0}/{1})*400",
+            "parameter": "2:hp,2:max_hp"
+        },
+        {
+            "id": 301421,
+            "formula": "(1-{0}/{1})*800",
+            "parameter": "2:hp,2:max_hp"
+        },
+        {
+            "id": 301431,
+            "formula": "(1-{0}/{1})*1200",
+            "parameter": "2:hp,2:max_hp"
+        },
+        {
+            "id": 10010701,
+            "formula": "(1-{0}/{1})*1000",
+            "parameter": "1:hp,1:max_hp"
+        },
+        {
+            "id": 10010702,
+            "formula": "(1-{0}/{1})*750",
+            "parameter": "1:hp,1:max_hp"
+        },
+        {
+            "id": 10010703,
+            "formula": "(1-{0}/{1})*1000",
+            "parameter": "1:hp,1:max_hp"
+        },
+        {
+            "id": 10050411,
+            "formula": "{0}*0.8",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10050412,
+            "formula": "{0}*0.9",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10050413,
+            "formula": "{0}",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10050511,
+            "formula": "{0}*0.8",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10050512,
+            "formula": "{0}*0.9",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10050513,
+            "formula": "{0}",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10060501,
+            "formula": "{0}*100+1800",
+            "buffParameter": "2:2:100607"
+        },
+        {
+            "id": 10060502,
+            "formula": "{0}*100+1890",
+            "buffParameter": "2:2:100607"
+        },
+        {
+            "id": 10060503,
+            "formula": "{0}*150+1890",
+            "buffParameter": "2:2:100607"
+        },
+        {
+            "id": 10060504,
+            "formula": "{0}*150+1890",
+            "buffParameter": "2:2:100607"
+        },
+        {
+            "id": 10060505,
+            "formula": "{0}*150+2070",
+            "buffParameter": "2:2:100607"
+        },
+        {
+            "id": 10060506,
+            "formula": "{0}*200+2070",
+            "buffParameter": "2:2:100607"
+        },
+        {
+            "id": 10060741,
+            "formula": "0-{0}*150",
+            "buffParameter": "2:2:100607"
+        },
+        {
+            "id": 10060742,
+            "formula": "0-{0}*200",
+            "buffParameter": "2:2:100607"
+        },
+        {
+            "id": 10090401,
+            "formula": "{0}*5",
+            "potentialParameter": "1"
+        },
+        {
+            "id": 10110901,
+            "formula": "{1}-{0}",
+            "parameter": "1:hp,1:max_hp"
+        },
+        {
+            "id": 10160411,
+            "formula": "{0}*0.8",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10160412,
+            "formula": "{0}*0.9",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10160413,
+            "formula": "{0}",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10160511,
+            "formula": "{0}*0.8",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10160512,
+            "formula": "{0}*0.9",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10180411,
+            "formula": "{0}*0.8",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10180412,
+            "formula": "{0}*0.9",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10180413,
+            "formula": "{0}",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10180511,
+            "formula": "{0}*0.8",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 10180512,
+            "formula": "{0}*0.9",
+            "parameter": "1:max_ap"
+        },
+        {
+            "id": 62105054,
+            "formula": "{0}*50",
+            "buffParameter": "1:1:62105054"
+        },
+        {
+            "id": 63444011,
+            "formula": "{0}*400+800",
+            "buffParameter": "2:1:63444012"
+        },
+        {
+            "id": 91000001,
+            "formula": "10/{0}*1000",
+            "parameter": "1:pow"
+        },
+        {
+            "id": 91000002,
+            "formula": "9998*1000/{0}",
+            "parameter": "1:pow"
+        },
+        {
+            "id": 200103011,
+            "formula": "{0}*1.5",
+            "distenceParameter": "0:dis"
+        }
+    ]
+}

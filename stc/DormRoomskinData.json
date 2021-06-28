@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "room": 1,
+            "roomlevelRequired": 1,
+            "skinName": "武器室公共一级皮肤"
+        },
+        {
+            "id": 2,
+            "room": 2,
+            "roomlevelRequired": 1,
+            "skinName": "卧室公共一级皮肤"
+        }
+    ]
+}

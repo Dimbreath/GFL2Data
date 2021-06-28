@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": 30030,
+            "icon": "t_skill2",
+            "skillId": 30030
+        },
+        {
+            "id": 30060,
+            "icon": "t_skill2",
+            "skillId": 30060
+        },
+        {
+            "id": 30080,
+            "icon": "t_skill2",
+            "skillId": 30080
+        },
+        {
+            "id": 30090,
+            "icon": "t_skill2",
+            "skillId": 30090
+        },
+        {
+            "id": 30120,
+            "icon": "t_skill2",
+            "skillId": 30120
+        },
+        {
+            "id": 30140,
+            "icon": "t_skill2",
+            "skillId": 30140
+        },
+        {
+            "id": 30150,
+            "icon": "t_skill2",
+            "skillId": 30150
+        },
+        {
+            "id": 30160,
+            "icon": "t_skill2",
+            "skillId": 30160
+        },
+        {
+            "id": 30190,
+            "icon": "t_skill2",
+            "skillId": 30190
+        },
+        {
+            "id": 30200,
+            "icon": "t_skill2",
+            "skillId": 30200
+        },
+        {
+            "id": 30210,
+            "icon": "t_skill2",
+            "skillId": 30210
+        },
+        {
+            "id": 30220,
+            "icon": "t_skill2",
+            "skillId": 30220
+        },
+        {
+            "id": 30240,
+            "icon": "t_skill2",
+            "skillId": 30240
+        },
+        {
+            "id": 30270,
+            "icon": "t_skill2",
+            "skillId": 30270
+        },
+        {
+            "id": 30280,
+            "icon": "t_skill2",
+            "skillId": 30280
+        },
+        {
+            "id": 30290,
+            "icon": "t_skill2",
+            "skillId": 30290
+        }
+    ]
+}

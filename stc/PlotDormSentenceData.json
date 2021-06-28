@@ -1,0 +1,401 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "perform": [
+                2
+            ],
+            "startaciton": 3012,
+            "endaction": 3011,
+            "line": "闪电第一句"
+        },
+        {
+            "id": 2,
+            "perform": [
+                2
+            ],
+            "startaciton": 3012,
+            "endaction": 3011,
+            "character": 1,
+            "line": "指挥官第一句"
+        },
+        {
+            "id": 3,
+            "perform": [
+                2
+            ],
+            "startaciton": 3012,
+            "endaction": 3011,
+            "line": "闪电第二句"
+        },
+        {
+            "id": 4,
+            "perform": [
+                2
+            ],
+            "character": 1,
+            "line": "指挥官第二句"
+        },
+        {
+            "id": 5,
+            "perform": [
+                2
+            ],
+            "startaciton": 3012,
+            "endaction": 3011,
+            "line": "闪电第三句"
+        },
+        {
+            "id": 6,
+            "perform": [
+                3
+            ],
+            "startaciton": 3005,
+            "endaction": 3006,
+            "line": "站姿第一句"
+        },
+        {
+            "id": 7,
+            "perform": [
+                3
+            ],
+            "startaciton": 3032,
+            "endaction": 3006,
+            "line": "站姿第二句"
+        },
+        {
+            "id": 8,
+            "perform": [
+                3
+            ],
+            "startaciton": 3033,
+            "endaction": 3006,
+            "line": "站姿第三句"
+        },
+        {
+            "id": 9,
+            "perform": [
+                2
+            ],
+            "startaciton": 3012,
+            "endaction": 3011,
+            "line": "外面天色不错"
+        },
+        {
+            "id": 10,
+            "perform": [
+                0
+            ],
+            "line": "嗯？",
+            "voice": "7100444"
+        },
+        {
+            "id": 11,
+            "perform": [
+                0
+            ],
+            "line": "要做什么？",
+            "voice": "7100445"
+        },
+        {
+            "id": 12,
+            "perform": [
+                0
+            ],
+            "line": "怎么了？",
+            "voice": "7100412",
+            "enablemouth": 1
+        },
+        {
+            "id": 13,
+            "perform": [
+                0
+            ],
+            "line": "哈~",
+            "voice": "7100413"
+        },
+        {
+            "id": 14,
+            "perform": [
+                0
+            ],
+            "line": "稍等一下。",
+            "voice": "7100414",
+            "enablemouth": 1
+        },
+        {
+            "id": 15,
+            "perform": [
+                0
+            ],
+            "line": "……唔……",
+            "voice": "7100415"
+        },
+        {
+            "id": 16,
+            "perform": [
+                0
+            ],
+            "line": "嗯。",
+            "voice": "7100416"
+        },
+        {
+            "id": 20,
+            "perform": [
+                12
+            ],
+            "startaciton": 3000,
+            "endaction": 3000,
+            "line": "嗯？",
+            "voice": "7100444"
+        },
+        {
+            "id": 21,
+            "perform": [
+                12
+            ],
+            "startaciton": 3000,
+            "endaction": 3000,
+            "line": "让我猜猜……这种表情，是不是遇到麻烦了？……啊，我以前也说过类似的话？",
+            "voice": "7100423"
+        },
+        {
+            "id": 22,
+            "perform": [
+                12
+            ],
+            "startaciton": 3000,
+            "endaction": 3000,
+            "line": "是新的定制茶具。指挥官，来休息一下，喝杯茶如何？",
+            "voice": "7100410"
+        },
+        {
+            "id": 23,
+            "perform": [
+                12
+            ],
+            "startaciton": 3000,
+            "endaction": 3000,
+            "line": "加班工作的深夜，很适合摄入高热量吧，这块蛋糕怎么样？（笑）放心，这次我有克制自己的创新欲望哦。(屏蔽口型)",
+            "voice": "7100425",
+            "enablemouth": 1
+        },
+        {
+            "id": 24,
+            "perform": [
+                12
+            ],
+            "startaciton": 3000,
+            "endaction": 3000,
+            "line": "夜晚的时间很适合专注于自己的事情。但是，和指挥官一起度过，也是不错的选择。",
+            "voice": "7100427"
+        },
+        {
+            "id": 30101,
+            "perform": [
+                3001
+            ],
+            "startaciton": 3005,
+            "endaction": 3000,
+            "line": "指挥官，本月支出已经超出额定值27%。",
+            "voice": "7100401"
+        },
+        {
+            "id": 30102,
+            "perform": [
+                3001
+            ],
+            "startaciton": 3005,
+            "endaction": 3000,
+            "line": "当前订单完成量为11，订单酬金并未完全覆盖本月支出。",
+            "voice": "7100402"
+        },
+        {
+            "id": 30103,
+            "perform": [
+                3001
+            ],
+            "startaciton": 3005,
+            "endaction": 3000,
+            "line": "大额付费款项有常规的备用零件、各型号弹药补充以及……大批非常规日用品。",
+            "voice": "7100403"
+        },
+        {
+            "id": 30104,
+            "perform": [
+                3001
+            ],
+            "startaciton": 3005,
+            "endaction": 3000,
+            "line": "此类“非常规”日用品对提升团队作战能力并无太大帮助，下次指挥官看到此类需要动用基地车开支的申请时，请考虑拒绝。",
+            "voice": "7100404"
+        },
+        {
+            "id": 30105,
+            "perform": [
+                3001
+            ],
+            "character": 1,
+            "line": "……但我想，这些东西，对于申请者来说，也许会属于“常规”日用品。",
+            "voice": "7100405"
+        },
+        {
+            "id": 30106,
+            "perform": [
+                3001
+            ],
+            "startaciton": 3005,
+            "endaction": 3000,
+            "line": "嗯……"
+        },
+        {
+            "id": 30107,
+            "perform": [
+                3001
+            ],
+            "startaciton": 3005,
+            "endaction": 3000,
+            "line": "那么，如果对基地车的收支平衡影响不大，就请指挥官慎重决定。",
+            "voice": "7100406"
+        },
+        {
+            "id": 30301,
+            "perform": [
+                3002
+            ],
+            "startaciton": 3012,
+            "endaction": 3011,
+            "line": "指挥官……？"
+        },
+        {
+            "id": 30302,
+            "perform": [
+                3002
+            ],
+            "startaciton": 3011,
+            "endaction": 3011,
+            "line": "抱歉，刚刚看书太入神了。"
+        },
+        {
+            "id": 30303,
+            "perform": [
+                3002
+            ],
+            "startaciton": 3011,
+            "endaction": 3011,
+            "line": "是一些三战前的甜品制作教程，这些图例看起来……很有趣。"
+        },
+        {
+            "id": 30304,
+            "perform": [
+                3002
+            ],
+            "character": 1,
+            "line": "既然闪电喜欢，看来我通过的“特殊开支”申请也不算是浪费。"
+        },
+        {
+            "id": 30305,
+            "perform": [
+                3002
+            ],
+            "startaciton": 3011,
+            "endaction": 3011,
+            "line": "那么，为了答谢指挥官——"
+        },
+        {
+            "id": 30306,
+            "perform": [
+                3002
+            ],
+            "startaciton": 3011,
+            "endaction": 3011,
+            "line": "请期待今天的晚餐。"
+        },
+        {
+            "id": 31001,
+            "perform": [
+                3003
+            ],
+            "line": "……"
+        },
+        {
+            "id": 31002,
+            "perform": [
+                30031
+            ],
+            "startaciton": 3005,
+            "endaction": 3000,
+            "line": "指挥官？"
+        },
+        {
+            "id": 31003,
+            "perform": [
+                30031
+            ],
+            "startaciton": 30051,
+            "endaction": 3000,
+            "line": "啊，我刚刚想起了一段以前听过的旋律，不自觉就哼了出来。"
+        },
+        {
+            "id": 31004,
+            "perform": [
+                30031
+            ],
+            "character": 1,
+            "line": "闪电会有印象，一定是很喜欢吧。"
+        },
+        {
+            "id": 31005,
+            "perform": [
+                30031
+            ],
+            "startaciton": 3034,
+            "endaction": 3000,
+            "line": "嗯，确实印象深刻。这首歌的调子很轻快，能让人紧绷的神经放松下来。"
+        },
+        {
+            "id": 31006,
+            "perform": [
+                30031
+            ],
+            "startaciton": 3035,
+            "endaction": 3000,
+            "line": "指挥官感兴趣的话——"
+        },
+        {
+            "id": 31007,
+            "perform": [
+                30031
+            ],
+            "startaciton": 3000,
+            "endaction": 3000,
+            "line": "我学习一下，有机会，完整地唱给指挥官听吧。"
+        },
+        {
+            "id": 31008,
+            "timeline": "TestTimeline",
+            "line": "Test"
+        },
+        {
+            "id": 310011,
+            "perform": [
+                3003
+            ],
+            "line": "（ パプリカ　花が咲いたら ）"
+        },
+        {
+            "id": 310012,
+            "perform": [
+                3003
+            ],
+            "line": "（ 晴れた空に種を蒔こう ）"
+        },
+        {
+            "id": 310013,
+            "perform": [
+                3003
+            ],
+            "line": "（ ハレルヤ　夢を描いたなら ）"
+        }
+    ]
+}

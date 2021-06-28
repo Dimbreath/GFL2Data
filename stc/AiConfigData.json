@@ -1,0 +1,2972 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "aiId": 1,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "10000",
+            "minDis": "0"
+        },
+        {
+            "id": 10001,
+            "aiId": 10001,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51210101,
+                10001
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "groundParam": 1000
+        },
+        {
+            "id": 10601,
+            "aiId": 106,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                99000106
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "actionParam": -2500
+        },
+        {
+            "id": 100101,
+            "aiId": 1001,
+            "preiodId": 1,
+            "defValue": 1000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "100",
+            "skill": [
+                10010101,
+                10010401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(800*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 100201,
+            "aiId": 1002,
+            "preiodId": 1,
+            "defValue": 1000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                10020101,
+                10020401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 100301,
+            "aiId": 1003,
+            "preiodId": 1,
+            "defValue": 1000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "750",
+            "minDis": "200",
+            "skill": [
+                10030101,
+                10030401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900+TotalDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 100401,
+            "aiId": 1004,
+            "preiodId": 1,
+            "defValue": 1000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10040101,
+                10040401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1000+EffectiveDestroy*50-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 100501,
+            "aiId": 1005,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                10050101,
+                10050401,
+                10050501
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1500-100));((int)(800*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*2500-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 100601,
+            "aiId": 1006,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "750",
+            "minDis": "200",
+            "skill": [
+                10060101,
+                10060401,
+                10060501
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900+TotalDamagePercent*0.5+KillCount*1000-100));((int)(800+TotalDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 100701,
+            "aiId": 1007,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10070101,
+                10070401,
+                10070501
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1000+200*(0+AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-AIDecideTools.TargetHasBuff(FuncArgs,10070400))-100));((int)(800*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 100801,
+            "aiId": 1008,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "750",
+            "minDis": "200",
+            "skill": [
+                10080101,
+                10080401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900+TotalDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 100901,
+            "aiId": 1009,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                10090101,
+                10090401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(0.5*TotalHealPercent+50*(101-AIDecideTools.SkillTotalHealPercent(FuncArgs))-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 101001,
+            "aiId": 1010,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                10100101,
+                10100401,
+                10100501
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900+0.5*TotalDamagePercent+KillCount*1000+300*(1-KillCount)*(1-AIDecideTools.TargetHasTypeBuff(FuncArgs,64))-100));((int)(800*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1000+300*(0+AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-AIDecideTools.TargetHasTypeBuff(FuncArgs,64))-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 101101,
+            "aiId": 1011,
+            "preiodId": 1,
+            "defValue": 1000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                10110101,
+                10110401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 101201,
+            "aiId": 1012,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                10120101,
+                10120401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 101301,
+            "aiId": 1013,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10130101,
+                10130401,
+                10130501
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100));(int)(1100*AIDecideTools.TargetHasBuff(FuncArgs,10130710)-100)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 101401,
+            "aiId": 1014,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10140101,
+                10140401,
+                10140501
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)((900+TotalDamagePercent*0.5+KillCount*1000)*(2-AIDecideTools.SelfHasBuff(FuncArgs,10140510))-100));(int)(5000*AIDecideTools.SelfHasBuff(FuncArgs,10140510)*(1-AIDecideTools.SkillEffectTargetCount(FuncArgs,2))-1000*(1-AIDecideTools.SelfHasBuff(FuncArgs,10140510))*(0-AIDecideTools.SkillEffectTargetCount(FuncArgs,2))-100)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 101501,
+            "aiId": 1015,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                10150101,
+                10150401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 101601,
+            "aiId": 1016,
+            "preiodId": 1,
+            "defValue": 1000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                10160101,
+                10160401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(KillCount*3000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 101701,
+            "aiId": 1017,
+            "preiodId": 1,
+            "defValue": 1000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10170101,
+                10170401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1000+EffectiveDestroy*50-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 101901,
+            "aiId": 1019,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10190101,
+                10190401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 102001,
+            "aiId": 1020,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10200101,
+                10200401,
+                10200501
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)((900+1000+50*(101-AIDecideTools.SkillTotalHealPercent(FuncArgs)))*(1-AIDecideTools.TargetHasBuff(FuncArgs,10200400))+300*AIDecideTools.TargetHasTypeBuff(FuncArgs,2))-100));((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,1)*AIDecideTools.GetSummonedCount(FuncArgs)-SkillTargetDistance/1000))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 102101,
+            "aiId": 1021,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10210101,
+                10210401
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 103001,
+            "aiId": 1030,
+            "preiodId": 1,
+            "defValue": 1000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10300101,
+                10300401,
+                10300501
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,1)-SkillTargetDistance/1000-100));((int)(800*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000+EffectiveDestroy*50-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 103101,
+            "aiId": 1031,
+            "preiodId": 1,
+            "defValue": 1000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                10310101,
+                10310401,
+                10310501
+            ],
+            "skillCal": "((int)(1000+TotalDamagePercent*0.5+KillCount*1000-100));((int)(3000*(1-AIDecideTools.TargetHasBuff(FuncArgs,10310400))-100));((int)(800+EnemyDamagePercent*0.5+KillCount*1000+300*(1-AIDecideTools.TargetHasBuff(FuncArgs,10310500))-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 500101,
+            "aiId": 5001,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                50010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 500201,
+            "aiId": 5002,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "MoveFar",
+            "maxDis": "850",
+            "minDis": "200",
+            "skill": [
+                50020101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 500301,
+            "aiId": 5003,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                50030101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 500401,
+            "aiId": 5004,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                50040101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 500501,
+            "aiId": 5005,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                50010101,
+                50010201
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 500601,
+            "aiId": 5006,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "MoveFar",
+            "maxDis": "850",
+            "minDis": "200",
+            "skill": [
+                50020101,
+                50020201
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 500701,
+            "aiId": 5007,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                50030101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 500801,
+            "aiId": 5008,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                50040101,
+                50040201
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 500901,
+            "aiId": 5009,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "1000",
+            "minDis": "200",
+            "skill": [
+                50010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 501001,
+            "aiId": 5010,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "1000",
+            "minDis": "200",
+            "skill": [
+                50010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 501101,
+            "aiId": 5011,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "1000",
+            "minDis": "200",
+            "skill": [
+                50010101,
+                50110101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+TotalHealPercent)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 501201,
+            "aiId": 5012,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "1000",
+            "minDis": "200",
+            "skill": [
+                50010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 501301,
+            "aiId": 5013,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "1000",
+            "minDis": "200",
+            "skill": [
+                50010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 501401,
+            "aiId": 5014,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "1000",
+            "minDis": "200",
+            "skill": [
+                50010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 501501,
+            "aiId": 5015,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "1000",
+            "minDis": "200",
+            "skill": [
+                51000101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 501601,
+            "aiId": 5016,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "1000",
+            "minDis": "200",
+            "skill": [
+                50160101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 510101,
+            "aiId": 5101,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 510201,
+            "aiId": 5102,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51020101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 510301,
+            "aiId": 5103,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51030101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 510601,
+            "aiId": 5106,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51060101,
+                51060104
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 510701,
+            "aiId": 5107,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51070101,
+                51070104
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 510801,
+            "aiId": 5108,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51080101,
+                51080104
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 511101,
+            "aiId": 5111,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51110102,
+                51110101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 511201,
+            "aiId": 5112,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51120102,
+                51120101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 511301,
+            "aiId": 5113,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51130102,
+                51130101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 512101,
+            "aiId": 5121,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51210101,
+                51210201
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)((1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 512201,
+            "aiId": 5122,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51220101,
+                51220201
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)((1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 512301,
+            "aiId": 5123,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51230101,
+                51230201
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)((1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 514101,
+            "aiId": 5141,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                51410101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 514201,
+            "aiId": 5142,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                51420101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 514301,
+            "aiId": 5143,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                51430101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 515101,
+            "aiId": 5151,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51510101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 515201,
+            "aiId": 5152,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51510102
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 515301,
+            "aiId": 5153,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51510103
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 519101,
+            "aiId": 5191,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                51910101,
+                51911001,
+                51911101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)((1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100));((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 520101,
+            "aiId": 5201,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 520201,
+            "aiId": 5202,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52020101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 520301,
+            "aiId": 5203,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52030101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 521101,
+            "aiId": 5211,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52110101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 521201,
+            "aiId": 5212,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52120101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 521301,
+            "aiId": 5213,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52130101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 522101,
+            "aiId": 5221,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52210101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 523101,
+            "aiId": 5231,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52310101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 524101,
+            "aiId": 5241,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52410101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 525101,
+            "aiId": 5251,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                52510101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 530101,
+            "aiId": 5301,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 530201,
+            "aiId": 5302,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53020101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 530301,
+            "aiId": 5303,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53030101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 531101,
+            "aiId": 5311,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53110101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 531201,
+            "aiId": 5312,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53120101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 531301,
+            "aiId": 5313,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53130101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 532301,
+            "aiId": 5323,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                53230101
+            ],
+            "skillCal": "((int)(EnemyDamagePercent*0.5-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 533101,
+            "aiId": 5331,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                53310101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 533201,
+            "aiId": 5332,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                53320101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 533301,
+            "aiId": 5333,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                53330101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 534101,
+            "aiId": 5341,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53410101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 534201,
+            "aiId": 5342,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53420101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 534301,
+            "aiId": 5343,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53430101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 535101,
+            "aiId": 5351,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53510101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 535201,
+            "aiId": 5352,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53520101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 535301,
+            "aiId": 5353,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53530101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 536101,
+            "aiId": 5361,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53610101,
+                53601001
+            ],
+            "skillCal": "((int)(EnemyDamagePercent*0.5+KillCount*1000-100));((int)(TotalHealPercent-100)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 536201,
+            "aiId": 5362,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53620101,
+                53601001
+            ],
+            "skillCal": "((int)(EnemyDamagePercent*0.5+KillCount*1000-100));((int)(TotalHealPercent-100)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 536301,
+            "aiId": 5363,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                53630101,
+                53601001
+            ],
+            "skillCal": "((int)(EnemyDamagePercent*0.5+KillCount*1000-100));((int)(TotalHealPercent-100)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 540101,
+            "aiId": 5401,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                54010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 541101,
+            "aiId": 5411,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                54110101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 542101,
+            "aiId": 5421,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                54210101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 542201,
+            "aiId": 5422,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                54220101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 542301,
+            "aiId": 5423,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                54230101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 543101,
+            "aiId": 5431,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                54310101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 543201,
+            "aiId": 5432,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                54320101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 543301,
+            "aiId": 5433,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                54330101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 611001,
+            "aiId": 6110,
+            "preiodId": 1,
+            "defValue": 100,
+            "moveTactic": "MoveClose",
+            "maxDis": "500",
+            "minDis": "0",
+            "skill": [
+                6120101
+            ],
+            "skillCal": "((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 611101,
+            "aiId": 6111,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "MoveFar",
+            "maxDis": "750",
+            "minDis": "0",
+            "skill": [
+                6121101,
+                6121202
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 611201,
+            "aiId": 6112,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "MoveClose",
+            "maxDis": "700",
+            "minDis": "0",
+            "skill": [
+                6122202
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 611301,
+            "aiId": 6113,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6113101
+            ],
+            "skillCal": "((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 611601,
+            "aiId": 6116,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "MoveFar",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                6116101,
+                6116202
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));10000",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 612001,
+            "aiId": 6120,
+            "preiodId": 1,
+            "defValue": 100,
+            "moveTactic": "MoveClose",
+            "maxDis": "700",
+            "minDis": "0",
+            "skill": [
+                6120101
+            ],
+            "skillCal": "((int)(10000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance));((int)(15000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 612101,
+            "aiId": 6121,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "MoveClose",
+            "maxDis": "750",
+            "minDis": "0",
+            "skill": [
+                6121101,
+                6121202
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 612201,
+            "aiId": 6122,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "MoveClose",
+            "maxDis": "700",
+            "minDis": "0",
+            "skill": [
+                6122202
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100+EnemyDamagePercent*0.5+KillCount*1000))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 612301,
+            "aiId": 6123,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6123101
+            ],
+            "skillCal": "((int)(10000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance));((int)(15000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 612601,
+            "aiId": 6126,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "MoveFar",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                6126101,
+                6126202
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));10000",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 614101,
+            "aiId": 6141,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                6141201,
+                6141203,
+                6141205
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(100000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100));((int)(200000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "timelineId": 614101,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 614201,
+            "aiId": 6142,
+            "preiodId": 1,
+            "moveTactic": "MoveFar",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                6142101,
+                6142202,
+                6142203,
+                6142204,
+                99000010
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(900*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1000*AIDecideTools.GetSummonedCount(FuncArgs)));((int)(1000*AIDecideTools.GetSummonedCount(FuncArgs)));((int)10000)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "timelineId": 614201,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 615101,
+            "aiId": 6151,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "100",
+            "skill": [
+                6169101,
+                6169201,
+                6179207
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100-AIDecideTools.MoveGridDistance(FuncArgs)*1000));((int)(4000*(2-AIDecideTools.RoleActionChance(FuncArgs))-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 616901,
+            "aiId": 6169,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                6169101,
+                6169201,
+                6169202,
+                6169301
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100));((int)((2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)*(2-AIDecideTools.RoleActionChance(FuncArgs))-100));((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)*(2-AIDecideTools.RoleActionChance(FuncArgs))-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 617901,
+            "aiId": 6179,
+            "preiodId": 1,
+            "condition": "114",
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "100",
+            "skill": [
+                6169101,
+                6169201,
+                6169302,
+                6189207
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100));((int)(4000*(2-AIDecideTools.RoleActionChance(FuncArgs))-100));((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)*(2-AIDecideTools.RoleActionChance(FuncArgs))-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 617902,
+            "aiId": 6179,
+            "preiodId": 2,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "100",
+            "skill": [
+                6169101,
+                6169201,
+                6179207,
+                6169301
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100-AIDecideTools.MoveGridDistance(FuncArgs)*1000));((int)(4000*(2-AIDecideTools.RoleActionChance(FuncArgs))-100));((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)*(2-AIDecideTools.RoleActionChance(FuncArgs))-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 621001,
+            "aiId": 6210,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6210101
+            ],
+            "skillCal": "((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 621101,
+            "aiId": 6211,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                6211101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 621201,
+            "aiId": 6212,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                6212101
+            ],
+            "skillCal": "((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 621301,
+            "aiId": 6213,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6213101
+            ],
+            "skillCal": "((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 622001,
+            "aiId": 6220,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6220101,
+                6220202
+            ],
+            "skillCal": "((int)(10000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 622101,
+            "aiId": 6221,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                6221101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5-100));((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 622201,
+            "aiId": 6222,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                6222101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 622301,
+            "aiId": 6223,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6223101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5-100));((int)1000*AIDecideTools.GetSummonedCount(FuncArgs)*(2*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-AIDecideTools.SkillEffectTargetCount(FuncArgs,1))-100)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 624101,
+            "aiId": 6241,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "600",
+            "minDis": "200",
+            "skill": [
+                6241500
+            ],
+            "skillCal": "((int)(1000+SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 624201,
+            "aiId": 6242,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6242101
+            ],
+            "skillCal": "((int)(2000-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 624301,
+            "aiId": 6243,
+            "preiodId": 1,
+            "condition": "148",
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6243501
+            ],
+            "skillCal": "((int)(AIDecideTools.MoveGridDistance(FuncArgs)*(((int)((1*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-10)/10))+1)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 624302,
+            "aiId": 6243,
+            "preiodId": 2,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6243501,
+                6243502
+            ],
+            "skillCal": "((int)(2000-SkillTargetDistance/10));((int)((0+AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-1)*3000+3000*AIDecideTools.SelfHasBuff(FuncArgs,62435042)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 625901,
+            "aiId": 6259,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                6259101,
+                6259201,
+                6259401
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)((1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+15000));((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "timelineId": 625901,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 626901,
+            "aiId": 6269,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                6269101,
+                6269201,
+                6269401
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)((1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)*(2-AIDecideTools.RoleActionChance(FuncArgs))-100));((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)*(2-AIDecideTools.RoleActionChance(FuncArgs))-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 631001,
+            "aiId": 6310,
+            "preiodId": 1,
+            "defValue": 100,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6310101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 631101,
+            "aiId": 6311,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6311101,
+                6321202
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 300,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 631201,
+            "aiId": 6312,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6312202
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-1000+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 300,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 631301,
+            "aiId": 6313,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6313101
+            ],
+            "skillCal": "((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 631401,
+            "aiId": 6314,
+            "preiodId": 1,
+            "defValue": 100,
+            "moveTactic": "MoveClose",
+            "maxDis": "450",
+            "minDis": "0",
+            "skill": [
+                6314101
+            ],
+            "skillCal": "((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 631501,
+            "aiId": 6315,
+            "preiodId": 1,
+            "moveTactic": "MoveFar",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6315101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 632001,
+            "aiId": 6320,
+            "preiodId": 1,
+            "defValue": 100,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6320101,
+                6320202
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 632101,
+            "aiId": 6321,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6321101,
+                6321202
+            ],
+            "skillCal": "((int)(1000+20*(101-AIDecideTools.SkillTotalHealPercent(FuncArgs))-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+20*(101-AIDecideTools.SkillTotalHealPercent(FuncArgs))-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 632301,
+            "aiId": 6323,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "200",
+            "minDis": "0",
+            "skill": [
+                6323101,
+                6323202
+            ],
+            "skillCal": "(int)(1000*(((int)((1*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-10)/10))+1)-SkillTargetDistance/10-100);(int)(1500*(((int)((1*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-10)/10))+1)-SkillTargetDistance/10-100)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 632401,
+            "aiId": 6324,
+            "preiodId": 1,
+            "defValue": 100,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6324101,
+                6314202
+            ],
+            "skillCal": "((int)(50*(101-AIDecideTools.SkillTotalHealPercent(FuncArgs))));((int)(110000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 632501,
+            "aiId": 6325,
+            "preiodId": 1,
+            "moveTactic": "MoveFar",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6325101
+            ],
+            "skillCal": "((int)(50*(101-AIDecideTools.SkillTotalHealPercent(FuncArgs))))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 634101,
+            "aiId": 6341,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6341101,
+                6341201
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 634201,
+            "aiId": 6342,
+            "preiodId": 1,
+            "moveTactic": "MoveFar",
+            "maxDis": "400",
+            "minDis": "200",
+            "skill": [
+                6342101,
+                6342201
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));3000",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 634401,
+            "aiId": 6344,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "MoveClose",
+            "maxDis": "300",
+            "minDis": "0",
+            "skill": [
+                6344101,
+                6344201,
+                6344401
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(5000-AIDecideTools.MoveGridDistance(FuncArgs)*5000));6000",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "timelineId": 634401,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 685101,
+            "aiId": 6851,
+            "preiodId": 1,
+            "condition": "173",
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6851008
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.GetSummonedCount(FuncArgs)-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 685102,
+            "aiId": 6851,
+            "preiodId": 2,
+            "condition": "90",
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6851001,
+                6851003,
+                6851004
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(800*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));10000",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 685103,
+            "aiId": 6851,
+            "preiodId": 3,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6851001,
+                6851003
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(800*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 685199,
+            "aiId": 6851,
+            "preiodId": 1,
+            "defValue": 100000,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6851501
+            ],
+            "skillCal": "((int)10000)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "timelineId": 685101,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 685301,
+            "aiId": 6853,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                6853101,
+                6853401,
+                6853402,
+                6853403
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)*AIDecideTools.GetSummonedCount(FuncArgs)-SkillTargetDistance/10);((int)1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)*AIDecideTools.GetSummonedCount(FuncArgs)-SkillTargetDistance/10);((int)1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)*AIDecideTools.GetSummonedCount(FuncArgs)-SkillTargetDistance/10)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "timelineId": 685301,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 686001,
+            "aiId": 6860,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "100",
+            "skill": [
+                6860101,
+                6860201,
+                6860301
+            ],
+            "skillCal": "((int)(1000+EnemyDamagePercent*0.5+KillCount*1000-100));3000;4000",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 686101,
+            "aiId": 6861,
+            "preiodId": 1,
+            "moveTactic": "MoveClose",
+            "maxDis": "450",
+            "minDis": "0",
+            "skill": [
+                6861101,
+                6861201,
+                6861301
+            ],
+            "skillCal": "((int)(1000+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1200*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1400*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 700201,
+            "aiId": 7002,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                70020101
+            ],
+            "skillCal": "((int)(1000+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 700301,
+            "aiId": 7003,
+            "moveTactic": "KeepDistance",
+            "maxDis": "500",
+            "minDis": "200",
+            "skill": [
+                70030101
+            ],
+            "skillCal": "((int)(750*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000+EffectiveDestroy*100-50))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 800101,
+            "aiId": 8001,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                80010101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 800201,
+            "aiId": 8002,
+            "preiodId": 1,
+            "defValue": 500,
+            "moveTactic": "KeepDistance",
+            "maxDis": "1000",
+            "minDis": "200",
+            "skill": [
+                80020101
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 999801,
+            "aiId": 9998,
+            "preiodId": 1,
+            "moveTactic": "MoveFar",
+            "maxDis": "450",
+            "minDis": "200",
+            "skill": [
+                6853411
+            ],
+            "skillCal": "((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-SkillTargetDistance/10))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000
+        },
+        {
+            "id": 999901,
+            "aiId": 9999,
+            "preiodId": 1,
+            "moveTactic": "MoveFar",
+            "maxDis": "450",
+            "minDis": "200",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000
+        },
+        {
+            "id": 6851501,
+            "aiId": 6851501,
+            "preiodId": 1,
+            "maxDis": "0",
+            "minDis": "0",
+            "skill": [
+                6851502
+            ],
+            "skillCal": "((int)1000)"
+        },
+        {
+            "id": 6851502,
+            "aiId": 6851502,
+            "preiodId": 1,
+            "maxDis": "0",
+            "minDis": "0",
+            "skill": [
+                6851503
+            ],
+            "skillCal": "((int)1000)"
+        },
+        {
+            "id": 6853401,
+            "aiId": 6853401,
+            "preiodId": 1,
+            "maxDis": "0",
+            "minDis": "0",
+            "skill": [
+                6853402,
+                6853404
+            ],
+            "skillCal": "((int)1000)"
+        },
+        {
+            "id": 6853411,
+            "aiId": 6853411,
+            "preiodId": 1,
+            "maxDis": "0",
+            "minDis": "0",
+            "skill": [
+                6853412,
+                6853413
+            ],
+            "skillCal": "((int)1000)"
+        },
+        {
+            "id": 6853501,
+            "aiId": 6853501,
+            "preiodId": 1,
+            "maxDis": "0",
+            "minDis": "0",
+            "skill": [
+                6853502,
+                6853503
+            ],
+            "skillCal": "((int)1000)"
+        },
+        {
+            "id": 9625901,
+            "aiId": 96259,
+            "preiodId": 2,
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                6259101,
+                6259201,
+                6259401
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)((1500*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+15000));((int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-100))",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "timelineId": 625901,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 9625902,
+            "aiId": 96259,
+            "preiodId": 1,
+            "condition": "1",
+            "moveTactic": "KeepDistance",
+            "maxDis": "700",
+            "minDis": "200",
+            "skill": [
+                96259411
+            ],
+            "skillCal": "((int)10000)",
+            "attackParam": 1000,
+            "defenceParam": 1000,
+            "moveParam": 1000,
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 10130401,
+            "aiId": 10130401,
+            "preiodId": 1,
+            "maxDis": "0",
+            "minDis": "0",
+            "skill": [
+                10130410,
+                10130520,
+                10130421,
+                10130710
+            ],
+            "skillCal": "((int)1000);((int)1000);((int)1000);((int)1000)",
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 10130701,
+            "aiId": 10130701,
+            "preiodId": 1,
+            "maxDis": "0",
+            "minDis": "0",
+            "skill": [
+                10130410,
+                10130520,
+                10130710
+            ],
+            "skillCal": "((int)1000);((int)1000);((int)1000)",
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 10200501,
+            "aiId": 10200501,
+            "preiodId": 1,
+            "maxDis": "0",
+            "minDis": "0",
+            "skill": [
+                10200510
+            ],
+            "skillCal": "((int)1000)",
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 60020201,
+            "aiId": 600202,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "400",
+            "minDis": "0",
+            "skill": [
+                6341101,
+                6341201
+            ],
+            "skillCal": "((int)(1000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100));((int)(1500000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)+EnemyDamagePercent*0.5+KillCount*1000-100))",
+            "actionParam": 2500,
+            "groundParam": 1000
+        },
+        {
+            "id": 60020202,
+            "aiId": 600203,
+            "preiodId": 1,
+            "moveTactic": "KeepDistance",
+            "maxDis": "400",
+            "minDis": "0",
+            "skill": [
+                6310101,
+                6320101,
+                6311101,
+                6321101,
+                6313101,
+                6323101,
+                6315101,
+                6325101
+            ],
+            "skillCal": "((int)1000);((int)1000);((int)1000);((int)1000);((int)1000);((int)1000);((int)1000);((int)1000)",
+            "actionParam": 2500,
+            "groundParam": 1000
+        }
+    ]
+}

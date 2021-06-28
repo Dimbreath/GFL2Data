@@ -1,0 +1,2362 @@
+{
+    "data": [
+        {
+            "id": 6110,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 1,
+            "skillNormalAttack": 6120101,
+            "skillTalentExtra": [
+                6100501
+            ],
+            "aiList": [
+                611001
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "name": {
+                "id": "409"
+            },
+            "joke": {
+                "id": "410"
+            },
+            "description": {
+                "id": "411"
+            },
+            "textIndex": [
+                101,
+                29
+            ],
+            "characterPic": "Felagi_Shoot",
+            "modelCode": 6110,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6111,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "skillNormalAttack": 6121101,
+            "skillActive": 6121202,
+            "skillTalent": 6121301,
+            "skillTalentExtra": [
+                6100501
+            ],
+            "aiList": [
+                611101
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "name": {
+                "id": "412"
+            },
+            "joke": {
+                "id": "413"
+            },
+            "description": {
+                "id": "414"
+            },
+            "textIndex": [
+                101,
+                30,
+                31
+            ],
+            "characterPic": "Felagi_Snipe",
+            "modelCode": 6111,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 250,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6112,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 2,
+            "skillNormalAttack": 6112101,
+            "skillActive": 6122202,
+            "skillTalentExtra": [
+                6100501
+            ],
+            "aiList": [
+                611201
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "name": {
+                "id": "415"
+            },
+            "joke": {
+                "id": "416"
+            },
+            "description": {
+                "id": "417"
+            },
+            "textIndex": [
+                101,
+                32,
+                33
+            ],
+            "characterPic": "Felagi_Grenadier",
+            "modelCode": 6112,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6113,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 2,
+            "skillNormalAttack": 6113101,
+            "skillTalent": 6123303,
+            "skillTalentExtra": [
+                6123304,
+                6100501
+            ],
+            "aiList": [
+                611301
+            ],
+            "rank": 1,
+            "propertyGroup": 1003,
+            "name": {
+                "id": "418"
+            },
+            "joke": {
+                "id": "419"
+            },
+            "description": {
+                "id": "420"
+            },
+            "textIndex": [
+                101,
+                34,
+                35
+            ],
+            "characterPic": "Svejk",
+            "modelCode": 6113,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6116,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "skillNormalAttack": 6126101,
+            "skillActive": 6126202,
+            "skillFaction": 6100502,
+            "aiList": [
+                612601
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "name": {
+                "id": "421"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "423"
+            },
+            "textIndex": [
+                101,
+                26,
+                10
+            ],
+            "characterPic": "Giordre",
+            "modelCode": 6116,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 250,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6120,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 1,
+            "aiList": [
+                612001
+            ],
+            "rank": 1,
+            "propertyGroup": 1102,
+            "name": {
+                "id": "424"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                26,
+                17
+            ],
+            "characterPic": "FelagiEX_Shoot",
+            "modelCode": 6120,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6121,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "aiList": [
+                612101
+            ],
+            "rank": 1,
+            "propertyGroup": 1102,
+            "name": {
+                "id": "426"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "427"
+            },
+            "textIndex": [
+                26,
+                18
+            ],
+            "characterPic": "FelagiEX_Snipe",
+            "modelCode": 6121,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 250,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6122,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 2,
+            "aiList": [
+                612201
+            ],
+            "rank": 1,
+            "propertyGroup": 1102,
+            "name": {
+                "id": "428"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                26,
+                8,
+                6
+            ],
+            "characterPic": "FelagiEX_Grenadier",
+            "modelCode": 6122,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6123,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 2,
+            "aiList": [
+                612301
+            ],
+            "rank": 1,
+            "propertyGroup": 1103,
+            "name": {
+                "id": "429"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                26,
+                15
+            ],
+            "characterPic": "SvejkEX",
+            "modelCode": 6123,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6126,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "skillFaction": 6100502,
+            "aiList": [
+                612601
+            ],
+            "rank": 1,
+            "propertyGroup": 1102,
+            "name": {
+                "id": "430"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                26,
+                19
+            ],
+            "characterPic": "Giordre_Elite",
+            "modelCode": 6126,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 250,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6141,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 1,
+            "skillNormalAttack": 6141211,
+            "skillActive": 6141205,
+            "skillSuper": 6141203,
+            "skillActiveExtra": [
+                6141201
+            ],
+            "skillTalentExtra": [
+                6141209,
+                6100501
+            ],
+            "skillFaction": 6100501,
+            "aiList": [
+                614101
+            ],
+            "rank": 2,
+            "propertyGroup": 1102,
+            "name": {
+                "id": "431"
+            },
+            "joke": {
+                "id": "432"
+            },
+            "description": {
+                "id": "433"
+            },
+            "textIndex": [
+                101,
+                32,
+                33,
+                63
+            ],
+            "characterPic": "FelaskjuCaptain",
+            "modelCode": 6141,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 450,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6142,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 1,
+            "skillNormalAttack": 6142101,
+            "skillActive": 6142201,
+            "skillTalent": 6142401,
+            "skillSuper": 6142203,
+            "skillActiveExtra": [
+                6142204
+            ],
+            "skillFaction": 6100501,
+            "aiList": [
+                614201
+            ],
+            "rank": 2,
+            "propertyGroup": 1101,
+            "name": {
+                "id": "434"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "434"
+            },
+            "textIndex": [
+                26,
+                20
+            ],
+            "characterPic": "SvejkEX",
+            "modelCode": 6142,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 200,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6151,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "skillNormalAttack": 6169101,
+            "skillActive": 6169201,
+            "skillTalent": 6269301,
+            "skillActiveExtra": [
+                6179207
+            ],
+            "skillTalentExtra": [
+                6800501,
+                60000101
+            ],
+            "skillFaction2": 6169401,
+            "aiList": [
+                615101
+            ],
+            "rank": 3,
+            "propertyGroup": 1201,
+            "breakSkill": [
+                99000002
+            ],
+            "name": {
+                "id": "435"
+            },
+            "joke": {
+                "id": "436"
+            },
+            "description": {
+                "id": "437"
+            },
+            "textIndex": [
+                36,
+                37
+            ],
+            "characterPic": "Tosk",
+            "modelCode": 6159,
+            "moveCode": 1,
+            "actionChance": 2,
+            "occupySize": 3,
+            "maxAp": 250,
+            "aiOrderClass": 300
+        },
+        {
+            "id": 6169,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "skillNormalAttack": 6169101,
+            "skillActive": 6169201,
+            "skillSuper": 6169301,
+            "skillActiveExtra": [
+                6179207
+            ],
+            "skillTalentExtra": [
+                6800501
+            ],
+            "skillFaction2": 6169401,
+            "aiList": [
+                617902
+            ],
+            "rank": 3,
+            "propertyGroup": 1201,
+            "breakSkill": [
+                99000002
+            ],
+            "name": {
+                "id": "438"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "439"
+            },
+            "textIndex": [
+                6,
+                7
+            ],
+            "characterPic": "Ravn",
+            "modelCode": 5018,
+            "moveCode": 1,
+            "actionChance": 2,
+            "occupySize": 3,
+            "maxAp": 250,
+            "aiOrderClass": 300
+        },
+        {
+            "id": 6179,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "skillNormalAttack": 6169101,
+            "skillActive": 6169201,
+            "skillSuper": 6169301,
+            "skillActiveExtra": [
+                6179207
+            ],
+            "skillFaction2": 6169401,
+            "aiList": [
+                617902
+            ],
+            "rank": 3,
+            "propertyGroup": 1201,
+            "breakSkill": [
+                99000002
+            ],
+            "name": {
+                "id": "440"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "441"
+            },
+            "textIndex": [
+                6,
+                7
+            ],
+            "characterPic": "Ravn",
+            "modelCode": 5018,
+            "moveCode": 1,
+            "actionChance": 2,
+            "occupySize": 3,
+            "maxAp": 250,
+            "aiOrderClass": 300
+        },
+        {
+            "id": 6189,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "skillNormalAttack": 6169101,
+            "skillActive": 6169201,
+            "skillSuper": 6169301,
+            "skillActiveExtra": [
+                6179207,
+                6169302
+            ],
+            "skillFaction2": 6169402,
+            "aiList": [
+                617901,
+                617902
+            ],
+            "rank": 3,
+            "propertyGroup": 1201,
+            "breakSkill": [
+                99000002
+            ],
+            "name": {
+                "id": "442"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "441"
+            },
+            "textIndex": [
+                6,
+                7
+            ],
+            "characterPic": "Ravn",
+            "modelCode": 5018,
+            "moveCode": 1,
+            "actionChance": 2,
+            "occupySize": 3,
+            "maxAp": 250,
+            "aiOrderClass": 300
+        },
+        {
+            "id": 6194,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6113101,
+            "skillFaction": 6100501,
+            "aiList": [
+                611301
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "name": {
+                "id": "443"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "444"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "Felagi",
+            "modelCode": 5004,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6195,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6110101,
+            "skillFaction": 6100501,
+            "aiList": [
+                611001
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "name": {
+                "id": "445"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "444"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "Felagi",
+            "modelCode": 5011,
+            "moveCode": 5,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6196,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6110101,
+            "skillFaction": 6100501,
+            "aiList": [
+                611001
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "name": {
+                "id": "446"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "444"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "Felagi",
+            "modelCode": 5003,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6197,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6110101,
+            "skillFaction": 6100501,
+            "aiList": [
+                611001
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "name": {
+                "id": "447"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "444"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "Felagi",
+            "modelCode": 5001,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6198,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6341101,
+            "skillActive": 6341201,
+            "skillTalentExtra": [
+                6341501
+            ],
+            "aiList": [
+                60020201
+            ],
+            "rank": 1,
+            "propertyGroup": 3102,
+            "name": {
+                "id": "448"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "449"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "Felagi",
+            "modelCode": 5001,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6199,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillActive": 6312202,
+            "skillTalent": 6322303,
+            "skillFaction": 6320505,
+            "aiList": [
+                631201
+            ],
+            "rank": 1,
+            "propertyGroup": 3102,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "450"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "451"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "FelagiEX_Felaskju",
+            "modelCode": 6312,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 200,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6210,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 1,
+            "skillNormalAttack": 6210101,
+            "skillTalentExtra": [
+                6210801,
+                6200501
+            ],
+            "skillFaction": 6210505,
+            "aiList": [
+                621001
+            ],
+            "rank": 1,
+            "propertyGroup": 2001,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "452"
+            },
+            "joke": {
+                "id": "453"
+            },
+            "description": {
+                "id": "454"
+            },
+            "textIndex": [
+                102,
+                49,
+                66
+            ],
+            "characterPic": "Werewolf",
+            "modelCode": 6215,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 100
+        },
+        {
+            "id": 6211,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 1,
+            "aiList": [
+                622101
+            ],
+            "rank": 1,
+            "propertyGroup": 2002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "455"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "456"
+            },
+            "textIndex": [
+                25,
+                9
+            ],
+            "characterPic": "Toad",
+            "modelCode": 9106,
+            "moveCode": 11,
+            "occupySize": 1,
+            "aiOrderClass": 100
+        },
+        {
+            "id": 6212,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 3,
+            "skillNormalAttack": 6212101,
+            "skillTalentExtra": [
+                6210801,
+                6200501
+            ],
+            "skillFaction": 6210505,
+            "aiList": [
+                621201
+            ],
+            "rank": 1,
+            "propertyGroup": 2002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "457"
+            },
+            "joke": {
+                "id": "458"
+            },
+            "description": {
+                "id": "459"
+            },
+            "textIndex": [
+                102,
+                29,
+                66
+            ],
+            "characterPic": "Arrowthorn",
+            "modelCode": 6214,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6213,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 2,
+            "skillNormalAttack": 6213101,
+            "skillTalent": 6213303,
+            "skillTalentExtra": [
+                6213304,
+                6200501
+            ],
+            "skillFaction": 6210505,
+            "aiList": [
+                621301
+            ],
+            "rank": 1,
+            "propertyGroup": 2003,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "460"
+            },
+            "joke": {
+                "id": "461"
+            },
+            "description": {
+                "id": "462"
+            },
+            "textIndex": [
+                102,
+                34,
+                35,
+                66
+            ],
+            "characterPic": "Pitsard",
+            "modelCode": 6210,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6220,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 3,
+            "aiList": [
+                622001
+            ],
+            "rank": 1,
+            "propertyGroup": 2101,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "463"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "464"
+            },
+            "textIndex": [
+                14,
+                25
+            ],
+            "characterPic": "WerewolfEX",
+            "modelCode": 6220,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6221,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 3,
+            "aiList": [
+                622101
+            ],
+            "rank": 1,
+            "propertyGroup": 2102,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "465"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                25,
+                9
+            ],
+            "characterPic": "ToadEX",
+            "modelCode": 9106,
+            "moveCode": 11,
+            "occupySize": 1,
+            "aiOrderClass": 100
+        },
+        {
+            "id": 6222,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 3,
+            "aiList": [
+                622201
+            ],
+            "rank": 1,
+            "propertyGroup": 2102,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "466"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "467"
+            },
+            "textIndex": [
+                25,
+                4
+            ],
+            "characterPic": "ArrowthornEX",
+            "modelCode": 6212,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 450,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6223,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 2,
+            "aiList": [
+                622301
+            ],
+            "rank": 1,
+            "propertyGroup": 2103,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "468"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                25,
+                6
+            ],
+            "characterPic": "Obshare_Elder",
+            "modelCode": 6220,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6241,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 1,
+            "skillNormalAttack": 6241500,
+            "skillTalent": 6241503,
+            "skillTalentExtra": [
+                6241504,
+                6241507,
+                6241508,
+                6200501
+            ],
+            "skillFaction": 6210505,
+            "aiList": [
+                624101
+            ],
+            "rank": 2,
+            "propertyGroup": 2103,
+            "name": {
+                "id": "853"
+            },
+            "joke": {
+                "id": "854"
+            },
+            "description": {
+                "id": "855"
+            },
+            "textIndex": [
+                102,
+                64,
+                51,
+                52,
+                66
+            ],
+            "characterPic": "ArrowthornEX",
+            "modelCode": 6224,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 450,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6242,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 1,
+            "skillNormalAttack": 6242101,
+            "skillTalent": 6242301,
+            "skillTalentExtra": [
+                6242505,
+                6200501
+            ],
+            "skillFaction": 6210505,
+            "aiList": [
+                624201
+            ],
+            "rank": 2,
+            "propertyGroup": 2103,
+            "name": {
+                "id": "856"
+            },
+            "joke": {
+                "id": "857"
+            },
+            "description": {
+                "id": "858"
+            },
+            "textIndex": [
+                102,
+                65,
+                53,
+                54,
+                66
+            ],
+            "characterPic": "Pitsard_Elder",
+            "modelCode": 6220,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 500,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6243,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 1,
+            "skillNormalAttack": 6243501,
+            "skillTalent": 6243506,
+            "skillTalentExtra": [
+                6210801,
+                6243507,
+                6200501,
+                6243508
+            ],
+            "skillFaction": 6210505,
+            "aiList": [
+                624301,
+                624302
+            ],
+            "rank": 2,
+            "propertyGroup": 2103,
+            "name": {
+                "id": "859"
+            },
+            "joke": {
+                "id": "860"
+            },
+            "description": {
+                "id": "861"
+            },
+            "textIndex": [
+                102,
+                48,
+                49,
+                66
+            ],
+            "characterPic": "WerewolfEX",
+            "modelCode": 6225,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6259,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 3,
+            "skillNormalAttack": 6259101,
+            "skillActive": 6259201,
+            "skillTalent": 6259301,
+            "skillSuper": 6259401,
+            "skillTalentExtra": [
+                6800501
+            ],
+            "skillFaction": 6210506,
+            "aiList": [
+                625901
+            ],
+            "rank": 3,
+            "propertyGroup": 2201,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "862"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "863"
+            },
+            "textIndex": [
+                11,
+                7
+            ],
+            "characterPic": "Nemertea",
+            "modelCode": 6259,
+            "moveCode": 11,
+            "actionChance": 2,
+            "occupySize": 3,
+            "aiOrderClass": 100
+        },
+        {
+            "id": 6269,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 3,
+            "skillNormalAttack": 6269101,
+            "skillActive": 6269201,
+            "skillTalent": 6269301,
+            "skillSuper": 6269401,
+            "skillTalentExtra": [
+                6800501,
+                60000101
+            ],
+            "skillFaction": 6210506,
+            "aiList": [
+                626901
+            ],
+            "rank": 3,
+            "propertyGroup": 2201,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "862"
+            },
+            "joke": {
+                "id": "864"
+            },
+            "description": {
+                "id": "865"
+            },
+            "textIndex": [
+                36,
+                37,
+                66
+            ],
+            "characterPic": "Nemertea",
+            "modelCode": 6259,
+            "moveCode": 11,
+            "actionChance": 2,
+            "occupySize": 3,
+            "maxAp": 400,
+            "aiOrderClass": 100
+        },
+        {
+            "id": 6310,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "aiList": [
+                631001
+            ],
+            "rank": 1,
+            "propertyGroup": 3002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "866"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "867"
+            },
+            "textIndex": [
+                27,
+                13
+            ],
+            "characterPic": "Ripper",
+            "modelCode": 6310,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6311,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillNormalAttack": 6311101,
+            "skillActive": 6321202,
+            "skillTalentExtra": [
+                6300501
+            ],
+            "skillFaction": 6320505,
+            "aiList": [
+                631101
+            ],
+            "rank": 1,
+            "propertyGroup": 3002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "868"
+            },
+            "joke": {
+                "id": "869"
+            },
+            "description": {
+                "id": "870"
+            },
+            "textIndex": [
+                103,
+                38,
+                39,
+                62
+            ],
+            "characterPic": "Ripper",
+            "modelCode": 6311,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 350,
+            "aiOrderClass": 200,
+            "useFakeAttack": true,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 6312,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillActive": 6312202,
+            "skillTalent": 6312303,
+            "skillTalentExtra": [
+                6300501
+            ],
+            "skillFaction": 6320505,
+            "aiList": [
+                631201
+            ],
+            "rank": 1,
+            "propertyGroup": 3003,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "871"
+            },
+            "joke": {
+                "id": "872"
+            },
+            "description": {
+                "id": "873"
+            },
+            "textIndex": [
+                103,
+                44,
+                62
+            ],
+            "characterPic": "Golyat",
+            "modelCode": 6312,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 6313,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "skillNormalAttack": 6313101,
+            "skillTalent": 6323303,
+            "skillTalentExtra": [
+                6323304,
+                6300501
+            ],
+            "skillFaction": 6320505,
+            "aiList": [
+                631301
+            ],
+            "rank": 1,
+            "propertyGroup": 3003,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "874"
+            },
+            "joke": {
+                "id": "875"
+            },
+            "description": {
+                "id": "876"
+            },
+            "textIndex": [
+                103,
+                34,
+                35,
+                62
+            ],
+            "characterPic": "SuperDinergate",
+            "modelCode": 6313,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 6314,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillNormalAttack": 6314101,
+            "skillTalentExtra": [
+                6300501
+            ],
+            "skillFaction": 6320505,
+            "aiList": [
+                631401
+            ],
+            "rank": 1,
+            "propertyGroup": 3002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "877"
+            },
+            "joke": {
+                "id": "878"
+            },
+            "description": {
+                "id": "879"
+            },
+            "textIndex": [
+                103,
+                62
+            ],
+            "characterPic": "Guard",
+            "modelCode": 6314,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 350,
+            "aiOrderClass": 150,
+            "useFakeAttack": true,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 6315,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "skillNormalAttack": 6315101,
+            "skillTalent": 6315303,
+            "skillTalentExtra": [
+                6300501,
+                60000101
+            ],
+            "skillFaction": 6320505,
+            "aiList": [
+                631501
+            ],
+            "rank": 1,
+            "propertyGroup": 3002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "880"
+            },
+            "joke": {
+                "id": "881"
+            },
+            "description": {
+                "id": "882"
+            },
+            "textIndex": [
+                103,
+                42,
+                62
+            ],
+            "characterPic": "Scouts",
+            "modelCode": 6315,
+            "moveCode": 5,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 25,
+            "useFakeAttack": true,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 6320,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "aiList": [
+                632001
+            ],
+            "rank": 1,
+            "propertyGroup": 3102,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "883"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                27,
+                21
+            ],
+            "characterPic": "Ripper_SWAG",
+            "modelCode": 6320,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 150,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6321,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "aiList": [
+                632101
+            ],
+            "rank": 1,
+            "propertyGroup": 3102,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "884"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                27,
+                21
+            ],
+            "characterPic": "Ripper_SWAG",
+            "modelCode": 6321,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 150,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6322,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillActive": 6312202,
+            "skillTalent": 6322303,
+            "skillTalentExtra": [
+                6300501
+            ],
+            "skillFaction": 6320505,
+            "aiList": [
+                631201
+            ],
+            "rank": 1,
+            "propertyGroup": 3003,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "885"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "886"
+            },
+            "textIndex": [
+                27,
+                5,
+                11
+            ],
+            "characterPic": "Golyat_SWAG",
+            "modelCode": 6322,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 200,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6323,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "aiList": [
+                632301
+            ],
+            "rank": 1,
+            "propertyGroup": 3103,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "887"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                27,
+                14,
+                15
+            ],
+            "characterPic": "SuperDinergate_SWAG",
+            "modelCode": 6323,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6324,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "aiList": [
+                632401
+            ],
+            "rank": 1,
+            "propertyGroup": 3102,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "888"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                27,
+                21,
+                15
+            ],
+            "characterPic": "Guard_SWAG",
+            "modelCode": 6110,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 450,
+            "aiOrderClass": 150,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6325,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "skillTalentExtra": [
+                6325301
+            ],
+            "aiList": [
+                632501
+            ],
+            "rank": 1,
+            "propertyGroup": 3102,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "889"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "425"
+            },
+            "textIndex": [
+                27,
+                16,
+                10
+            ],
+            "characterPic": "Scouts_SWAG",
+            "modelCode": 6325,
+            "moveCode": 5,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6332,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillActive": 6312202,
+            "skillTalent": 6312303,
+            "aiList": [
+                631201
+            ],
+            "rank": 1,
+            "propertyGroup": 3003,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "871"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "890"
+            },
+            "textIndex": [
+                27,
+                5,
+                3
+            ],
+            "characterPic": "Golyat",
+            "modelCode": 6312,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 6341,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillNormalAttack": 6341101,
+            "skillActive": 6341201,
+            "skillTalentExtra": [
+                6300501
+            ],
+            "skillFaction": 6320505,
+            "aiList": [
+                634101
+            ],
+            "rank": 2,
+            "propertyGroup": 3102,
+            "name": {
+                "id": "891"
+            },
+            "joke": {
+                "id": "892"
+            },
+            "description": {
+                "id": "893"
+            },
+            "textIndex": [
+                103,
+                55,
+                62
+            ],
+            "characterPic": "Ripper_SWAG",
+            "modelCode": 6341,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 350,
+            "aiOrderClass": 200,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 6342,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillNormalAttack": 6342101,
+            "skillActive": 6342201,
+            "skillTalentExtra": [
+                6300501,
+                60000101
+            ],
+            "skillFaction": 6342301,
+            "aiList": [
+                634201
+            ],
+            "rank": 2,
+            "propertyGroup": 3102,
+            "name": {
+                "id": "894"
+            },
+            "joke": {
+                "id": "895"
+            },
+            "description": {
+                "id": "896"
+            },
+            "textIndex": [
+                103,
+                56,
+                16,
+                62
+            ],
+            "characterPic": "Scouts_SWAG",
+            "modelCode": 6342,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 25,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 6344,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "skillNormalAttack": 6344101,
+            "skillActive": 6344201,
+            "skillTalent": 6344301,
+            "skillSuper": 6344401,
+            "skillTalentExtra": [
+                6300501,
+                6344302,
+                6344303
+            ],
+            "aiList": [
+                634401
+            ],
+            "rank": 2,
+            "propertyGroup": 3102,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "897"
+            },
+            "joke": {
+                "id": "898"
+            },
+            "description": {
+                "id": "899"
+            },
+            "textIndex": [
+                103,
+                57,
+                58,
+                62
+            ],
+            "characterPic": "Guard_SWAG",
+            "modelCode": 6324,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 350,
+            "aiOrderClass": 150,
+            "useFakeAttack": true,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 6851,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6851001,
+            "skillActive": 6851003,
+            "skillTalent": 6851006,
+            "skillSuper": 6851004,
+            "skillActiveExtra": [
+                6851008
+            ],
+            "skillTalentExtra": [
+                6851007,
+                68510071,
+                6800501,
+                6259301
+            ],
+            "aiList": [
+                685101,
+                685102,
+                685103
+            ],
+            "rank": 3,
+            "propertyGroup": 6201,
+            "name": {
+                "id": "900"
+            },
+            "joke": {
+                "id": "901"
+            },
+            "description": {
+                "id": "902"
+            },
+            "textIndex": [
+                59,
+                60
+            ],
+            "characterPic": "Darture",
+            "modelCode": 6851,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6852,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6110101,
+            "aiList": [
+                611001
+            ],
+            "rank": 3,
+            "propertyGroup": 1201,
+            "name": {
+                "id": "900"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "903"
+            },
+            "textIndex": [
+                20,
+                24
+            ],
+            "characterPic": "Darture",
+            "modelCode": 6850,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6853,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6853101,
+            "skillActive": 6853401,
+            "skillTalent": 6853701,
+            "skillActiveExtra": [
+                6853402,
+                6853403,
+                99000010
+            ],
+            "skillTalentExtra": [
+                6800501,
+                6259301
+            ],
+            "aiList": [
+                685301
+            ],
+            "rank": 3,
+            "propertyGroup": 1201,
+            "name": {
+                "id": "904"
+            },
+            "joke": {
+                "id": "905"
+            },
+            "description": {
+                "id": "906"
+            },
+            "textIndex": [
+                61
+            ],
+            "characterPic": "Sextans",
+            "modelCode": 6853,
+            "moveCode": 11,
+            "actionChance": 2,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6854,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6110101,
+            "skillTalentExtra": [
+                6800501
+            ],
+            "aiList": [
+                611001
+            ],
+            "rank": 3,
+            "propertyGroup": 1201,
+            "name": {
+                "id": "904"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "907"
+            },
+            "textIndex": [
+                23
+            ],
+            "characterPic": "Sextans",
+            "modelCode": 6850,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6855,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6851001,
+            "skillActive": 6851003,
+            "skillTalent": 6851006,
+            "skillSuper": 6851004,
+            "skillActiveExtra": [
+                6851008
+            ],
+            "skillTalentExtra": [
+                6851007,
+                68510071,
+                6800501,
+                6259301
+            ],
+            "aiList": [
+                685101,
+                685102,
+                685103
+            ],
+            "rank": 3,
+            "propertyGroup": 6201,
+            "name": {
+                "id": "900"
+            },
+            "joke": {
+                "id": "901"
+            },
+            "description": {
+                "id": "902"
+            },
+            "textIndex": [
+                59,
+                60
+            ],
+            "characterPic": "Darture",
+            "modelCode": 6851,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 6860,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6860101,
+            "skillActive": 6860201,
+            "skillTalent": 6860401,
+            "skillSuper": 6860301,
+            "skillTalentExtra": [
+                6860501
+            ],
+            "aiList": [
+                686001
+            ],
+            "rank": 3,
+            "propertyGroup": 3102,
+            "name": {
+                "id": "908"
+            },
+            "joke": {
+                "id": "909"
+            },
+            "description": {
+                "id": "908"
+            },
+            "textIndex": [
+                20,
+                24
+            ],
+            "characterPic": "6P",
+            "modelCode": 9999,
+            "moveCode": 11,
+            "occupySize": 3,
+            "maxAp": 450,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 6861,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6861101,
+            "skillActive": 6861201,
+            "skillTalent": 6861401,
+            "skillSuper": 6861301,
+            "aiList": [
+                686101
+            ],
+            "rank": 3,
+            "propertyGroup": 3102,
+            "name": {
+                "id": "910"
+            },
+            "joke": {
+                "id": "909"
+            },
+            "description": {
+                "id": "910"
+            },
+            "textIndex": [
+                20,
+                24
+            ],
+            "characterPic": "FunGay",
+            "modelCode": 9998,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 450,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 7001,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 1,
+            "skillNormalAttack": 70010101,
+            "skillTalent": 70013001,
+            "aiList": [
+                1
+            ],
+            "rank": 1,
+            "propertyGroup": 9002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "911"
+            },
+            "joke": {
+                "id": "467"
+            },
+            "description": {
+                "id": "912"
+            },
+            "characterPic": "Jerrican",
+            "modelCode": 7001,
+            "occupySize": 1,
+            "aiOrderClass": 250
+        },
+        {
+            "id": 7002,
+            "enemyCamp": 1001,
+            "duty": 1,
+            "skillNormalAttack": 70020101,
+            "aiList": [
+                700201
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "913"
+            },
+            "joke": {
+                "id": "467"
+            },
+            "description": {
+                "id": "914"
+            },
+            "characterPic": "Gatling",
+            "modelCode": 7004,
+            "occupySize": 1,
+            "aiOrderClass": 250
+        },
+        {
+            "id": 7003,
+            "enemyCamp": 1001,
+            "duty": 1,
+            "skillNormalAttack": 70030101,
+            "aiList": [
+                700301
+            ],
+            "rank": 1,
+            "propertyGroup": 1002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "915"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "916"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "GatlingE",
+            "modelCode": 7005,
+            "occupySize": 1,
+            "aiOrderClass": 250
+        },
+        {
+            "id": 8001,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 80010101,
+            "aiList": [
+                800101
+            ],
+            "rank": 1,
+            "propertyGroup": 3002,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "917"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "449"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "Golyat",
+            "modelCode": 5009,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 500,
+            "aiOrderClass": 100
+        },
+        {
+            "id": 8002,
+            "addLevel": 25,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 80020101,
+            "aiList": [
+                800201
+            ],
+            "rank": 3,
+            "propertyGroup": 3201,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "918"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "449"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "Golyat",
+            "modelCode": 5021,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 300
+        },
+        {
+            "id": 96259,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 3,
+            "skillNormalAttack": 6112101,
+            "skillTalentExtra": [
+                96259411
+            ],
+            "aiList": [
+                612301
+            ],
+            "rank": 3,
+            "propertyGroup": 2201,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "919"
+            },
+            "joke": {
+                "id": "422"
+            },
+            "description": {
+                "id": "863"
+            },
+            "textIndex": [
+                99
+            ],
+            "characterPic": "Pitsard",
+            "modelCode": 6259,
+            "moveCode": 1,
+            "actionChance": 2,
+            "occupySize": 3,
+            "maxAp": 300,
+            "aiOrderClass": 100
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "targetTypeCode": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 2,
+            "targetTypeCode": 3,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 99
+        },
+        {
+            "id": 3,
+            "targetTypeCode": 4,
+            "selectOrderPb": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 4,
+            "targetTypeCode": 4,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 5,
+            "targetTypeCode": 2,
+            "selectOrderPb": 2,
+            "selectPara": "pow",
+            "targetNumber": 1
+        },
+        {
+            "id": 6,
+            "targetTypeCode": 4,
+            "targetNumber": 99,
+            "selectGround": 1
+        },
+        {
+            "id": 7,
+            "targetTypeCode": 3,
+            "targetNumber": 99,
+            "selectGround": 1
+        },
+        {
+            "id": 8,
+            "targetTypeCode": 3,
+            "selectOrderPb": 2,
+            "selectPara": "#1003",
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 9,
+            "targetTypeCode": 10,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 10,
+            "targetNumber": 99,
+            "selectGround": 1,
+            "selectEmpty": true
+        },
+        {
+            "id": 11,
+            "targetTypeCode": 3,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 12,
+            "targetTypeCode": 6,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 13,
+            "targetTypeCode": 4,
+            "targetNumber": 1,
+            "selectGround": 1
+        },
+        {
+            "id": 14,
+            "targetTypeCode": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1,
+            "selectGround": 1
+        },
+        {
+            "id": 15,
+            "targetTypeCode": 2,
+            "selectOrderPb": 2,
+            "selectPara": "max_ap",
+            "targetNumber": 1
+        },
+        {
+            "id": 16,
+            "targetTypeCode": 2,
+            "selectOrderPb": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 17,
+            "targetTypeCode": 10,
+            "targetNumber": 99,
+            "selectGround": 1
+        },
+        {
+            "id": 18,
+            "targetTypeCode": 4,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 19,
+            "targetTypeCode": 4,
+            "targetNumber": 99
+        },
+        {
+            "id": 20,
+            "targetTypeCode": 2,
+            "targetNumber": 99
+        },
+        {
+            "id": 21,
+            "targetTypeCode": 5,
+            "targetNumber": 1,
+            "selectGround": 1
+        },
+        {
+            "id": 22,
+            "targetTypeCode": 2,
+            "targetNumber": 99,
+            "selectGround": 1
+        },
+        {
+            "id": 23,
+            "targetTypeCode": 2,
+            "targetNumber": 99
+        },
+        {
+            "id": 24,
+            "targetTypeCode": 2,
+            "targetNumber": 1
+        },
+        {
+            "id": 25,
+            "targetTypeCode": 4,
+            "selectOrderPb": 1,
+            "targetNumber": 1,
+            "selectGround": 1
+        },
+        {
+            "id": 26,
+            "targetTypeCode": 4,
+            "targetNumber": 2
+        },
+        {
+            "id": 27,
+            "targetTypeCode": 4,
+            "targetNumber": 4
+        },
+        {
+            "id": 28,
+            "targetTypeCode": 2,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 5101131,
+            "targetTypeCode": 2,
+            "targetBuffId": 5101101,
+            "targetBuffTier": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 5101132,
+            "targetTypeCode": 2,
+            "targetBuffId": 5101102,
+            "targetBuffTier": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 5101133,
+            "targetTypeCode": 2,
+            "targetBuffId": 5101103,
+            "targetBuffTier": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 5101134,
+            "targetTypeCode": 2,
+            "targetBuffId": 5101104,
+            "targetBuffTier": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 5101135,
+            "targetTypeCode": 2,
+            "targetBuffId": 5101105,
+            "targetBuffTier": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 5101136,
+            "targetTypeCode": 2,
+            "targetBuffId": 5101106,
+            "targetBuffTier": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 5101137,
+            "targetTypeCode": 1,
+            "targetNumber": 99,
+            "selectGround": 1,
+            "selectEmpty": true
+        }
+    ]
+}

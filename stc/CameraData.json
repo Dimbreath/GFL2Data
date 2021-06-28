@@ -1,0 +1,306 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Freedom",
+            "type": 1
+        },
+        {
+            "id": 2,
+            "name": "God",
+            "type": 20,
+            "prefab": [
+                "God"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Aim",
+            "type": 1
+        },
+        {
+            "id": 4,
+            "name": "Combo",
+            "type": 1,
+            "prefab": [
+                "OnComboFeature"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "OnSlay",
+            "type": 1,
+            "prefab": [
+                "OnSlay"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "OnReload",
+            "type": 1,
+            "prefab": [
+                "OnReload"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "DieCloseUp",
+            "type": 1,
+            "prefab": [
+                "OnDead"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Climb",
+            "type": 1
+        },
+        {
+            "id": 9,
+            "name": "EnemyMove",
+            "type": 1
+        },
+        {
+            "id": 10,
+            "name": "InspectEnemyMove",
+            "type": 20,
+            "prefab": [
+                "OnInspect"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "OnEnemyAttack",
+            "type": 20,
+            "prefab": [
+                "OnEnemyAttack"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PlayerAttack",
+            "type": 20,
+            "prefab": [
+                "OnAttack",
+                "OnAttack",
+                "OnAttack"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PlayerAttackCloseUp",
+            "type": 20,
+            "prefab": [
+                "OnAttackCloseUp"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "OnMelee",
+            "type": 20,
+            "prefab": [
+                "OnMelee"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "OnEnemyAttackTarget",
+            "type": 20,
+            "prefab": [
+                "OnEnemyAttackTarget"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "OnEnemyAttackRole",
+            "type": 20,
+            "prefab": [
+                "OnEnemyAttackRole"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "RavnPrePerform",
+            "type": 20,
+            "prefab": [
+                "RavnPrePerform"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "OnBreak",
+            "type": 20,
+            "prefab": [
+                "OnBreak"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "StayStill",
+            "type": 20,
+            "prefab": [
+                "StayStill"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "OnMelee",
+            "type": 20,
+            "prefab": [
+                "OnMelee"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "OnCannonDroneAttack",
+            "type": 20,
+            "prefab": [
+                "OnCannonDroneAttack"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "OnMGDroneAttack",
+            "type": 20,
+            "prefab": [
+                "OnMGDroneAttack"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "OnVepleySkill",
+            "type": 20,
+            "prefab": [
+                "OnVepleySkill"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "OnCharolicSkill",
+            "type": 20,
+            "prefab": [
+                "OnCharolicSkill"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "TrackCamera",
+            "type": 20,
+            "prefab": [
+                "TrackCamera"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "EffectFollowCamera",
+            "type": 20,
+            "prefab": [
+                "EffectFollowCamera"
+            ]
+        },
+        {
+            "id": 99,
+            "name": "PreToFire",
+            "type": 20,
+            "prefab": [
+                "PreToFire"
+            ]
+        },
+        {
+            "id": 10000103,
+            "name": "OnBuffSelf",
+            "type": 20,
+            "prefab": [
+                "OnBuffSelf"
+            ]
+        },
+        {
+            "id": 10000104,
+            "name": "OnDebuff",
+            "type": 20,
+            "prefab": [
+                "OnDebuff"
+            ]
+        },
+        {
+            "id": 10000105,
+            "name": "OnForceShield",
+            "type": 20,
+            "prefab": [
+                "OnForceShield"
+            ]
+        },
+        {
+            "id": 10000106,
+            "name": "OnSpecialFirePre",
+            "type": 20,
+            "prefab": [
+                "OnSpecialFirePre"
+            ]
+        },
+        {
+            "id": 10000107,
+            "name": "OnSpecialFire",
+            "type": 20,
+            "prefab": [
+                "OnSpecialFire"
+            ]
+        },
+        {
+            "id": 10000108,
+            "name": "HK416Skill",
+            "type": 21,
+            "prefab": [
+                "HK416Skill"
+            ]
+        },
+        {
+            "id": 10000109,
+            "name": "SpringfieldSkill",
+            "type": 21,
+            "prefab": [
+                "SpringfieldSkill"
+            ]
+        },
+        {
+            "id": 10000110,
+            "name": "SkillResult",
+            "type": 20,
+            "prefab": [
+                "SkillResult"
+            ]
+        },
+        {
+            "id": 10000111,
+            "name": "Ots14Skill",
+            "type": 21,
+            "prefab": [
+                "Ots14Skill"
+            ]
+        },
+        {
+            "id": 10000112,
+            "name": "WelrodSkill",
+            "type": 21,
+            "prefab": [
+                "Uni3_WelrodSkill"
+            ]
+        },
+        {
+            "id": 10000113,
+            "name": "M1887Skill",
+            "type": 21,
+            "prefab": [
+                "M1887Skill"
+            ]
+        },
+        {
+            "id": 10000114,
+            "name": "SkillEnemyResult",
+            "type": 20,
+            "prefab": [
+                "SkillEnemyResult"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "cid": 1,
+            "name": {
+                "id": "402"
+            },
+            "favorMax": 1000,
+            "favorLevelAmount": 10,
+            "favorInterval": [
+                100,
+                200,
+                300,
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ]
+        },
+        {
+            "id": 2,
+            "cid": 2,
+            "name": {
+                "id": "403"
+            },
+            "favorMax": 1000,
+            "favorLevelAmount": 10,
+            "favorInterval": [
+                100,
+                200,
+                300,
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ]
+        },
+        {
+            "id": 3,
+            "cid": 3,
+            "name": {
+                "id": "404"
+            },
+            "favorMax": 1000,
+            "favorLevelAmount": 10,
+            "favorInterval": [
+                100,
+                200,
+                300,
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ]
+        },
+        {
+            "id": 4,
+            "cid": 4,
+            "name": {
+                "id": "405"
+            },
+            "favorMax": 1000,
+            "favorLevelAmount": 10,
+            "favorInterval": [
+                100,
+                200,
+                300,
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ]
+        },
+        {
+            "id": 5,
+            "cid": 5,
+            "name": {
+                "id": "406"
+            },
+            "favorMax": 1000,
+            "favorLevelAmount": 10,
+            "favorInterval": [
+                100,
+                200,
+                300,
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ]
+        },
+        {
+            "id": 6,
+            "cid": 6,
+            "name": {
+                "id": "407"
+            },
+            "favorMax": 1000,
+            "favorLevelAmount": 10,
+            "favorInterval": [
+                100,
+                200,
+                300,
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ]
+        },
+        {
+            "id": 7,
+            "cid": 7,
+            "name": {
+                "id": "408"
+            },
+            "favorMax": 1000,
+            "favorLevelAmount": 10,
+            "favorInterval": [
+                100,
+                200,
+                300,
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ]
+        }
+    ]
+}

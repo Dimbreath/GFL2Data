@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "level": 1
+        },
+        {
+            "level": 2,
+            "affection": 1000
+        },
+        {
+            "level": 3,
+            "affection": 7000
+        },
+        {
+            "level": 4,
+            "affection": 13000
+        },
+        {
+            "level": 5,
+            "affection": 19000
+        },
+        {
+            "level": 6,
+            "affection": 25000
+        },
+        {
+            "level": 7,
+            "affection": 31000
+        }
+    ]
+}

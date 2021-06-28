@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "id": 40011,
+            "icon": "t_skill1",
+            "skillId": 40011,
+            "level": 1
+        },
+        {
+            "id": 40021,
+            "icon": "t_skill1",
+            "skillId": 40021,
+            "level": 1
+        },
+        {
+            "id": 40031,
+            "icon": "t_skill1",
+            "skillId": 40031,
+            "level": 1
+        },
+        {
+            "id": 40041,
+            "icon": "t_skill1",
+            "skillId": 40041,
+            "level": 1
+        },
+        {
+            "id": 40051,
+            "icon": "t_skill1",
+            "skillId": 40051,
+            "level": 1
+        },
+        {
+            "id": 40061,
+            "icon": "t_skill1",
+            "skillId": 40061,
+            "level": 2
+        },
+        {
+            "id": 40071,
+            "icon": "t_skill1",
+            "skillId": 40071,
+            "level": 2
+        },
+        {
+            "id": 40081,
+            "icon": "t_skill1",
+            "skillId": 40081,
+            "level": 2
+        },
+        {
+            "id": 40091,
+            "icon": "t_skill1",
+            "skillId": 40091,
+            "level": 2
+        },
+        {
+            "id": 40101,
+            "icon": "t_skill1",
+            "skillId": 40101,
+            "level": 2
+        },
+        {
+            "id": 40111,
+            "icon": "t_skill1",
+            "skillId": 40111,
+            "level": 3
+        },
+        {
+            "id": 40121,
+            "icon": "t_skill1",
+            "skillId": 40121,
+            "level": 3
+        },
+        {
+            "id": 40131,
+            "icon": "t_skill1",
+            "skillId": 40131,
+            "level": 3
+        },
+        {
+            "id": 40141,
+            "icon": "t_skill1",
+            "skillId": 40141,
+            "level": 3
+        },
+        {
+            "id": 40151,
+            "icon": "t_skill1",
+            "skillId": 40151,
+            "level": 3
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "labelName": {
+                "id": "2751"
+            },
+            "labelSequence": 3,
+            "subclassType": 1,
+            "icon": "Icon_SimCombat_Equip"
+        },
+        {
+            "id": 2,
+            "labelName": {
+                "id": "2752"
+            },
+            "labelSequence": 2,
+            "subclassType": 1,
+            "icon": "Icon_SimCombat_Equip"
+        },
+        {
+            "id": 3,
+            "labelName": {
+                "id": "2753"
+            },
+            "labelSequence": 1,
+            "subclassType": 1,
+            "icon": "Icon_SimCombat_Equip"
+        },
+        {
+            "id": 4,
+            "labelName": {
+                "id": "2754"
+            },
+            "subclassType": 1,
+            "icon": "Icon_SimCombat_Equip"
+        },
+        {
+            "id": 5,
+            "labelName": {
+                "id": "2755"
+            },
+            "subclassType": 2
+        },
+        {
+            "id": 6,
+            "labelName": {
+                "id": "2756"
+            },
+            "subclassType": 3
+        },
+        {
+            "id": 7,
+            "labelName": {
+                "id": "2757"
+            },
+            "labelSequence": 4,
+            "subclassType": 4,
+            "icon": "Icon_SimCombat_Physics",
+            "elementId": 1
+        },
+        {
+            "id": 8,
+            "labelName": {
+                "id": "2758"
+            },
+            "labelSequence": 3,
+            "subclassType": 4,
+            "icon": "Icon_SimCombat_Heat",
+            "elementId": 2
+        },
+        {
+            "id": 9,
+            "labelName": {
+                "id": "2759"
+            },
+            "labelSequence": 2,
+            "subclassType": 4,
+            "icon": "Icon_SimCombat_Lighting",
+            "elementId": 3
+        },
+        {
+            "id": 10,
+            "labelName": {
+                "id": "2760"
+            },
+            "labelSequence": 1,
+            "subclassType": 4,
+            "icon": "Icon_SimCombat_Reverse",
+            "elementId": 5
+        },
+        {
+            "id": 11,
+            "labelName": {
+                "id": "2761"
+            },
+            "subclassType": 4,
+            "icon": "Icon_SimCombat_Collapse",
+            "elementId": 4
+        },
+        {
+            "id": 12,
+            "labelName": {
+                "id": "2762"
+            },
+            "subclassType": 5
+        },
+        {
+            "id": 13,
+            "labelName": {
+                "id": "2763"
+            },
+            "subclassType": 6
+        }
+    ]
+}

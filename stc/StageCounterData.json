@@ -1,0 +1,1056 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 30
+        },
+        {
+            "id": 1002,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 1003,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 1004,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 1005,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 1006,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 1007,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 1008,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 1009,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 1010,
+            "stageConfigId": 1001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 1011,
+            "stageConfigId": 80302,
+            "value": 7,
+            "initValue": 7,
+            "maxValue": 20
+        },
+        {
+            "id": 1012,
+            "stageConfigId": 5065,
+            "maxValue": 6
+        },
+        {
+            "id": 1401,
+            "stageConfigId": 14,
+            "maxValue": 10
+        },
+        {
+            "id": 1501,
+            "stageConfigId": 15,
+            "maxValue": 10
+        },
+        {
+            "id": 2001,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 2002,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 2003,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 2004,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 2005,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 2006,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 2007,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 2008,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 2009,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 2010,
+            "stageConfigId": 2001,
+            "value": 10,
+            "initValue": 10,
+            "maxValue": 20
+        },
+        {
+            "id": 3001,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 3002,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 3003,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 3004,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 3005,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 3006,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 3007,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 3008,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 3009,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 3010,
+            "stageConfigId": 3001,
+            "maxValue": 20
+        },
+        {
+            "id": 5025,
+            "stageConfigId": 5025,
+            "maxValue": 2
+        },
+        {
+            "id": 5026,
+            "stageConfigId": 5026,
+            "maxValue": 2
+        },
+        {
+            "id": 5027,
+            "stageConfigId": 5027,
+            "maxValue": 2
+        },
+        {
+            "id": 5029,
+            "stageConfigId": 5029,
+            "maxValue": 3
+        },
+        {
+            "id": 5030,
+            "stageConfigId": 5030,
+            "maxValue": 4
+        },
+        {
+            "id": 5121,
+            "stageConfigId": 5121,
+            "maxValue": 3
+        },
+        {
+            "id": 10104,
+            "stageConfigId": 10104,
+            "maxValue": 3
+        },
+        {
+            "id": 10105,
+            "stageConfigId": 10105,
+            "maxValue": 2
+        },
+        {
+            "id": 10106,
+            "stageConfigId": 10106,
+            "maxValue": 2
+        },
+        {
+            "id": 10107,
+            "stageConfigId": 10107,
+            "maxValue": 2
+        },
+        {
+            "id": 10110,
+            "stageConfigId": 10110,
+            "maxValue": 20
+        },
+        {
+            "id": 10303,
+            "stageConfigId": 10303,
+            "maxValue": 20
+        },
+        {
+            "id": 10304,
+            "stageConfigId": 10304,
+            "maxValue": 20
+        },
+        {
+            "id": 10307,
+            "stageConfigId": 10307,
+            "maxValue": 20
+        },
+        {
+            "id": 20106,
+            "stageConfigId": 20106,
+            "maxValue": 2
+        },
+        {
+            "id": 20107,
+            "stageConfigId": 20107,
+            "maxValue": 3
+        },
+        {
+            "id": 20108,
+            "stageConfigId": 20108,
+            "maxValue": 3
+        },
+        {
+            "id": 20109,
+            "stageConfigId": 20109,
+            "maxValue": 2
+        },
+        {
+            "id": 20110,
+            "stageConfigId": 20110,
+            "maxValue": 10
+        },
+        {
+            "id": 20114,
+            "stageConfigId": 20114,
+            "maxValue": 2
+        },
+        {
+            "id": 20115,
+            "stageConfigId": 20115,
+            "maxValue": 2
+        },
+        {
+            "id": 20117,
+            "stageConfigId": 20117,
+            "maxValue": 2
+        },
+        {
+            "id": 20118,
+            "stageConfigId": 20118,
+            "maxValue": 2
+        },
+        {
+            "id": 20119,
+            "stageConfigId": 20119,
+            "maxValue": 2
+        },
+        {
+            "id": 20120,
+            "stageConfigId": 20120,
+            "maxValue": 2
+        },
+        {
+            "id": 20121,
+            "stageConfigId": 20121,
+            "maxValue": 2
+        },
+        {
+            "id": 20122,
+            "stageConfigId": 20122,
+            "maxValue": 2
+        },
+        {
+            "id": 20123,
+            "stageConfigId": 20123,
+            "maxValue": 2
+        },
+        {
+            "id": 20124,
+            "stageConfigId": 20124,
+            "maxValue": 2
+        },
+        {
+            "id": 20125,
+            "stageConfigId": 20125,
+            "maxValue": 2
+        },
+        {
+            "id": 20132,
+            "stageConfigId": 20132,
+            "maxValue": 20
+        },
+        {
+            "id": 500301,
+            "stageConfigId": 5003,
+            "maxValue": 10
+        },
+        {
+            "id": 500302,
+            "stageConfigId": 5003,
+            "maxValue": 10
+        },
+        {
+            "id": 500501,
+            "stageConfigId": 5005,
+            "maxValue": 10
+        },
+        {
+            "id": 500502,
+            "stageConfigId": 5005,
+            "value": 5,
+            "initValue": 5,
+            "maxValue": 10
+        },
+        {
+            "id": 500601,
+            "stageConfigId": 5006,
+            "maxValue": 13
+        },
+        {
+            "id": 500602,
+            "stageConfigId": 500601,
+            "maxValue": 11
+        },
+        {
+            "id": 510101,
+            "stageConfigId": 5101,
+            "maxValue": 1
+        },
+        {
+            "id": 511201,
+            "stageConfigId": 5112,
+            "maxValue": 10
+        },
+        {
+            "id": 511901,
+            "stageConfigId": 5119,
+            "maxValue": 2
+        },
+        {
+            "id": 511902,
+            "stageConfigId": 5119,
+            "maxValue": 4
+        },
+        {
+            "id": 512001,
+            "stageConfigId": 5120,
+            "maxValue": 3
+        },
+        {
+            "id": 512002,
+            "stageConfigId": 5120,
+            "maxValue": 3
+        },
+        {
+            "id": 600101,
+            "stageConfigId": 6001,
+            "maxValue": 20
+        },
+        {
+            "id": 1010301,
+            "stageConfigId": 10103,
+            "value": 5,
+            "initValue": 5,
+            "maxValue": 10
+        },
+        {
+            "id": 1010302,
+            "stageConfigId": 10103,
+            "maxValue": 2
+        },
+        {
+            "id": 1010801,
+            "stageConfigId": 10108,
+            "maxValue": 3
+        },
+        {
+            "id": 1010901,
+            "stageConfigId": 10109,
+            "maxValue": 4
+        },
+        {
+            "id": 1011001,
+            "stageConfigId": 10110,
+            "maxValue": 6
+        },
+        {
+            "id": 1020101,
+            "stageConfigId": 10201,
+            "maxValue": 3
+        },
+        {
+            "id": 1020102,
+            "stageConfigId": 10201,
+            "maxValue": 3
+        },
+        {
+            "id": 1020201,
+            "stageConfigId": 10202,
+            "value": 5,
+            "initValue": 5,
+            "maxValue": 10
+        },
+        {
+            "id": 1020202,
+            "stageConfigId": 10202,
+            "value": 5,
+            "initValue": 5,
+            "maxValue": 10
+        },
+        {
+            "id": 1020301,
+            "stageConfigId": 10203,
+            "value": 5,
+            "initValue": 5,
+            "maxValue": 10
+        },
+        {
+            "id": 1020401,
+            "stageConfigId": 10204,
+            "maxValue": 2
+        },
+        {
+            "id": 1020402,
+            "stageConfigId": 10204,
+            "maxValue": 3
+        },
+        {
+            "id": 1020501,
+            "stageConfigId": 10205,
+            "maxValue": 2
+        },
+        {
+            "id": 1020502,
+            "stageConfigId": 10205,
+            "maxValue": 4
+        },
+        {
+            "id": 1020701,
+            "stageConfigId": 10207,
+            "maxValue": 10
+        },
+        {
+            "id": 1020801,
+            "stageConfigId": 10208,
+            "maxValue": 2
+        },
+        {
+            "id": 1020802,
+            "stageConfigId": 10208,
+            "maxValue": 4
+        },
+        {
+            "id": 1020901,
+            "stageConfigId": 10209,
+            "maxValue": 15
+        },
+        {
+            "id": 1021001,
+            "stageConfigId": 10210,
+            "maxValue": 20
+        },
+        {
+            "id": 1030101,
+            "stageConfigId": 10301,
+            "maxValue": 2
+        },
+        {
+            "id": 1030501,
+            "stageConfigId": 10305,
+            "maxValue": 6
+        },
+        {
+            "id": 1030801,
+            "stageConfigId": 10308,
+            "maxValue": 10
+        },
+        {
+            "id": 1030901,
+            "stageConfigId": 10309,
+            "maxValue": 10
+        },
+        {
+            "id": 1031001,
+            "stageConfigId": 10310,
+            "maxValue": 10
+        },
+        {
+            "id": 1040101,
+            "stageConfigId": 10401,
+            "maxValue": 10
+        },
+        {
+            "id": 1040201,
+            "stageConfigId": 10402,
+            "maxValue": 10
+        },
+        {
+            "id": 1040301,
+            "stageConfigId": 10403,
+            "maxValue": 10
+        },
+        {
+            "id": 1040401,
+            "stageConfigId": 10404,
+            "maxValue": 10
+        },
+        {
+            "id": 1040501,
+            "stageConfigId": 10405,
+            "maxValue": 10
+        },
+        {
+            "id": 1040601,
+            "stageConfigId": 10406,
+            "maxValue": 10
+        },
+        {
+            "id": 1040701,
+            "stageConfigId": 10407,
+            "maxValue": 10
+        },
+        {
+            "id": 1040801,
+            "stageConfigId": 10408,
+            "maxValue": 10
+        },
+        {
+            "id": 1040901,
+            "stageConfigId": 10409,
+            "maxValue": 10
+        },
+        {
+            "id": 1041001,
+            "stageConfigId": 10410,
+            "maxValue": 10
+        },
+        {
+            "id": 2010602,
+            "stageConfigId": 20106,
+            "maxValue": 10
+        },
+        {
+            "id": 2010702,
+            "stageConfigId": 20107,
+            "maxValue": 3
+        },
+        {
+            "id": 2010802,
+            "stageConfigId": 20108,
+            "maxValue": 3
+        },
+        {
+            "id": 2010902,
+            "stageConfigId": 20109,
+            "maxValue": 3
+        },
+        {
+            "id": 2011002,
+            "stageConfigId": 20110,
+            "maxValue": 15
+        },
+        {
+            "id": 2011702,
+            "stageConfigId": 20117,
+            "maxValue": 2
+        },
+        {
+            "id": 2011802,
+            "stageConfigId": 20118,
+            "maxValue": 2
+        },
+        {
+            "id": 2011902,
+            "stageConfigId": 20119,
+            "maxValue": 2
+        },
+        {
+            "id": 2012002,
+            "stageConfigId": 20120,
+            "maxValue": 3
+        },
+        {
+            "id": 2012601,
+            "stageConfigId": 20126,
+            "maxValue": 4
+        },
+        {
+            "id": 2012602,
+            "stageConfigId": 20126,
+            "maxValue": 2
+        },
+        {
+            "id": 2012701,
+            "stageConfigId": 20127,
+            "maxValue": 4
+        },
+        {
+            "id": 2012702,
+            "stageConfigId": 20127,
+            "maxValue": 2
+        },
+        {
+            "id": 2012801,
+            "stageConfigId": 20128,
+            "maxValue": 4
+        },
+        {
+            "id": 2012802,
+            "stageConfigId": 20128,
+            "maxValue": 2
+        },
+        {
+            "id": 2012901,
+            "stageConfigId": 20129,
+            "maxValue": 4
+        },
+        {
+            "id": 2012902,
+            "stageConfigId": 20129,
+            "maxValue": 2
+        },
+        {
+            "id": 2013001,
+            "stageConfigId": 20130,
+            "maxValue": 5
+        },
+        {
+            "id": 2013002,
+            "stageConfigId": 20130,
+            "maxValue": 2
+        },
+        {
+            "id": 2013101,
+            "stageConfigId": 20131,
+            "maxValue": 13
+        },
+        {
+            "id": 2013201,
+            "stageConfigId": 20132,
+            "maxValue": 14
+        },
+        {
+            "id": 2013301,
+            "stageConfigId": 20133,
+            "maxValue": 14
+        },
+        {
+            "id": 2013401,
+            "stageConfigId": 20134,
+            "maxValue": 14
+        },
+        {
+            "id": 2013501,
+            "stageConfigId": 20135,
+            "maxValue": 14
+        },
+        {
+            "id": 2013601,
+            "stageConfigId": 20136,
+            "maxValue": 14
+        },
+        {
+            "id": 2013701,
+            "stageConfigId": 20137,
+            "maxValue": 14
+        },
+        {
+            "id": 2013801,
+            "stageConfigId": 20138,
+            "maxValue": 14
+        },
+        {
+            "id": 2013901,
+            "stageConfigId": 20139,
+            "maxValue": 14
+        },
+        {
+            "id": 2014001,
+            "stageConfigId": 20140,
+            "maxValue": 14
+        },
+        {
+            "id": 2014101,
+            "stageConfigId": 20141,
+            "maxValue": 14
+        },
+        {
+            "id": 2014201,
+            "stageConfigId": 20142,
+            "maxValue": 14
+        },
+        {
+            "id": 2014301,
+            "stageConfigId": 20143,
+            "maxValue": 14
+        },
+        {
+            "id": 2014401,
+            "stageConfigId": 20144,
+            "maxValue": 14
+        },
+        {
+            "id": 2014501,
+            "stageConfigId": 20145,
+            "maxValue": 14
+        },
+        {
+            "id": 2014601,
+            "stageConfigId": 20146,
+            "maxValue": 14
+        },
+        {
+            "id": 2014701,
+            "stageConfigId": 20147,
+            "maxValue": 14
+        },
+        {
+            "id": 2014801,
+            "stageConfigId": 20148,
+            "maxValue": 14
+        },
+        {
+            "id": 2014901,
+            "stageConfigId": 20149,
+            "maxValue": 14
+        },
+        {
+            "id": 2015001,
+            "stageConfigId": 20150,
+            "maxValue": 14
+        },
+        {
+            "id": 2210101,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2210201,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2210301,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2210401,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2210501,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2210601,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2210701,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2210801,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2210901,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2211001,
+            "stageConfigId": 22101,
+            "maxValue": 15
+        },
+        {
+            "id": 2220101,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2220201,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2220301,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2220401,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2220501,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2220601,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2220701,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2220801,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2220901,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2221001,
+            "stageConfigId": 22201,
+            "maxValue": 15
+        },
+        {
+            "id": 2230101,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2230201,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2230301,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2230401,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2230501,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2230601,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2230701,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2230801,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2230901,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2231001,
+            "stageConfigId": 22301,
+            "maxValue": 15
+        },
+        {
+            "id": 2240101,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 2240201,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 2240301,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 2240401,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 2240501,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 2240601,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 2240701,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 2240801,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 2240901,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 2241001,
+            "stageConfigId": 22401,
+            "maxValue": 15
+        },
+        {
+            "id": 3010201,
+            "stageConfigId": 30102,
+            "maxValue": 5
+        },
+        {
+            "id": 3010202,
+            "stageConfigId": 30102,
+            "maxValue": 5
+        },
+        {
+            "id": 7010101,
+            "stageConfigId": 70101,
+            "maxValue": 1
+        },
+        {
+            "id": 9010101,
+            "stageConfigId": 90101,
+            "maxValue": 12
+        },
+        {
+            "id": 9010201,
+            "stageConfigId": 90102,
+            "maxValue": 14
+        },
+        {
+            "id": 9010301,
+            "stageConfigId": 90103,
+            "maxValue": 13
+        },
+        {
+            "id": 9020101,
+            "stageConfigId": 90201,
+            "maxValue": 20
+        },
+        {
+            "id": 9020201,
+            "stageConfigId": 90202,
+            "maxValue": 20
+        },
+        {
+            "id": 50060501,
+            "stageConfigId": 500605,
+            "maxValue": 10
+        }
+    ]
+}

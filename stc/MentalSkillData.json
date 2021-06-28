@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "469"
+            },
+            "enName": "skill_assistant"
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "470"
+            },
+            "enName": "skill_super_awake"
+        }
+    ]
+}

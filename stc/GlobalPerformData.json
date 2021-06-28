@@ -1,0 +1,152 @@
+{
+    "data": [
+        {
+            "turnCutinTime": 1.4,
+            "minFramesOnHurt": 18,
+            "lgpLeftHand": 101,
+            "lgpRightHand": 102,
+            "lgpHead": 103,
+            "lgpChest": 104,
+            "lgpLeftWeapon": 105,
+            "lgpRightWeapon": 106,
+            "lgpLeftWeaponMuzzle": 107,
+            "lgpRightWeaponMuzzle": 108,
+            "lgpRoot": 109,
+            "lgpAimIk": 110,
+            "lgpMesh": 111,
+            "lgpHeadpoint": 113,
+            "lgpHppoint": 114,
+            "figuresClimbTime": 45,
+            "figuremClimbTime": 40,
+            "figurelClimbTime": 41,
+            "figuremsClimbTime": 55,
+            "figuremmClimbTime": 58,
+            "figuremlClimbTime": 51,
+            "figuremcClimbTime": 61,
+            "figuremfClimbTime": 61,
+            "figuresClimbdownTime": 60,
+            "figuremClimbdownTime": 50,
+            "figurelClimbdownTime": 37,
+            "figuremsClimbdownTime": 37,
+            "figuremmClimbdownTime": 50,
+            "figuremlClimbdownTime": 40,
+            "figuremcClimbdownTime": 50,
+            "figuremfClimbdownTime": 50,
+            "battleBornMinFrame": 60,
+            "battleBornMinBlendtime": 30,
+            "reinforceAirdropFrame": 150,
+            "slgCaptureCameraTime": 120,
+            "cameraClimbModiferAheadFrameUp": 22,
+            "cameraClimbModiferAheadFrameDown": 22,
+            "cameraClimbModiferTotalFrameUp": 15,
+            "cameraClimbModiferTotalFrameDown": 15,
+            "reloadTime": 60,
+            "switchTime": 12,
+            "onslayTime": 210,
+            "slgPreparationFov": 45.0,
+            "slgPreparationXangle": 60.0,
+            "slgPreparationIconSize": 0.2,
+            "slgPreparationZoomRange": [
+                7.0,
+                18.0
+            ],
+            "slgPreparationInitZoom": 14.0,
+            "slgPreparationTurnSpeed": 135.0,
+            "slgPreparationTurnLerpTime": 0.3,
+            "slgPreparationSelectLerpTime": 0.4,
+            "slgPreparationTransTime": 0.3,
+            "transparentFadeValue": 0.3,
+            "sphereFadeRadius": 0.3,
+            "transitionTolerance": 3000,
+            "xOffsetRange": [
+                0.65,
+                0.65
+            ],
+            "yOffsetRange": [
+                -0.4,
+                0.95
+            ],
+            "zPlainOffsetRange": [
+                -1.3,
+                -1.2
+            ],
+            "zHighlandOffsetRange": [
+                -1.3,
+                -1.2
+            ],
+            "plainAdjustRange": [
+                1.8,
+                9.0
+            ],
+            "highlandAdjustRange": [
+                -45.0,
+                45.0
+            ],
+            "transitionDelay": 24,
+            "godcamXAngleDis": [
+                6,
+                70,
+                20,
+                70
+            ],
+            "distanceInGod": 15.0,
+            "godcamScaleSpd": 10.0,
+            "godcamDisappearRange": 8.0,
+            "godcamDisappearRefreshspd": 3,
+            "newOperatingmodeXAngleDis": [
+                6,
+                45,
+                20,
+                45
+            ],
+            "newOperatingmodeInitZoom": 15.0,
+            "newOperatingmodeArea": 0.9,
+            "newOperatingmodeAreaHorizontal": 0.5,
+            "commandcamera1Range": [
+                10,
+                10,
+                10,
+                10
+            ],
+            "commandcamera1Speed": 4,
+            "commandcamera1Delay": 500,
+            "commandcamera2Range": [
+                11,
+                11,
+                11,
+                11
+            ],
+            "commandcamera2Speed": 5,
+            "commandcamera2Delay": 800,
+            "guideCamerafocusTime": 120,
+            "singledeadTime": 60,
+            "multideadTime": 60,
+            "godHighlandHeight": 7.4,
+            "dotdeadTime": 60,
+            "transparentTime": 10,
+            "godcamXAngleOption": [
+                35,
+                45,
+                75
+            ],
+            "breakDuration": 90,
+            "breakBuffDelay": 30,
+            "orderPerformTime": 2.0,
+            "freeCamAngle": [
+                5.0,
+                75.0
+            ],
+            "freeCamUpoffest": 0.5,
+            "movecamRectangleRange": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "godcamScreenOffset": [
+                0.25,
+                0.25,
+                0.5
+            ]
+        }
+    ]
+}

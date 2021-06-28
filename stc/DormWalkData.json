@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "cid": 3,
+            "area": 1,
+            "responseperform": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 2,
+            "cid": 3,
+            "area": 2,
+            "responseperform": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        },
+        {
+            "id": 3,
+            "cid": 3,
+            "area": 3,
+            "responseperform": [
+                5,
+                6,
+                7,
+                8,
+                11
+            ]
+        }
+    ]
+}

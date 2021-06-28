@@ -1,0 +1,425 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "4402"
+            },
+            "type": 1,
+            "lvRequest": 1,
+            "time": 1,
+            "stamina": 1,
+            "fitGunType": [
+                2
+            ],
+            "gunExp": 100,
+            "gunExpPerfect": 200,
+            "commanderExp": 100,
+            "commanderExpPerfect": 200,
+            "reward": {
+                "2": 100
+            },
+            "rewardPerfect": {
+                "2": 200
+            },
+            "perfectBaseRate": 100,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 100
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "4403"
+            },
+            "type": 1,
+            "lvRequest": 1,
+            "time": 10,
+            "stamina": 1,
+            "fitGunType": [
+                2
+            ],
+            "gunExp": 1000,
+            "gunExpPerfect": 2000,
+            "commanderExp": 1000,
+            "commanderExpPerfect": 2000,
+            "reward": {
+                "2": 1000
+            },
+            "rewardPerfect": {
+                "2": 2000
+            },
+            "perfectBaseRate": 100,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 100
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "4404"
+            },
+            "type": 1,
+            "lvRequest": 1,
+            "time": 60,
+            "stamina": 1,
+            "fitGunType": [
+                2
+            ],
+            "gunExp": 6000,
+            "gunExpPerfect": 12000,
+            "commanderExp": 6000,
+            "commanderExpPerfect": 12000,
+            "reward": {
+                "2": 6000
+            },
+            "rewardPerfect": {
+                "2": 12000
+            },
+            "perfectBaseRate": 100,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 100
+        },
+        {
+            "id": 4,
+            "name": {
+                "id": "4405"
+            },
+            "type": 1,
+            "lvRequest": 1,
+            "time": 360,
+            "stamina": 1,
+            "fitGunType": [
+                2
+            ],
+            "gunExp": 26000,
+            "gunExpPerfect": 52000,
+            "commanderExp": 26000,
+            "commanderExpPerfect": 52000,
+            "reward": {
+                "2": 26000
+            },
+            "rewardPerfect": {
+                "2": 52000
+            },
+            "perfectBaseRate": 100,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 100
+        },
+        {
+            "id": 11,
+            "name": {
+                "id": "4406"
+            },
+            "type": 2,
+            "lvRequest": 5,
+            "time": 1,
+            "stamina": 1,
+            "fitGunType": [
+                1,
+                2
+            ],
+            "gunExp": 100,
+            "gunExpPerfect": 200,
+            "commanderExp": 100,
+            "commanderExpPerfect": 200,
+            "reward": {
+                "121": 1
+            },
+            "rewardPerfect": {
+                "121": 2
+            },
+            "perfectBaseRate": 100,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 100
+        },
+        {
+            "id": 12,
+            "name": {
+                "id": "4407"
+            },
+            "type": 2,
+            "lvRequest": 5,
+            "time": 10,
+            "stamina": 1,
+            "fitGunType": [
+                1,
+                2
+            ],
+            "gunExp": 1000,
+            "gunExpPerfect": 2000,
+            "commanderExp": 1000,
+            "commanderExpPerfect": 2000,
+            "reward": {
+                "121": 10
+            },
+            "rewardPerfect": {
+                "121": 20
+            },
+            "perfectBaseRate": 100,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 100
+        },
+        {
+            "id": 13,
+            "name": {
+                "id": "4408"
+            },
+            "type": 2,
+            "lvRequest": 5,
+            "time": 60,
+            "stamina": 1,
+            "fitGunType": [
+                1,
+                2
+            ],
+            "gunExp": 6000,
+            "gunExpPerfect": 12000,
+            "commanderExp": 6000,
+            "commanderExpPerfect": 12000,
+            "reward": {
+                "122": 5
+            },
+            "rewardPerfect": {
+                "122": 10
+            },
+            "perfectBaseRate": 100,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 100
+        },
+        {
+            "id": 14,
+            "name": {
+                "id": "4409"
+            },
+            "type": 2,
+            "lvRequest": 5,
+            "time": 360,
+            "stamina": 1,
+            "fitGunType": [
+                1,
+                2
+            ],
+            "gunExp": 26000,
+            "gunExpPerfect": 52000,
+            "commanderExp": 26000,
+            "commanderExpPerfect": 52000,
+            "reward": {
+                "123": 5
+            },
+            "rewardPerfect": {
+                "123": 10
+            },
+            "perfectBaseRate": 100,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 100
+        },
+        {
+            "id": 21,
+            "name": {
+                "id": "4410"
+            },
+            "type": 3,
+            "lvRequest": 1,
+            "unlockStory": 101,
+            "time": 1,
+            "stamina": 1,
+            "fitGunType": [
+                3
+            ],
+            "gunExp": 100,
+            "gunExpPerfect": 200,
+            "commanderExp": 100,
+            "commanderExpPerfect": 200,
+            "reward": {
+                "1": 100
+            },
+            "rewardPerfect": {
+                "1": 200
+            },
+            "perfectBaseRate": 50,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 50
+        },
+        {
+            "id": 22,
+            "name": {
+                "id": "4411"
+            },
+            "type": 3,
+            "lvRequest": 1,
+            "time": 10,
+            "stamina": 1,
+            "fitGunType": [
+                3
+            ],
+            "gunExp": 1000,
+            "gunExpPerfect": 2000,
+            "commanderExp": 1000,
+            "commanderExpPerfect": 2000,
+            "reward": {
+                "1": 1000
+            },
+            "rewardPerfect": {
+                "1": 2000
+            },
+            "perfectBaseRate": 50,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 50
+        },
+        {
+            "id": 23,
+            "name": {
+                "id": "4412"
+            },
+            "type": 3,
+            "lvRequest": 1,
+            "time": 60,
+            "stamina": 1,
+            "fitGunType": [
+                3
+            ],
+            "gunExp": 6000,
+            "gunExpPerfect": 12000,
+            "commanderExp": 6000,
+            "commanderExpPerfect": 12000,
+            "reward": {
+                "1": 6000
+            },
+            "rewardPerfect": {
+                "1": 12000
+            },
+            "perfectBaseRate": 50,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 50
+        },
+        {
+            "id": 24,
+            "name": {
+                "id": "4413"
+            },
+            "type": 3,
+            "lvRequest": 1,
+            "time": 360,
+            "stamina": 1,
+            "fitGunType": [
+                3
+            ],
+            "gunExp": 26000,
+            "gunExpPerfect": 52000,
+            "commanderExp": 26000,
+            "commanderExpPerfect": 52000,
+            "reward": {
+                "1": 26000
+            },
+            "rewardPerfect": {
+                "1": 52000
+            },
+            "perfectBaseRate": 50,
+            "perfectLvRate": 50,
+            "perfectSpecRate": 50
+        },
+        {
+            "id": 31,
+            "name": {
+                "id": "4414"
+            },
+            "type": 4,
+            "lvRequest": 1,
+            "time": 1,
+            "stamina": 5,
+            "fitGunType": [
+                1
+            ],
+            "gunExp": 100,
+            "gunExpPerfect": 200,
+            "commanderExp": 100,
+            "commanderExpPerfect": 200,
+            "reward": {
+                "201": 100
+            },
+            "rewardPerfect": {
+                "201": 200
+            },
+            "perfectBaseRate": 1000,
+            "perfectLvRate": 1000,
+            "perfectSpecRate": 1000
+        },
+        {
+            "id": 32,
+            "name": {
+                "id": "4415"
+            },
+            "type": 4,
+            "lvRequest": 1,
+            "time": 10,
+            "stamina": 5,
+            "fitGunType": [
+                1
+            ],
+            "gunExp": 1000,
+            "gunExpPerfect": 2000,
+            "commanderExp": 1000,
+            "commanderExpPerfect": 2000,
+            "reward": {
+                "201": 1000
+            },
+            "rewardPerfect": {
+                "201": 2000
+            },
+            "perfectBaseRate": 1000,
+            "perfectLvRate": 1000,
+            "perfectSpecRate": 1000
+        },
+        {
+            "id": 33,
+            "name": {
+                "id": "4416"
+            },
+            "type": 4,
+            "lvRequest": 1,
+            "time": 60,
+            "stamina": 5,
+            "fitGunType": [
+                1
+            ],
+            "gunExp": 6000,
+            "gunExpPerfect": 12000,
+            "commanderExp": 6000,
+            "commanderExpPerfect": 12000,
+            "reward": {
+                "201": 6000
+            },
+            "rewardPerfect": {
+                "201": 12000
+            },
+            "perfectBaseRate": 1000,
+            "perfectLvRate": 1000,
+            "perfectSpecRate": 1000
+        },
+        {
+            "id": 34,
+            "name": {
+                "id": "4417"
+            },
+            "type": 4,
+            "lvRequest": 1,
+            "time": 360,
+            "stamina": 5,
+            "fitGunType": [
+                1
+            ],
+            "gunExp": 26000,
+            "gunExpPerfect": 52000,
+            "commanderExp": 26000,
+            "commanderExpPerfect": 52000,
+            "reward": {
+                "201": 26000
+            },
+            "rewardPerfect": {
+                "201": 52000
+            },
+            "perfectBaseRate": 1000,
+            "perfectLvRate": 1000,
+            "perfectSpecRate": 1000
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "path": "TacticSkill/AC130.usm",
+            "lifetime": 255
+        },
+        {
+            "id": 1002,
+            "path": "TacticSkill/missile.usm",
+            "lifetime": 175
+        },
+        {
+            "id": 1003,
+            "path": "TacticSkill/reload.usm"
+        },
+        {
+            "id": 1004,
+            "path": "TacticSkill/sentrygun.usm",
+            "lifetime": 305
+        },
+        {
+            "id": 1005,
+            "path": "TacticSkill/machinegun.usm",
+            "lifetime": 400
+        },
+        {
+            "id": 2001,
+            "path": "CharacterSkill/CharolicR01.usm"
+        },
+        {
+            "id": 2002,
+            "path": "CharacterSkill/CharolicSR01.usm"
+        },
+        {
+            "id": 2003,
+            "path": "CharacterSkill/ColphneR01.usm"
+        },
+        {
+            "id": 2004,
+            "path": "CharacterSkill/GrozaR01.usm"
+        },
+        {
+            "id": 2005,
+            "path": "CharacterSkill/GrozaSR01.usm"
+        },
+        {
+            "id": 2006,
+            "path": "CharacterSkill/LennaSR01.usm"
+        },
+        {
+            "id": 2007,
+            "path": "CharacterSkill/VepleyR01.usm"
+        },
+        {
+            "id": 9999,
+            "path": "CharacterSkill/Black.usm"
+        },
+        {
+            "id": 100101,
+            "path": "CharacterSkill/100101.usm"
+        }
+    ]
+}

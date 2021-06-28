@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "simType": 6,
+            "stageId": 1030,
+            "integral": 1,
+            "rewardTmp": "100:100;1000:500;1500:200;3000:500",
+            "maintargetId": [
+                9
+            ]
+        }
+    ]
+}

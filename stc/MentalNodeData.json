@@ -1,0 +1,8716 @@
+{
+    "data": [
+        {
+            "id": 1001011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 5
+            }
+        },
+        {
+            "id": 1001012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 46
+            }
+        },
+        {
+            "id": 1001013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1001014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 20
+            }
+        },
+        {
+            "id": 1001021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1001022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 115
+            }
+        },
+        {
+            "id": 1001023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1001024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 20
+            }
+        },
+        {
+            "id": 1001031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1001032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 115
+            }
+        },
+        {
+            "id": 1001033,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1001034,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 59
+            }
+        },
+        {
+            "id": 1001041,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1001042,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 276
+            }
+        },
+        {
+            "id": 1001043,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1001044,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 59
+            }
+        },
+        {
+            "id": 1001051,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1001052,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 276
+            }
+        },
+        {
+            "id": 1001053,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1001054,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 137
+            }
+        },
+        {
+            "id": 1001061,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1001062,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 276
+            }
+        },
+        {
+            "id": 1001063,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1001064,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 137
+            }
+        },
+        {
+            "id": 1001071,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1001072,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 690
+            }
+        },
+        {
+            "id": 1001073,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1001074,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 137
+            }
+        },
+        {
+            "id": 1001081,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1001082,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 690
+            }
+        },
+        {
+            "id": 1001083,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1001084,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 137
+            }
+        },
+        {
+            "id": 1001091,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1001092,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 690
+            }
+        },
+        {
+            "id": 1001093,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1001094,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 293
+            }
+        },
+        {
+            "id": 1001101,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1001102,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 690
+            }
+        },
+        {
+            "id": 1001103,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1001104,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 293
+            }
+        },
+        {
+            "id": 1001111,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1001112,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "max_hp": 1725
+            }
+        },
+        {
+            "id": 1001113,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1001114,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 293
+            }
+        },
+        {
+            "id": 1002011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 5
+            }
+        },
+        {
+            "id": 1002012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 44
+            }
+        },
+        {
+            "id": 1002013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1002014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1002021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1002022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 110
+            }
+        },
+        {
+            "id": 1002023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1002024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1002031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1002032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 110
+            }
+        },
+        {
+            "id": 1002033,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1002034,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1002041,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1002042,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1002043,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1002044,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1002051,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1002052,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1002053,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1002054,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1002061,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1002062,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1002063,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1002064,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1002071,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1002072,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1002073,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1002074,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1002081,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1002082,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1002083,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1002084,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1002091,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1002092,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1002093,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1002094,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1002101,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1002102,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1002103,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1002104,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1002111,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1002112,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "max_hp": 1650
+            }
+        },
+        {
+            "id": 1002113,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1002114,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1003011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 7
+            }
+        },
+        {
+            "id": 1003012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 34
+            }
+        },
+        {
+            "id": 1003013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1003014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 14
+            }
+        },
+        {
+            "id": 1003021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1003022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 85
+            }
+        },
+        {
+            "id": 1003023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1003024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 14
+            }
+        },
+        {
+            "id": 1003031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1003032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 85
+            }
+        },
+        {
+            "id": 1003033,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1003034,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "armor": 41
+            }
+        },
+        {
+            "id": 1003041,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1003042,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 204
+            }
+        },
+        {
+            "id": 1003043,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1003044,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "armor": 41
+            }
+        },
+        {
+            "id": 1003051,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1003052,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 204
+            }
+        },
+        {
+            "id": 1003053,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1003054,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1003061,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1003062,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 204
+            }
+        },
+        {
+            "id": 1003063,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1003064,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1003071,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1003072,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 510
+            }
+        },
+        {
+            "id": 1003073,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1003074,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1003081,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1003082,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 510
+            }
+        },
+        {
+            "id": 1003083,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1003084,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1003091,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1003092,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 510
+            }
+        },
+        {
+            "id": 1003093,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1003094,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 203
+            }
+        },
+        {
+            "id": 1003101,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1003102,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 510
+            }
+        },
+        {
+            "id": 1003103,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1003104,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 203
+            }
+        },
+        {
+            "id": 1003111,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1003112,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "max_hp": 1275
+            }
+        },
+        {
+            "id": 1003113,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1003114,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 203
+            }
+        },
+        {
+            "id": 1004011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 6
+            }
+        },
+        {
+            "id": 1004012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 40
+            }
+        },
+        {
+            "id": 1004013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1004014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1004021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1004022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 100
+            }
+        },
+        {
+            "id": 1004023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1004024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1004031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1004032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 100
+            }
+        },
+        {
+            "id": 1004033,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1004034,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1004041,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1004042,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 240
+            }
+        },
+        {
+            "id": 1004043,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1004044,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1004051,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1004052,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 240
+            }
+        },
+        {
+            "id": 1004053,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1004054,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1004061,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1004062,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 240
+            }
+        },
+        {
+            "id": 1004063,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1004064,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1004071,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1004072,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1004073,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1004074,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1004081,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1004082,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1004083,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1004084,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1004091,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1004092,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1004093,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1004094,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1004101,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1004102,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1004103,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 234
+            }
+        },
+        {
+            "id": 1004104,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1004111,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1004112,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "max_hp": 1500
+            }
+        },
+        {
+            "id": 1004113,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 234
+            }
+        },
+        {
+            "id": 1004114,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1005011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 6
+            }
+        },
+        {
+            "id": 1005012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 38
+            }
+        },
+        {
+            "id": 1005013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1005014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1005021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1005022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 95
+            }
+        },
+        {
+            "id": 1005023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1005024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1005031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1005032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 95
+            }
+        },
+        {
+            "id": 1005033,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1005034,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1005041,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1005042,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 228
+            }
+        },
+        {
+            "id": 1005043,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1005044,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1005051,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1005052,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 228
+            }
+        },
+        {
+            "id": 1005053,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1005054,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1005061,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1005062,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 228
+            }
+        },
+        {
+            "id": 1005063,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1005064,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1005071,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1005072,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 570
+            }
+        },
+        {
+            "id": 1005073,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1005074,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1005081,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1005082,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 570
+            }
+        },
+        {
+            "id": 1005083,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1005084,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1005091,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1005092,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 570
+            }
+        },
+        {
+            "id": 1005093,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1005094,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1005101,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1005102,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 570
+            }
+        },
+        {
+            "id": 1005103,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 234
+            }
+        },
+        {
+            "id": 1005104,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1005111,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1005112,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "max_hp": 1425
+            }
+        },
+        {
+            "id": 1005113,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 234
+            }
+        },
+        {
+            "id": 1005114,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1006011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 7
+            }
+        },
+        {
+            "id": 1006012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 36
+            }
+        },
+        {
+            "id": 1006013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 14
+            }
+        },
+        {
+            "id": 1006014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 14
+            }
+        },
+        {
+            "id": 1006021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 14
+            }
+        },
+        {
+            "id": 1006022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 90
+            }
+        },
+        {
+            "id": 1006023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 14
+            }
+        },
+        {
+            "id": 1006024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 14
+            }
+        },
+        {
+            "id": 1006031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 14
+            }
+        },
+        {
+            "id": 1006032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 90
+            }
+        },
+        {
+            "id": 1006033,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 35
+            }
+        },
+        {
+            "id": 1006034,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 41
+            }
+        },
+        {
+            "id": 1006041,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 35
+            }
+        },
+        {
+            "id": 1006042,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 216
+            }
+        },
+        {
+            "id": 1006043,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 35
+            }
+        },
+        {
+            "id": 1006044,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 41
+            }
+        },
+        {
+            "id": 1006051,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 35
+            }
+        },
+        {
+            "id": 1006052,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 216
+            }
+        },
+        {
+            "id": 1006053,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 35
+            }
+        },
+        {
+            "id": 1006054,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1006061,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 35
+            }
+        },
+        {
+            "id": 1006062,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 216
+            }
+        },
+        {
+            "id": 1006063,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 105
+            }
+        },
+        {
+            "id": 1006064,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1006071,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 35
+            }
+        },
+        {
+            "id": 1006072,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 540
+            }
+        },
+        {
+            "id": 1006073,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 105
+            }
+        },
+        {
+            "id": 1006074,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1006081,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 105
+            }
+        },
+        {
+            "id": 1006082,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 540
+            }
+        },
+        {
+            "id": 1006083,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 105
+            }
+        },
+        {
+            "id": 1006084,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1006091,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 105
+            }
+        },
+        {
+            "id": 1006092,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 540
+            }
+        },
+        {
+            "id": 1006093,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 105
+            }
+        },
+        {
+            "id": 1006094,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 203
+            }
+        },
+        {
+            "id": 1006101,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 105
+            }
+        },
+        {
+            "id": 1006102,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 540
+            }
+        },
+        {
+            "id": 1006103,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 273
+            }
+        },
+        {
+            "id": 1006104,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 203
+            }
+        },
+        {
+            "id": 1006111,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 105
+            }
+        },
+        {
+            "id": 1006112,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "max_hp": 1350
+            }
+        },
+        {
+            "id": 1006113,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 273
+            }
+        },
+        {
+            "id": 1006114,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 203
+            }
+        },
+        {
+            "id": 1007011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 7
+            }
+        },
+        {
+            "id": 1007012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 42
+            }
+        },
+        {
+            "id": 1007013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1007014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1007021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1007022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1007023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1007024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1007031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1007032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1007033,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1007034,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1007041,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1007042,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1007043,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1007044,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1007051,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1007052,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1007053,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1007054,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1007061,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1007062,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1007063,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1007064,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1007071,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1007072,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1007073,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1007074,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1007081,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1007082,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1007083,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1007084,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1007091,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1007092,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1007093,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1007094,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1007101,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1007102,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1007103,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1007104,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1007111,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1007112,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "max_hp": 1575
+            }
+        },
+        {
+            "id": 1007113,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1007114,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1008011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 7
+            }
+        },
+        {
+            "id": 1008012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 36
+            }
+        },
+        {
+            "id": 1008013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1008014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 14
+            }
+        },
+        {
+            "id": 1008021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1008022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 90
+            }
+        },
+        {
+            "id": 1008023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1008024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 14
+            }
+        },
+        {
+            "id": 1008031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1008032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 90
+            }
+        },
+        {
+            "id": 1008033,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1008034,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 41
+            }
+        },
+        {
+            "id": 1008041,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1008042,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 216
+            }
+        },
+        {
+            "id": 1008043,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1008044,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 41
+            }
+        },
+        {
+            "id": 1008051,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1008052,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 216
+            }
+        },
+        {
+            "id": 1008053,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1008054,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1008061,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1008062,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 216
+            }
+        },
+        {
+            "id": 1008063,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1008064,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1008071,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1008072,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 540
+            }
+        },
+        {
+            "id": 1008073,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1008074,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1008081,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1008082,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 540
+            }
+        },
+        {
+            "id": 1008083,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1008084,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 95
+            }
+        },
+        {
+            "id": 1008091,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1008092,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 540
+            }
+        },
+        {
+            "id": 1008093,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1008094,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 203
+            }
+        },
+        {
+            "id": 1008101,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1008102,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 540
+            }
+        },
+        {
+            "id": 1008103,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1008104,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 203
+            }
+        },
+        {
+            "id": 1008111,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1008112,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "max_hp": 1350
+            }
+        },
+        {
+            "id": 1008113,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1008114,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 203
+            }
+        },
+        {
+            "id": 1009011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 6
+            }
+        },
+        {
+            "id": 1009012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 42
+            }
+        },
+        {
+            "id": 1009013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1009014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1009021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1009022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1009023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1009024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1009031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1009032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1009033,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1009034,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1009041,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1009042,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1009043,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1009044,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1009051,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1009052,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1009053,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1009054,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1009061,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1009062,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1009063,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1009064,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1009071,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1009072,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1009073,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1009074,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1009081,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1009082,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1009083,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1009084,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1009091,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1009092,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1009093,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1009094,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1009101,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1009102,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1009103,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1009104,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1009111,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1009112,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "max_hp": 1575
+            }
+        },
+        {
+            "id": 1009113,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1009114,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1010011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 6
+            }
+        },
+        {
+            "id": 1010012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 52
+            }
+        },
+        {
+            "id": 1010013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1010014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 20
+            }
+        },
+        {
+            "id": 1010021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1010022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 130
+            }
+        },
+        {
+            "id": 1010023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1010024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 20
+            }
+        },
+        {
+            "id": 1010031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1010032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 130
+            }
+        },
+        {
+            "id": 1010033,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1010034,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "armor": 59
+            }
+        },
+        {
+            "id": 1010041,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1010042,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 312
+            }
+        },
+        {
+            "id": 1010043,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1010044,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "armor": 59
+            }
+        },
+        {
+            "id": 1010051,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1010052,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 312
+            }
+        },
+        {
+            "id": 1010053,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1010054,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 137
+            }
+        },
+        {
+            "id": 1010061,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1010062,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 312
+            }
+        },
+        {
+            "id": 1010063,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1010064,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 137
+            }
+        },
+        {
+            "id": 1010071,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1010072,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 780
+            }
+        },
+        {
+            "id": 1010073,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1010074,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 137
+            }
+        },
+        {
+            "id": 1010081,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1010082,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 780
+            }
+        },
+        {
+            "id": 1010083,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1010084,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 137
+            }
+        },
+        {
+            "id": 1010091,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1010092,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 780
+            }
+        },
+        {
+            "id": 1010093,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1010094,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 293
+            }
+        },
+        {
+            "id": 1010101,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1010102,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 780
+            }
+        },
+        {
+            "id": 1010103,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1010104,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 293
+            }
+        },
+        {
+            "id": 1010111,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1010112,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "max_hp": 1950
+            }
+        },
+        {
+            "id": 1010113,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1010114,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 293
+            }
+        },
+        {
+            "id": 1011011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 5
+            }
+        },
+        {
+            "id": 1011012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 48
+            }
+        },
+        {
+            "id": 1011013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1011014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 18
+            }
+        },
+        {
+            "id": 1011021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1011022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 120
+            }
+        },
+        {
+            "id": 1011023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1011024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 18
+            }
+        },
+        {
+            "id": 1011031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1011032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 120
+            }
+        },
+        {
+            "id": 1011033,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1011034,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 54
+            }
+        },
+        {
+            "id": 1011041,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1011042,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 288
+            }
+        },
+        {
+            "id": 1011043,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1011044,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 54
+            }
+        },
+        {
+            "id": 1011051,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1011052,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 288
+            }
+        },
+        {
+            "id": 1011053,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1011054,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1011061,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1011062,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 288
+            }
+        },
+        {
+            "id": 1011063,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1011064,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1011071,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1011072,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 720
+            }
+        },
+        {
+            "id": 1011073,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1011074,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1011081,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1011082,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 720
+            }
+        },
+        {
+            "id": 1011083,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1011084,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1011091,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1011092,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 720
+            }
+        },
+        {
+            "id": 1011093,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1011094,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 270
+            }
+        },
+        {
+            "id": 1011101,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1011102,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 720
+            }
+        },
+        {
+            "id": 1011103,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1011104,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 270
+            }
+        },
+        {
+            "id": 1011111,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1011112,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "max_hp": 1800
+            }
+        },
+        {
+            "id": 1011113,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1011114,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 270
+            }
+        },
+        {
+            "id": 1012011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 6
+            }
+        },
+        {
+            "id": 1012012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 50
+            }
+        },
+        {
+            "id": 1012013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1012014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1012021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1012022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 125
+            }
+        },
+        {
+            "id": 1012023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1012024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1012031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1012032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 125
+            }
+        },
+        {
+            "id": 1012033,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1012034,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1012041,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1012042,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 300
+            }
+        },
+        {
+            "id": 1012043,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1012044,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1012051,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1012052,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 300
+            }
+        },
+        {
+            "id": 1012053,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1012054,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1012061,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1012062,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 300
+            }
+        },
+        {
+            "id": 1012063,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1012064,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1012071,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1012072,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 750
+            }
+        },
+        {
+            "id": 1012073,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1012074,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1012081,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1012082,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 750
+            }
+        },
+        {
+            "id": 1012083,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1012084,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1012091,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1012092,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 750
+            }
+        },
+        {
+            "id": 1012093,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1012094,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1012101,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1012102,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 750
+            }
+        },
+        {
+            "id": 1012103,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1012104,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1012111,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1012112,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "max_hp": 1875
+            }
+        },
+        {
+            "id": 1012113,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1012114,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1013011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 7
+            }
+        },
+        {
+            "id": 1013012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 40
+            }
+        },
+        {
+            "id": 1013013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1013014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1013021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1013022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 100
+            }
+        },
+        {
+            "id": 1013023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1013024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1013031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1013032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 100
+            }
+        },
+        {
+            "id": 1013033,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1013034,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1013041,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1013042,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "max_hp": 240
+            }
+        },
+        {
+            "id": 1013043,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1013044,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1013051,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1013052,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "max_hp": 240
+            }
+        },
+        {
+            "id": 1013053,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1013054,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1013061,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1013062,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "max_hp": 240
+            }
+        },
+        {
+            "id": 1013063,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1013064,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1013071,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1013072,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1013073,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1013074,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1013081,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1013082,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1013083,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1013084,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1013091,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1013092,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1013093,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1013094,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1013101,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1013102,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1013103,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1013104,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1013111,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1013112,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "max_hp": 1500
+            }
+        },
+        {
+            "id": 1013113,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1013114,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1014011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 7
+            }
+        },
+        {
+            "id": 1014012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 42
+            }
+        },
+        {
+            "id": 1014013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1014014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1014021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1014022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1014023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1014024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1014031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1014032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1014033,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1014034,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1014041,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1014042,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1014043,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1014044,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1014051,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1014052,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1014053,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1014054,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1014061,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1014062,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1014063,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1014064,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1014071,
+            "itemList": {
+                "146": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1014072,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1014073,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1014074,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1014081,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1014082,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1014083,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1014084,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1014091,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1014092,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1014093,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1014094,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1014101,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1014102,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1014103,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1014104,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1014111,
+            "itemList": {
+                "156": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1014112,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "max_hp": 1575
+            }
+        },
+        {
+            "id": 1014113,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1014114,
+            "itemList": {
+                "166": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1015011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 5
+            }
+        },
+        {
+            "id": 1015012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 40
+            }
+        },
+        {
+            "id": 1015013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1015014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 18
+            }
+        },
+        {
+            "id": 1015021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1015022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 100
+            }
+        },
+        {
+            "id": 1015023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1015024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 18
+            }
+        },
+        {
+            "id": 1015031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1015032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 100
+            }
+        },
+        {
+            "id": 1015033,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1015034,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 54
+            }
+        },
+        {
+            "id": 1015041,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1015042,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 240
+            }
+        },
+        {
+            "id": 1015043,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1015044,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 54
+            }
+        },
+        {
+            "id": 1015051,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1015052,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 240
+            }
+        },
+        {
+            "id": 1015053,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1015054,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1015061,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1015062,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 240
+            }
+        },
+        {
+            "id": 1015063,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1015064,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1015071,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1015072,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1015073,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1015074,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1015081,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1015082,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1015083,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1015084,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1015091,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1015092,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1015093,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1015094,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 270
+            }
+        },
+        {
+            "id": 1015101,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1015102,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 600
+            }
+        },
+        {
+            "id": 1015103,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1015104,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 270
+            }
+        },
+        {
+            "id": 1015111,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1015112,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "max_hp": 1500
+            }
+        },
+        {
+            "id": 1015113,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1015114,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 270
+            }
+        },
+        {
+            "id": 1016011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 6
+            }
+        },
+        {
+            "id": 1016012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 42
+            }
+        },
+        {
+            "id": 1016013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1016014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1016021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1016022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1016023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1016024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1016031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1016032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1016033,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1016034,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1016041,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1016042,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1016043,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1016044,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1016051,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1016052,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1016053,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1016054,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1016061,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1016062,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1016063,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1016064,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1016071,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1016072,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1016073,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1016074,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1016081,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1016082,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1016083,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1016084,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1016091,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1016092,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1016093,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1016094,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1016101,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1016102,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1016103,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1016104,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1016111,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1016112,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "max_hp": 1575
+            }
+        },
+        {
+            "id": 1016113,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1016114,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1017011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 7
+            }
+        },
+        {
+            "id": 1017012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 44
+            }
+        },
+        {
+            "id": 1017013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1017014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1017021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1017022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 110
+            }
+        },
+        {
+            "id": 1017023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1017024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1017031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1017032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 110
+            }
+        },
+        {
+            "id": 1017033,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1017034,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1017041,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1017042,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1017043,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1017044,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1017051,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1017052,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1017053,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1017054,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1017061,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1017062,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1017063,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1017064,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1017071,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1017072,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1017073,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1017074,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1017081,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1017082,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1017083,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1017084,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1017091,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1017092,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1017093,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1017094,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1017101,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1017102,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1017103,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1017104,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1017111,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1017112,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "max_hp": 1650
+            }
+        },
+        {
+            "id": 1017113,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1017114,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1019011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 6
+            }
+        },
+        {
+            "id": 1019012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 42
+            }
+        },
+        {
+            "id": 1019013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1019014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1019021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1019022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1019023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1019024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1019031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 12
+            }
+        },
+        {
+            "id": 1019032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1019033,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1019034,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1019041,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1019042,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1019043,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1019044,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1019051,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1019052,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1019053,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1019054,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1019061,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1019062,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1019063,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1019064,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1019071,
+            "itemList": {
+                "147": 1
+            },
+            "propertyList": {
+                "pow": 30
+            }
+        },
+        {
+            "id": 1019072,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1019073,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1019074,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1019081,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1019082,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1019083,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1019084,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1019091,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1019092,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1019093,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1019094,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1019101,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1019102,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1019103,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "pow": 234
+            }
+        },
+        {
+            "id": 1019104,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1019111,
+            "itemList": {
+                "157": 1
+            },
+            "propertyList": {
+                "pow": 90
+            }
+        },
+        {
+            "id": 1019112,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "max_hp": 1575
+            }
+        },
+        {
+            "id": 1019113,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "pow": 234
+            }
+        },
+        {
+            "id": 1019114,
+            "itemList": {
+                "167": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1020011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 7
+            }
+        },
+        {
+            "id": 1020012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 42
+            }
+        },
+        {
+            "id": 1020013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1020014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1020021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1020022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1020023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1020024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1020031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1020032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 105
+            }
+        },
+        {
+            "id": 1020033,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1020034,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1020041,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1020042,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1020043,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1020044,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1020051,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1020052,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1020053,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1020054,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1020061,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1020062,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 252
+            }
+        },
+        {
+            "id": 1020063,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1020064,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1020071,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1020072,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1020073,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1020074,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1020081,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1020082,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1020083,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1020084,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1020091,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1020092,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1020093,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1020094,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1020101,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1020102,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 630
+            }
+        },
+        {
+            "id": 1020103,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1020104,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1020111,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1020112,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "max_hp": 1575
+            }
+        },
+        {
+            "id": 1020113,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1020114,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1021011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 7
+            }
+        },
+        {
+            "id": 1021012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 44
+            }
+        },
+        {
+            "id": 1021013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1021014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1021021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1021022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 110
+            }
+        },
+        {
+            "id": 1021023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1021024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 17
+            }
+        },
+        {
+            "id": 1021031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 13
+            }
+        },
+        {
+            "id": 1021032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 110
+            }
+        },
+        {
+            "id": 1021033,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1021034,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1021041,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1021042,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1021043,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1021044,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "armor": 50
+            }
+        },
+        {
+            "id": 1021051,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1021052,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1021053,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1021054,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1021061,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1021062,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1021063,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1021064,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1021071,
+            "itemList": {
+                "148": 1
+            },
+            "propertyList": {
+                "pow": 33
+            }
+        },
+        {
+            "id": 1021072,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1021073,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1021074,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1021081,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1021082,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1021083,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1021084,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "armor": 116
+            }
+        },
+        {
+            "id": 1021091,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1021092,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1021093,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1021094,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1021101,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1021102,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1021103,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1021104,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1021111,
+            "itemList": {
+                "158": 1
+            },
+            "propertyList": {
+                "pow": 98
+            }
+        },
+        {
+            "id": 1021112,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "max_hp": 1650
+            }
+        },
+        {
+            "id": 1021113,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "pow": 254
+            }
+        },
+        {
+            "id": 1021114,
+            "itemList": {
+                "168": 1
+            },
+            "propertyList": {
+                "armor": 248
+            }
+        },
+        {
+            "id": 1030011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 5
+            }
+        },
+        {
+            "id": 1030012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 44
+            }
+        },
+        {
+            "id": 1030013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1030014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 18
+            }
+        },
+        {
+            "id": 1030021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1030022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 110
+            }
+        },
+        {
+            "id": 1030023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1030024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 18
+            }
+        },
+        {
+            "id": 1030031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 10
+            }
+        },
+        {
+            "id": 1030032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 110
+            }
+        },
+        {
+            "id": 1030033,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1030034,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 54
+            }
+        },
+        {
+            "id": 1030041,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1030042,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1030043,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1030044,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "armor": 54
+            }
+        },
+        {
+            "id": 1030051,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1030052,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1030053,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1030054,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1030061,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1030062,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "max_hp": 264
+            }
+        },
+        {
+            "id": 1030063,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1030064,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1030071,
+            "itemList": {
+                "145": 1
+            },
+            "propertyList": {
+                "pow": 25
+            }
+        },
+        {
+            "id": 1030072,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1030073,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1030074,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1030081,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1030082,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1030083,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1030084,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "armor": 126
+            }
+        },
+        {
+            "id": 1030091,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1030092,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1030093,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1030094,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 270
+            }
+        },
+        {
+            "id": 1030101,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1030102,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "max_hp": 660
+            }
+        },
+        {
+            "id": 1030103,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1030104,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 270
+            }
+        },
+        {
+            "id": 1030111,
+            "itemList": {
+                "155": 1
+            },
+            "propertyList": {
+                "pow": 75
+            }
+        },
+        {
+            "id": 1030112,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "max_hp": 1650
+            }
+        },
+        {
+            "id": 1030113,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "pow": 195
+            }
+        },
+        {
+            "id": 1030114,
+            "itemList": {
+                "165": 1
+            },
+            "propertyList": {
+                "armor": 270
+            }
+        },
+        {
+            "id": 1031011,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "pow": 6
+            }
+        },
+        {
+            "id": 1031012,
+            "itemList": {
+                "131": 1
+            },
+            "propertyList": {
+                "max_hp": 38
+            }
+        },
+        {
+            "id": 1031013,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1031014,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1031021,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1031022,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 95
+            }
+        },
+        {
+            "id": 1031023,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1031024,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "armor": 15
+            }
+        },
+        {
+            "id": 1031031,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "pow": 11
+            }
+        },
+        {
+            "id": 1031032,
+            "itemList": {
+                "132": 1
+            },
+            "propertyList": {
+                "max_hp": 95
+            }
+        },
+        {
+            "id": 1031033,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1031034,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1031041,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1031042,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 228
+            }
+        },
+        {
+            "id": 1031043,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1031044,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "armor": 45
+            }
+        },
+        {
+            "id": 1031051,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1031052,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 228
+            }
+        },
+        {
+            "id": 1031053,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1031054,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1031061,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1031062,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "max_hp": 228
+            }
+        },
+        {
+            "id": 1031063,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1031064,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1031071,
+            "itemList": {
+                "149": 1
+            },
+            "propertyList": {
+                "pow": 28
+            }
+        },
+        {
+            "id": 1031072,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 570
+            }
+        },
+        {
+            "id": 1031073,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1031074,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1031081,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1031082,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 570
+            }
+        },
+        {
+            "id": 1031083,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1031084,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "armor": 105
+            }
+        },
+        {
+            "id": 1031091,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1031092,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 570
+            }
+        },
+        {
+            "id": 1031093,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1031094,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1031101,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1031102,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "max_hp": 570
+            }
+        },
+        {
+            "id": 1031103,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1031104,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        },
+        {
+            "id": 1031111,
+            "itemList": {
+                "159": 1
+            },
+            "propertyList": {
+                "pow": 83
+            }
+        },
+        {
+            "id": 1031112,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "max_hp": 1425
+            }
+        },
+        {
+            "id": 1031113,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "pow": 215
+            }
+        },
+        {
+            "id": 1031114,
+            "itemList": {
+                "169": 1
+            },
+            "propertyList": {
+                "armor": 225
+            }
+        }
+    ]
+}

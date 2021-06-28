@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "398"
+            },
+            "branchState": "GrozaSQ1_dorm_CoffeeMachine_branch01",
+            "mainStateId": 3
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "399"
+            },
+            "branchState": "GrozaSQ1_dorm_CoffeeMachine_branch02",
+            "mainStateId": 3
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "400"
+            },
+            "branchState": "GrozaSQ1_dorm_CoffeeMachine_branch03",
+            "mainStateId": 3
+        },
+        {
+            "id": 4,
+            "name": {
+                "id": "401"
+            },
+            "branchState": "GrozaSQ1_dorm_CoffeeMachine_response",
+            "mainStateId": 3
+        }
+    ]
+}

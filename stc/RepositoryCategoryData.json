@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": {
+                "id": "1071"
+            },
+            "titleEn": {
+                "id": "1072"
+            },
+            "icon": "Icon_Repository_Res",
+            "itemType": "1"
+        },
+        {
+            "id": 2,
+            "title": {
+                "id": "1076"
+            },
+            "titleEn": {
+                "id": "1885"
+            },
+            "icon": "Icon_Repository_Item",
+            "itemType": "3"
+        }
+    ]
+}

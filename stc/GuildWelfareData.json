@@ -1,0 +1,110 @@
+{
+    "data": [
+        {
+            "id": 101,
+            "price": {
+                "15": 10
+            },
+            "type": 1,
+            "welfarelist": "1001:12:48;",
+            "icon": "buff_reduceheal",
+            "name": "金币加成",
+            "description": "金币加成"
+        },
+        {
+            "id": 102,
+            "price": {
+                "15": 10
+            },
+            "type": 1,
+            "welfarelist": "1005:12:48;",
+            "icon": "buff_reducehurt",
+            "name": "经验加成",
+            "description": "经验加成"
+        },
+        {
+            "id": 103,
+            "price": {
+                "15": 20
+            },
+            "type": 1,
+            "welfarelist": "1003:12:48;",
+            "unlockLevel": 3,
+            "icon": "buff_reducehurtatk",
+            "name": "主线掉落",
+            "description": "主线掉落"
+        },
+        {
+            "id": 104,
+            "price": {
+                "15": 30
+            },
+            "type": 1,
+            "welfarelist": "1011:12:48;",
+            "unlockLevel": 5,
+            "icon": "buff_shield",
+            "name": "模组掉落",
+            "description": "模组掉落"
+        },
+        {
+            "id": 105,
+            "price": {
+                "15": 30
+            },
+            "type": 1,
+            "welfarelist": "1013:12:48;",
+            "unlockLevel": 7,
+            "icon": "buff_speedup",
+            "name": "心智掉落",
+            "description": "心智掉落"
+        },
+        {
+            "id": 106,
+            "price": {
+                "15": 10
+            },
+            "type": 2,
+            "welfarelist": "2411:1,2:10000;",
+            "unlockLevel": 2,
+            "icon": "equip_1",
+            "name": "初级礼包",
+            "description": "初级礼包"
+        },
+        {
+            "id": 107,
+            "price": {
+                "15": 20
+            },
+            "type": 2,
+            "welfarelist": "2412:1,2:20000;",
+            "unlockLevel": 4,
+            "icon": "equip_2",
+            "name": "中级礼包",
+            "description": "中级礼包"
+        },
+        {
+            "id": 108,
+            "price": {
+                "15": 50
+            },
+            "type": 2,
+            "welfarelist": "2413:1,1:100;",
+            "unlockLevel": 6,
+            "icon": "equip_3",
+            "name": "高级礼包",
+            "description": "高级礼包"
+        },
+        {
+            "id": 109,
+            "price": {
+                "15": 100
+            },
+            "type": 2,
+            "welfarelist": "2414:1,1:200;",
+            "unlockLevel": 8,
+            "icon": "equip_4",
+            "name": "特级礼包",
+            "description": "特级礼包"
+        }
+    ]
+}

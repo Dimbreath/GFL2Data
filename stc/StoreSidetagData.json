@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "2309"
+            },
+            "sidetagType": "Exchange",
+            "includeTag": "2",
+            "unlock": 316
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "2310"
+            },
+            "sidetagType": "Exchange",
+            "includeTag": "3"
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "2311"
+            },
+            "sidetagType": "Exchange",
+            "includeTag": "7,8",
+            "unlock": 317
+        },
+        {
+            "id": 4,
+            "name": {
+                "id": "2312"
+            },
+            "sidetagType": "Exchange",
+            "includeTag": "14",
+            "unlock": 312
+        }
+    ]
+}

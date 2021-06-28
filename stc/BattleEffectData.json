@@ -1,0 +1,3327 @@
+{
+    "data": [
+        {
+            "id": 104,
+            "effectPath": "Buff/AtkU",
+            "effectLifetime": 60,
+            "routeId": 8,
+            "zoomRatio": 130
+        },
+        {
+            "id": 1000,
+            "effectPath": "Buff/empty",
+            "effectLifetime": -1,
+            "routeId": 34,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 1001,
+            "effectPath": "Buff/empty",
+            "routeId": 9,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 1011,
+            "effectPath": "Skill/Command_Missile_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 199,
+            "zoomRatio": 130
+        },
+        {
+            "id": 1012,
+            "effectPath": "Skill/Command_Missile_Explosion",
+            "effectLifetime": 360,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "zTest": 1
+        },
+        {
+            "id": 1021,
+            "effectPath": "Skill/Command_Gun_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "1500,0,1500",
+            "routeId": 198,
+            "zoomRatio": 230
+        },
+        {
+            "id": 1022,
+            "effectPath": "Skill/Command_Gun_Dust",
+            "effectLifetime": 180,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "zTest": 1,
+            "shakeTemplate": 5
+        },
+        {
+            "id": 1031,
+            "effectPath": "Skill/Command_MissileL_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 199,
+            "zoomRatio": 130
+        },
+        {
+            "id": 1032,
+            "effectPath": "Skill/Command_MissileL_Explosion",
+            "effectLifetime": 360,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "zTest": 1,
+            "shakeTemplate": 4
+        },
+        {
+            "id": 1033,
+            "effectPath": "Scene/screen_vfx_zj",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 100,
+            "bindType": 2,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10000,
+            "effectPath": "Weapon/Common_Bullet_ker",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,300",
+            "routeId": 15,
+            "zoomRatio": 230
+        },
+        {
+            "id": 10001,
+            "effectPath": "Weapon/Common_Bullet_test",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 230,
+            "dieDelay": 120
+        },
+        {
+            "id": 10002,
+            "effectPath": "Weapon/Common_Bullet",
+            "effectLifetime": 120,
+            "priority": 3,
+            "birthOffsetPb": "0,0,0",
+            "birthRandomPb": "50,50,50",
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,300",
+            "routeId": 15,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10000001,
+            "effectPath": "Weapon/SMG_ATK01_BulletShell",
+            "effectLifetime": 120,
+            "routeId": 31,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000002,
+            "effectPath": "Buff/empty",
+            "effectLifetime": 60,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000003,
+            "effectPath": "Buff/empty",
+            "effectLifetime": 60,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000004,
+            "effectPath": "Buff/Heal",
+            "effectLifetime": 60,
+            "routeId": 9,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000005,
+            "effectPath": "Buff/Recover",
+            "effectLifetime": 60,
+            "routeId": 9,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000006,
+            "effectPath": "Buff/empty",
+            "effectLifetime": 60,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000007,
+            "effectPath": "Buff/AtkU",
+            "effectLifetime": 60,
+            "routeId": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000008,
+            "effectPath": "Buff/empty",
+            "effectLifetime": 60,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000009,
+            "effectPath": "Buff/DefU",
+            "effectLifetime": 60,
+            "routeId": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000010,
+            "effectPath": "Buff/empty",
+            "effectLifetime": 60,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000011,
+            "effectPath": "Buff/AtkD",
+            "effectLifetime": 60,
+            "routeId": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000012,
+            "effectPath": "Buff/empty",
+            "effectLifetime": 60,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000013,
+            "effectPath": "Buff/DefD",
+            "effectLifetime": 60,
+            "routeId": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000014,
+            "effectPath": "Weapon/Explode",
+            "effectLifetime": 60,
+            "routeId": 4,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000015,
+            "effectPath": "Buff/SpeedU",
+            "effectLifetime": 60,
+            "routeId": 5,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000016,
+            "effectPath": "Buff/SpeedD",
+            "effectLifetime": 60,
+            "routeId": 5,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000017,
+            "effectPath": "Skill/charge",
+            "effectLifetime": 60,
+            "routeId": 4,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000018,
+            "effectPath": "Skill/refresh",
+            "effectLifetime": 60,
+            "routeId": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000019,
+            "effectPath": "Buff/53503001",
+            "effectLifetime": 60,
+            "routeId": 3,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000020,
+            "effectPath": "Buff/54003001",
+            "effectLifetime": 60,
+            "routeId": 3,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000021,
+            "effectPath": "Buff/53403001",
+            "effectLifetime": 60,
+            "routeId": 13,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000022,
+            "effectPath": "Buff/buff_strengthen",
+            "effectLifetime": -1,
+            "routeId": 103,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000023,
+            "effectPath": "Buff/buff_Halo",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000024,
+            "effectPath": "Buff/RavnBuff",
+            "effectLifetime": -1,
+            "routeId": 101,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000025,
+            "effectPath": "Skill/commonskill_Transfer_01_Down",
+            "effectLifetime": 60,
+            "routeId": 3,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10000026,
+            "effectPath": "Buff/Reactive",
+            "effectLifetime": 180,
+            "routeId": 5,
+            "bindType": 1,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10000027,
+            "effectPath": "Buff/Common_Heal",
+            "effectLifetime": 120,
+            "routeId": 3,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003001,
+            "effectPath": "Buff/empty",
+            "effectLifetime": -1,
+            "routeId": 104,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003002,
+            "effectPath": "Buff/Debuff_angry",
+            "effectLifetime": -1,
+            "birthOffsetPb": "0,500,0",
+            "destOffsetPb": "0,500,0",
+            "routeId": 104,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003003,
+            "effectPath": "Buff/Taunt_loop",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003004,
+            "effectPath": "Buff/Dot_burn",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003005,
+            "effectPath": "Buff/Dot_shock",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003006,
+            "effectPath": "Buff/Dot_corrupt",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003007,
+            "effectPath": "Buff/Debuff_bleed",
+            "effectLifetime": -1,
+            "routeId": 103,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003008,
+            "effectPath": "Buff/ground_poison_1x1",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003009,
+            "effectPath": "Buff/Godmode",
+            "effectLifetime": -1,
+            "routeId": 103,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003010,
+            "effectPath": "Buff/Fear",
+            "effectLifetime": -1,
+            "routeId": 104,
+            "bindType": 1,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10003011,
+            "effectPath": "Buff/Debuff_silent",
+            "effectLifetime": -1,
+            "routeId": 103,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003012,
+            "effectPath": "Buff/Debuff_stun",
+            "effectLifetime": -1,
+            "birthOffsetPb": "0,200,0",
+            "destOffsetPb": "0,200,0",
+            "routeId": 104,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003013,
+            "effectPath": "Buff/empty",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003014,
+            "effectPath": "Buff/charge_loop",
+            "effectLifetime": -1,
+            "routeId": 101,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003015,
+            "effectPath": "Buff/high_condition",
+            "effectLifetime": 180,
+            "routeId": 5,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003016,
+            "effectPath": "Buff/low_condition",
+            "effectLifetime": 180,
+            "routeId": 5,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003017,
+            "effectPath": "Buff/HQ",
+            "effectLifetime": -1,
+            "routeId": 103,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003018,
+            "effectPath": "Buff/Debuff_blood",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003019,
+            "effectPath": "Buff/Debuff_Physicsdot",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003020,
+            "effectPath": "Buff/Debuff_friedot",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003021,
+            "effectPath": "Buff/Debuff_Electricdot",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003022,
+            "effectPath": "Buff/Debuff_speedlow",
+            "effectLifetime": -1,
+            "routeId": 103,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003023,
+            "effectPath": "Buff/Debuff_atcdfe",
+            "effectLifetime": -1,
+            "routeId": 105,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10003024,
+            "effectPath": "Buff/HealD",
+            "effectLifetime": 60,
+            "routeId": 102,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10010101,
+            "effectPath": "Weapon/HC_ATK01_ShotFire_Heat",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 7,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10010102,
+            "effectPath": "Weapon/HC_ATK01_BulletHit_Heat",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 160,
+            "randomRotate": true
+        },
+        {
+            "id": 10010103,
+            "effectPath": "Weapon/HC_ATK01_Bullet_Heat",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10010111,
+            "effectPath": "Skill/1001101_flash",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10010112,
+            "effectPath": "Skill/1001101_hit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10010401,
+            "effectPath": "Skill/Crash",
+            "effectLifetime": 90,
+            "priority": 3,
+            "destOffsetPb": "0,0,500",
+            "destRandomPb": "0,0,0",
+            "routeId": 3,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10010501,
+            "effectPath": "Skill/1001AOE",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10010502,
+            "effectPath": "Skill/1001AOE_HIT",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10010503,
+            "effectPath": "Skill/10010501_HitGround",
+            "effectLifetime": 240,
+            "priority": 3,
+            "routeId": 13,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10020101,
+            "effectPath": "Weapon/HG_ATK01_ShotFire_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "zoomRatio": 180
+        },
+        {
+            "id": 10020102,
+            "effectPath": "Weapon/HG_ATK01_BulletHit_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "bindType": 5,
+            "zoomRatio": 200,
+            "randomRotate": true
+        },
+        {
+            "id": 10020103,
+            "effectPath": "Weapon/Common_Bullet_ker",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,300",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10020401,
+            "effectPath": "Skill/10020401_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10020402,
+            "effectPath": "Skill/10020401_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10020403,
+            "effectPath": "Skill/10020401_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 30,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10020501,
+            "effectPath": "Skill/Heal_AOE_green",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 9,
+            "bindType": 1,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10030101,
+            "effectPath": "Weapon/RF_ATK01_ShotFire_Electric",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10030102,
+            "effectPath": "Weapon/RF_ATK01_BulletHit_Electric",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10030103,
+            "effectPath": "Weapon/RF_ATK01_Bullet_Electric",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10030401,
+            "effectPath": "Skill/10030401_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10030402,
+            "effectPath": "Skill/10030401_bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10030403,
+            "effectPath": "Skill/10030401_BulletHit",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10030501,
+            "effectPath": "Weapon/Longrange_ATK01_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10030502,
+            "effectPath": "Skill/10030501_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10030503,
+            "effectPath": "Weapon/Longrange_ATK01_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10030504,
+            "effectPath": "Skill/10030501_lockon",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 100,
+            "zTest": 1
+        },
+        {
+            "id": 10040101,
+            "effectPath": "Weapon/AR_ATK01_ShotFire_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 180
+        },
+        {
+            "id": 10040102,
+            "effectPath": "Weapon/RF_ATK01_BulletHit_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 180,
+            "randomRotate": true
+        },
+        {
+            "id": 10040103,
+            "effectPath": "Weapon/RF_ATK01_Bullet_Physical",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 180
+        },
+        {
+            "id": 10040401,
+            "effectPath": "Skill/10040401_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 14,
+            "zoomRatio": 150
+        },
+        {
+            "id": 10040402,
+            "effectPath": "Weapon/Grenade_ATK01_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 150,
+            "randomRotate": true
+        },
+        {
+            "id": 10040403,
+            "effectPath": "Skill/10040401_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 150
+        },
+        {
+            "id": 10040404,
+            "effectPath": "Skill/10040401_Explosion",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 100,
+            "zTest": 1,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 10040501,
+            "effectPath": "Skill/Air_strike",
+            "effectLifetime": 108,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 100,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 10040701,
+            "effectPath": "Skill/Inspire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10050101,
+            "effectPath": "Weapon/SG_ATK01_ShotFire_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10050102,
+            "effectPath": "Weapon/SG_ATK01_BulletHit_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10050401,
+            "effectPath": "Skill/10050401",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10050402,
+            "effectPath": "Skill/10050401HIT",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10050403,
+            "effectPath": "Skill/10050402",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10050501,
+            "effectPath": "Skill/10050501AOE",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10050701,
+            "effectPath": "Skill/10050701",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10060101,
+            "effectPath": "Weapon/RF_ATK01_ShotFire_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 180
+        },
+        {
+            "id": 10060102,
+            "effectPath": "Weapon/RF_ATK01_BulletHit_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 200,
+            "randomRotate": true
+        },
+        {
+            "id": 10060103,
+            "effectPath": "Weapon/RF_ATK01_Bullet_Physical",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10060501,
+            "effectPath": "Skill/10060501",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 11,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10060701,
+            "effectPath": "Skill/10060701",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 11,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10060702,
+            "effectPath": "Skill/10060702",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10070101,
+            "effectPath": "Weapon/AR_ATK01_ShotFire_Rebuild",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10070102,
+            "effectPath": "Weapon/AR_ATK01_BulletHit_Rebuild",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10070103,
+            "effectPath": "Weapon/AR_ATK01_Bullet_Rebuild",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10070401,
+            "effectPath": "Skill/10070401",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 11,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10070402,
+            "effectPath": "Skill/10070402",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10070501,
+            "effectPath": "Skill/10070501",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10080101,
+            "effectPath": "Weapon/RF_ATK01_ShotFire_Heat",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10080102,
+            "effectPath": "Weapon/RF_ATK01_BulletHit_Heat",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10080103,
+            "effectPath": "Weapon/RF_ATK01_Bullet_heat",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10080401,
+            "effectPath": "Skill/10030401_FearRelease",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10090101,
+            "effectPath": "Weapon/HG_ATK01_ShotFire_Electric",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10090102,
+            "effectPath": "Weapon/HG_ATK01_BulletHit_Electric",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10090103,
+            "effectPath": "Weapon/HG_ATK01_Bullet_Electric",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10090401,
+            "effectPath": "Skill/10090401_HealBullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 38,
+            "zoomRatio": 200
+        },
+        {
+            "id": 10090402,
+            "effectPath": "Skill/10090401_Heal",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10090403,
+            "effectPath": "Skill/10090401_HealBullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 30,
+            "zoomRatio": 200
+        },
+        {
+            "id": 10090404,
+            "effectPath": "Skill/10090401_BuffShot",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10090405,
+            "effectPath": "Skill/10090401_BuffHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10090406,
+            "effectPath": "Skill/10090401_BuffBullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 30,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10100101,
+            "effectPath": "Weapon/SG_ATK01_ShotFire_Electric",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10100102,
+            "effectPath": "Weapon/SG_ATK01_BulletHit_Electric",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10110101,
+            "effectPath": "Weapon/SG_ATK01_ShotFire_Heat",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 180
+        },
+        {
+            "id": 10110102,
+            "effectPath": "Weapon/SG_ATK01_BulletHit_Heat",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 190
+        },
+        {
+            "id": 10110401,
+            "effectPath": "Buff/DefU",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 103,
+            "bindType": 1,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10110402,
+            "effectPath": "Skill/10110401_Kira",
+            "effectLifetime": 180,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10120101,
+            "effectPath": "Weapon/HG_ATK01_ShotFire_Heat",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10120102,
+            "effectPath": "Weapon/HG_ATK01_BulletHit_Heat",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10120103,
+            "effectPath": "Weapon/HG_ATK01_Bullet_Heat",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "250,250,0",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10120401,
+            "effectPath": "Skill/10120401",
+            "effectLifetime": 180,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 2,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10130101,
+            "effectPath": "Weapon/SMG_ATK01_ShotFire_Reverse",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10130102,
+            "effectPath": "Weapon/SMG_ATK01_BulletHit_Reverse",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10130103,
+            "effectPath": "Weapon/SMG_ATK01_Bullet_Reverse",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10140101,
+            "effectPath": "Weapon/MG_ATK01_ShotFire_Heat",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10140102,
+            "effectPath": "Weapon/MG_ATK01_BulletHit_Heat",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10140103,
+            "effectPath": "Weapon/MG_ATK01_Bullet_Heat",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10150101,
+            "effectPath": "Weapon/SG_ATK01_ShotFire_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10150102,
+            "effectPath": "Weapon/SG_ATK01_BulletHit_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10150401,
+            "effectPath": "Skill/10150401_Dance",
+            "effectLifetime": 360,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 120
+        },
+        {
+            "id": 10150402,
+            "effectPath": "Buff/Taunt_Dance",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 104,
+            "bindType": 1,
+            "zoomRatio": 120
+        },
+        {
+            "id": 10160101,
+            "effectPath": "Weapon/HC_ATK01_ShotFire_Electric",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 7,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10160102,
+            "effectPath": "Weapon/HC_ATK01_BulletHit_Electric",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10160103,
+            "effectPath": "Weapon/HC_ATK01_Bullet_Electric",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10160111,
+            "effectPath": "Skill/1016101_flash",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10160112,
+            "effectPath": "Skill/1016101_hit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10160401,
+            "effectPath": "Skill/10160401_HitUp",
+            "effectLifetime": 180,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 90
+        },
+        {
+            "id": 10160402,
+            "effectPath": "Skill/10160401_HitGround",
+            "effectLifetime": 240,
+            "priority": 3,
+            "routeId": 9,
+            "bindType": 5,
+            "zoomRatio": 90
+        },
+        {
+            "id": 10160501,
+            "effectPath": "Skill/10160501_HitUp",
+            "effectLifetime": 180,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 90
+        },
+        {
+            "id": 10160502,
+            "effectPath": "Skill/10160501_HitGround",
+            "effectLifetime": 240,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 90
+        },
+        {
+            "id": 10170101,
+            "effectPath": "Weapon/AR_ATK01_ShotFire_Electric",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10170102,
+            "effectPath": "Weapon/AR_ATK01_BulletHit_Electric",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10170103,
+            "effectPath": "Weapon/AR_ATK01_Bullet_Electric",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10170401,
+            "effectPath": "Skill/10170401_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10170402,
+            "effectPath": "Skill/10170401_Explosion",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 100,
+            "zTest": 1,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 10170403,
+            "effectPath": "Skill/10170401_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 14,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10170501,
+            "effectPath": "Skill/10170501",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 110,
+            "zTest": 1
+        },
+        {
+            "id": 10180101,
+            "effectPath": "Weapon/SMG_ATK01_ShotFire_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10180102,
+            "effectPath": "Weapon/SMG_ATK01_BulletHit_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10180103,
+            "effectPath": "Weapon/SMG_ATK01_Bullet_Physical",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10180401,
+            "effectPath": "Skill/10180401_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10180402,
+            "effectPath": "Skill/10180401_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10180403,
+            "effectPath": "Skill/10180401_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10190101,
+            "effectPath": "Weapon/MG_ATK01_ShotFire_Physical",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10190102,
+            "effectPath": "Weapon/MG_ATK01_BulletHit_Electric",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10190103,
+            "effectPath": "Weapon/MG_ATK01_Bullet_Electric",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10190401,
+            "effectPath": "Skill/1019201_cast",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10190402,
+            "effectPath": "Skill/1019201_loop",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 102,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10190701,
+            "effectPath": "Skill/10190701_ExplosionS",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10200101,
+            "effectPath": "Weapon/SMG_ATK01_ShotFire_Rebuild",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10200102,
+            "effectPath": "Weapon/SMG_ATK01_BulletHit_Rebuild",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10200103,
+            "effectPath": "Weapon/SMG_ATK01_Bullet_Rebuild",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10200401,
+            "effectPath": "Skill/10200401_Cast",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 1,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10200402,
+            "effectPath": "Skill/10200401_fadein",
+            "effectLifetime": 90,
+            "priority": 3,
+            "birthOffsetPb": "0,2000,0",
+            "birthRandomPb": "0,0,0",
+            "destOffsetPb": "0,2000,0",
+            "destRandomPb": "0,0,0",
+            "routeId": 23,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10200403,
+            "effectPath": "Skill/10200401_fadeout",
+            "effectLifetime": 180,
+            "priority": 3,
+            "routeId": 8,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10200501,
+            "effectPath": "Skill/10200501_halo",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 13,
+            "zoomRatio": 100
+        },
+        {
+            "id": 10210101,
+            "effectPath": "Skill/10210101_shotfire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10210102,
+            "effectPath": "Skill/10210101_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 160,
+            "randomRotate": true
+        },
+        {
+            "id": 10210103,
+            "effectPath": "Weapon/MG_ATK01_Bullet_Reverse",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 1,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10210401,
+            "effectPath": "Skill/10210401_Explosion",
+            "effectLifetime": 180,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130,
+            "shakeTemplate": 2
+        },
+        {
+            "id": 10210402,
+            "effectPath": "Skill/10210401_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 29,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10210501,
+            "effectPath": "Skill/10210501",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 110,
+            "zTest": 1
+        },
+        {
+            "id": 10300101,
+            "effectPath": "Skill/10300101_shotfire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 140
+        },
+        {
+            "id": 10300102,
+            "effectPath": "Skill/10300101_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 140,
+            "randomRotate": true
+        },
+        {
+            "id": 10300103,
+            "effectPath": "Skill/10300101_bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "250,250,0",
+            "routeId": 15,
+            "zoomRatio": 200
+        },
+        {
+            "id": 10300104,
+            "effectPath": "Skill/10300101_bulletshell",
+            "effectLifetime": 120,
+            "routeId": 31,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10300401,
+            "effectPath": "Skill/10300401_Explosion",
+            "effectLifetime": 180,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 110,
+            "zTest": 1,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 10300402,
+            "effectPath": "Skill/10300401_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 14,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10300501,
+            "effectPath": "Skill/10300501_shotfire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 5,
+            "zoomRatio": 140
+        },
+        {
+            "id": 10300502,
+            "effectPath": "Skill/10300501_explosion",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 140,
+            "randomRotate": true,
+            "zTest": 1
+        },
+        {
+            "id": 10300503,
+            "effectPath": "Skill/10300501_bulletDown",
+            "effectLifetime": 30,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 110,
+            "zTest": 1
+        },
+        {
+            "id": 10300504,
+            "effectPath": "Skill/10300501_bulletUp",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 10310101,
+            "effectPath": "Skill/10310101_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 10310102,
+            "effectPath": "Skill/10310101_bulletshell",
+            "effectLifetime": 120,
+            "routeId": 31,
+            "zoomRatio": 130
+        },
+        {
+            "id": 10310401,
+            "effectPath": "Skill/10310401_bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 20,
+            "zoomRatio": 180
+        },
+        {
+            "id": 10310402,
+            "effectPath": "Skill/10310401_explosion",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 110,
+            "zTest": 1
+        },
+        {
+            "id": 10310501,
+            "effectPath": "Skill/10310501_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 110,
+            "randomRotate": true
+        },
+        {
+            "id": 20010001,
+            "effectPath": "Weapon/energy_ATK01_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 20010002,
+            "effectPath": "Weapon/energy_ATK01_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 20010003,
+            "effectPath": "Weapon/energy_ATK01_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 20010004,
+            "effectPath": "Weapon/energy_explosive",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130
+        },
+        {
+            "id": 20020101,
+            "effectPath": "Weapon/Heat_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 20020102,
+            "effectPath": "Weapon/Heat_hit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 20020103,
+            "effectPath": "Weapon/Heat_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 20030101,
+            "effectPath": "Weapon/Shock_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 20030102,
+            "effectPath": "Weapon/Shock_hit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 20030103,
+            "effectPath": "Weapon/Shock_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 20040101,
+            "effectPath": "Weapon/Burst_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 20040102,
+            "effectPath": "Weapon/Burst_hit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 20040103,
+            "effectPath": "Weapon/Burst_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50010101,
+            "effectPath": "Weapon/enemyHG_ATK01_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50010102,
+            "effectPath": "Weapon/enemyHG_ATK01_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 50010103,
+            "effectPath": "Weapon/enemyHG_ATK01_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50020101,
+            "effectPath": "Weapon/enemyRF_ATK01_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50020102,
+            "effectPath": "Weapon/enemyRF_ATK01_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 50020103,
+            "effectPath": "Weapon/enemyRF_ATK01_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50030101,
+            "effectPath": "Weapon/HG_ATK01_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50030102,
+            "effectPath": "Weapon/HG_ATK01_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 50040101,
+            "effectPath": "Weapon/enemyGrenade_ATK01_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50040102,
+            "effectPath": "Weapon/enemyGrenade_ATK01_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 11,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 50040103,
+            "effectPath": "Weapon/enemyGrenade_ATK01_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50040104,
+            "effectPath": "Weapon/enemyGrenade_explosive",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50050101,
+            "effectPath": "Weapon/enemyMolotov_ATK01_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50050102,
+            "effectPath": "Weapon/enemyMolotov_ATK01_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true,
+            "zTest": 1
+        },
+        {
+            "id": 50050103,
+            "effectPath": "Weapon/enemyMolotov_ATK01_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50050104,
+            "effectPath": "Weapon/enemyMolotov_explosive",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130
+        },
+        {
+            "id": 50050105,
+            "effectPath": "Skill/53200101",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 51120101,
+            "effectPath": "Skill/51120101",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51120102,
+            "effectPath": "Skill/51120101GUN",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51120103,
+            "effectPath": "Skill/51120101HIT",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 51130101,
+            "effectPath": "Skill/51130101",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51130102,
+            "effectPath": "Skill/51130101GUN",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51130103,
+            "effectPath": "Skill/51130101HIT",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 51210101,
+            "effectPath": "Skill/51210201_Explosion",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130,
+            "shakeTemplate": 2
+        },
+        {
+            "id": 51220101,
+            "effectPath": "Skill/51210201_Explosion",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130,
+            "shakeTemplate": 2
+        },
+        {
+            "id": 51230101,
+            "effectPath": "Skill/51210201_Explosion",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130,
+            "shakeTemplate": 2
+        },
+        {
+            "id": 51230102,
+            "effectPath": "Skill/51230101Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 29,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51410101,
+            "effectPath": "Skill/51410101_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51410102,
+            "effectPath": "Skill/51410101_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51910101,
+            "effectPath": "Skill/51910101GUN",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51910102,
+            "effectPath": "Skill/51910101Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51910103,
+            "effectPath": "Skill/51910101HIT",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 51911001,
+            "effectPath": "Skill/51911001Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 14,
+            "zoomRatio": 130
+        },
+        {
+            "id": 51911002,
+            "effectPath": "Skill/51911001HIT",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 130,
+            "zTest": 1
+        },
+        {
+            "id": 51911003,
+            "effectPath": "Skill/51911101HIT",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 27,
+            "zoomRatio": 130,
+            "zTest": 1
+        },
+        {
+            "id": 51911004,
+            "effectPath": "Skill/51911101Smoke",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 1,
+            "zoomRatio": 130,
+            "zTest": 1
+        },
+        {
+            "id": 53000101,
+            "effectPath": "Skill/53000101HIT",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 54000101,
+            "effectPath": "Skill/54000101",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 130
+        },
+        {
+            "id": 54100101,
+            "effectPath": "Skill/54100101HIT",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 130
+        },
+        {
+            "id": 59010101,
+            "effectPath": "Weapon/ravn_NA_bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 17,
+            "zoomRatio": 120
+        },
+        {
+            "id": 59010103,
+            "effectPath": "Weapon/ravn_NA_hit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 11,
+            "zoomRatio": 120,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 61690102,
+            "effectPath": "Weapon/ravn_NA_shotfire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 5,
+            "zoomRatio": 120,
+            "shakeTemplate": 2
+        },
+        {
+            "id": 61690110,
+            "effectPath": "Skill/ravn_NA2_stomp",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 26,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 61690401,
+            "effectPath": "Skill/ravn_AS_hammer",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 27,
+            "zoomRatio": 100,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 61690501,
+            "effectPath": "Skill/ravn_SS_rocket_fire",
+            "effectLifetime": 150,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 120,
+            "shakeTemplate": 2
+        },
+        {
+            "id": 61690502,
+            "effectPath": "Skill/ravn_SS_rocket_hit",
+            "effectLifetime": 150,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 120,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 90000001,
+            "effectPath": "Skill/10030401",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 16,
+            "bindType": 4,
+            "zoomRatio": 130,
+            "spicailScript": 2
+        },
+        {
+            "id": 90000002,
+            "effectPath": "Buff/warning_active",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 106,
+            "zoomRatio": 100,
+            "spicailScript": 1
+        },
+        {
+            "id": 90000003,
+            "effectPath": "Buff/lockon",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 104,
+            "bindType": 1,
+            "zoomRatio": 130,
+            "zTest": 1
+        },
+        {
+            "id": 90000004,
+            "effectPath": "Buff/lock_on_line",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 16,
+            "bindType": 4,
+            "zoomRatio": 130,
+            "spicailScript": 3
+        },
+        {
+            "id": 90000005,
+            "effectPath": "Action/DustS",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 13,
+            "zoomRatio": 130
+        },
+        {
+            "id": 90000006,
+            "effectPath": "Action/DustL",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 13,
+            "zoomRatio": 130
+        },
+        {
+            "id": 90000007,
+            "effectPath": "Action/ExplosionS",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 3,
+            "zoomRatio": 130,
+            "zTest": 1
+        },
+        {
+            "id": 90000008,
+            "effectPath": "Weapon/ravn_NA2_smoke",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 32,
+            "zoomRatio": 130
+        },
+        {
+            "id": 90000009,
+            "effectPath": "Buff/warning_2x2",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 103,
+            "bindType": 6,
+            "zoomRatio": 100
+        },
+        {
+            "id": 90000010,
+            "effectPath": "Buff/warning_3x3",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 103,
+            "zoomRatio": 100
+        },
+        {
+            "id": 90000011,
+            "effectPath": "Buff/warning_blink",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 102,
+            "zoomRatio": 100,
+            "spicailScript": 1
+        },
+        {
+            "id": 90000012,
+            "effectPath": "Buff/warning_3_3_square",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 103,
+            "zoomRatio": 100
+        },
+        {
+            "id": 99000001,
+            "effectPath": "Skill/break_effect",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 102,
+            "zoomRatio": 130
+        },
+        {
+            "id": 99000004,
+            "effectPath": "Buff/ground_burn_1x1",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 106,
+            "bindType": 1,
+            "zoomRatio": 130,
+            "maskGroup": 1
+        },
+        {
+            "id": 99000005,
+            "effectPath": "Buff/ground_burn_3x3",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 106,
+            "bindType": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 99000006,
+            "effectPath": "Scene/CoverHit_Metal",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 130
+        },
+        {
+            "id": 99000007,
+            "effectPath": "Buff/Debuff_stun",
+            "effectLifetime": -1,
+            "routeId": 102,
+            "zoomRatio": 130
+        },
+        {
+            "id": 611010111,
+            "effectPath": "Weapon/AR_ATK01_ShotFire_FB",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160
+        },
+        {
+            "id": 611010112,
+            "effectPath": "Weapon/RF_ATK01_BulletHit_FB",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 611010113,
+            "effectPath": "Weapon/RF_ATK01_Bullet_FB",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 611110111,
+            "effectPath": "Weapon/RF_ATK01_ShotFire_FB",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160
+        },
+        {
+            "id": 611220211,
+            "effectPath": "Skill/51210201_Explosion",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130,
+            "shakeTemplate": 2
+        },
+        {
+            "id": 611220212,
+            "effectPath": "Skill/51230101Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 29,
+            "zoomRatio": 130
+        },
+        {
+            "id": 611310111,
+            "effectPath": "Skill/51410101_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 200
+        },
+        {
+            "id": 611310112,
+            "effectPath": "Skill/51410101_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 200
+        },
+        {
+            "id": 611610111,
+            "effectPath": "Weapon/HG_ATK01_ShotFire_FB",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160
+        },
+        {
+            "id": 611610112,
+            "effectPath": "Weapon/HG_ATK01_BulletHit_FB",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 611610113,
+            "effectPath": "Weapon/HG_ATK01_Bullet_FB",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 612020211,
+            "effectPath": "Skill/6120202_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160
+        },
+        {
+            "id": 612020212,
+            "effectPath": "Skill/6120202_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 612020213,
+            "effectPath": "Skill/6120202_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 612310111,
+            "effectPath": "Skill/6123202_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 35,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120111,
+            "effectPath": "Skill/6141202_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120112,
+            "effectPath": "Skill/6141202_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120113,
+            "effectPath": "Skill/6141202_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 34,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120211,
+            "effectPath": "Skill/6141404_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120212,
+            "effectPath": "Skill/6141404_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "birthOffsetPb": "0,2000,0",
+            "birthRandomPb": "0,0,0",
+            "routeId": 8,
+            "zoomRatio": 130,
+            "zTest": 1
+        },
+        {
+            "id": 614120213,
+            "effectPath": "Skill/6141404_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,2000,0",
+            "destRandomPb": "0,0,0",
+            "routeId": 14,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120311,
+            "effectPath": "Skill/6141505_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120312,
+            "effectPath": "Skill/6141505_BulletHit",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 108,
+            "bindType": 1,
+            "zoomRatio": 130,
+            "zTest": 1
+        },
+        {
+            "id": 614120313,
+            "effectPath": "Skill/6141505_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120314,
+            "effectPath": "Skill/6141505_Explosion",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 130,
+            "zTest": 1
+        },
+        {
+            "id": 614120511,
+            "effectPath": "Skill/6141303_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120512,
+            "effectPath": "Skill/6141303_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614120513,
+            "effectPath": "Skill/6141303_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 34,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614220111,
+            "effectPath": "Skill/6142202_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614220112,
+            "effectPath": "Skill/6142202_BulletUp",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 25,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614220113,
+            "effectPath": "Skill/6142202_Explosiondown",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 130
+        },
+        {
+            "id": 614220311,
+            "effectPath": "Buff/count_one",
+            "effectLifetime": -1,
+            "priority": 3,
+            "birthOffsetPb": "0,1500,0",
+            "birthRandomPb": "0,0,0",
+            "routeId": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 614220411,
+            "effectPath": "Buff/count_two",
+            "effectLifetime": -1,
+            "priority": 3,
+            "birthOffsetPb": "0,1500,0",
+            "birthRandomPb": "0,0,0",
+            "routeId": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 616910111,
+            "effectPath": "Skill/51910101GUN",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 616910112,
+            "effectPath": "Skill/51910101HIT",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 11,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 616910113,
+            "effectPath": "Skill/51910101Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 17,
+            "zoomRatio": 130
+        },
+        {
+            "id": 621010111,
+            "effectPath": "Skill/6220101_shotfire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 621010112,
+            "effectPath": "Skill/6220101_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 11,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 621010113,
+            "effectPath": "Skill/6220101_bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 30,
+            "zoomRatio": 130
+        },
+        {
+            "id": 621010114,
+            "effectPath": "Skill/6210101_HitGround",
+            "effectLifetime": 90,
+            "priority": 3,
+            "destOffsetPb": "0,0,1800",
+            "destRandomPb": "0,0,0",
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 621040311,
+            "effectPath": "Skill/6220202_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 3,
+            "zoomRatio": 130,
+            "randomRotate": true,
+            "shakeTemplate": 3
+        },
+        {
+            "id": 621040312,
+            "effectPath": "Skill/6220202_bullet",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 3,
+            "zoomRatio": 130
+        },
+        {
+            "id": 621210111,
+            "effectPath": "Skill/6212101_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 21,
+            "zoomRatio": 100
+        },
+        {
+            "id": 621210112,
+            "effectPath": "Skill/6212101_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100
+        },
+        {
+            "id": 621210113,
+            "effectPath": "Skill/6212101_Dust",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 621310111,
+            "effectPath": "Skill/6223101",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 1,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 621310112,
+            "effectPath": "Skill/6213101_Hit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 621310113,
+            "effectPath": "Skill/6213101_Hit_001",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 100
+        },
+        {
+            "id": 622320211,
+            "effectPath": "Skill/6223202",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 3,
+            "zoomRatio": 100
+        },
+        {
+            "id": 624220211,
+            "effectPath": "Skill/6242202",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 3,
+            "zoomRatio": 100
+        },
+        {
+            "id": 625910111,
+            "effectPath": "Skill/6269101_bullethit",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 11,
+            "zoomRatio": 160,
+            "randomRotate": true
+        },
+        {
+            "id": 625910112,
+            "effectPath": "Skill/6269101_bullethit_root",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 160
+        },
+        {
+            "id": 625910113,
+            "effectPath": "Skill/6269101_bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 37,
+            "zoomRatio": 300
+        },
+        {
+            "id": 625920111,
+            "effectPath": "Skill/6269201_bulletDown",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 110
+        },
+        {
+            "id": 625920112,
+            "effectPath": "Skill/6269201_bulletUp",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "zoomRatio": 110
+        },
+        {
+            "id": 625940111,
+            "effectPath": "Skill/6259202",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 100
+        },
+        {
+            "id": 625950113,
+            "effectPath": "Skill/6269501_tentacle",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 100
+        },
+        {
+            "id": 631010111,
+            "effectPath": "Weapon/SMG_ATK01_ShotFire_TX",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 400
+        },
+        {
+            "id": 631010112,
+            "effectPath": "Weapon/SMG_ATK01_BulletHit_TX",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 200,
+            "randomRotate": true
+        },
+        {
+            "id": 631010113,
+            "effectPath": "Weapon/SMG_ATK01_Bullet_TX",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 200
+        },
+        {
+            "id": 631530311,
+            "effectPath": "Skill/6315303_halo",
+            "effectLifetime": 120,
+            "routeId": 3,
+            "zoomRatio": 130
+        },
+        {
+            "id": 632020211,
+            "effectPath": "Skill/6320202_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 632120211,
+            "effectPath": "Skill/6321202_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 632120212,
+            "effectPath": "Skill/6321202_Bullet",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 632320211,
+            "effectPath": "Skill/6323202_halo",
+            "effectLifetime": 120,
+            "routeId": 3,
+            "zoomRatio": 130
+        },
+        {
+            "id": 632530311,
+            "effectPath": "Skill/6325301_halo",
+            "effectLifetime": 120,
+            "routeId": 3,
+            "zoomRatio": 130
+        },
+        {
+            "id": 634210111,
+            "effectPath": "Skill/6342202_bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 1,
+            "zoomRatio": 130
+        },
+        {
+            "id": 634210112,
+            "effectPath": "Skill/6242202_attack",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 100
+        },
+        {
+            "id": 634440111,
+            "effectPath": "Skill/6344401_Dust",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 13,
+            "zoomRatio": 100
+        },
+        {
+            "id": 685110111,
+            "effectPath": "Skill/6851101_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160
+        },
+        {
+            "id": 685110112,
+            "effectPath": "Skill/6851101_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "randomRotate": true
+        },
+        {
+            "id": 685110113,
+            "effectPath": "Skill/6851101_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 15,
+            "zoomRatio": 130
+        },
+        {
+            "id": 685140111,
+            "effectPath": "Skill/6851401_Explosion",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 100,
+            "shakeTemplate": 2
+        },
+        {
+            "id": 685140112,
+            "effectPath": "Skill/6851401_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 29,
+            "zoomRatio": 100
+        },
+        {
+            "id": 685141111,
+            "effectPath": "Skill/6851411",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 685150111,
+            "effectPath": "Skill/6851501_Jump",
+            "effectLifetime": 75,
+            "priority": 3,
+            "routeId": 13,
+            "zoomRatio": 100
+        },
+        {
+            "id": 685150112,
+            "effectPath": "Skill/6851501_Land",
+            "effectLifetime": 75,
+            "priority": 3,
+            "routeId": 13,
+            "zoomRatio": 100
+        },
+        {
+            "id": 685340111,
+            "effectPath": "Skill/6853_Sum1_Attack",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 10,
+            "bindType": 3,
+            "zoomRatio": 100,
+            "spicailScript": 2
+        },
+        {
+            "id": 685340112,
+            "effectPath": "Skill/6853_Sum1_Hit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 100
+        },
+        {
+            "id": 685340211,
+            "effectPath": "Skill/6853_Sum2_Halo",
+            "effectLifetime": 240,
+            "priority": 3,
+            "routeId": 3,
+            "zoomRatio": 130
+        },
+        {
+            "id": 685340311,
+            "effectPath": "Skill/6853_Sum3_Halo",
+            "effectLifetime": 240,
+            "priority": 3,
+            "routeId": 3,
+            "zoomRatio": 130
+        },
+        {
+            "id": 686010111,
+            "effectPath": "Skill/9902101_Ground",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 27,
+            "zoomRatio": 100,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 686020111,
+            "effectPath": "Skill/9902201_Up",
+            "effectLifetime": 150,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 120,
+            "shakeTemplate": 2
+        },
+        {
+            "id": 686020112,
+            "effectPath": "Skill/9902201_Beam",
+            "effectLifetime": 150,
+            "priority": 3,
+            "routeId": 4,
+            "zoomRatio": 120,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 686040111,
+            "effectPath": "Skill/9902401",
+            "effectLifetime": 150,
+            "priority": 3,
+            "routeId": 3,
+            "zoomRatio": 120,
+            "shakeTemplate": 1
+        },
+        {
+            "id": 686110111,
+            "effectPath": "Skill/9901101_BulletHit",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100
+        },
+        {
+            "id": 686110112,
+            "effectPath": "Skill/9901101_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 21,
+            "zoomRatio": 100
+        },
+        {
+            "id": 686110113,
+            "effectPath": "Skill/9901101_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160
+        },
+        {
+            "id": 686120111,
+            "effectPath": "Skill/9901201",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 100
+        },
+        {
+            "id": 686140111,
+            "effectPath": "Skill/9901401",
+            "effectLifetime": 360,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 200
+        },
+        {
+            "id": 686170111,
+            "effectPath": "Skill/9901701_Chain",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 4,
+            "bindType": 5,
+            "zoomRatio": 100
+        },
+        {
+            "id": 910010101,
+            "effectPath": "Weapon/HC_ATK01_ShotFire_Heat_Fake",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130
+        },
+        {
+            "id": 910020101,
+            "effectPath": "Weapon/HG_ATK01_ShotFire_Physical_Fake",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 180
+        },
+        {
+            "id": 910040101,
+            "effectPath": "Weapon/AR_ATK01_ShotFire_Physical_Fake",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 180
+        },
+        {
+            "id": 910060101,
+            "effectPath": "Weapon/RF_ATK01_ShotFire_Physical_Fake",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 180
+        },
+        {
+            "id": 910110101,
+            "effectPath": "Weapon/SG_ATK01_ShotFire_Heat_Fake",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 180
+        },
+        {
+            "id": 910190101,
+            "effectPath": "Weapon/MG_ATK01_ShotFire_Physical_Fake",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110
+        },
+        {
+            "id": 961101011,
+            "effectPath": "Weapon/AR_ATK01_ShotFire_FB_Fake",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160
+        },
+        {
+            "id": 961111011,
+            "effectPath": "Weapon/RF_ATK01_ShotFire_FB_Fake",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160
+        },
+        {
+            "id": 963101011,
+            "effectPath": "Weapon/SMG_ATK01_ShotFire_TX_Fake",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 400
+        },
+        {
+            "id": 990000002,
+            "effectPath": "Buff/warning_active",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 107,
+            "zoomRatio": 100,
+            "spicailScript": 1
+        }
+    ]
+}

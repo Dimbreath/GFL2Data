@@ -1,0 +1,894 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "section": 1,
+            "name": {
+                "id": "2274"
+            },
+            "icon": "PVP_ICON_Insignia_WZ_01",
+            "lowerLimitPoints": 5450,
+            "ranking": 5,
+            "upgradeReward": {
+                "1": 2600
+            },
+            "weeklyReward": {
+                "1": 2600,
+                "3": 1000
+            },
+            "atkWinReward": {
+                "3": 8
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 2,
+            "section": 1,
+            "name": {
+                "id": "2275"
+            },
+            "icon": "PVP_ICON_Insignia_WZ_02",
+            "lowerLimitPoints": 5400,
+            "ranking": 10,
+            "upgradeReward": {
+                "1": 2400
+            },
+            "weeklyReward": {
+                "1": 2500,
+                "3": 950
+            },
+            "atkWinReward": {
+                "3": 8
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 3,
+            "section": 1,
+            "name": {
+                "id": "2276"
+            },
+            "icon": "PVP_ICON_Insignia_WZ_03",
+            "lowerLimitPoints": 5350,
+            "ranking": 20,
+            "upgradeReward": {
+                "1": 2200
+            },
+            "weeklyReward": {
+                "1": 2400,
+                "3": 900
+            },
+            "atkWinReward": {
+                "3": 8
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 4,
+            "section": 1,
+            "name": {
+                "id": "2277"
+            },
+            "icon": "PVP_ICON_Insignia_WZ_04",
+            "lowerLimitPoints": 5300,
+            "ranking": 50,
+            "upgradeReward": {
+                "1": 2000
+            },
+            "weeklyReward": {
+                "3": 850,
+                "1": 2300
+            },
+            "atkWinReward": {
+                "3": 8
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 5,
+            "section": 1,
+            "name": {
+                "id": "2278"
+            },
+            "icon": "PVP_ICON_Insignia_WZ_05",
+            "lowerLimitPoints": 5250,
+            "ranking": 100,
+            "upgradeReward": {
+                "1": 1800
+            },
+            "weeklyReward": {
+                "3": 800,
+                "1": 2200
+            },
+            "atkWinReward": {
+                "3": 8
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 6,
+            "section": 2,
+            "name": {
+                "id": "2279"
+            },
+            "icon": "PVP_ICON_Insignia_DS_01",
+            "lowerLimitPoints": 5200,
+            "ranking": 200,
+            "upgradeReward": {
+                "1": 1600
+            },
+            "weeklyReward": {
+                "1": 1800,
+                "3": 720
+            },
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 7,
+            "section": 2,
+            "name": {
+                "id": "2280"
+            },
+            "icon": "PVP_ICON_Insignia_DS_02",
+            "lowerLimitPoints": 5150,
+            "ranking": 500,
+            "upgradeReward": {
+                "1": 1400
+            },
+            "weeklyReward": {
+                "1": 1750,
+                "3": 700
+            },
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 8,
+            "section": 2,
+            "name": {
+                "id": "2281"
+            },
+            "icon": "PVP_ICON_Insignia_DS_03",
+            "lowerLimitPoints": 5100,
+            "ranking": 1000,
+            "upgradeReward": {
+                "1": 1200
+            },
+            "weeklyReward": {
+                "1": 1700,
+                "3": 680
+            },
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 9,
+            "section": 2,
+            "name": {
+                "id": "2282"
+            },
+            "icon": "PVP_ICON_Insignia_DS_04",
+            "lowerLimitPoints": 5050,
+            "ranking": 3000,
+            "upgradeReward": {
+                "1": 1000
+            },
+            "weeklyReward": {
+                "1": 1650,
+                "3": 660
+            },
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 10,
+            "section": 2,
+            "name": {
+                "id": "2283"
+            },
+            "icon": "PVP_ICON_Insignia_DS_05",
+            "lowerLimitPoints": 5000,
+            "upgradeReward": {
+                "1": 800
+            },
+            "weeklyReward": {
+                "1": 1600,
+                "3": 640
+            },
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLoseReward": {
+                "3": 2
+            }
+        },
+        {
+            "id": 11,
+            "section": 3,
+            "name": {
+                "id": "2284"
+            },
+            "icon": "PVP_ICON_Insignia_ZS_01",
+            "lowerLimitPoints": 4800,
+            "upperLimitPoints": 4999,
+            "upgradeReward": {
+                "1": 600
+            },
+            "weeklyReward": {
+                "1": 1360,
+                "3": 570
+            },
+            "atkWinPoints": 12,
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLosePoints": 8,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 12,
+            "defLosePoints": 8
+        },
+        {
+            "id": 12,
+            "section": 3,
+            "name": {
+                "id": "2285"
+            },
+            "icon": "PVP_ICON_Insignia_ZS_02",
+            "lowerLimitPoints": 4600,
+            "upperLimitPoints": 4799,
+            "upgradeReward": {
+                "1": 600
+            },
+            "weeklyReward": {
+                "3": 550,
+                "1": 1320
+            },
+            "atkWinPoints": 12,
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLosePoints": 8,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 12,
+            "defLosePoints": 8
+        },
+        {
+            "id": 13,
+            "section": 3,
+            "name": {
+                "id": "2286"
+            },
+            "icon": "PVP_ICON_Insignia_ZS_03",
+            "lowerLimitPoints": 4400,
+            "upperLimitPoints": 4599,
+            "upgradeReward": {
+                "1": 600
+            },
+            "weeklyReward": {
+                "1": 1280,
+                "3": 530
+            },
+            "atkWinPoints": 12,
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLosePoints": 8,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 12,
+            "defLosePoints": 8
+        },
+        {
+            "id": 14,
+            "section": 3,
+            "name": {
+                "id": "2287"
+            },
+            "icon": "PVP_ICON_Insignia_ZS_04",
+            "lowerLimitPoints": 4200,
+            "upperLimitPoints": 4399,
+            "upgradeReward": {
+                "1": 600
+            },
+            "weeklyReward": {
+                "3": 510,
+                "1": 1240
+            },
+            "atkWinPoints": 12,
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLosePoints": 8,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 12,
+            "defLosePoints": 8
+        },
+        {
+            "id": 15,
+            "section": 3,
+            "name": {
+                "id": "2288"
+            },
+            "icon": "PVP_ICON_Insignia_ZS_05",
+            "lowerLimitPoints": 4000,
+            "upperLimitPoints": 4199,
+            "upgradeReward": {
+                "1": 600
+            },
+            "weeklyReward": {
+                "3": 490,
+                "1": 1200
+            },
+            "atkWinPoints": 12,
+            "atkWinReward": {
+                "3": 7
+            },
+            "atkLosePoints": 8,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 12,
+            "defLosePoints": 8
+        },
+        {
+            "id": 16,
+            "section": 4,
+            "name": {
+                "id": "2289"
+            },
+            "icon": "PVP_ICON_Insignia_BJ_01",
+            "lowerLimitPoints": 3800,
+            "upperLimitPoints": 3999,
+            "upgradeReward": {
+                "1": 480
+            },
+            "weeklyReward": {
+                "1": 1020,
+                "3": 430
+            },
+            "atkWinPoints": 14,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 6,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 14,
+            "defLosePoints": 6
+        },
+        {
+            "id": 17,
+            "section": 4,
+            "name": {
+                "id": "2290"
+            },
+            "icon": "PVP_ICON_Insignia_BJ_02",
+            "lowerLimitPoints": 3600,
+            "upperLimitPoints": 3799,
+            "upgradeReward": {
+                "1": 480
+            },
+            "weeklyReward": {
+                "1": 990,
+                "3": 410
+            },
+            "atkWinPoints": 14,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 6,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 14,
+            "defLosePoints": 6
+        },
+        {
+            "id": 18,
+            "section": 4,
+            "name": {
+                "id": "2291"
+            },
+            "icon": "PVP_ICON_Insignia_BJ_03",
+            "lowerLimitPoints": 3400,
+            "upperLimitPoints": 3599,
+            "upgradeReward": {
+                "1": 480
+            },
+            "weeklyReward": {
+                "1": 960,
+                "3": 390
+            },
+            "atkWinPoints": 14,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 6,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 14,
+            "defLosePoints": 6
+        },
+        {
+            "id": 19,
+            "section": 4,
+            "name": {
+                "id": "2292"
+            },
+            "icon": "PVP_ICON_Insignia_BJ_04",
+            "lowerLimitPoints": 3200,
+            "upperLimitPoints": 3399,
+            "upgradeReward": {
+                "1": 480
+            },
+            "weeklyReward": {
+                "1": 930,
+                "3": 370
+            },
+            "atkWinPoints": 14,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 6,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 14,
+            "defLosePoints": 6
+        },
+        {
+            "id": 20,
+            "section": 4,
+            "name": {
+                "id": "2293"
+            },
+            "icon": "PVP_ICON_Insignia_BJ_05",
+            "lowerLimitPoints": 3000,
+            "upperLimitPoints": 3199,
+            "upgradeReward": {
+                "1": 480
+            },
+            "weeklyReward": {
+                "1": 900,
+                "3": 350
+            },
+            "atkWinPoints": 14,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 6,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 14,
+            "defLosePoints": 6
+        },
+        {
+            "id": 21,
+            "section": 5,
+            "name": {
+                "id": "2294"
+            },
+            "icon": "PVP_ICON_Insignia_HJ_01",
+            "lowerLimitPoints": 2800,
+            "upperLimitPoints": 2999,
+            "upgradeReward": {
+                "1": 360
+            },
+            "weeklyReward": {
+                "3": 300,
+                "1": 720
+            },
+            "atkWinPoints": 16,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 4,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 16,
+            "defLosePoints": 4
+        },
+        {
+            "id": 22,
+            "section": 5,
+            "name": {
+                "id": "2295"
+            },
+            "icon": "PVP_ICON_Insignia_HJ_02",
+            "lowerLimitPoints": 2600,
+            "upperLimitPoints": 2799,
+            "upgradeReward": {
+                "1": 360
+            },
+            "weeklyReward": {
+                "3": 280,
+                "1": 690
+            },
+            "atkWinPoints": 16,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 4,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 16,
+            "defLosePoints": 4
+        },
+        {
+            "id": 23,
+            "section": 5,
+            "name": {
+                "id": "2296"
+            },
+            "icon": "PVP_ICON_Insignia_HJ_03",
+            "lowerLimitPoints": 2400,
+            "upperLimitPoints": 2599,
+            "upgradeReward": {
+                "1": 360
+            },
+            "weeklyReward": {
+                "1": 660,
+                "3": 260
+            },
+            "atkWinPoints": 16,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 4,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 16,
+            "defLosePoints": 4
+        },
+        {
+            "id": 24,
+            "section": 5,
+            "name": {
+                "id": "2297"
+            },
+            "icon": "PVP_ICON_Insignia_HJ_04",
+            "lowerLimitPoints": 2200,
+            "upperLimitPoints": 2399,
+            "upgradeReward": {
+                "1": 360
+            },
+            "weeklyReward": {
+                "1": 630,
+                "3": 240
+            },
+            "atkWinPoints": 16,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 4,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 16,
+            "defLosePoints": 4
+        },
+        {
+            "id": 25,
+            "section": 5,
+            "name": {
+                "id": "2298"
+            },
+            "icon": "PVP_ICON_Insignia_HJ_05",
+            "lowerLimitPoints": 2000,
+            "upperLimitPoints": 2199,
+            "upgradeReward": {
+                "1": 360
+            },
+            "weeklyReward": {
+                "1": 600,
+                "3": 220
+            },
+            "atkWinPoints": 16,
+            "atkWinReward": {
+                "3": 6
+            },
+            "atkLosePoints": 4,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 16,
+            "defLosePoints": 4
+        },
+        {
+            "id": 26,
+            "section": 6,
+            "name": {
+                "id": "2299"
+            },
+            "icon": "PVP_ICON_Insignia_BY_01",
+            "lowerLimitPoints": 1800,
+            "upperLimitPoints": 1999,
+            "upgradeReward": {
+                "1": 240
+            },
+            "weeklyReward": {
+                "3": 180,
+                "1": 570
+            },
+            "atkWinPoints": 18,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLosePoints": 2,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 18,
+            "defLosePoints": 2
+        },
+        {
+            "id": 27,
+            "section": 6,
+            "name": {
+                "id": "2300"
+            },
+            "icon": "PVP_ICON_Insignia_BY_02",
+            "lowerLimitPoints": 1600,
+            "upperLimitPoints": 1799,
+            "upgradeReward": {
+                "1": 240
+            },
+            "weeklyReward": {
+                "1": 540,
+                "3": 180
+            },
+            "atkWinPoints": 18,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLosePoints": 2,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 18,
+            "defLosePoints": 2
+        },
+        {
+            "id": 28,
+            "section": 6,
+            "name": {
+                "id": "2301"
+            },
+            "icon": "PVP_ICON_Insignia_BY_03",
+            "lowerLimitPoints": 1400,
+            "upperLimitPoints": 1599,
+            "upgradeReward": {
+                "1": 240
+            },
+            "weeklyReward": {
+                "1": 510,
+                "3": 180
+            },
+            "atkWinPoints": 18,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLosePoints": 2,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 18,
+            "defLosePoints": 2
+        },
+        {
+            "id": 29,
+            "section": 6,
+            "name": {
+                "id": "2302"
+            },
+            "icon": "PVP_ICON_Insignia_BY_04",
+            "lowerLimitPoints": 1200,
+            "upperLimitPoints": 1399,
+            "upgradeReward": {
+                "1": 240
+            },
+            "weeklyReward": {
+                "1": 480,
+                "3": 180
+            },
+            "atkWinPoints": 18,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLosePoints": 2,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 18,
+            "defLosePoints": 2
+        },
+        {
+            "id": 30,
+            "section": 6,
+            "name": {
+                "id": "2303"
+            },
+            "icon": "PVP_ICON_Insignia_BY_05",
+            "lowerLimitPoints": 1000,
+            "upperLimitPoints": 1199,
+            "upgradeReward": {
+                "1": 240
+            },
+            "weeklyReward": {
+                "3": 180,
+                "1": 450
+            },
+            "atkWinPoints": 18,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLosePoints": 2,
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 18,
+            "defLosePoints": 2
+        },
+        {
+            "id": 31,
+            "section": 7,
+            "name": {
+                "id": "2304"
+            },
+            "icon": "PVP_ICON_Insignia_QT_01",
+            "lowerLimitPoints": 800,
+            "upperLimitPoints": 999,
+            "upgradeReward": {
+                "1": 120
+            },
+            "weeklyReward": {
+                "3": 150,
+                "1": 420
+            },
+            "atkWinPoints": 20,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 20
+        },
+        {
+            "id": 32,
+            "section": 7,
+            "name": {
+                "id": "2305"
+            },
+            "icon": "PVP_ICON_Insignia_QT_02",
+            "lowerLimitPoints": 600,
+            "upperLimitPoints": 799,
+            "upgradeReward": {
+                "1": 120
+            },
+            "weeklyReward": {
+                "3": 150,
+                "1": 390
+            },
+            "atkWinPoints": 20,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 20
+        },
+        {
+            "id": 33,
+            "section": 7,
+            "name": {
+                "id": "2306"
+            },
+            "icon": "PVP_ICON_Insignia_QT_03",
+            "lowerLimitPoints": 400,
+            "upperLimitPoints": 599,
+            "upgradeReward": {
+                "1": 120
+            },
+            "weeklyReward": {
+                "1": 360,
+                "3": 150
+            },
+            "atkWinPoints": 20,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 20
+        },
+        {
+            "id": 34,
+            "section": 7,
+            "name": {
+                "id": "2307"
+            },
+            "icon": "PVP_ICON_Insignia_QT_04",
+            "lowerLimitPoints": 200,
+            "upperLimitPoints": 399,
+            "upgradeReward": {
+                "1": 120
+            },
+            "weeklyReward": {
+                "3": 150,
+                "1": 330
+            },
+            "atkWinPoints": 20,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 20
+        },
+        {
+            "id": 35,
+            "section": 7,
+            "name": {
+                "id": "2308"
+            },
+            "icon": "PVP_ICON_Insignia_QT_05",
+            "upperLimitPoints": 199,
+            "weeklyReward": {
+                "3": 150,
+                "1": 300
+            },
+            "atkWinPoints": 20,
+            "atkWinReward": {
+                "3": 5
+            },
+            "atkLoseReward": {
+                "3": 2
+            },
+            "defWinPoints": 20
+        }
+    ]
+}

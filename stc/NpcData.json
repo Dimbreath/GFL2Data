@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "name": {
+                "id": "540"
+            },
+            "enName": "Kalina",
+            "code": "Welrod",
+            "dailyAffectionTimes": 5,
+            "dailyAffectionMultiple": 100,
+            "affectionMaxLevel": 30,
+            "defaultCostume": 2100100,
+            "npcTitle": {
+                "id": "541"
+            },
+            "npcIcon": "npc_icon"
+        },
+        {
+            "id": 1002,
+            "name": {
+                "id": "542"
+            },
+            "enName": "Haru",
+            "code": "HK416",
+            "dailyAffectionTimes": 5,
+            "dailyAffectionMultiple": 100,
+            "affectionMaxLevel": 30,
+            "defaultCostume": 2100200,
+            "npcTitle": {
+                "id": "543"
+            },
+            "npcIcon": "npc_icon"
+        }
+    ]
+}

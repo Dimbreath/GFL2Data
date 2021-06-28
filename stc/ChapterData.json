@@ -1,0 +1,75 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "1247"
+            },
+            "type": 1,
+            "chapterReward3": {
+                "1001009": 1
+            },
+            "position": "0,-100",
+            "location": "-269,-200",
+            "cameraPosition": "47.28,17.6,-0.84",
+            "cameraRotation": "55,267.4,0",
+            "areaList": "01,02,03",
+            "background": "Img_ChapterPic1",
+            "mapBackground": "Img_ChapterBg_1",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind"
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "1254"
+            },
+            "type": 1,
+            "chapterReward1": {
+                "1001019": 1
+            },
+            "chapterReward2": {
+                "1001015": 1
+            },
+            "chapterReward3": {
+                "1001008": 1
+            },
+            "position": "950,100",
+            "location": "28,-254",
+            "cameraPosition": "23.82,36.75,8.69",
+            "cameraRotation": "65.5,267.4,0",
+            "areaList": "04,05,06",
+            "preChapter": 1,
+            "background": "Img_ChapterPic2",
+            "mapBackground": "Img_ChapterBg_2",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind"
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "1262"
+            },
+            "type": 1,
+            "chapterReward1": {
+                "1001017": 1
+            },
+            "chapterReward2": {
+                "1001016": 1
+            },
+            "chapterReward3": {
+                "1001021": 1
+            },
+            "position": "1900,-100",
+            "location": "729,-363",
+            "cameraPosition": "47.28,17.6,-0.84",
+            "cameraRotation": "55,267.4,0",
+            "areaList": "01,02,03",
+            "preChapter": 2,
+            "background": "Img_ChapterPic3",
+            "mapBackground": "Img_ChapterBg_3",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind"
+        }
+    ]
+}

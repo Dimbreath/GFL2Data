@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "rewardList": {
+                "14": 100
+            },
+            "guildExpReward": 100,
+            "guildRewardList": {
+                "15": 1000
+            },
+            "name": {
+                "id": "388"
+            },
+            "description": {
+                "id": "389"
+            },
+            "conditionKey": "24",
+            "conditionClass": 24,
+            "conditionNum": 1
+        },
+        {
+            "id": 2,
+            "rewardList": {
+                "14": 200
+            },
+            "guildExpReward": 200,
+            "guildRewardList": {
+                "15": 2000
+            },
+            "name": {
+                "id": "390"
+            },
+            "description": {
+                "id": "391"
+            },
+            "conditionKey": "18",
+            "conditionClass": 18,
+            "conditionNum": 1
+        }
+    ]
+}

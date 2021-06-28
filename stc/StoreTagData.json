@@ -1,0 +1,205 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "4182"
+            },
+            "hintname": {
+                "id": "4183"
+            },
+            "showtype": 1,
+            "icon": "Store_taginfo_Icon_tag1",
+            "tradeItemList": "1",
+            "type": "Shop"
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "4184"
+            },
+            "hintname": {
+                "id": "4185"
+            },
+            "icon": "Store_taginfo_Icon_tag2",
+            "tradeItemList": "1,2",
+            "type": "Blackmarket",
+            "unlock": 316,
+            "playerRefresh": true,
+            "refreshCurrency": 1,
+            "refreshPrice": "5:50,10:100,15:150,20:200"
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "4186"
+            },
+            "hintname": {
+                "id": "4187"
+            },
+            "icon": "Store_taginfo_Icon_tag3",
+            "tradeItemList": "1,8",
+            "type": "Exchange"
+        },
+        {
+            "id": 4,
+            "name": {
+                "id": "4188"
+            },
+            "hintname": {
+                "id": "4189"
+            },
+            "icon": "Store_taginfo_Icon_tag4",
+            "tradeItemList": "1",
+            "type": "Invisible"
+        },
+        {
+            "id": 5,
+            "name": {
+                "id": "4190"
+            },
+            "hintname": {
+                "id": "4191"
+            },
+            "icon": "Store_taginfo_Icon_tag5",
+            "tradeItemList": "10",
+            "type": "Invisible"
+        },
+        {
+            "id": 6,
+            "name": {
+                "id": "4192"
+            },
+            "hintname": {
+                "id": "4193"
+            },
+            "icon": "Store_taginfo_Icon_tag6",
+            "tradeItemList": "1",
+            "type": "Invisible"
+        },
+        {
+            "id": 7,
+            "name": {
+                "id": "4194"
+            },
+            "hintname": {
+                "id": "4195"
+            },
+            "icon": "Store_taginfo_Icon_tag7",
+            "tradeItemList": "16",
+            "type": "Exchange",
+            "unlock": 319
+        },
+        {
+            "id": 8,
+            "name": {
+                "id": "4196"
+            },
+            "hintname": {
+                "id": "4197"
+            },
+            "icon": "Store_taginfo_Icon_tag8",
+            "tradeItemList": "17",
+            "type": "Exchange",
+            "unlock": 318
+        },
+        {
+            "id": 9,
+            "name": {
+                "id": "4198"
+            },
+            "hintname": {
+                "id": "4199"
+            },
+            "icon": "Store_taginfo_Icon_tag10",
+            "tradeItemList": "14",
+            "type": "Invisible"
+        },
+        {
+            "id": 10,
+            "name": {
+                "id": "4200"
+            },
+            "hintname": {
+                "id": "4199"
+            },
+            "icon": "Store_taginfo_Icon_tag10",
+            "tradeItemList": "15",
+            "type": "Invisible"
+        },
+        {
+            "id": 11,
+            "name": {
+                "id": "4201"
+            },
+            "hintname": {
+                "id": "4202"
+            },
+            "icon": "Store_taginfo_Icon_tag10",
+            "tradeItemList": "1",
+            "type": "Invisible"
+        },
+        {
+            "id": 12,
+            "name": {
+                "id": "4203"
+            },
+            "hintname": {
+                "id": "4204"
+            },
+            "showtype": 2,
+            "icon": "Store_taginfo_Icon_tag10",
+            "tradeItemList": "1",
+            "type": "Shop"
+        },
+        {
+            "id": 13,
+            "name": {
+                "id": "4205"
+            },
+            "hintname": {
+                "id": "4206"
+            },
+            "icon": "Store_taginfo_Icon_tag3",
+            "tradeItemList": "8",
+            "type": "Invisible"
+        },
+        {
+            "id": 14,
+            "name": {
+                "id": "4207"
+            },
+            "hintname": {
+                "id": "4208"
+            },
+            "icon": "Store_taginfo_Icon_tag3",
+            "tradeItemList": "3",
+            "type": "Exchange",
+            "unlock": 312
+        },
+        {
+            "id": 15,
+            "name": {
+                "id": "4209"
+            },
+            "hintname": {
+                "id": "4210"
+            },
+            "icon": "Store_taginfo_Icon_tag10",
+            "tradeItemList": "1",
+            "type": "Invisible"
+        },
+        {
+            "id": 16,
+            "name": {
+                "id": "4211"
+            },
+            "hintname": {
+                "id": "4212"
+            },
+            "icon": "Store_taginfo_Icon_tag10",
+            "tradeItemList": "1",
+            "type": "Shop"
+        }
+    ]
+}

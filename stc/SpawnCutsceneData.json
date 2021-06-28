@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": 3,
+            "cutsceneName": "CutScene_Airship",
+            "cutsceneDuration": 8.0,
+            "cameraLookAtTime": 1.0
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "cutsceneName": "CutScene_Airship",
+            "cutsceneDuration": 8.0,
+            "cameraLookAtTime": 1.0
+        },
+        {
+            "id": 3,
+            "type": 2,
+            "cutsceneName": "CutScene_Airship",
+            "cameraLookAtTime": 1.0
+        }
+    ]
+}

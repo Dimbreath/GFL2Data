@@ -1,0 +1,77 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "jumpPrefab": "UIChapterPanel",
+            "behavior": 1,
+            "unlockId": 203
+        },
+        {
+            "id": 3,
+            "jumpScene": "Gacha",
+            "jumpPrefab": "UIGashaponMainPanel",
+            "unlockId": 103
+        },
+        {
+            "id": 5,
+            "jumpPrefab": "UIMainStorePanel",
+            "unlockId": 109
+        },
+        {
+            "id": 6,
+            "jumpPrefab": "UIRepositoryPanel",
+            "unlockId": 112
+        },
+        {
+            "id": 7,
+            "jumpPrefab": "UICommonGetPanel"
+        },
+        {
+            "id": 8,
+            "jumpPrefab": "MailPanelV2",
+            "unlockId": 106
+        },
+        {
+            "id": 9,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIBattleIndexPanel",
+            "unlockId": 101
+        },
+        {
+            "id": 10,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UICommandCenterPanel"
+        },
+        {
+            "id": 14,
+            "jumpPrefab": "UIChapterPanel",
+            "behavior": 6,
+            "unlockId": 203
+        },
+        {
+            "id": 16,
+            "jumpPrefab": "UISimCombatEquipPanel",
+            "unlockId": 301
+        },
+        {
+            "id": 17,
+            "jumpPrefab": "UISimCombatRunesPanel",
+            "unlockId": 302
+        },
+        {
+            "id": 18,
+            "jumpPrefab": "UINRTPVPPanel",
+            "unlockId": 116
+        },
+        {
+            "id": 19,
+            "jumpPrefab": "UIStoreExchangePanel"
+        },
+        {
+            "id": 20,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIFacilityBarrackPanel",
+            "unlockId": 102
+        }
+    ]
+}

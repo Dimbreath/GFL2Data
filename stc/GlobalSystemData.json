@@ -1,0 +1,229 @@
+{
+    "data": [
+        {
+            "gunMaxStar": 6,
+            "weaponSkillUpLevel": 6,
+            "weaponLevelPerBreak": 3,
+            "weaponLevelUpItem": [
+                125,
+                126,
+                127,
+                130
+            ],
+            "weaponLevelBreakItem": 130,
+            "weaponLevelBreakRank": 1,
+            "weaponExpReturn": 0.6,
+            "weaponCashReturn": 0.6,
+            "weaponUpgradeItemLimited": 10,
+            "weaponDismantlingItem": 11,
+            "weaponLowRank": 3,
+            "skillUnlockRank": [
+                3,
+                4,
+                5
+            ],
+            "equipLvFoodItemList": [
+                2401,
+                2402,
+                2403
+            ],
+            "equipAddOnceMax": 10,
+            "equipExpReturn": 0.6,
+            "equipCashReturn": 0.6,
+            "equipSubPropertyLevel": 3,
+            "equipSubPropertyToplimit": 4,
+            "pvpRobot": [
+                1001,
+                1002,
+                1003,
+                1004
+            ],
+            "pvpRobotLevel": 10,
+            "pvpRobotWeaponLevel": 5,
+            "pvpEloLevel": 10,
+            "pvpEloK": 20,
+            "pvpCost": 1,
+            "pvpChallengelistRenewTime": 300,
+            "pvpChallengelistRenewCost": 10,
+            "pvpRevengelistMax": 20,
+            "pvpDefendSync": 60,
+            "pvpStageId": 30102,
+            "pvpSettlementCycle": "7:18:00",
+            "pvpSettlementClientClose": "7:17:00",
+            "pvpSettlementClientReopen": "7:19:00",
+            "pvpClearChallenge": 1,
+            "pvpBattleMax": 3,
+            "touristinterval": 1296000,
+            "touristactivetime": 3600,
+            "touristlogoutHint": 214,
+            "touristpayHint": 215,
+            "kidstimelimitHint": 216,
+            "kidstimetotallimitHint": 217,
+            "kidspayHint1": 218,
+            "kidspayHint2": 219,
+            "kidspayHint3": 220,
+            "propertyDisplay": [
+                "pow",
+                "max_hp",
+                "armor",
+                "max_ap",
+                "crit",
+                "crit_mult",
+                "hit_percentage",
+                "dodge_percentage"
+            ],
+            "getwayStoryUpperlimit": 10,
+            "storeAffectionMultiple": 100,
+            "storeAffectionRecommendMultiple": 200,
+            "storeDailyrewardMailtemp": 1,
+            "checkinId": 1,
+            "gachaFirsttime": 1001001,
+            "gachaCostOne": 1,
+            "gachaCostTen": 10,
+            "equipmentPackageStoreid": 5,
+            "weaponPackageStoreid": 6,
+            "storeexchangeDefaultTag": 2,
+            "defaultAdjutant": [
+                11017,
+                1101700
+            ],
+            "assistantCooldownFriend": 300,
+            "assistantCooldownGuildmember": 600,
+            "assistantListMax": 10,
+            "assistantListMin": 5,
+            "commissionDurationArgs": 0.4,
+            "commissionTimesArgs": [
+                2,
+                20000,
+                10000000
+            ],
+            "assistantRewardMin": 1000,
+            "assistDefaultGunid": 1004,
+            "blackListUpperLimit": 50,
+            "friendLimit": 100,
+            "mottoLimit": 40,
+            "friendRecommend": 10,
+            "friendAssistRandomlimit": 15,
+            "guildAssistRandomlimit": 5,
+            "friendRefreshCd": 1,
+            "chatMessageLimit": 50,
+            "simweeklySettlementCycle": "1:6:00",
+            "simweeklySettlementClientClose": "1:4:00",
+            "simweeklySettlementClientReopen": "2:5:00",
+            "simweeklySettlementDuration": 23,
+            "dormStatemachineParameter": [
+                100,
+                90,
+                800,
+                10
+            ],
+            "dormPlotSingletime": 4,
+            "dormFavorPlot": 10,
+            "battleFavor": 1,
+            "settlementStaytime": 600,
+            "launcherItemType": [
+                9,
+                4,
+                7,
+                12,
+                6,
+                5,
+                8,
+                1
+            ],
+            "guildMaxApplication": [
+                2,
+                5
+            ],
+            "guildMaxSubleader": 3,
+            "guildCurrency": [
+                14,
+                15
+            ],
+            "guildTitleBgcolor": "FF8601,65B73C",
+            "guildDonationLimit": 5,
+            "memberDonationLimit": 20,
+            "guildCreationPrice": {
+                "1": 100
+            },
+            "guildCreationLevel": 1,
+            "guildannouncementLimit": 100,
+            "guildiconaId": 14,
+            "guildiconbId": 15,
+            "mythicRecover": 0.15,
+            "mythicBufflevelLimit": 3,
+            "mythicLevelArgs": [
+                0,
+                3,
+                5
+            ],
+            "dailyQuestItem": 306,
+            "repositorySoldRankWeapon": [
+                2,
+                3,
+                4
+            ],
+            "repositorySoldRankEquip": [
+                2,
+                3,
+                4
+            ],
+            "raidOnetimeLimit": 10,
+            "mentalRankLevellimit": [
+                10,
+                15,
+                20,
+                25,
+                30,
+                35,
+                40,
+                45,
+                50,
+                55,
+                60
+            ],
+            "autoOfflineDelay": 3600,
+            "adjutantStandbyTime": 50,
+            "mentalMixListPhysics": [
+                145,
+                155,
+                165,
+                132,
+                150,
+                160
+            ],
+            "mentalMixListHeat": [
+                146,
+                156,
+                166,
+                132,
+                151,
+                161
+            ],
+            "mentalMixListLightning": [
+                147,
+                157,
+                167,
+                132,
+                152,
+                162
+            ],
+            "mentalMixListCollapse": [
+                148,
+                158,
+                168,
+                132,
+                153,
+                163
+            ],
+            "mentalMixListReverse": [
+                149,
+                159,
+                169,
+                132,
+                154,
+                164
+            ]
+        }
+    ]
+}

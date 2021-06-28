@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "icon": "flag1"
+        },
+        {
+            "id": 2,
+            "icon": "flag2"
+        },
+        {
+            "id": 3,
+            "icon": "flag3"
+        },
+        {
+            "id": 4,
+            "icon": "flag4"
+        },
+        {
+            "id": 5,
+            "icon": "flag5"
+        }
+    ]
+}

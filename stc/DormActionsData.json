@@ -1,0 +1,385 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "cid": 3,
+            "name": "坐姿拿出书",
+            "clips": "c_Groza_SitbyChairTakeBookFront"
+        },
+        {
+            "id": 2,
+            "cid": 3,
+            "name": "坐姿阅读",
+            "clips": "c_Groza_SitbyChairReadingIdle",
+            "cycleamount": 10
+        },
+        {
+            "id": 3,
+            "cid": 3,
+            "name": "坐姿收书",
+            "clips": "c_Groza_SitbyChairPutDownBookFront"
+        },
+        {
+            "id": 4,
+            "cid": 3,
+            "name": "坐姿看向镜头(椅)",
+            "clips": "c_Groza_SitbyChairLookAtCamera"
+        },
+        {
+            "id": 5,
+            "cid": 3,
+            "name": "坐姿看向镜头idle(椅)",
+            "clips": "c_Groza_SitbyChairLookAtCameraIdle"
+        },
+        {
+            "id": 6,
+            "cid": 3,
+            "name": "坐姿看离镜头_过渡动作(椅)",
+            "clips": "c_Groza_SitbyChairLookOutCamera"
+        },
+        {
+            "id": 7,
+            "cid": 3,
+            "name": "听音乐",
+            "clips": "c_Groza_behave_ListenMusic"
+        },
+        {
+            "id": 10,
+            "cid": 3,
+            "name": "脸部表情测试",
+            "clips": "c_Groza_idle_Stand1ForBlendTree_Facetest"
+        },
+        {
+            "id": 3000,
+            "cid": 3,
+            "name": "站姿idle-转身用",
+            "clips": "c_Groza_idle_Stand1ForBlendTree"
+        },
+        {
+            "id": 3001,
+            "cid": 3,
+            "name": "站姿idle",
+            "clips": "c_Groza_idle_stand1",
+            "cycleamount": 2
+        },
+        {
+            "id": 3002,
+            "cid": 3,
+            "name": "坐姿椅-idle",
+            "clips": "c_Groza_idle_SitbyChair",
+            "expressionName": "开心",
+            "faceexpression": 1,
+            "cycleamount": 2
+        },
+        {
+            "id": 3003,
+            "cid": 3,
+            "name": "坐姿床-idle",
+            "clips": "c_Groza_idle_SitbyBed",
+            "expressionName": "开心",
+            "faceexpression": 1
+        },
+        {
+            "id": 3004,
+            "cid": 3,
+            "name": "站姿idle-2",
+            "clips": "c_Groza_idle_stand2"
+        },
+        {
+            "id": 3005,
+            "cid": 3,
+            "name": "站姿1-看镜头",
+            "clips": "c_Groza_idle_Stand1LookAtCamera"
+        },
+        {
+            "id": 3006,
+            "cid": 3,
+            "name": "站姿1-看镜头idle",
+            "clips": "c_Groza_idle_Stand1LookAtCameraIdle"
+        },
+        {
+            "id": 3011,
+            "cid": 3,
+            "name": "坐姿说话-椅",
+            "clips": "c_Groza_behave_SitByChairTalk"
+        },
+        {
+            "id": 3012,
+            "cid": 3,
+            "name": "坐姿-说话-椅",
+            "clips": "c_Groza_behave_SitByChairToTalk"
+        },
+        {
+            "id": 3025,
+            "cid": 3,
+            "name": "弯腰",
+            "clips": "c_Groza_behave_bow"
+        },
+        {
+            "id": 3026,
+            "cid": 3,
+            "name": "敲窗户",
+            "clips": "c_Groza_behave_KonckWindow"
+        },
+        {
+            "id": 3027,
+            "cid": 3,
+            "name": "半弯腰",
+            "clips": "c_Groza_behave_bow1"
+        },
+        {
+            "id": 3028,
+            "cid": 3,
+            "name": "撩头发",
+            "clips": "c_Groza_behave_HairLift"
+        },
+        {
+            "id": 3029,
+            "cid": 3,
+            "name": "收礼物1",
+            "clips": "c_Groza_behave_GiftRecieve1"
+        },
+        {
+            "id": 3030,
+            "cid": 3,
+            "name": "收礼物2",
+            "clips": "c_Groza_behave_GiftRecieve2"
+        },
+        {
+            "id": 3031,
+            "cid": 3,
+            "name": "说话-不开心",
+            "clips": "c_Groza_behave_unhappy",
+            "expressionName": "悲伤",
+            "faceexpression": 2
+        },
+        {
+            "id": 3032,
+            "cid": 3,
+            "name": "说话-疑惑",
+            "clips": "c_Groza_behave_doubt",
+            "expressionName": "惊喜",
+            "faceexpression": 5
+        },
+        {
+            "id": 3033,
+            "cid": 3,
+            "name": "说话-叹气",
+            "clips": "c_Groza_behave_sigh",
+            "expressionName": "吃惊",
+            "faceexpression": 4
+        },
+        {
+            "id": 3034,
+            "cid": 3,
+            "name": "说话-茫然",
+            "clips": "c_Groza_behave_confuse"
+        },
+        {
+            "id": 3035,
+            "cid": 3,
+            "name": "说话-微笑",
+            "clips": "c_Groza_behave_smile"
+        },
+        {
+            "id": 3036,
+            "cid": 3,
+            "name": "说话-思考1",
+            "clips": "c_Groza_behave_think1"
+        },
+        {
+            "id": 3037,
+            "cid": 3,
+            "name": "说话-思考2",
+            "clips": "c_Groza_behave_think2"
+        },
+        {
+            "id": 3038,
+            "cid": 3,
+            "name": "坐姿床边-床里",
+            "clips": "c_Groza_idle_SitInToBed"
+        },
+        {
+            "id": 3039,
+            "cid": 3,
+            "name": "坐姿床上",
+            "clips": "c_Groza_idle_SitOnBed"
+        },
+        {
+            "id": 3040,
+            "cid": 3,
+            "name": "坐姿床里-床边",
+            "clips": "c_Groza_idle_SitOutOnBed"
+        },
+        {
+            "id": 3041,
+            "cid": 3,
+            "name": "坐姿床边发呆",
+            "clips": "c_Groza_behave_MontionlessOnbed_1"
+        },
+        {
+            "id": 3042,
+            "cid": 3,
+            "name": "坐姿床边-发呆",
+            "clips": "c_Groza_behave_SitOnBedToMontionlessOnbed"
+        },
+        {
+            "id": 3043,
+            "cid": 3,
+            "name": "发呆-坐姿床边",
+            "clips": "c_Groza_behave_MontionlessOnbedToSitOnBed"
+        },
+        {
+            "id": 3044,
+            "cid": 3,
+            "name": "床上听音乐",
+            "clips": "c_Groza_behave_ListentoMusic_1"
+        },
+        {
+            "id": 3045,
+            "cid": 3,
+            "name": "坐姿床边-听音乐",
+            "clips": "c_Groza_behave_SitOnBedToListentoMusic"
+        },
+        {
+            "id": 3046,
+            "cid": 3,
+            "name": "听音乐-坐姿床边",
+            "clips": "c_Groza_behave_ListentoMusicToSitOnBed"
+        },
+        {
+            "id": 3047,
+            "cid": 3,
+            "name": "贴海报",
+            "clips": "c_Groza_behave_Poster_1"
+        },
+        {
+            "id": 3048,
+            "cid": 3,
+            "name": "坐姿床边-贴海报",
+            "clips": "c_Groza_behave_SitOnBedToPoster"
+        },
+        {
+            "id": 3049,
+            "cid": 3,
+            "name": "贴海报-坐姿床边",
+            "clips": "c_Groza_behave_PosterToSitOnBed"
+        },
+        {
+            "id": 3050,
+            "cid": 3,
+            "name": "邀请上床",
+            "clips": "c_Groza_behave_inviteOnbed_1"
+        },
+        {
+            "id": 3051,
+            "cid": 3,
+            "name": "坐姿床边-邀请上床",
+            "clips": "c_Groza_behave_SitOnBedToinviteOnbed"
+        },
+        {
+            "id": 3052,
+            "cid": 3,
+            "name": "邀请上床-坐姿床边",
+            "clips": "c_Groza_behave_inviteOnbedToSitOnBed"
+        },
+        {
+            "id": 3053,
+            "cid": 3,
+            "name": "睡觉",
+            "clips": "c_Groza_behave_Sleep"
+        },
+        {
+            "id": 3054,
+            "cid": 3,
+            "name": "坐姿床边-睡觉",
+            "clips": "c_Groza_behave_SitOnBedToSleep"
+        },
+        {
+            "id": 3055,
+            "cid": 3,
+            "name": "睡觉-坐姿床边",
+            "clips": "c_Groza_behave_SleepToSitOnBed"
+        },
+        {
+            "id": 3056,
+            "cid": 3,
+            "name": "惊醒",
+            "clips": "c_Groza_behave_ShockAwake"
+        },
+        {
+            "id": 3101,
+            "cid": 3,
+            "name": "坐姿拿书-椅子",
+            "clips": "c_Groza_SitByChairGetBook"
+        },
+        {
+            "id": 3102,
+            "cid": 3,
+            "name": "坐姿翻书-椅子",
+            "clips": "c_Groza_behave_SitByChairPaging",
+            "cycleamount": 3
+        },
+        {
+            "id": 3103,
+            "cid": 3,
+            "name": "坐姿合上书本-椅子",
+            "clips": "c_Groza_SitByChairCloseBook"
+        },
+        {
+            "id": 3104,
+            "cid": 3,
+            "name": "坐姿看书-椅子",
+            "clips": "c_Groza_behave_SitByChairReading"
+        },
+        {
+            "id": 3105,
+            "cid": 3,
+            "name": "上床侧躺",
+            "clips": "c_Groza_behave_LayDownOnBed"
+        },
+        {
+            "id": 3106,
+            "cid": 3,
+            "name": "睡觉呼吸",
+            "clips": "c_Groza_behave_SleepIdle",
+            "cycleamount": 10
+        },
+        {
+            "id": 3107,
+            "cid": 3,
+            "name": "睡醒起床",
+            "clips": "c_Groza_behave_GetAwake"
+        },
+        {
+            "id": 3108,
+            "cid": 3,
+            "name": "伸懒腰",
+            "clips": "c_Groza_behave_StretchInDream"
+        },
+        {
+            "id": 3109,
+            "cid": 3,
+            "name": "坐姿看书-记笔记",
+            "clips": "c_Groza_behave_SitByChairTakeNote"
+        },
+        {
+            "id": 3110,
+            "cid": 3,
+            "name": "坐姿看书-挠头",
+            "clips": "c_Groza_behave_SitByChairReadScratch"
+        },
+        {
+            "id": 30051,
+            "cid": 3,
+            "name": "站姿说话1",
+            "clips": "c_Groza_StandTalk1"
+        },
+        {
+            "id": 30052,
+            "cid": 3,
+            "name": "跳舞",
+            "clips": "c_Groza_Dance"
+        }
+    ]
+}

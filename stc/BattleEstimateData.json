@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": 1,
+            "property": "pow",
+            "value": 200,
+            "side": 1,
+            "expression": "0",
+            "parameter1": "0",
+            "parameter2": "0"
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "property": "pow",
+            "value": 2000,
+            "side": 1,
+            "expression": "0",
+            "conditionId": 2,
+            "parameter1": "32",
+            "parameter2": "0"
+        },
+        {
+            "id": 3,
+            "type": 2,
+            "property": "pow",
+            "value": 1000,
+            "side": 1,
+            "expression": "0",
+            "parameter1": "0",
+            "parameter2": "0"
+        },
+        {
+            "id": 4,
+            "type": 3,
+            "property": "hit_damage",
+            "value": 2000,
+            "side": 1,
+            "expression": "hit_damage*2000",
+            "conditionId": 5,
+            "parameter1": "0,150",
+            "parameter2": "1"
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "property": "crit",
+            "value": 20000,
+            "side": 1,
+            "expression": "crit*20000",
+            "conditionId": 5,
+            "parameter1": "0,150",
+            "parameter2": "1"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "itemId": 2,
+            "singleAmount": 2000,
+            "type": 1,
+            "rewardList": {
+                "14": 50
+            },
+            "guildExpReward": 50,
+            "guildRewardList": {
+                "15": 100
+            }
+        },
+        {
+            "id": 1002,
+            "itemId": 3,
+            "singleAmount": 2000,
+            "type": 1,
+            "rewardList": {
+                "14": 50
+            },
+            "guildExpReward": 50,
+            "guildRewardList": {
+                "15": 100
+            }
+        },
+        {
+            "id": 1003,
+            "itemId": 4,
+            "singleAmount": 2000,
+            "type": 1,
+            "rewardList": {
+                "14": 50
+            },
+            "guildExpReward": 50,
+            "guildRewardList": {
+                "15": 100
+            }
+        },
+        {
+            "id": 2001,
+            "itemId": 108,
+            "singleAmount": 2,
+            "type": 2,
+            "rewardList": {
+                "14": 100
+            },
+            "guildExpReward": 100,
+            "guildRewardList": {
+                "15": 150
+            }
+        },
+        {
+            "id": 2002,
+            "itemId": 109,
+            "singleAmount": 2,
+            "type": 2,
+            "rewardList": {
+                "14": 100
+            },
+            "guildExpReward": 100,
+            "guildRewardList": {
+                "15": 150
+            }
+        },
+        {
+            "id": 2003,
+            "itemId": 110,
+            "singleAmount": 2,
+            "type": 2,
+            "rewardList": {
+                "14": 100
+            },
+            "guildExpReward": 100,
+            "guildRewardList": {
+                "15": 150
+            }
+        },
+        {
+            "id": 3001,
+            "itemId": 112,
+            "singleAmount": 1,
+            "type": 3,
+            "rewardList": {
+                "14": 200
+            },
+            "guildExpReward": 200,
+            "guildRewardList": {
+                "15": 200
+            }
+        },
+        {
+            "id": 3002,
+            "itemId": 113,
+            "singleAmount": 1,
+            "type": 3,
+            "rewardList": {
+                "14": 200
+            },
+            "guildExpReward": 200,
+            "guildRewardList": {
+                "15": 200
+            }
+        },
+        {
+            "id": 3003,
+            "itemId": 114,
+            "singleAmount": 1,
+            "type": 3,
+            "rewardList": {
+                "14": 200
+            },
+            "guildExpReward": 200,
+            "guildRewardList": {
+                "15": 200
+            }
+        }
+    ]
+}

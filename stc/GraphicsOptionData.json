@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Scene_Base",
+            "depthTexture": 2,
+            "opaqueTexture": 1,
+            "msaa": 1,
+            "renderScale": 1.0,
+            "fsaa": 3,
+            "fsaaQuality": 3,
+            "cameraPostProcess": 1,
+            "shadowDistance": 350,
+            "shadowCascadeOption": 1
+        },
+        {
+            "id": 3,
+            "name": "Scene_Battle",
+            "depthTexture": 1,
+            "opaqueTexture": 1,
+            "msaa": 1,
+            "renderScale": 1.0,
+            "fsaa": 3,
+            "fsaaQuality": 3,
+            "cameraPostProcess": 1,
+            "shadowDistance": 2500,
+            "shadowCascadeOption": 3
+        },
+        {
+            "id": 10001,
+            "name": "Scene_Camera_Base",
+            "renderScale": 1.0,
+            "fsaa": 3,
+            "fsaaQuality": 3,
+            "cameraPostProcess": 1
+        },
+        {
+            "id": 10003,
+            "name": "Scene_Camera_Battle",
+            "renderScale": 1.0,
+            "fsaa": 3,
+            "fsaaQuality": 3,
+            "cameraPostProcess": 1
+        }
+    ]
+}

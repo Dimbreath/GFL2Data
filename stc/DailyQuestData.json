@@ -1,0 +1,176 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": 1,
+            "behaviorType": 1,
+            "behaviorParameter": "0:1",
+            "rewardList": {
+                "306": 20
+            },
+            "link": "9",
+            "name": {
+                "id": "277"
+            },
+            "description": {
+                "id": "278"
+            },
+            "conditionKey": "100000000202",
+            "conditionClass": 202,
+            "conditionNum": 5,
+            "conditionArg1": 1
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "behaviorType": 2,
+            "behaviorParameter": "1",
+            "rewardList": {
+                "306": 20
+            },
+            "link": "16",
+            "name": {
+                "id": "277"
+            },
+            "description": {
+                "id": "279"
+            },
+            "conditionKey": "100000005201",
+            "conditionClass": 201,
+            "conditionNum": 3,
+            "conditionArg0": 5,
+            "conditionArg1": 1
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "behaviorType": 1,
+            "behaviorParameter": "0:2",
+            "rewardList": {
+                "306": 20
+            },
+            "link": "17",
+            "name": {
+                "id": "277"
+            },
+            "description": {
+                "id": "280"
+            },
+            "conditionKey": "100000008201",
+            "conditionClass": 201,
+            "conditionNum": 3,
+            "conditionArg0": 8,
+            "conditionArg1": 1
+        },
+        {
+            "id": 4,
+            "type": 1,
+            "behaviorType": 1,
+            "behaviorParameter": "0:5",
+            "rewardList": {
+                "306": 20
+            },
+            "link": "18",
+            "name": {
+                "id": "281"
+            },
+            "description": {
+                "id": "282"
+            },
+            "conditionKey": "9201",
+            "conditionClass": 201,
+            "conditionNum": 5,
+            "conditionArg0": 9
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "behaviorType": 1,
+            "behaviorParameter": "0:10",
+            "rewardList": {
+                "306": 10
+            },
+            "link": "20",
+            "name": {
+                "id": "283"
+            },
+            "description": {
+                "id": "284"
+            },
+            "conditionKey": "2003",
+            "conditionClass": 3,
+            "conditionNum": 1,
+            "conditionArg0": 2
+        },
+        {
+            "id": 6,
+            "type": 1,
+            "rewardList": {
+                "306": 10
+            },
+            "link": "6",
+            "name": {
+                "id": "283"
+            },
+            "description": {
+                "id": "285"
+            },
+            "conditionKey": "152",
+            "conditionClass": 152,
+            "conditionNum": 1
+        },
+        {
+            "id": 7,
+            "type": 1,
+            "rewardList": {
+                "306": 10
+            },
+            "link": "6",
+            "name": {
+                "id": "283"
+            },
+            "description": {
+                "id": "286"
+            },
+            "conditionKey": "101",
+            "conditionClass": 101,
+            "conditionNum": 1
+        },
+        {
+            "id": 8,
+            "type": 1,
+            "rewardList": {
+                "306": 10
+            },
+            "link": "20",
+            "name": {
+                "id": "283"
+            },
+            "description": {
+                "id": "287"
+            },
+            "conditionKey": "4003",
+            "conditionClass": 3,
+            "conditionNum": 1,
+            "conditionArg0": 4
+        },
+        {
+            "id": 9,
+            "type": 1,
+            "rewardList": {
+                "306": 20
+            },
+            "link": "9",
+            "name": {
+                "id": "277"
+            },
+            "description": {
+                "id": "288"
+            },
+            "conditionKey": "100000000202",
+            "conditionClass": 202,
+            "conditionNum": 10,
+            "conditionArg1": 1
+        }
+    ]
+}

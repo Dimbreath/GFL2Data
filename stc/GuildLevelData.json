@@ -1,0 +1,73 @@
+{
+    "data": [
+        {
+            "level": 1,
+            "levelupExp": 1000,
+            "memberLimit": 30,
+            "guildItem": "108",
+            "guildDonationTimes": 3
+        },
+        {
+            "level": 2,
+            "levelupExp": 2000,
+            "memberLimit": 32,
+            "guildItem": "109",
+            "guildDonationTimes": 3
+        },
+        {
+            "level": 3,
+            "levelupExp": 4000,
+            "memberLimit": 34,
+            "guildItem": "110",
+            "guildDonationTimes": 3
+        },
+        {
+            "level": 4,
+            "levelupExp": 7000,
+            "memberLimit": 36,
+            "guildItem": "112",
+            "guildDonationTimes": 4
+        },
+        {
+            "level": 5,
+            "levelupExp": 10000,
+            "memberLimit": 38,
+            "guildItem": "113",
+            "guildDonationTimes": 4
+        },
+        {
+            "level": 6,
+            "levelupExp": 15000,
+            "memberLimit": 40,
+            "guildItem": "114",
+            "guildDonationTimes": 4
+        },
+        {
+            "level": 7,
+            "levelupExp": 20000,
+            "memberLimit": 42,
+            "guildItem": "115",
+            "guildDonationTimes": 4
+        },
+        {
+            "level": 8,
+            "levelupExp": 30000,
+            "memberLimit": 44,
+            "guildItem": "116",
+            "guildDonationTimes": 5
+        },
+        {
+            "level": 9,
+            "levelupExp": 50000,
+            "memberLimit": 47,
+            "guildItem": "117",
+            "guildDonationTimes": 5
+        },
+        {
+            "level": 10,
+            "memberLimit": 50,
+            "guildItem": "118",
+            "guildDonationTimes": 5
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "id": 101,
+            "name": "对地扫射",
+            "detail": "选定一个1×1的区域，使用对地机枪对该区域扫射并造成伤害。扫射可执行2次。",
+            "video": 1005,
+            "camera": 1,
+            "ui": "Missile",
+            "skillList": [
+                102,
+                102
+            ],
+            "teCost": 40,
+            "stock": 1,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic1"
+        },
+        {
+            "id": 102,
+            "name": "DS9战术支援炮塔",
+            "detail": "选定一个1×1的区域，在该区域空投一个炮塔。若炮塔在5个我方回合之内未被摧毁，则将在第6个我方回合开始时自行销毁。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                106
+            ],
+            "teCost": 60,
+            "stock": 1,
+            "icon": "Skill_Tactic4"
+        },
+        {
+            "id": 103,
+            "name": "寻敌导弹",
+            "detail": "选定一个7×7的区域，使用导弹对该区域造成伤害。",
+            "video": 1001,
+            "camera": 1,
+            "ui": "AirGunShip",
+            "skillList": [
+                103
+            ],
+            "teCost": 70,
+            "stock": 1,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic3"
+        },
+        {
+            "id": 104,
+            "name": "轻型导弹",
+            "video": 1001,
+            "camera": 1,
+            "ui": "Missile",
+            "skillList": [
+                101,
+                101
+            ],
+            "teCost": 20,
+            "stock": 1,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic2"
+        },
+        {
+            "id": 105,
+            "name": "再装填",
+            "video": 1003,
+            "autoSkillList": 104,
+            "teCost": 30,
+            "stock": 1,
+            "icon": "Skill_Tactic7"
+        },
+        {
+            "id": 106,
+            "name": "再装填（单体）",
+            "detail": "指定一个1x1区域，将区域内的友军的全部技能CD重置。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                105
+            ],
+            "teCost": 30,
+            "stock": 1,
+            "icon": "Skill_Tactic7"
+        }
+    ]
+}

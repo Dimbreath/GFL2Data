@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "category": 1,
+            "typeListNew": "3",
+            "needLevel": 1,
+            "propertyListMain": "pow:1"
+        },
+        {
+            "id": 2,
+            "category": 2,
+            "typeListNew": "101",
+            "needLevel": 1,
+            "propertyListMain": "max_hp:1"
+        },
+        {
+            "id": 3,
+            "category": 3,
+            "typeListNew": "22",
+            "needLevel": 1,
+            "propertyListMain": "armor:1"
+        },
+        {
+            "id": 4,
+            "category": 4,
+            "typeListNew": "203",
+            "needLevel": 1,
+            "propertyListMain": "pow:2,max_hp:2,armor:2,crit:1,crit_mult:1"
+        },
+        {
+            "id": 5,
+            "category": 5,
+            "typeListNew": "201",
+            "needLevel": 1,
+            "propertyListMain": "pow:2,max_hp:2,armor:2,hit_percentage:1,dodge_percentage:2"
+        },
+        {
+            "id": 6,
+            "category": 6,
+            "typeListNew": "301",
+            "needLevel": 1,
+            "propertyListMain": "pow:2,max_hp:2,armor:2,max_ap:2"
+        }
+    ]
+}

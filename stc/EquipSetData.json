@@ -1,0 +1,243 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": "NormalSet",
+            "name": {
+                "id": "153"
+            },
+            "nameEn": {
+                "id": "154"
+            },
+            "description": {
+                "id": "155"
+            },
+            "icon": "Equipment_Fighting",
+            "iconLarge": "Equipment_Fighting",
+            "setNum": 2,
+            "args": "pow,100,2"
+        },
+        {
+            "id": 2,
+            "type": "NormalSet",
+            "name": {
+                "id": "156"
+            },
+            "nameEn": {
+                "id": "157"
+            },
+            "description": {
+                "id": "158"
+            },
+            "icon": "Equipment_Armor",
+            "iconLarge": "Equipment_Armor",
+            "setNum": 2,
+            "args": "max_hp,100,2"
+        },
+        {
+            "id": 3,
+            "type": "NormalSet",
+            "name": {
+                "id": "159"
+            },
+            "nameEn": {
+                "id": "160"
+            },
+            "description": {
+                "id": "161"
+            },
+            "icon": "Equipment_Defense",
+            "iconLarge": "Equipment_Defense",
+            "setNum": 2,
+            "args": "armor,100,2"
+        },
+        {
+            "id": 4,
+            "type": "NormalSet",
+            "name": {
+                "id": "162"
+            },
+            "nameEn": {
+                "id": "163"
+            },
+            "description": {
+                "id": "164"
+            },
+            "icon": "Equipment_Crit",
+            "iconLarge": "Equipment_Crit",
+            "setNum": 2,
+            "args": "crit,100,1"
+        },
+        {
+            "id": 5,
+            "type": "NormalSet",
+            "name": {
+                "id": "165"
+            },
+            "nameEn": {
+                "id": "166"
+            },
+            "description": {
+                "id": "167"
+            },
+            "icon": "Equipment_Sniper",
+            "iconLarge": "Equipment_Sniper",
+            "setNum": 2,
+            "args": "hit_percentage,150,1"
+        },
+        {
+            "id": 6,
+            "type": "NormalSet",
+            "name": {
+                "id": "168"
+            },
+            "nameEn": {
+                "id": "169"
+            },
+            "description": {
+                "id": "170"
+            },
+            "icon": "Equipment_Fortress",
+            "iconLarge": "Equipment_Fortress",
+            "setNum": 2,
+            "args": "dodge_percentage,150,1"
+        },
+        {
+            "id": 7,
+            "type": "NormalSet",
+            "name": {
+                "id": "171"
+            },
+            "nameEn": {
+                "id": "172"
+            },
+            "description": {
+                "id": "173"
+            },
+            "icon": "Equipment_Shield",
+            "iconLarge": "Equipment_Shield",
+            "setNum": 4,
+            "effectId": 20007
+        },
+        {
+            "id": 8,
+            "type": "NormalSet",
+            "name": {
+                "id": "174"
+            },
+            "nameEn": {
+                "id": "175"
+            },
+            "description": {
+                "id": "176"
+            },
+            "icon": "Equipment_Cooking",
+            "iconLarge": "Equipment_Cooking",
+            "setNum": 4,
+            "effectId": 20008
+        },
+        {
+            "id": 9,
+            "type": "NormalSet",
+            "name": {
+                "id": "177"
+            },
+            "nameEn": {
+                "id": "178"
+            },
+            "description": {
+                "id": "179"
+            },
+            "icon": "Equipment_Reinforce",
+            "iconLarge": "Equipment_Reinforce",
+            "setNum": 4,
+            "args": "release_heal,200,1",
+            "effectId": 20009
+        },
+        {
+            "id": 10,
+            "type": "NormalSet",
+            "name": {
+                "id": "180"
+            },
+            "nameEn": {
+                "id": "181"
+            },
+            "description": {
+                "id": "182"
+            },
+            "icon": "Equipment_Sanddance",
+            "iconLarge": "Equipment_Sanddance",
+            "setNum": 4,
+            "effectId": 20010
+        },
+        {
+            "id": 11,
+            "type": "NormalSet",
+            "name": {
+                "id": "183"
+            },
+            "nameEn": {
+                "id": "184"
+            },
+            "description": {
+                "id": "185"
+            },
+            "icon": "Equipment_Bombard",
+            "iconLarge": "Equipment_Bombard",
+            "setNum": 4,
+            "effectId": 20011
+        },
+        {
+            "id": 12,
+            "type": "NormalSet",
+            "name": {
+                "id": "186"
+            },
+            "nameEn": {
+                "id": "187"
+            },
+            "description": {
+                "id": "188"
+            },
+            "icon": "Equipment_Air_attack",
+            "iconLarge": "Equipment_Air_attack",
+            "setNum": 4,
+            "effectId": 20012
+        },
+        {
+            "id": 13,
+            "type": "NormalSet",
+            "name": {
+                "id": "189"
+            },
+            "nameEn": {
+                "id": "190"
+            },
+            "description": {
+                "id": "191"
+            },
+            "icon": "Equipment_Landmines",
+            "iconLarge": "Equipment_Landmines",
+            "setNum": 4,
+            "effectId": 20013
+        },
+        {
+            "id": 14,
+            "type": "NormalSet",
+            "name": {
+                "id": "192"
+            },
+            "nameEn": {
+                "id": "193"
+            },
+            "description": {
+                "id": "194"
+            },
+            "icon": "Equipment_Combo",
+            "iconLarge": "Equipment_Combo",
+            "setNum": 4,
+            "effectId": 20014
+        }
+    ]
+}

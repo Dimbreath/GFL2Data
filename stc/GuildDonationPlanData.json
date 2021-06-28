@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type1Id": 1001,
+            "type2Id": 2001,
+            "type3Id": 3001
+        },
+        {
+            "id": 2,
+            "type1Id": 1002,
+            "type2Id": 2002,
+            "type3Id": 3002
+        },
+        {
+            "id": 3,
+            "type1Id": 1003,
+            "type2Id": 2003,
+            "type3Id": 3003
+        }
+    ]
+}

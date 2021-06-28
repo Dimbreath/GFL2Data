@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "cid": 3,
+            "name": "闪电的脸",
+            "type": "face",
+            "prefab": "Groza_Pajama_face",
+            "description": "闪电的脸"
+        },
+        {
+            "id": 2,
+            "cid": 3,
+            "name": "闪电的头发",
+            "type": "hair",
+            "suit": "Pajama",
+            "prefab": "Groza_Pajama_hair",
+            "description": "头发"
+        },
+        {
+            "id": 3,
+            "cid": 3,
+            "name": "闪电的身体",
+            "type": "body",
+            "suit": "Pajama",
+            "prefab": "Groza_Pajama_body",
+            "description": "身体"
+        }
+    ]
+}

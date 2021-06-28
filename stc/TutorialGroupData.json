@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "condition": [
+                4320024
+            ],
+            "priority": 1,
+            "timing": "15"
+        },
+        {
+            "id": 1001,
+            "condition": [
+                30201
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 1001
+        },
+        {
+            "id": 1002,
+            "condition": [
+                30202
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 1002
+        },
+        {
+            "id": 1003,
+            "condition": [
+                30203
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 1003
+        },
+        {
+            "id": 1004,
+            "condition": [
+                30204
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 1004
+        },
+        {
+            "id": 1005,
+            "condition": [
+                30206
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 1005
+        },
+        {
+            "id": 2001,
+            "condition": [
+                2001
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 25313,
+            "isPause": 1
+        },
+        {
+            "id": 2002,
+            "condition": [
+                2002
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 25313,
+            "isPause": 1
+        },
+        {
+            "id": 2003,
+            "condition": [
+                2003
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 25313,
+            "isPause": 1
+        },
+        {
+            "id": 2004,
+            "condition": [
+                2004
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 25313,
+            "isPause": 1
+        },
+        {
+            "id": 6001,
+            "condition": [
+                6001
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 9001
+        },
+        {
+            "id": 6002,
+            "condition": [
+                6002
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 9002
+        },
+        {
+            "id": 6003,
+            "condition": [
+                6003
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 9003
+        },
+        {
+            "id": 6004,
+            "condition": [
+                6004
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 9004
+        },
+        {
+            "id": 6005,
+            "condition": [
+                6005
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 9005
+        },
+        {
+            "id": 1010100,
+            "condition": [
+                30201
+            ],
+            "priority": 1,
+            "timing": "7",
+            "finishCondition": 30201
+        },
+        {
+            "id": 1010101,
+            "condition": [
+                1010101
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30201,
+            "isPause": 1
+        },
+        {
+            "id": 1010102,
+            "condition": [
+                1010102
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30201
+        },
+        {
+            "id": 1010103,
+            "condition": [
+                1010103
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30201
+        },
+        {
+            "id": 1010104,
+            "condition": [
+                1010104
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30201,
+            "isPause": 1
+        },
+        {
+            "id": 1010105,
+            "condition": [
+                1010105
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30201,
+            "isPause": 1
+        },
+        {
+            "id": 1010106,
+            "condition": [
+                1010106
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30201
+        },
+        {
+            "id": 1010107,
+            "condition": [
+                1010107
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30201,
+            "isPause": 1
+        },
+        {
+            "id": 1010108,
+            "condition": [
+                1010108
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30201,
+            "isPause": 1
+        },
+        {
+            "id": 1010200,
+            "condition": [
+                30202
+            ],
+            "priority": 1,
+            "timing": "7",
+            "finishCondition": 30202
+        },
+        {
+            "id": 1010201,
+            "condition": [
+                1010201
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30202,
+            "isPause": 1
+        },
+        {
+            "id": 1010202,
+            "condition": [
+                1010202
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30202,
+            "isPause": 1
+        },
+        {
+            "id": 1010300,
+            "condition": [
+                30203
+            ],
+            "priority": 1,
+            "timing": "7",
+            "finishCondition": 30203
+        },
+        {
+            "id": 1010301,
+            "condition": [
+                1010301
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30203,
+            "isPause": 1
+        },
+        {
+            "id": 1010302,
+            "condition": [
+                1010302
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30203,
+            "isPause": 1
+        },
+        {
+            "id": 1010303,
+            "condition": [
+                1010303
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30203,
+            "isPause": 1
+        },
+        {
+            "id": 1010400,
+            "condition": [
+                30204
+            ],
+            "priority": 1,
+            "timing": "7",
+            "finishCondition": 30204
+        },
+        {
+            "id": 1010401,
+            "condition": [
+                1010401
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 30204,
+            "isPause": 1
+        },
+        {
+            "id": 1010500,
+            "condition": [
+                30205
+            ],
+            "priority": 1,
+            "timing": "7",
+            "finishCondition": 30205
+        },
+        {
+            "id": 1010600,
+            "condition": [
+                30206
+            ],
+            "priority": 1,
+            "timing": "7",
+            "finishCondition": 30206
+        },
+        {
+            "id": 1011000,
+            "condition": [
+                30210
+            ],
+            "priority": 1,
+            "timing": "7",
+            "finishCondition": 30210
+        },
+        {
+            "id": 1020201,
+            "condition": [
+                1020201
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10202
+        },
+        {
+            "id": 1020401,
+            "condition": [
+                1020401
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10204
+        },
+        {
+            "id": 1021001,
+            "condition": [
+                1021001
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10210
+        },
+        {
+            "id": 1030201,
+            "condition": [
+                1030201
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10302
+        },
+        {
+            "id": 2011201,
+            "condition": [
+                20112
+            ],
+            "priority": 1,
+            "timing": "7",
+            "finishCondition": 20112,
+            "isPause": 1
+        }
+    ]
+}

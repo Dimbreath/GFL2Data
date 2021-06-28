@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "3410"
+            },
+            "rank": 1,
+            "icon": "Gift_Temp",
+            "introduction": {
+                "id": "3411"
+            },
+            "likeCharacter": "1,2",
+            "dislikeCharacter": "3,4",
+            "affectionValue": "10,0,0,0",
+            "effectPreview": {
+                "id": "3412"
+            }
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "3413"
+            },
+            "rank": 3,
+            "icon": "Gift_Temp",
+            "introduction": {
+                "id": "3414"
+            },
+            "likeCharacter": "3,4",
+            "affectionValue": "0,20,0,10",
+            "effectPreview": {
+                "id": "3415"
+            }
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "3416"
+            },
+            "rank": 5,
+            "icon": "Gift_Temp",
+            "introduction": {
+                "id": "3417"
+            },
+            "dislikeCharacter": "3",
+            "affectionValue": "100,100,100,100",
+            "effectPreview": {
+                "id": "3418"
+            }
+        }
+    ]
+}

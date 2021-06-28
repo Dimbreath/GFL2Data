@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+            "id": 100101,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter03_d00_y00_a.prefab"
+        },
+        {
+            "id": 100102,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter03_d00_y01_a.prefab"
+        },
+        {
+            "id": 100201,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter02_d00_y00_a.prefab"
+        },
+        {
+            "id": 100202,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter02_d00_y01_b.prefab"
+        },
+        {
+            "id": 100301,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter04_d00_y00_a.prefab"
+        },
+        {
+            "id": 100302,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter04_d00_y00_90.prefab"
+        },
+        {
+            "id": 100401,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter05_d00_y00_a.prefab"
+        },
+        {
+            "id": 100402,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter05_d00_y01_b.prefab"
+        },
+        {
+            "id": 100403,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter05_d00_y00_90.prefab"
+        },
+        {
+            "id": 100501,
+            "route": "Assets/ArtsResource/Scene/CoverItem/s_slg_sim_shelter03w_d00_y00_a.prefab"
+        },
+        {
+            "id": 100601,
+            "route": "Assets/ArtsResource/Scene/CoverItem/s_slg_sim_shelter02w_d00_y00_a.prefab"
+        },
+        {
+            "id": 100701,
+            "route": "Assets/ArtsResource/Scene/CoverItem/s_slg_sim_shelter04w_d00_y00_a.prefab"
+        },
+        {
+            "id": 100702,
+            "route": "Assets/ArtsResource/Scene/CoverItem/s_slg_sim_shelter04w_d00_y01_b.prefab"
+        },
+        {
+            "id": 100703,
+            "route": "Assets/ArtsResource/Scene/CoverItem/s_slg_sim_shelter04w_d00_y00_90.prefab"
+        },
+        {
+            "id": 100801,
+            "route": "Assets/ArtsResource/Scene/CoverItem/s_slg_sim_shelter05w_d00_y00_a.prefab"
+        },
+        {
+            "id": 100802,
+            "route": "Assets/ArtsResource/Scene/CoverItem/s_slg_sim_shelter05w_d00_y01_b.prefab"
+        },
+        {
+            "id": 100803,
+            "route": "Assets/ArtsResource/Scene/CoverItem/s_slg_sim_shelter05w_d00_y00_90.prefab"
+        },
+        {
+            "id": 100901,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter01_d00_y00_a.prefab"
+        },
+        {
+            "id": 100902,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_shelter01_d00_y01_a.prefab"
+        },
+        {
+            "id": 101001,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_ironFence01_d00_y00_a.prefab"
+        },
+        {
+            "id": 101002,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_ironFence01_d00_y00_90.prefab"
+        },
+        {
+            "id": 101101,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_ForbiddenAreas_d00_y00_a.prefab"
+        },
+        {
+            "id": 110101,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_boundaryeffect_01_a.prefab"
+        },
+        {
+            "id": 110201,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_sim_ladder_y00_a.prefab"
+        },
+        {
+            "id": 120101,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_simdistance01_15_y00.prefab"
+        },
+        {
+            "id": 120102,
+            "route": "Assets/ArtsResource/Scene/SIM/s_slg_simcombat01/s_slg_simdistance01_20_y00.prefab"
+        }
+    ]
+}

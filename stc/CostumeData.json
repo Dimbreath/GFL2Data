@@ -1,0 +1,818 @@
+{
+    "data": [
+        {
+            "id": 1100100,
+            "gunId": 1001,
+            "detailId": 1001,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4321"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100101,
+            "gunId": 1001,
+            "detailId": 1001,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4323"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100200,
+            "gunId": 1002,
+            "detailId": 1002,
+            "type": "Gun",
+            "costumeType": 2,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4325"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1002,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100201,
+            "gunId": 1002,
+            "detailId": 1002,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4326"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1002,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100300,
+            "gunId": 1003,
+            "detailId": 1003,
+            "type": "Gun",
+            "costumeType": 2,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4327"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1003,
+            "victoryPerformanceTimeline": "PP90_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100301,
+            "gunId": 1003,
+            "detailId": 1003,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4328"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1002,
+            "victoryPerformanceTimeline": "PP90_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100400,
+            "gunId": 1004,
+            "detailId": 1004,
+            "type": "Gun",
+            "costumeType": 2,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4329"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1004,
+            "victoryPerformanceTimeline": "Springfield_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100401,
+            "gunId": 1004,
+            "detailId": 1004,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4330"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "Springfield_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100500,
+            "gunId": 1005,
+            "detailId": 1005,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4331"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1016,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100501,
+            "gunId": 1005,
+            "detailId": 1005,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4332"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100600,
+            "gunId": 1006,
+            "detailId": 1006,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4333"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1008,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100601,
+            "gunId": 1006,
+            "detailId": 1006,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4334"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100700,
+            "gunId": 1007,
+            "detailId": 1007,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4335"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1007,
+            "victoryPerformanceTimeline": "561_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100701,
+            "gunId": 1007,
+            "detailId": 1007,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4336"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "561_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100800,
+            "gunId": 1008,
+            "detailId": 1008,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4337"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1008,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100801,
+            "gunId": 1008,
+            "detailId": 1008,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4338"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100900,
+            "gunId": 1009,
+            "detailId": 1009,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4339"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1002,
+            "victoryPerformanceTimeline": "MG5_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1100901,
+            "gunId": 1009,
+            "detailId": 1009,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4340"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "MG5_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101000,
+            "gunId": 1010,
+            "detailId": 1010,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4341"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1011,
+            "victoryPerformanceTimeline": "Welrod_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101001,
+            "gunId": 1010,
+            "detailId": 1010,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4342"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "Welrod_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101100,
+            "gunId": 1011,
+            "detailId": 1011,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4343"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1011,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101101,
+            "gunId": 1011,
+            "detailId": 1011,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4344"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101200,
+            "gunId": 1012,
+            "detailId": 1012,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4345"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1002,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101201,
+            "gunId": 1012,
+            "detailId": 1012,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4346"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101300,
+            "gunId": 1013,
+            "detailId": 1013,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4347"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1020,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101301,
+            "gunId": 1013,
+            "detailId": 1013,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4348"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "M99_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101400,
+            "gunId": 1014,
+            "detailId": 1014,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4349"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1019,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101401,
+            "gunId": 1014,
+            "detailId": 1014,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4350"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "6P62_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101500,
+            "gunId": 1015,
+            "detailId": 1015,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4351"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1011,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101501,
+            "gunId": 1015,
+            "detailId": 1015,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4352"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "M1887_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101600,
+            "gunId": 1016,
+            "detailId": 1016,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4353"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1016,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101601,
+            "gunId": 1016,
+            "detailId": 1016,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4354"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "Saiga12_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101700,
+            "gunId": 1017,
+            "detailId": 1017,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4355"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1017,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101701,
+            "gunId": 1017,
+            "detailId": 1017,
+            "type": "Gun",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4356"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "Klin_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101800,
+            "gunId": 1018,
+            "detailId": 1018,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4357"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1018,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1101900,
+            "gunId": 1019,
+            "detailId": 1019,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4358"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1019,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1102000,
+            "gunId": 1020,
+            "detailId": 1020,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4359"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1020,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1102100,
+            "gunId": 1021,
+            "detailId": 1021,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4360"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1019,
+            "victoryPerformanceTimeline": "Vector_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1103000,
+            "gunId": 1030,
+            "detailId": 1030,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4325"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1030,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1103100,
+            "gunId": 1031,
+            "detailId": 1031,
+            "type": "Gun",
+            "costumeType": 2,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4325"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1031,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1109000,
+            "gunId": 1004,
+            "detailId": 1090,
+            "type": "Gun",
+            "costumeType": 2,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4329"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "Springfield_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1190100,
+            "gunId": 1901,
+            "detailId": 1901,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4361"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 5001,
+            "victoryPerformanceTimeline": "Saiga12_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 1190200,
+            "gunId": 1902,
+            "detailId": 1902,
+            "type": "Gun",
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4362"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 5001,
+            "victoryPerformanceTimeline": "Klin_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 2100100,
+            "gunId": 1002,
+            "detailId": 1002,
+            "type": "Npc",
+            "costumeType": 2,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4363"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 1002,
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 2100101,
+            "gunId": 1002,
+            "detailId": 1002,
+            "type": "Npc",
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": {
+                "id": "4364"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1002,
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 2100200,
+            "gunId": 1002,
+            "detailId": 1002,
+            "type": "Npc",
+            "costumeType": 2,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4365"
+            },
+            "description": {
+                "id": "4322"
+            },
+            "modelConfigId": 4001,
+            "victoryPerformanceOffset": "0,0,0"
+        },
+        {
+            "id": 91101201,
+            "gunId": 91004,
+            "detailId": 91004,
+            "type": "Gun",
+            "costumeType": 2,
+            "icon": "Skin_0001",
+            "name": {
+                "id": "4346"
+            },
+            "description": {
+                "id": "4324"
+            },
+            "modelConfigId": 1001,
+            "victoryPerformanceTimeline": "HK416_Normal",
+            "victoryPerformanceOffset": "0,0,0"
+        }
+    ]
+}

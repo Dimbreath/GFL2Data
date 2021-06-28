@@ -1,0 +1,184 @@
+{
+    "data": [
+        {
+            "id": 101,
+            "stage": 25101,
+            "bossElement": 1,
+            "difficulty": 1
+        },
+        {
+            "id": 102,
+            "stage": 25102,
+            "bossElement": 2,
+            "difficulty": 1
+        },
+        {
+            "id": 103,
+            "stage": 25103,
+            "bossElement": 3,
+            "difficulty": 1
+        },
+        {
+            "id": 104,
+            "stage": 25104,
+            "bossElement": 1,
+            "difficulty": 1
+        },
+        {
+            "id": 105,
+            "stage": 25105,
+            "bossElement": 2,
+            "difficulty": 1
+        },
+        {
+            "id": 106,
+            "stage": 25106,
+            "bossElement": 3,
+            "difficulty": 1
+        },
+        {
+            "id": 107,
+            "stage": 25107,
+            "bossElement": 1,
+            "difficulty": 1
+        },
+        {
+            "id": 108,
+            "stage": 25108,
+            "bossElement": 2,
+            "difficulty": 1
+        },
+        {
+            "id": 109,
+            "stage": 25109,
+            "bossElement": 3,
+            "difficulty": 1
+        },
+        {
+            "id": 110,
+            "stage": 25110,
+            "bossElement": 1,
+            "difficulty": 1
+        },
+        {
+            "id": 111,
+            "stage": 25201,
+            "bossElement": 2,
+            "difficulty": 2
+        },
+        {
+            "id": 112,
+            "stage": 25202,
+            "bossElement": 3,
+            "difficulty": 2
+        },
+        {
+            "id": 113,
+            "stage": 25203,
+            "bossElement": 1,
+            "difficulty": 2
+        },
+        {
+            "id": 114,
+            "stage": 25204,
+            "bossElement": 2,
+            "difficulty": 2
+        },
+        {
+            "id": 115,
+            "stage": 25205,
+            "bossElement": 3,
+            "difficulty": 2
+        },
+        {
+            "id": 116,
+            "stage": 25206,
+            "bossElement": 1,
+            "difficulty": 2
+        },
+        {
+            "id": 117,
+            "stage": 25207,
+            "bossElement": 2,
+            "difficulty": 2
+        },
+        {
+            "id": 118,
+            "stage": 25208,
+            "bossElement": 3,
+            "difficulty": 2
+        },
+        {
+            "id": 119,
+            "stage": 25209,
+            "bossElement": 1,
+            "difficulty": 2
+        },
+        {
+            "id": 120,
+            "stage": 25210,
+            "bossElement": 2,
+            "difficulty": 2
+        },
+        {
+            "id": 121,
+            "stage": 25301,
+            "bossElement": 3,
+            "difficulty": 3
+        },
+        {
+            "id": 122,
+            "stage": 25302,
+            "bossElement": 1,
+            "difficulty": 3
+        },
+        {
+            "id": 123,
+            "stage": 25303,
+            "bossElement": 2,
+            "difficulty": 3
+        },
+        {
+            "id": 124,
+            "stage": 25304,
+            "bossElement": 3,
+            "difficulty": 3
+        },
+        {
+            "id": 125,
+            "stage": 25305,
+            "bossElement": 1,
+            "difficulty": 3
+        },
+        {
+            "id": 126,
+            "stage": 25306,
+            "bossElement": 2,
+            "difficulty": 3
+        },
+        {
+            "id": 127,
+            "stage": 25307,
+            "bossElement": 3,
+            "difficulty": 3
+        },
+        {
+            "id": 128,
+            "stage": 25308,
+            "bossElement": 1,
+            "difficulty": 3
+        },
+        {
+            "id": 129,
+            "stage": 25309,
+            "bossElement": 2,
+            "difficulty": 3
+        },
+        {
+            "id": 130,
+            "stage": 25310,
+            "bossElement": 3,
+            "difficulty": 3
+        }
+    ]
+}

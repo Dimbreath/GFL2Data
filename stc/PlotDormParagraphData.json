@@ -1,0 +1,166 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "paragraph": [
+                9
+            ],
+            "responsetype": 2
+        },
+        {
+            "id": 2,
+            "paragraph": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "responsetype": 3
+        },
+        {
+            "id": 3,
+            "paragraph": [
+                6,
+                7,
+                8
+            ],
+            "responsetype": 3
+        },
+        {
+            "id": 4,
+            "paragraph": [
+                30101,
+                30102,
+                30103,
+                30104
+            ],
+            "responsetype": 1,
+            "triggertime": [
+                15,
+                105,
+                205,
+                305
+            ],
+            "endtime": 355
+        },
+        {
+            "id": 5,
+            "paragraph": [
+                10
+            ],
+            "responsetype": 2
+        },
+        {
+            "id": 6,
+            "paragraph": [
+                11
+            ],
+            "responsetype": 2
+        },
+        {
+            "id": 7,
+            "paragraph": [
+                12
+            ],
+            "responsetype": 2
+        },
+        {
+            "id": 8,
+            "paragraph": [
+                13
+            ],
+            "responsetype": 2
+        },
+        {
+            "id": 9,
+            "paragraph": [
+                14
+            ],
+            "responsetype": 2
+        },
+        {
+            "id": 10,
+            "paragraph": [
+                15
+            ],
+            "responsetype": 2
+        },
+        {
+            "id": 11,
+            "paragraph": [
+                16
+            ],
+            "responsetype": 2
+        },
+        {
+            "id": 12,
+            "paragraph": [
+                20,
+                21,
+                22,
+                23,
+                24
+            ],
+            "responsetype": 3
+        },
+        {
+            "id": 3001,
+            "paragraph": [
+                30101,
+                30102,
+                30103,
+                30104,
+                30105,
+                30106,
+                30107
+            ],
+            "responsetype": 3
+        },
+        {
+            "id": 3002,
+            "paragraph": [
+                30301,
+                30302,
+                30303,
+                30304,
+                30305,
+                30306
+            ],
+            "responsetype": 3
+        },
+        {
+            "id": 3003,
+            "paragraph": [
+                31001,
+                310011,
+                310012,
+                310013,
+                31001
+            ],
+            "responsetype": 1,
+            "triggertime": [
+                60,
+                376,
+                632,
+                888,
+                1144
+            ],
+            "endtime": 1340
+        },
+        {
+            "id": 30031,
+            "paragraph": [
+                31002,
+                31003,
+                31008,
+                31004,
+                31005,
+                31006,
+                31007,
+                31008
+            ],
+            "responsetype": 3
+        }
+    ]
+}
