@@ -13,8 +13,8 @@
                 "1": 2600
             },
             "weeklyReward": {
-                "1": 2600,
-                "3": 1000
+                "3": 1000,
+                "1": 2600
             },
             "atkWinReward": {
                 "3": 8
@@ -128,8 +128,8 @@
                 "1": 1600
             },
             "weeklyReward": {
-                "1": 1800,
-                "3": 720
+                "3": 720,
+                "1": 1800
             },
             "atkWinReward": {
                 "3": 7
@@ -219,8 +219,8 @@
                 "1": 800
             },
             "weeklyReward": {
-                "1": 1600,
-                "3": 640
+                "3": 640,
+                "1": 1600
             },
             "atkWinReward": {
                 "3": 7
@@ -242,8 +242,8 @@
                 "1": 600
             },
             "weeklyReward": {
-                "1": 1360,
-                "3": 570
+                "3": 570,
+                "1": 1360
             },
             "atkWinPoints": 12,
             "atkWinReward": {
@@ -377,8 +377,8 @@
                 "1": 480
             },
             "weeklyReward": {
-                "1": 1020,
-                "3": 430
+                "3": 430,
+                "1": 1020
             },
             "atkWinPoints": 14,
             "atkWinReward": {
@@ -404,8 +404,8 @@
                 "1": 480
             },
             "weeklyReward": {
-                "1": 990,
-                "3": 410
+                "3": 410,
+                "1": 990
             },
             "atkWinPoints": 14,
             "atkWinReward": {
@@ -512,8 +512,8 @@
                 "1": 360
             },
             "weeklyReward": {
-                "3": 300,
-                "1": 720
+                "1": 720,
+                "3": 300
             },
             "atkWinPoints": 16,
             "atkWinReward": {
@@ -539,8 +539,8 @@
                 "1": 360
             },
             "weeklyReward": {
-                "3": 280,
-                "1": 690
+                "1": 690,
+                "3": 280
             },
             "atkWinPoints": 16,
             "atkWinReward": {
@@ -647,8 +647,8 @@
                 "1": 240
             },
             "weeklyReward": {
-                "3": 180,
-                "1": 570
+                "1": 570,
+                "3": 180
             },
             "atkWinPoints": 18,
             "atkWinReward": {
@@ -755,8 +755,8 @@
                 "1": 240
             },
             "weeklyReward": {
-                "3": 180,
-                "1": 450
+                "1": 450,
+                "3": 180
             },
             "atkWinPoints": 18,
             "atkWinReward": {
@@ -782,8 +782,8 @@
                 "1": 120
             },
             "weeklyReward": {
-                "3": 150,
-                "1": 420
+                "1": 420,
+                "3": 150
             },
             "atkWinPoints": 20,
             "atkWinReward": {
@@ -807,8 +807,8 @@
                 "1": 120
             },
             "weeklyReward": {
-                "3": 150,
-                "1": 390
+                "1": 390,
+                "3": 150
             },
             "atkWinPoints": 20,
             "atkWinReward": {
@@ -857,8 +857,8 @@
                 "1": 120
             },
             "weeklyReward": {
-                "3": 150,
-                "1": 330
+                "1": 330,
+                "3": 150
             },
             "atkWinPoints": 20,
             "atkWinReward": {
@@ -878,8 +878,8 @@
             "icon": "PVP_ICON_Insignia_QT_05",
             "upperLimitPoints": 199,
             "weeklyReward": {
-                "3": 150,
-                "1": 300
+                "1": 300,
+                "3": 150
             },
             "atkWinPoints": 20,
             "atkWinReward": {

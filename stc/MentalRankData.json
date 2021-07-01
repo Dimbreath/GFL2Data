@@ -21,8 +21,8 @@
             "icon": "mind_rank_02",
             "propertyList": {
                 "armor": 7,
-                "pow": 5,
-                "max_hp": 23
+                "max_hp": 23,
+                "pow": 5
             },
             "itemList": {
                 "2": 5000
@@ -41,8 +41,8 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 23,
                 "armor": 7,
+                "max_hp": 23,
                 "pow": 5
             },
             "itemList": {
@@ -62,9 +62,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "pow": 10,
+                "armor": 13,
                 "max_hp": 46,
-                "armor": 13
+                "pow": 10
             },
             "itemList": {
                 "2": 15000
@@ -83,10 +83,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "armor": 20,
                 "crit": 20,
-                "pow": 15,
-                "max_hp": 69
+                "armor": 20,
+                "max_hp": 69,
+                "pow": 15
             },
             "itemList": {
                 "2": 20000
@@ -105,10 +105,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "armor": 26,
                 "crit_mult": 30,
-                "pow": 20,
-                "max_hp": 92
+                "armor": 26,
+                "max_hp": 92,
+                "pow": 20
             },
             "itemList": {
                 "2": 25000
@@ -127,9 +127,9 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 115,
-                "armor": 33,
                 "crit": 20,
+                "armor": 33,
+                "max_hp": 115,
                 "pow": 25
             },
             "itemList": {
@@ -149,10 +149,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
+                "armor": 39,
                 "crit_mult": 30,
-                "pow": 35,
                 "max_hp": 161,
-                "armor": 39
+                "pow": 35
             },
             "itemList": {
                 "2": 35000
@@ -172,9 +172,9 @@
             "icon": "mind_rank_09",
             "propertyList": {
                 "crit": 20,
-                "pow": 45,
+                "armor": 52,
                 "max_hp": 207,
-                "armor": 52
+                "pow": 45
             },
             "itemList": {
                 "2": 40000
@@ -193,10 +193,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "armor": 65,
-                "crit_mult": 30,
+                "max_hp": 253,
                 "pow": 55,
-                "max_hp": 253
+                "crit_mult": 30,
+                "armor": 65
             },
             "itemList": {
                 "2": 45000
@@ -215,10 +215,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "armor": 78,
-                "crit": 20,
                 "pow": 65,
-                "max_hp": 299
+                "crit": 20,
+                "max_hp": 299,
+                "armor": 78
             },
             "itemList": {
                 "2": 50000
@@ -250,9 +250,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 5,
                 "max_hp": 22,
-                "armor": 6
+                "armor": 6,
+                "pow": 5
             },
             "itemList": {
                 "2": 5000
@@ -271,8 +271,8 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 5,
                 "max_hp": 22,
+                "pow": 5,
                 "armor": 6
             },
             "itemList": {
@@ -292,9 +292,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
+                "pow": 10,
                 "max_hp": 44,
-                "armor": 11,
-                "pow": 10
+                "armor": 11
             },
             "itemList": {
                 "2": 15000
@@ -314,9 +314,9 @@
             "icon": "mind_rank_05",
             "propertyList": {
                 "pow": 15,
+                "crit": 20,
                 "max_hp": 66,
-                "armor": 17,
-                "crit": 20
+                "armor": 17
             },
             "itemList": {
                 "2": 20000
@@ -335,10 +335,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "armor": 22,
-                "crit_mult": 30,
+                "max_hp": 88,
                 "pow": 20,
-                "max_hp": 88
+                "crit_mult": 30,
+                "armor": 22
             },
             "itemList": {
                 "2": 25000
@@ -357,8 +357,8 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
                 "pow": 25,
+                "crit": 20,
                 "max_hp": 110,
                 "armor": 28
             },
@@ -381,8 +381,8 @@
             "propertyList": {
                 "pow": 35,
                 "max_hp": 154,
-                "armor": 33,
-                "crit_mult": 30
+                "crit_mult": 30,
+                "armor": 33
             },
             "itemList": {
                 "2": 35000
@@ -401,9 +401,9 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
-                "pow": 45,
                 "max_hp": 198,
+                "pow": 45,
+                "crit": 20,
                 "armor": 44
             },
             "itemList": {
@@ -423,10 +423,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "armor": 55,
-                "crit_mult": 30,
                 "pow": 55,
-                "max_hp": 242
+                "max_hp": 242,
+                "crit_mult": 30,
+                "armor": 55
             },
             "itemList": {
                 "2": 45000
@@ -446,9 +446,9 @@
             "icon": "mind_rank_11",
             "propertyList": {
                 "pow": 65,
+                "crit": 20,
                 "max_hp": 286,
-                "armor": 66,
-                "crit": 20
+                "armor": 66
             },
             "itemList": {
                 "2": 50000
@@ -480,9 +480,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
+                "pow": 7,
                 "max_hp": 17,
-                "armor": 5,
-                "pow": 7
+                "armor": 5
             },
             "itemList": {
                 "2": 5000
@@ -501,9 +501,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
+                "pow": 7,
                 "max_hp": 17,
-                "armor": 5,
-                "pow": 7
+                "armor": 5
             },
             "itemList": {
                 "2": 10000
@@ -522,9 +522,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 9,
+                "max_hp": 34,
                 "pow": 13,
-                "max_hp": 34
+                "armor": 9
             },
             "itemList": {
                 "2": 15000
@@ -543,10 +543,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 20,
                 "max_hp": 51,
-                "armor": 14,
-                "crit": 20
+                "pow": 20,
+                "crit": 20,
+                "armor": 14
             },
             "itemList": {
                 "2": 20000
@@ -565,10 +565,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "max_hp": 68,
                 "armor": 18,
-                "crit_mult": 30,
-                "pow": 26
+                "pow": 26,
+                "max_hp": 68,
+                "crit_mult": 30
             },
             "itemList": {
                 "2": 25000
@@ -588,9 +588,9 @@
             "icon": "mind_rank_07",
             "propertyList": {
                 "armor": 23,
-                "crit": 20,
                 "pow": 33,
-                "max_hp": 85
+                "max_hp": 85,
+                "crit": 20
             },
             "itemList": {
                 "2": 30000
@@ -609,10 +609,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "armor": 27,
-                "crit_mult": 30,
+                "max_hp": 119,
                 "pow": 46,
-                "max_hp": 119
+                "crit_mult": 30,
+                "armor": 27
             },
             "itemList": {
                 "2": 35000
@@ -631,9 +631,9 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
-                "pow": 59,
                 "max_hp": 153,
+                "pow": 59,
+                "crit": 20,
                 "armor": 36
             },
             "itemList": {
@@ -653,10 +653,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 72,
                 "max_hp": 187,
-                "armor": 45,
-                "crit_mult": 30
+                "pow": 72,
+                "crit_mult": 30,
+                "armor": 45
             },
             "itemList": {
                 "2": 45000
@@ -675,10 +675,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "max_hp": 221,
                 "armor": 54,
+                "pow": 85,
                 "crit": 20,
-                "pow": 85
+                "max_hp": 221
             },
             "itemList": {
                 "2": 50000
@@ -710,8 +710,8 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 6,
                 "max_hp": 20,
+                "pow": 6,
                 "armor": 5
             },
             "itemList": {
@@ -752,9 +752,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 10,
+                "max_hp": 40,
                 "pow": 12,
-                "max_hp": 40
+                "armor": 10
             },
             "itemList": {
                 "2": 15000
@@ -773,10 +773,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
+                "armor": 15,
                 "pow": 18,
                 "max_hp": 60,
-                "armor": 15
+                "crit": 20
             },
             "itemList": {
                 "2": 20000
@@ -795,10 +795,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 24,
                 "max_hp": 80,
-                "armor": 20,
-                "crit_mult": 30
+                "pow": 24,
+                "crit_mult": 30,
+                "armor": 20
             },
             "itemList": {
                 "2": 25000
@@ -817,10 +817,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
+                "max_hp": 100,
                 "armor": 25,
-                "crit": 20,
                 "pow": 30,
-                "max_hp": 100
+                "crit": 20
             },
             "itemList": {
                 "2": 30000
@@ -839,10 +839,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "armor": 30,
-                "crit_mult": 30,
+                "max_hp": 140,
                 "pow": 42,
-                "max_hp": 140
+                "crit_mult": 30,
+                "armor": 30
             },
             "itemList": {
                 "2": 35000
@@ -861,9 +861,9 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
-                "pow": 54,
                 "max_hp": 180,
+                "pow": 54,
+                "crit": 20,
                 "armor": 40
             },
             "itemList": {
@@ -884,9 +884,9 @@
             "icon": "mind_rank_10",
             "propertyList": {
                 "max_hp": 220,
-                "armor": 50,
+                "pow": 66,
                 "crit_mult": 30,
-                "pow": 66
+                "armor": 50
             },
             "itemList": {
                 "2": 45000
@@ -905,10 +905,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "max_hp": 260,
                 "armor": 60,
-                "crit": 20,
-                "pow": 78
+                "max_hp": 260,
+                "pow": 78,
+                "crit": 20
             },
             "itemList": {
                 "2": 50000
@@ -941,8 +941,8 @@
             "icon": "mind_rank_02",
             "propertyList": {
                 "max_hp": 19,
-                "armor": 6,
-                "pow": 6
+                "pow": 6,
+                "armor": 6
             },
             "itemList": {
                 "2": 5000
@@ -961,9 +961,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "armor": 6,
+                "max_hp": 19,
                 "pow": 6,
-                "max_hp": 19
+                "armor": 6
             },
             "itemList": {
                 "2": 10000
@@ -982,9 +982,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 11,
+                "max_hp": 38,
                 "pow": 12,
-                "max_hp": 38
+                "armor": 11
             },
             "itemList": {
                 "2": 15000
@@ -1003,9 +1003,9 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "armor": 17,
                 "crit": 20,
                 "pow": 18,
+                "armor": 17,
                 "max_hp": 57
             },
             "itemList": {
@@ -1025,9 +1025,9 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "armor": 22,
-                "crit_mult": 30,
                 "pow": 24,
+                "crit_mult": 30,
+                "armor": 22,
                 "max_hp": 76
             },
             "itemList": {
@@ -1047,10 +1047,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
-                "pow": 30,
                 "max_hp": 95,
-                "armor": 28
+                "pow": 30,
+                "armor": 28,
+                "crit": 20
             },
             "itemList": {
                 "2": 30000
@@ -1069,9 +1069,9 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "armor": 33,
-                "crit_mult": 30,
                 "pow": 42,
+                "crit_mult": 30,
+                "armor": 33,
                 "max_hp": 133
             },
             "itemList": {
@@ -1092,9 +1092,9 @@
             "icon": "mind_rank_09",
             "propertyList": {
                 "max_hp": 171,
-                "armor": 44,
+                "pow": 54,
                 "crit": 20,
-                "pow": 54
+                "armor": 44
             },
             "itemList": {
                 "2": 40000
@@ -1113,10 +1113,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 209,
-                "armor": 55,
+                "pow": 66,
                 "crit_mult": 30,
-                "pow": 66
+                "armor": 55,
+                "max_hp": 209
             },
             "itemList": {
                 "2": 45000
@@ -1135,10 +1135,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "max_hp": 247,
-                "armor": 66,
                 "crit": 20,
-                "pow": 78
+                "pow": 78,
+                "armor": 66,
+                "max_hp": 247
             },
             "itemList": {
                 "2": 50000
@@ -1170,8 +1170,8 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 7,
                 "max_hp": 18,
+                "pow": 7,
                 "armor": 5
             },
             "itemList": {
@@ -1191,9 +1191,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "armor": 5,
+                "max_hp": 18,
                 "pow": 7,
-                "max_hp": 18
+                "armor": 5
             },
             "itemList": {
                 "2": 10000
@@ -1213,8 +1213,8 @@
             "icon": "mind_rank_04",
             "propertyList": {
                 "max_hp": 36,
-                "armor": 9,
-                "pow": 14
+                "pow": 14,
+                "armor": 9
             },
             "itemList": {
                 "2": 15000
@@ -1233,10 +1233,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 21,
-                "max_hp": 54,
+                "crit": 20,
                 "armor": 14,
-                "crit": 20
+                "pow": 21,
+                "max_hp": 54
             },
             "itemList": {
                 "2": 20000
@@ -1255,10 +1255,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 28,
                 "max_hp": 72,
-                "armor": 18,
-                "crit_mult": 30
+                "pow": 28,
+                "crit_mult": 30,
+                "armor": 18
             },
             "itemList": {
                 "2": 25000
@@ -1278,9 +1278,9 @@
             "icon": "mind_rank_07",
             "propertyList": {
                 "max_hp": 90,
-                "armor": 23,
+                "pow": 35,
                 "crit": 20,
-                "pow": 35
+                "armor": 23
             },
             "itemList": {
                 "2": 30000
@@ -1299,10 +1299,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 49,
-                "max_hp": 126,
+                "crit_mult": 30,
                 "armor": 27,
-                "crit_mult": 30
+                "pow": 49,
+                "max_hp": 126
             },
             "itemList": {
                 "2": 35000
@@ -1321,10 +1321,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 162,
+                "pow": 63,
                 "armor": 36,
-                "crit": 20,
-                "pow": 63
+                "max_hp": 162,
+                "crit": 20
             },
             "itemList": {
                 "2": 40000
@@ -1343,10 +1343,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "armor": 45,
-                "crit_mult": 30,
                 "pow": 77,
-                "max_hp": 198
+                "armor": 45,
+                "max_hp": 198,
+                "crit_mult": 30
             },
             "itemList": {
                 "2": 45000
@@ -1365,10 +1365,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "max_hp": 234,
+                "pow": 91,
                 "armor": 54,
-                "crit": 20,
-                "pow": 91
+                "max_hp": 234,
+                "crit": 20
             },
             "itemList": {
                 "2": 50000
@@ -1401,8 +1401,8 @@
             "icon": "mind_rank_02",
             "propertyList": {
                 "armor": 5,
-                "pow": 7,
-                "max_hp": 21
+                "max_hp": 21,
+                "pow": 7
             },
             "itemList": {
                 "2": 5000
@@ -1421,9 +1421,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
+                "armor": 5,
                 "pow": 7,
-                "max_hp": 21,
-                "armor": 5
+                "max_hp": 21
             },
             "itemList": {
                 "2": 10000
@@ -1442,9 +1442,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
+                "armor": 10,
                 "pow": 13,
-                "max_hp": 42,
-                "armor": 10
+                "max_hp": 42
             },
             "itemList": {
                 "2": 15000
@@ -1463,9 +1463,9 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 20,
-                "max_hp": 63,
                 "armor": 15,
+                "max_hp": 63,
+                "pow": 20,
                 "crit": 20
             },
             "itemList": {
@@ -1485,10 +1485,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 26,
-                "max_hp": 84,
                 "armor": 20,
-                "crit_mult": 30
+                "max_hp": 84,
+                "crit_mult": 30,
+                "pow": 26
             },
             "itemList": {
                 "2": 25000
@@ -1507,9 +1507,9 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
+                "armor": 25,
                 "pow": 33,
                 "max_hp": 105,
-                "armor": 25,
                 "crit": 20
             },
             "itemList": {
@@ -1529,10 +1529,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "armor": 30,
-                "crit_mult": 30,
                 "pow": 46,
-                "max_hp": 147
+                "armor": 30,
+                "max_hp": 147,
+                "crit_mult": 30
             },
             "itemList": {
                 "2": 35000
@@ -1551,10 +1551,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
-                "pow": 59,
+                "armor": 40,
                 "max_hp": 189,
-                "armor": 40
+                "pow": 59,
+                "crit": 20
             },
             "itemList": {
                 "2": 40000
@@ -1573,10 +1573,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 231,
+                "pow": 72,
                 "armor": 50,
-                "crit_mult": 30,
-                "pow": 72
+                "max_hp": 231,
+                "crit_mult": 30
             },
             "itemList": {
                 "2": 45000
@@ -1595,10 +1595,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "crit": 20,
+                "armor": 60,
                 "pow": 85,
                 "max_hp": 273,
-                "armor": 60
+                "crit": 20
             },
             "itemList": {
                 "2": 50000
@@ -1631,8 +1631,8 @@
             "icon": "mind_rank_02",
             "propertyList": {
                 "armor": 5,
-                "pow": 7,
-                "max_hp": 18
+                "max_hp": 18,
+                "pow": 7
             },
             "itemList": {
                 "2": 5000
@@ -1652,8 +1652,8 @@
             "icon": "mind_rank_03",
             "propertyList": {
                 "armor": 5,
-                "pow": 7,
-                "max_hp": 18
+                "max_hp": 18,
+                "pow": 7
             },
             "itemList": {
                 "2": 10000
@@ -1672,8 +1672,8 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 36,
                 "armor": 9,
+                "max_hp": 36,
                 "pow": 13
             },
             "itemList": {
@@ -1693,10 +1693,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
                 "pow": 20,
                 "max_hp": 54,
-                "armor": 14
+                "armor": 14,
+                "crit": 20
             },
             "itemList": {
                 "2": 20000
@@ -1717,8 +1717,8 @@
             "propertyList": {
                 "pow": 26,
                 "max_hp": 72,
-                "armor": 18,
-                "crit_mult": 30
+                "crit_mult": 30,
+                "armor": 18
             },
             "itemList": {
                 "2": 25000
@@ -1737,9 +1737,9 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 33,
                 "max_hp": 90,
                 "armor": 23,
+                "pow": 33,
                 "crit": 20
             },
             "itemList": {
@@ -1759,10 +1759,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
                 "pow": 46,
                 "max_hp": 126,
-                "armor": 27
+                "armor": 27,
+                "crit_mult": 30
             },
             "itemList": {
                 "2": 35000
@@ -1781,9 +1781,9 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 59,
                 "max_hp": 162,
                 "armor": 36,
+                "pow": 59,
                 "crit": 20
             },
             "itemList": {
@@ -1804,9 +1804,9 @@
             "icon": "mind_rank_10",
             "propertyList": {
                 "max_hp": 198,
-                "armor": 45,
+                "pow": 72,
                 "crit_mult": 30,
-                "pow": 72
+                "armor": 45
             },
             "itemList": {
                 "2": 45000
@@ -1860,9 +1860,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 6,
+                "max_hp": 21,
                 "pow": 6,
-                "max_hp": 21
+                "armor": 6
             },
             "itemList": {
                 "2": 5000
@@ -1881,9 +1881,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
+                "pow": 6,
                 "max_hp": 21,
-                "armor": 6,
-                "pow": 6
+                "armor": 6
             },
             "itemList": {
                 "2": 10000
@@ -1902,9 +1902,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 11,
                 "pow": 11,
-                "max_hp": 42
+                "max_hp": 42,
+                "armor": 11
             },
             "itemList": {
                 "2": 15000
@@ -1923,10 +1923,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
-                "pow": 17,
+                "armor": 17,
                 "max_hp": 63,
-                "armor": 17
+                "pow": 17,
+                "crit": 20
             },
             "itemList": {
                 "2": 20000
@@ -1946,9 +1946,9 @@
             "icon": "mind_rank_06",
             "propertyList": {
                 "max_hp": 84,
-                "armor": 22,
+                "pow": 22,
                 "crit_mult": 30,
-                "pow": 22
+                "armor": 22
             },
             "itemList": {
                 "2": 25000
@@ -1989,10 +1989,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 39,
                 "max_hp": 147,
+                "crit_mult": 30,
                 "armor": 33,
-                "crit_mult": 30
+                "pow": 39
             },
             "itemList": {
                 "2": 35000
@@ -2011,9 +2011,9 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 50,
                 "max_hp": 189,
                 "armor": 44,
+                "pow": 50,
                 "crit": 20
             },
             "itemList": {
@@ -2033,10 +2033,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "crit_mult": 30,
-                "pow": 61,
                 "max_hp": 231,
-                "armor": 55
+                "armor": 55,
+                "pow": 61,
+                "crit_mult": 30
             },
             "itemList": {
                 "2": 45000
@@ -2055,10 +2055,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "armor": 66,
-                "crit": 20,
                 "pow": 72,
-                "max_hp": 273
+                "max_hp": 273,
+                "armor": 66,
+                "crit": 20
             },
             "itemList": {
                 "2": 50000
@@ -2090,9 +2090,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
+                "armor": 7,
                 "pow": 6,
-                "max_hp": 26,
-                "armor": 7
+                "max_hp": 26
             },
             "itemList": {
                 "2": 5000
@@ -2111,9 +2111,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 6,
+                "armor": 7,
                 "max_hp": 26,
-                "armor": 7
+                "pow": 6
             },
             "itemList": {
                 "2": 10000
@@ -2132,9 +2132,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "pow": 11,
+                "armor": 13,
                 "max_hp": 52,
-                "armor": 13
+                "pow": 11
             },
             "itemList": {
                 "2": 15000
@@ -2153,10 +2153,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "max_hp": 78,
+                "pow": 17,
                 "armor": 20,
                 "crit": 20,
-                "pow": 17
+                "max_hp": 78
             },
             "itemList": {
                 "2": 20000
@@ -2175,10 +2175,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 22,
-                "max_hp": 104,
+                "crit_mult": 30,
                 "armor": 26,
-                "crit_mult": 30
+                "max_hp": 104,
+                "pow": 22
             },
             "itemList": {
                 "2": 25000
@@ -2197,10 +2197,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 28,
-                "max_hp": 130,
                 "armor": 33,
-                "crit": 20
+                "crit": 20,
+                "max_hp": 130,
+                "pow": 28
             },
             "itemList": {
                 "2": 30000
@@ -2219,9 +2219,9 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "max_hp": 182,
-                "armor": 39,
                 "crit_mult": 30,
+                "armor": 39,
+                "max_hp": 182,
                 "pow": 39
             },
             "itemList": {
@@ -2241,10 +2241,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 50,
-                "max_hp": 234,
                 "armor": 52,
-                "crit": 20
+                "pow": 50,
+                "crit": 20,
+                "max_hp": 234
             },
             "itemList": {
                 "2": 40000
@@ -2264,9 +2264,9 @@
             "icon": "mind_rank_10",
             "propertyList": {
                 "crit_mult": 30,
-                "pow": 61,
+                "armor": 65,
                 "max_hp": 286,
-                "armor": 65
+                "pow": 61
             },
             "itemList": {
                 "2": 45000
@@ -2285,10 +2285,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 72,
-                "max_hp": 338,
                 "armor": 78,
-                "crit": 20
+                "crit": 20,
+                "max_hp": 338,
+                "pow": 72
             },
             "itemList": {
                 "2": 50000
@@ -2320,9 +2320,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
+                "armor": 6,
                 "pow": 5,
-                "max_hp": 24,
-                "armor": 6
+                "max_hp": 24
             },
             "itemList": {
                 "2": 5000
@@ -2341,9 +2341,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
+                "armor": 6,
                 "pow": 5,
-                "max_hp": 24,
-                "armor": 6
+                "max_hp": 24
             },
             "itemList": {
                 "2": 10000
@@ -2362,9 +2362,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
+                "armor": 12,
                 "pow": 10,
-                "max_hp": 48,
-                "armor": 12
+                "max_hp": 48
             },
             "itemList": {
                 "2": 15000
@@ -2383,10 +2383,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "max_hp": 72,
+                "pow": 15,
                 "armor": 18,
                 "crit": 20,
-                "pow": 15
+                "max_hp": 72
             },
             "itemList": {
                 "2": 20000
@@ -2405,10 +2405,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 20,
-                "max_hp": 96,
+                "crit_mult": 30,
                 "armor": 24,
-                "crit_mult": 30
+                "pow": 20,
+                "max_hp": 96
             },
             "itemList": {
                 "2": 25000
@@ -2427,10 +2427,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 120,
+                "pow": 25,
                 "armor": 30,
                 "crit": 20,
-                "pow": 25
+                "max_hp": 120
             },
             "itemList": {
                 "2": 30000
@@ -2449,10 +2449,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "max_hp": 168,
-                "armor": 36,
                 "crit_mult": 30,
-                "pow": 35
+                "max_hp": 168,
+                "pow": 35,
+                "armor": 36
             },
             "itemList": {
                 "2": 35000
@@ -2471,10 +2471,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "armor": 48,
                 "crit": 20,
+                "max_hp": 216,
                 "pow": 45,
-                "max_hp": 216
+                "armor": 48
             },
             "itemList": {
                 "2": 40000
@@ -2494,9 +2494,9 @@
             "icon": "mind_rank_10",
             "propertyList": {
                 "crit_mult": 30,
-                "pow": 55,
                 "max_hp": 264,
-                "armor": 60
+                "armor": 60,
+                "pow": 55
             },
             "itemList": {
                 "2": 45000
@@ -2516,9 +2516,9 @@
             "icon": "mind_rank_11",
             "propertyList": {
                 "pow": 65,
+                "crit": 20,
                 "max_hp": 312,
-                "armor": 72,
-                "crit": 20
+                "armor": 72
             },
             "itemList": {
                 "2": 50000
@@ -2571,9 +2571,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 6,
                 "max_hp": 25,
-                "armor": 6
+                "armor": 6,
+                "pow": 6
             },
             "itemList": {
                 "2": 10000
@@ -2592,9 +2592,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 11,
+                "max_hp": 50,
                 "pow": 11,
-                "max_hp": 50
+                "armor": 11
             },
             "itemList": {
                 "2": 15000
@@ -2613,10 +2613,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "armor": 17,
-                "crit": 20,
                 "pow": 17,
-                "max_hp": 75
+                "max_hp": 75,
+                "crit": 20,
+                "armor": 17
             },
             "itemList": {
                 "2": 20000
@@ -2636,9 +2636,9 @@
             "icon": "mind_rank_06",
             "propertyList": {
                 "crit_mult": 30,
-                "pow": 22,
                 "max_hp": 100,
-                "armor": 22
+                "armor": 22,
+                "pow": 22
             },
             "itemList": {
                 "2": 25000
@@ -2657,10 +2657,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 28,
+                "crit": 20,
                 "max_hp": 125,
                 "armor": 28,
-                "crit": 20
+                "pow": 28
             },
             "itemList": {
                 "2": 30000
@@ -2679,10 +2679,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
+                "crit_mult": 30,
                 "pow": 39,
                 "max_hp": 175,
-                "armor": 33,
-                "crit_mult": 30
+                "armor": 33
             },
             "itemList": {
                 "2": 35000
@@ -2701,10 +2701,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 50,
+                "crit": 20,
                 "max_hp": 225,
                 "armor": 44,
-                "crit": 20
+                "pow": 50
             },
             "itemList": {
                 "2": 40000
@@ -2723,10 +2723,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 275,
-                "armor": 55,
+                "pow": 61,
                 "crit_mult": 30,
-                "pow": 61
+                "max_hp": 275,
+                "armor": 55
             },
             "itemList": {
                 "2": 45000
@@ -2746,9 +2746,9 @@
             "icon": "mind_rank_11",
             "propertyList": {
                 "crit": 20,
-                "pow": 72,
                 "max_hp": 325,
-                "armor": 66
+                "armor": 66,
+                "pow": 72
             },
             "itemList": {
                 "2": 50000
@@ -2801,9 +2801,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
+                "pow": 7,
                 "max_hp": 20,
-                "armor": 5,
-                "pow": 7
+                "armor": 5
             },
             "itemList": {
                 "2": 10000
@@ -2843,10 +2843,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 20,
-                "max_hp": 60,
                 "armor": 15,
-                "crit": 20
+                "pow": 20,
+                "crit": 20,
+                "max_hp": 60
             },
             "itemList": {
                 "2": 20000
@@ -2865,9 +2865,9 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
                 "pow": 26,
                 "max_hp": 80,
+                "crit_mult": 30,
                 "armor": 20
             },
             "itemList": {
@@ -2887,10 +2887,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
+                "armor": 25,
                 "pow": 33,
-                "max_hp": 100,
-                "armor": 25
+                "crit": 20,
+                "max_hp": 100
             },
             "itemList": {
                 "2": 30000
@@ -2909,10 +2909,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "armor": 30,
-                "crit_mult": 30,
                 "pow": 46,
-                "max_hp": 140
+                "max_hp": 140,
+                "crit_mult": 30,
+                "armor": 30
             },
             "itemList": {
                 "2": 35000
@@ -2931,10 +2931,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 59,
-                "max_hp": 180,
                 "armor": 40,
-                "crit": 20
+                "pow": 59,
+                "crit": 20,
+                "max_hp": 180
             },
             "itemList": {
                 "2": 40000
@@ -2953,10 +2953,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 72,
-                "max_hp": 220,
+                "crit_mult": 30,
                 "armor": 50,
-                "crit_mult": 30
+                "pow": 72,
+                "max_hp": 220
             },
             "itemList": {
                 "2": 45000
@@ -2975,8 +2975,8 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "crit": 20,
                 "pow": 85,
+                "crit": 20,
                 "max_hp": 260,
                 "armor": 60
             },
@@ -3010,9 +3010,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
+                "armor": 6,
                 "pow": 7,
-                "max_hp": 21,
-                "armor": 6
+                "max_hp": 21
             },
             "itemList": {
                 "2": 5000
@@ -3031,9 +3031,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
+                "pow": 7,
                 "max_hp": 21,
-                "armor": 6,
-                "pow": 7
+                "armor": 6
             },
             "itemList": {
                 "2": 10000
@@ -3052,9 +3052,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
+                "armor": 11,
                 "pow": 13,
-                "max_hp": 42,
-                "armor": 11
+                "max_hp": 42
             },
             "itemList": {
                 "2": 15000
@@ -3074,9 +3074,9 @@
             "icon": "mind_rank_05",
             "propertyList": {
                 "pow": 20,
+                "crit": 20,
                 "max_hp": 63,
-                "armor": 17,
-                "crit": 20
+                "armor": 17
             },
             "itemList": {
                 "2": 20000
@@ -3097,8 +3097,8 @@
             "propertyList": {
                 "pow": 26,
                 "max_hp": 84,
-                "armor": 22,
-                "crit_mult": 30
+                "crit_mult": 30,
+                "armor": 22
             },
             "itemList": {
                 "2": 25000
@@ -3118,9 +3118,9 @@
             "icon": "mind_rank_07",
             "propertyList": {
                 "pow": 33,
+                "crit": 20,
                 "max_hp": 105,
-                "armor": 28,
-                "crit": 20
+                "armor": 28
             },
             "itemList": {
                 "2": 30000
@@ -3139,10 +3139,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "max_hp": 147,
-                "armor": 33,
                 "crit_mult": 30,
-                "pow": 46
+                "armor": 33,
+                "pow": 46,
+                "max_hp": 147
             },
             "itemList": {
                 "2": 35000
@@ -3161,10 +3161,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 59,
-                "max_hp": 189,
                 "armor": 44,
-                "crit": 20
+                "pow": 59,
+                "crit": 20,
+                "max_hp": 189
             },
             "itemList": {
                 "2": 40000
@@ -3183,10 +3183,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 231,
-                "armor": 55,
                 "crit_mult": 30,
-                "pow": 72
+                "armor": 55,
+                "pow": 72,
+                "max_hp": 231
             },
             "itemList": {
                 "2": 45000
@@ -3205,10 +3205,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 85,
                 "max_hp": 273,
+                "crit": 20,
                 "armor": 66,
-                "crit": 20
+                "pow": 85
             },
             "itemList": {
                 "2": 50000
@@ -3240,9 +3240,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
+                "armor": 6,
                 "pow": 5,
-                "max_hp": 20,
-                "armor": 6
+                "max_hp": 20
             },
             "itemList": {
                 "2": 5000
@@ -3262,8 +3262,8 @@
             "icon": "mind_rank_03",
             "propertyList": {
                 "pow": 5,
-                "max_hp": 20,
-                "armor": 6
+                "armor": 6,
+                "max_hp": 20
             },
             "itemList": {
                 "2": 10000
@@ -3282,9 +3282,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
+                "armor": 12,
                 "pow": 10,
-                "max_hp": 40,
-                "armor": 12
+                "max_hp": 40
             },
             "itemList": {
                 "2": 15000
@@ -3303,10 +3303,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
+                "crit": 20,
                 "pow": 15,
-                "max_hp": 60,
                 "armor": 18,
-                "crit": 20
+                "max_hp": 60
             },
             "itemList": {
                 "2": 20000
@@ -3325,10 +3325,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "max_hp": 80,
+                "pow": 20,
                 "armor": 24,
-                "crit_mult": 30,
-                "pow": 20
+                "max_hp": 80,
+                "crit_mult": 30
             },
             "itemList": {
                 "2": 25000
@@ -3347,10 +3347,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 25,
                 "max_hp": 100,
+                "crit": 20,
                 "armor": 30,
-                "crit": 20
+                "pow": 25
             },
             "itemList": {
                 "2": 30000
@@ -3370,9 +3370,9 @@
             "icon": "mind_rank_08",
             "propertyList": {
                 "max_hp": 140,
-                "armor": 36,
+                "pow": 35,
                 "crit_mult": 30,
-                "pow": 35
+                "armor": 36
             },
             "itemList": {
                 "2": 35000
@@ -3391,10 +3391,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 45,
                 "max_hp": 180,
+                "crit": 20,
                 "armor": 48,
-                "crit": 20
+                "pow": 45
             },
             "itemList": {
                 "2": 40000
@@ -3413,10 +3413,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 55,
-                "max_hp": 220,
+                "crit_mult": 30,
                 "armor": 60,
-                "crit_mult": 30
+                "pow": 55,
+                "max_hp": 220
             },
             "itemList": {
                 "2": 45000
@@ -3435,10 +3435,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 65,
                 "max_hp": 260,
+                "crit": 20,
                 "armor": 72,
-                "crit": 20
+                "pow": 65
             },
             "itemList": {
                 "2": 50000
@@ -3471,8 +3471,8 @@
             "icon": "mind_rank_02",
             "propertyList": {
                 "pow": 6,
-                "max_hp": 21,
-                "armor": 6
+                "armor": 6,
+                "max_hp": 21
             },
             "itemList": {
                 "2": 5000
@@ -3491,9 +3491,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 21,
+                "pow": 6,
                 "armor": 6,
-                "pow": 6
+                "max_hp": 21
             },
             "itemList": {
                 "2": 10000
@@ -3512,9 +3512,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 11,
+                "max_hp": 42,
                 "pow": 11,
-                "max_hp": 42
+                "armor": 11
             },
             "itemList": {
                 "2": 15000
@@ -3533,10 +3533,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "armor": 17,
+                "max_hp": 63,
                 "crit": 20,
                 "pow": 17,
-                "max_hp": 63
+                "armor": 17
             },
             "itemList": {
                 "2": 20000
@@ -3555,10 +3555,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 22,
-                "max_hp": 84,
+                "crit_mult": 30,
                 "armor": 22,
-                "crit_mult": 30
+                "pow": 22,
+                "max_hp": 84
             },
             "itemList": {
                 "2": 25000
@@ -3577,10 +3577,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
+                "crit": 20,
                 "pow": 28,
-                "max_hp": 105,
                 "armor": 28,
-                "crit": 20
+                "max_hp": 105
             },
             "itemList": {
                 "2": 30000
@@ -3599,10 +3599,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
+                "armor": 33,
                 "pow": 39,
-                "max_hp": 147,
-                "armor": 33
+                "crit_mult": 30,
+                "max_hp": 147
             },
             "itemList": {
                 "2": 35000
@@ -3621,10 +3621,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
                 "pow": 50,
+                "armor": 44,
                 "max_hp": 189,
-                "armor": 44
+                "crit": 20
             },
             "itemList": {
                 "2": 40000
@@ -3643,10 +3643,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "crit_mult": 30,
-                "pow": 61,
                 "max_hp": 231,
-                "armor": 55
+                "armor": 55,
+                "pow": 61,
+                "crit_mult": 30
             },
             "itemList": {
                 "2": 45000
@@ -3665,10 +3665,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "max_hp": 273,
-                "armor": 66,
                 "crit": 20,
-                "pow": 72
+                "pow": 72,
+                "armor": 66,
+                "max_hp": 273
             },
             "itemList": {
                 "2": 50000
@@ -3700,9 +3700,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "max_hp": 22,
+                "pow": 7,
                 "armor": 5,
-                "pow": 7
+                "max_hp": 22
             },
             "itemList": {
                 "2": 5000
@@ -3721,9 +3721,9 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 22,
+                "pow": 7,
                 "armor": 5,
-                "pow": 7
+                "max_hp": 22
             },
             "itemList": {
                 "2": 10000
@@ -3742,9 +3742,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 10,
                 "pow": 13,
-                "max_hp": 44
+                "max_hp": 44,
+                "armor": 10
             },
             "itemList": {
                 "2": 15000
@@ -3763,10 +3763,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 20,
-                "max_hp": 66,
+                "crit": 20,
                 "armor": 15,
-                "crit": 20
+                "pow": 20,
+                "max_hp": 66
             },
             "itemList": {
                 "2": 20000
@@ -3785,10 +3785,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
                 "pow": 26,
+                "armor": 20,
                 "max_hp": 88,
-                "armor": 20
+                "crit_mult": 30
             },
             "itemList": {
                 "2": 25000
@@ -3807,10 +3807,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
                 "pow": 33,
+                "armor": 25,
                 "max_hp": 110,
-                "armor": 25
+                "crit": 20
             },
             "itemList": {
                 "2": 30000
@@ -3830,9 +3830,9 @@
             "icon": "mind_rank_08",
             "propertyList": {
                 "pow": 46,
-                "max_hp": 154,
                 "armor": 30,
-                "crit_mult": 30
+                "crit_mult": 30,
+                "max_hp": 154
             },
             "itemList": {
                 "2": 35000
@@ -3853,8 +3853,8 @@
             "propertyList": {
                 "crit": 20,
                 "pow": 59,
-                "max_hp": 198,
-                "armor": 40
+                "armor": 40,
+                "max_hp": 198
             },
             "itemList": {
                 "2": 40000
@@ -3873,9 +3873,9 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "armor": 50,
-                "crit_mult": 30,
                 "pow": 72,
+                "crit_mult": 30,
+                "armor": 50,
                 "max_hp": 242
             },
             "itemList": {
@@ -3895,10 +3895,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "crit": 20,
                 "pow": 85,
+                "armor": 60,
                 "max_hp": 286,
-                "armor": 60
+                "crit": 20
             },
             "itemList": {
                 "2": 50000
@@ -3930,8 +3930,8 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 5,
                 "pow": 6,
+                "armor": 5,
                 "max_hp": 21
             },
             "itemList": {
@@ -3952,8 +3952,8 @@
             "icon": "mind_rank_03",
             "propertyList": {
                 "pow": 6,
-                "max_hp": 21,
-                "armor": 5
+                "armor": 5,
+                "max_hp": 21
             },
             "itemList": {
                 "2": 10000
@@ -3972,9 +3972,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
+                "max_hp": 42,
                 "armor": 10,
-                "pow": 12,
-                "max_hp": 42
+                "pow": 12
             },
             "itemList": {
                 "2": 15000
@@ -3993,10 +3993,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 18,
-                "max_hp": 63,
+                "crit": 20,
                 "armor": 15,
-                "crit": 20
+                "max_hp": 63,
+                "pow": 18
             },
             "itemList": {
                 "2": 20000
@@ -4015,10 +4015,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "armor": 20,
                 "crit_mult": 30,
-                "pow": 24,
-                "max_hp": 84
+                "armor": 20,
+                "max_hp": 84,
+                "pow": 24
             },
             "itemList": {
                 "2": 25000
@@ -4037,9 +4037,9 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 105,
-                "armor": 25,
                 "crit": 20,
+                "armor": 25,
+                "max_hp": 105,
                 "pow": 30
             },
             "itemList": {
@@ -4059,9 +4059,9 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
-                "pow": 42,
                 "max_hp": 147,
+                "pow": 42,
+                "crit_mult": 30,
                 "armor": 30
             },
             "itemList": {
@@ -4081,9 +4081,9 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 54,
                 "max_hp": 189,
                 "armor": 40,
+                "pow": 54,
                 "crit": 20
             },
             "itemList": {
@@ -4103,10 +4103,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 231,
-                "armor": 50,
                 "crit_mult": 30,
-                "pow": 66
+                "armor": 50,
+                "pow": 66,
+                "max_hp": 231
             },
             "itemList": {
                 "2": 45000
@@ -4126,9 +4126,9 @@
             "icon": "mind_rank_11",
             "propertyList": {
                 "max_hp": 273,
-                "armor": 60,
+                "pow": 78,
                 "crit": 20,
-                "pow": 78
+                "armor": 60
             },
             "itemList": {
                 "2": 50000
@@ -4160,8 +4160,8 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 7,
                 "max_hp": 21,
+                "pow": 7,
                 "armor": 5
             },
             "itemList": {
@@ -4181,8 +4181,8 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 7,
                 "max_hp": 21,
+                "pow": 7,
                 "armor": 5
             },
             "itemList": {
@@ -4202,9 +4202,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "pow": 13,
+                "armor": 10,
                 "max_hp": 42,
-                "armor": 10
+                "pow": 13
             },
             "itemList": {
                 "2": 15000
@@ -4223,9 +4223,9 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 20,
                 "max_hp": 63,
                 "armor": 15,
+                "pow": 20,
                 "crit": 20
             },
             "itemList": {
@@ -4245,10 +4245,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "armor": 20,
                 "crit_mult": 30,
-                "pow": 26,
-                "max_hp": 84
+                "max_hp": 84,
+                "armor": 20,
+                "pow": 26
             },
             "itemList": {
                 "2": 25000
@@ -4267,9 +4267,9 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
-                "pow": 33,
                 "max_hp": 105,
+                "pow": 33,
+                "crit": 20,
                 "armor": 25
             },
             "itemList": {
@@ -4289,10 +4289,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
-                "pow": 46,
                 "max_hp": 147,
-                "armor": 30
+                "armor": 30,
+                "crit_mult": 30,
+                "pow": 46
             },
             "itemList": {
                 "2": 35000
@@ -4311,9 +4311,9 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 59,
                 "max_hp": 189,
                 "armor": 40,
+                "pow": 59,
                 "crit": 20
             },
             "itemList": {
@@ -4334,8 +4334,8 @@
             "icon": "mind_rank_10",
             "propertyList": {
                 "max_hp": 231,
-                "armor": 50,
                 "crit_mult": 30,
+                "armor": 50,
                 "pow": 72
             },
             "itemList": {
@@ -4356,9 +4356,9 @@
             "icon": "mind_rank_11",
             "propertyList": {
                 "crit": 20,
-                "pow": 85,
+                "armor": 60,
                 "max_hp": 273,
-                "armor": 60
+                "pow": 85
             },
             "itemList": {
                 "2": 50000
@@ -4412,8 +4412,8 @@
             "icon": "mind_rank_03",
             "propertyList": {
                 "max_hp": 22,
-                "armor": 6,
-                "pow": 7
+                "pow": 7,
+                "armor": 6
             },
             "itemList": {
                 "2": 10000
@@ -4432,9 +4432,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "pow": 13,
+                "armor": 11,
                 "max_hp": 44,
-                "armor": 11
+                "pow": 13
             },
             "itemList": {
                 "2": 15000
@@ -4454,9 +4454,9 @@
             "icon": "mind_rank_05",
             "propertyList": {
                 "crit": 20,
-                "pow": 20,
+                "armor": 17,
                 "max_hp": 66,
-                "armor": 17
+                "pow": 20
             },
             "itemList": {
                 "2": 20000
@@ -4476,9 +4476,9 @@
             "icon": "mind_rank_06",
             "propertyList": {
                 "crit_mult": 30,
-                "pow": 26,
+                "armor": 22,
                 "max_hp": 88,
-                "armor": 22
+                "pow": 26
             },
             "itemList": {
                 "2": 25000
@@ -4497,9 +4497,9 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
-                "pow": 33,
                 "max_hp": 110,
+                "pow": 33,
+                "crit": 20,
                 "armor": 28
             },
             "itemList": {
@@ -4519,10 +4519,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 46,
-                "max_hp": 154,
+                "crit_mult": 30,
                 "armor": 33,
-                "crit_mult": 30
+                "max_hp": 154,
+                "pow": 46
             },
             "itemList": {
                 "2": 35000
@@ -4541,9 +4541,9 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 59,
                 "max_hp": 198,
                 "armor": 44,
+                "pow": 59,
                 "crit": 20
             },
             "itemList": {
@@ -4563,10 +4563,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "armor": 55,
                 "crit_mult": 30,
-                "pow": 72,
-                "max_hp": 242
+                "armor": 55,
+                "max_hp": 242,
+                "pow": 72
             },
             "itemList": {
                 "2": 45000
@@ -4585,9 +4585,9 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 85,
-                "max_hp": 286,
                 "armor": 66,
+                "max_hp": 286,
+                "pow": 85,
                 "crit": 20
             },
             "itemList": {
@@ -4620,9 +4620,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 5,
+                "armor": 6,
                 "max_hp": 22,
-                "armor": 6
+                "pow": 5
             },
             "itemList": {
                 "2": 5000
@@ -4641,8 +4641,8 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 5,
                 "max_hp": 22,
+                "pow": 5,
                 "armor": 6
             },
             "itemList": {
@@ -4662,9 +4662,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 44,
                 "armor": 12,
-                "pow": 10
+                "pow": 10,
+                "max_hp": 44
             },
             "itemList": {
                 "2": 15000
@@ -4683,10 +4683,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 15,
                 "max_hp": 66,
-                "armor": 18,
-                "crit": 20
+                "pow": 15,
+                "crit": 20,
+                "armor": 18
             },
             "itemList": {
                 "2": 20000
@@ -4706,9 +4706,9 @@
             "icon": "mind_rank_06",
             "propertyList": {
                 "crit_mult": 30,
-                "pow": 20,
+                "armor": 24,
                 "max_hp": 88,
-                "armor": 24
+                "pow": 20
             },
             "itemList": {
                 "2": 25000
@@ -4727,10 +4727,10 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
+                "max_hp": 110,
                 "armor": 30,
-                "crit": 20,
                 "pow": 25,
-                "max_hp": 110
+                "crit": 20
             },
             "itemList": {
                 "2": 30000
@@ -4749,10 +4749,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
+                "armor": 36,
                 "crit_mult": 30,
-                "pow": 35,
                 "max_hp": 154,
-                "armor": 36
+                "pow": 35
             },
             "itemList": {
                 "2": 35000
@@ -4771,10 +4771,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "armor": 48,
-                "crit": 20,
+                "max_hp": 198,
                 "pow": 45,
-                "max_hp": 198
+                "armor": 48,
+                "crit": 20
             },
             "itemList": {
                 "2": 40000
@@ -4794,9 +4794,9 @@
             "icon": "mind_rank_10",
             "propertyList": {
                 "max_hp": 242,
-                "armor": 60,
+                "pow": 55,
                 "crit_mult": 30,
-                "pow": 55
+                "armor": 60
             },
             "itemList": {
                 "2": 45000
@@ -4815,10 +4815,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "max_hp": 286,
                 "armor": 72,
-                "crit": 20,
-                "pow": 65
+                "pow": 65,
+                "max_hp": 286,
+                "crit": 20
             },
             "itemList": {
                 "2": 50000
@@ -4850,9 +4850,9 @@
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 5,
+                "max_hp": 19,
                 "pow": 6,
-                "max_hp": 19
+                "armor": 5
             },
             "itemList": {
                 "2": 5000
@@ -4871,8 +4871,8 @@
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 6,
                 "max_hp": 19,
+                "pow": 6,
                 "armor": 5
             },
             "itemList": {
@@ -4892,9 +4892,9 @@
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 10,
+                "max_hp": 38,
                 "pow": 11,
-                "max_hp": 38
+                "armor": 10
             },
             "itemList": {
                 "2": 15000
@@ -4913,10 +4913,10 @@
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "max_hp": 57,
                 "armor": 15,
-                "crit": 20,
-                "pow": 17
+                "pow": 17,
+                "max_hp": 57,
+                "crit": 20
             },
             "itemList": {
                 "2": 20000
@@ -4935,10 +4935,10 @@
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 22,
                 "max_hp": 76,
-                "armor": 20,
-                "crit_mult": 30
+                "crit_mult": 30,
+                "pow": 22,
+                "armor": 20
             },
             "itemList": {
                 "2": 25000
@@ -4957,9 +4957,9 @@
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 28,
-                "max_hp": 95,
                 "armor": 25,
+                "max_hp": 95,
+                "pow": 28,
                 "crit": 20
             },
             "itemList": {
@@ -4979,10 +4979,10 @@
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 39,
-                "max_hp": 133,
+                "crit_mult": 30,
                 "armor": 30,
-                "crit_mult": 30
+                "max_hp": 133,
+                "pow": 39
             },
             "itemList": {
                 "2": 35000
@@ -5001,10 +5001,10 @@
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "armor": 40,
                 "crit": 20,
+                "max_hp": 171,
                 "pow": 50,
-                "max_hp": 171
+                "armor": 40
             },
             "itemList": {
                 "2": 40000
@@ -5023,10 +5023,10 @@
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 209,
-                "armor": 50,
+                "pow": 61,
                 "crit_mult": 30,
-                "pow": 61
+                "max_hp": 209,
+                "armor": 50
             },
             "itemList": {
                 "2": 45000
@@ -5045,10 +5045,10 @@
             },
             "icon": "mind_rank_11",
             "propertyList": {
+                "pow": 72,
                 "max_hp": 247,
                 "armor": 60,
-                "crit": 20,
-                "pow": 72
+                "crit": 20
             },
             "itemList": {
                 "2": 50000
