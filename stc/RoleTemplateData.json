@@ -3,262 +3,320 @@
         {
             "id": 1001,
             "name": {
-                "id": "2222"
+                "id": "3827"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1001,
-            "maxHp": 230,
+            "maxHp": 109,
             "maxAp": 600,
             "visionRange": 24,
-            "pow": 60,
+            "pow": 43,
             "crit": 50,
             "critMult": 1500,
-            "armor": 55,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "physicalShield": 43,
+            "magicalShield": 44
         },
         {
             "id": 1002,
             "name": {
-                "id": "2224"
+                "id": "3829"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1002,
-            "maxHp": 220,
+            "maxHp": 90,
             "maxAp": 500,
             "visionRange": 24,
-            "pow": 50,
+            "pow": 36,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 10,
+            "physicalShield": 36,
+            "magicalShield": 38
         },
         {
             "id": 1003,
             "name": {
-                "id": "2225"
+                "id": "3830"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1003,
-            "maxHp": 180,
+            "maxHp": 80,
             "maxAp": 300,
             "visionRange": 24,
-            "pow": 65,
+            "pow": 42,
             "crit": 50,
             "critMult": 1500,
-            "armor": 45,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 20,
+            "physicalShield": 32,
+            "magicalShield": 32
         },
         {
             "id": 1004,
             "name": {
-                "id": "2226"
+                "id": "3831"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1004,
-            "maxHp": 200,
+            "maxHp": 104,
             "maxAp": 400,
             "visionRange": 24,
-            "pow": 60,
+            "pow": 40,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 35,
+            "physicalShield": 41,
+            "magicalShield": 39
         },
         {
             "id": 1005,
             "name": {
-                "id": "2227"
+                "id": "3832"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1005,
-            "maxHp": 190,
+            "maxHp": 118,
             "maxAp": 600,
             "visionRange": 24,
-            "pow": 60,
+            "pow": 47,
             "crit": 50,
             "critMult": 1500,
-            "armor": 55,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "physicalShield": 48,
+            "magicalShield": 47
         },
         {
             "id": 1006,
             "name": {
-                "id": "2228"
+                "id": "3833"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1006,
-            "maxHp": 180,
+            "maxHp": 92,
             "maxAp": 300,
             "visionRange": 24,
-            "pow": 70,
+            "pow": 48,
             "crit": 50,
             "critMult": 1500,
-            "armor": 45,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 20,
+            "physicalShield": 36,
+            "magicalShield": 36
         },
         {
             "id": 1007,
             "name": {
-                "id": "2229"
+                "id": "3834"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1007,
-            "maxHp": 210,
+            "maxHp": 110,
             "maxAp": 400,
             "visionRange": 24,
-            "pow": 65,
+            "pow": 45,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 35,
+            "physicalShield": 44,
+            "magicalShield": 43
         },
         {
             "id": 1008,
             "name": {
-                "id": "2230"
+                "id": "3835"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1008,
-            "maxHp": 180,
+            "maxHp": 86,
             "maxAp": 300,
             "visionRange": 24,
-            "pow": 65,
+            "pow": 45,
             "crit": 50,
             "critMult": 1500,
-            "armor": 45,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 20,
+            "physicalShield": 34,
+            "magicalShield": 34
         },
         {
             "id": 1009,
             "name": {
-                "id": "2231"
+                "id": "3836"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1009,
-            "maxHp": 220,
+            "maxHp": 96,
             "maxAp": 500,
             "visionRange": 24,
-            "pow": 50,
+            "pow": 38,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 10,
+            "physicalShield": 38,
+            "magicalShield": 40
         },
         {
             "id": 1010,
             "name": {
-                "id": "2232"
+                "id": "3837"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1010,
-            "maxHp": 260,
+            "maxHp": 122,
             "maxAp": 600,
             "visionRange": 24,
-            "pow": 55,
+            "pow": 42,
             "crit": 50,
             "critMult": 1500,
-            "armor": 65,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "suppressValue": 30,
+            "physicalShield": 49,
+            "magicalShield": 48
         },
         {
             "id": 1011,
             "name": {
-                "id": "2233"
+                "id": "3838"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1011,
-            "maxHp": 250,
+            "maxHp": 110,
             "maxAp": 600,
             "visionRange": 24,
-            "pow": 55,
+            "pow": 37,
             "crit": 50,
             "critMult": 1500,
-            "armor": 60,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "suppressValue": 30,
+            "physicalShield": 46,
+            "magicalShield": 45
         },
         {
             "id": 1012,
             "name": {
-                "id": "2234"
+                "id": "3839"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1012,
-            "maxHp": 220,
+            "maxHp": 108,
             "maxAp": 500,
             "visionRange": 24,
-            "pow": 50,
+            "pow": 40,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 10,
+            "physicalShield": 43,
+            "magicalShield": 45
         },
         {
             "id": 1013,
             "name": {
-                "id": "2235"
+                "id": "3840"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1013,
@@ -268,165 +326,204 @@
             "pow": 65,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 35,
+            "physicalShield": 40,
+            "magicalShield": 32
         },
         {
             "id": 1014,
             "name": {
-                "id": "2236"
+                "id": "3841"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
-            "modelCode": 1017,
-            "maxHp": 210,
+            "modelCode": 1014,
+            "maxHp": 115,
             "maxAp": 350,
             "visionRange": 24,
-            "pow": 65,
+            "pow": 42,
             "crit": 50,
             "critMult": 1500,
-            "armor": 55,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 40,
+            "physicalShield": 47,
+            "magicalShield": 47
         },
         {
             "id": 1015,
             "name": {
-                "id": "2237"
+                "id": "3842"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1015,
-            "maxHp": 250,
+            "maxHp": 115,
             "maxAp": 600,
             "visionRange": 24,
-            "pow": 55,
+            "pow": 39,
             "crit": 50,
             "critMult": 1500,
-            "armor": 60,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "suppressValue": 30,
+            "physicalShield": 48,
+            "magicalShield": 46
         },
         {
             "id": 1016,
             "name": {
-                "id": "2238"
+                "id": "3843"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1016,
-            "maxHp": 230,
+            "maxHp": 100,
             "maxAp": 600,
             "visionRange": 24,
-            "pow": 60,
+            "pow": 40,
             "crit": 50,
             "critMult": 1500,
-            "armor": 55,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "physicalShield": 40,
+            "magicalShield": 40
         },
         {
             "id": 1017,
             "name": {
-                "id": "2239"
+                "id": "3844"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1017,
-            "maxHp": 200,
+            "maxHp": 108,
             "maxAp": 400,
             "visionRange": 24,
-            "pow": 60,
+            "pow": 43,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 35,
+            "physicalShield": 42,
+            "magicalShield": 41
         },
         {
             "id": 1019,
             "name": {
-                "id": "2240"
+                "id": "3845"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1019,
-            "maxHp": 210,
+            "maxHp": 107,
             "maxAp": 350,
             "visionRange": 24,
-            "pow": 60,
+            "pow": 38,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 40,
+            "physicalShield": 42,
+            "magicalShield": 43
         },
         {
             "id": 1020,
             "name": {
-                "id": "2241"
+                "id": "3846"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1020,
-            "maxHp": 210,
+            "maxHp": 200,
             "maxAp": 500,
             "visionRange": 24,
             "pow": 65,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 35,
+            "physicalShield": 36,
+            "magicalShield": 46
         },
         {
             "id": 1021,
             "name": {
-                "id": "2242"
+                "id": "3847"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1021,
-            "maxHp": 210,
+            "maxHp": 111,
             "maxAp": 350,
             "visionRange": 24,
-            "pow": 60,
+            "pow": 40,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 40,
+            "physicalShield": 44,
+            "magicalShield": 45
         },
         {
             "id": 1030,
             "name": {
-                "id": "2243"
+                "id": "3848"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1030,
@@ -436,18 +533,21 @@
             "pow": 50,
             "crit": 50,
             "critMult": 1500,
-            "armor": 60,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 35
         },
         {
             "id": 1031,
             "name": {
-                "id": "2244"
+                "id": "3849"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1031,
@@ -457,18 +557,21 @@
             "pow": 55,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 35
         },
         {
             "id": 1090,
             "name": {
-                "id": "2245"
+                "id": "3850"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1004,
@@ -478,18 +581,227 @@
             "pow": 60,
             "crit": 50,
             "critMult": 1500,
-            "armor": 50,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 35
+        },
+        {
+            "id": 1108,
+            "name": {
+                "id": "3835"
+            },
+            "description": {
+                "id": "3828"
+            },
+            "occupySize": 1,
+            "modelCode": 1008,
+            "maxHp": 86,
+            "maxAp": 300,
+            "visionRange": 24,
+            "pow": 45,
+            "crit": 50,
+            "critMult": 1500,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 20,
+            "physicalShield": 34,
+            "magicalShield": 34
+        },
+        {
+            "id": 1109,
+            "name": {
+                "id": "3836"
+            },
+            "description": {
+                "id": "3828"
+            },
+            "occupySize": 1,
+            "modelCode": 1009,
+            "maxHp": 96,
+            "maxAp": 500,
+            "visionRange": 24,
+            "pow": 38,
+            "crit": 50,
+            "critMult": 1500,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 10,
+            "physicalShield": 38,
+            "magicalShield": 40
+        },
+        {
+            "id": 1111,
+            "name": {
+                "id": "3838"
+            },
+            "description": {
+                "id": "3828"
+            },
+            "occupySize": 1,
+            "modelCode": 1011,
+            "maxHp": 110,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 37,
+            "crit": 50,
+            "critMult": 1500,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "suppressValue": 30,
+            "physicalShield": 46,
+            "magicalShield": 45
+        },
+        {
+            "id": 1115,
+            "name": {
+                "id": "3842"
+            },
+            "description": {
+                "id": "3828"
+            },
+            "occupySize": 1,
+            "modelCode": 1015,
+            "maxHp": 122,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 42,
+            "crit": 50,
+            "critMult": 1500,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "suppressValue": 30,
+            "physicalShield": 49,
+            "magicalShield": 48
+        },
+        {
+            "id": 1208,
+            "name": {
+                "id": "3835"
+            },
+            "description": {
+                "id": "3828"
+            },
+            "occupySize": 1,
+            "modelCode": 1008,
+            "maxHp": 86,
+            "maxAp": 300,
+            "visionRange": 24,
+            "pow": 45,
+            "crit": 50,
+            "critMult": 1500,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 20,
+            "physicalShield": 34,
+            "magicalShield": 34
+        },
+        {
+            "id": 1209,
+            "name": {
+                "id": "3836"
+            },
+            "description": {
+                "id": "3828"
+            },
+            "occupySize": 1,
+            "modelCode": 1009,
+            "maxHp": 220,
+            "maxAp": 500,
+            "visionRange": 24,
+            "pow": 50,
+            "crit": 50,
+            "critMult": 1500,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 10
+        },
+        {
+            "id": 1211,
+            "name": {
+                "id": "3838"
+            },
+            "description": {
+                "id": "3828"
+            },
+            "occupySize": 1,
+            "modelCode": 1011,
+            "maxHp": 110,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 37,
+            "crit": 50,
+            "critMult": 1500,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "suppressValue": 30,
+            "physicalShield": 46,
+            "magicalShield": 45
+        },
+        {
+            "id": 1215,
+            "name": {
+                "id": "3842"
+            },
+            "description": {
+                "id": "3828"
+            },
+            "occupySize": 1,
+            "modelCode": 1015,
+            "maxHp": 122,
+            "maxAp": 600,
+            "visionRange": 24,
+            "pow": 42,
+            "crit": 50,
+            "critMult": 1500,
+            "scratch": 100,
+            "breakGage": -1,
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 70,
+            "maxWillValue": 70,
+            "suppressValue": 30,
+            "physicalShield": 49,
+            "magicalShield": 48
         },
         {
             "id": 91004,
             "name": {
-                "id": "2246"
+                "id": "3851"
             },
             "description": {
-                "id": "2223"
+                "id": "3828"
             },
             "occupySize": 1,
             "modelCode": 1001,
@@ -499,10 +811,13 @@
             "pow": 65,
             "crit": 200,
             "critMult": 1500,
-            "armor": 45,
             "scratch": 100,
             "breakGage": -1,
-            "potentialGain": 1000
+            "potentialGain": 1000,
+            "potentialCost": 1000,
+            "willValue": 60,
+            "maxWillValue": 60,
+            "suppressValue": 35
         }
     ]
 }

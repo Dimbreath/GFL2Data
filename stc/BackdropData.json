@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "id": 21001,
+            "type": 1,
+            "detailId": 1001,
+            "idle": "c_CharolicSR_site3_idle",
+            "standby": "c_CharolicSR_site3_behave"
+        },
+        {
+            "id": 21008,
+            "type": 1,
+            "detailId": 1008,
+            "idle": "c_NemesisSR_site2_idle",
+            "standby": "c_NemesisSR_site2_behave"
+        },
+        {
+            "id": 21009,
+            "type": 1,
+            "detailId": 1009,
+            "idle": "c_ColphneSR_site4_idle",
+            "standby": "c_ColphneSR_site4_behave"
+        }
+    ]
+}

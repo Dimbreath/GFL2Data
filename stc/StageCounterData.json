@@ -213,6 +213,11 @@
             "maxValue": 20
         },
         {
+            "id": 4001,
+            "stageConfigId": 30309,
+            "maxValue": 4
+        },
+        {
             "id": 5025,
             "stageConfigId": 5025,
             "maxValue": 2
@@ -710,7 +715,7 @@
         {
             "id": 2013101,
             "stageConfigId": 20131,
-            "maxValue": 13
+            "maxValue": 11
         },
         {
             "id": 2013201,

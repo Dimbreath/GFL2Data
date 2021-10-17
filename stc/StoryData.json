@@ -3,11 +3,11 @@
         {
             "id": 101,
             "chapter": 1,
-            "stageId": 30201,
+            "stageId": 10101,
             "preId": 181,
             "position": "400,0",
             "name": {
-                "id": "4366"
+                "id": "142"
             },
             "icon": "icon_stagetest",
             "code": "1-1",
@@ -17,11 +17,11 @@
         {
             "id": 102,
             "chapter": 1,
-            "stageId": 30202,
+            "stageId": 10102,
             "preId": 101,
             "position": "800,0",
             "name": {
-                "id": "4367"
+                "id": "144"
             },
             "icon": "icon_stagetest",
             "code": "1-2",
@@ -31,11 +31,11 @@
         {
             "id": 103,
             "chapter": 1,
-            "stageId": 30203,
+            "stageId": 10103,
             "preId": 102,
             "position": "1200,0",
             "name": {
-                "id": "4368"
+                "id": "146"
             },
             "icon": "icon_stagetest",
             "code": "1-3",
@@ -45,11 +45,11 @@
         {
             "id": 104,
             "chapter": 1,
-            "stageId": 30204,
+            "stageId": 10104,
             "preId": 182,
             "position": "2000,0",
             "name": {
-                "id": "4369"
+                "id": "148"
             },
             "icon": "icon_stagetest",
             "code": "1-4",
@@ -59,11 +59,11 @@
         {
             "id": 105,
             "chapter": 1,
-            "stageId": 30205,
+            "stageId": 10105,
             "preId": 104,
             "position": "2400,0",
             "name": {
-                "id": "4370"
+                "id": "149"
             },
             "icon": "icon_stagetest",
             "code": "1-5",
@@ -73,11 +73,11 @@
         {
             "id": 106,
             "chapter": 1,
-            "stageId": 30206,
+            "stageId": 10106,
             "preId": 183,
             "position": "3200,0",
             "name": {
-                "id": "4371"
+                "id": "151"
             },
             "icon": "icon_stagetest",
             "code": "1-6",
@@ -87,11 +87,11 @@
         {
             "id": 107,
             "chapter": 1,
-            "stageId": 30207,
+            "stageId": 10107,
             "preId": 184,
             "position": "4000,0",
             "name": {
-                "id": "4372"
+                "id": "152"
             },
             "icon": "icon_stagetest",
             "code": "1-7",
@@ -101,11 +101,11 @@
         {
             "id": 108,
             "chapter": 1,
-            "stageId": 30208,
+            "stageId": 10108,
             "preId": 107,
             "position": "4400,0",
             "name": {
-                "id": "4373"
+                "id": "153"
             },
             "icon": "icon_stagetest",
             "code": "1-8",
@@ -115,11 +115,11 @@
         {
             "id": 109,
             "chapter": 1,
-            "stageId": 30209,
+            "stageId": 10109,
             "preId": 108,
             "position": "4800,0",
             "name": {
-                "id": "4374"
+                "id": "154"
             },
             "icon": "icon_stagetest",
             "code": "1-9",
@@ -129,11 +129,11 @@
         {
             "id": 110,
             "chapter": 1,
-            "stageId": 30210,
+            "stageId": 10110,
             "preId": 109,
             "position": "5200,0",
             "name": {
-                "id": "4375"
+                "id": "155"
             },
             "icon": "icon_stagetest",
             "code": "1-10",
@@ -141,70 +141,150 @@
             "startPoint": 2
         },
         {
+            "id": 141,
+            "chapter": 1,
+            "stageId": 10141,
+            "preId": 105,
+            "position": "2850,-150",
+            "name": {
+                "id": "156"
+            },
+            "icon": "icon_stagetest",
+            "code": "S1-1",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 142,
+            "chapter": 1,
+            "stageId": 10142,
+            "preId": 141,
+            "position": "3250,-150",
+            "name": {
+                "id": "157"
+            },
+            "icon": "icon_stagetest",
+            "code": "S1-2",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 143,
+            "chapter": 1,
+            "stageId": 10143,
+            "preId": 184,
+            "position": "4050,150",
+            "name": {
+                "id": "158"
+            },
+            "icon": "icon_stagetest",
+            "code": "S1-3",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 144,
+            "chapter": 1,
+            "stageId": 10144,
+            "preId": 143,
+            "position": "4450,150",
+            "name": {
+                "id": "159"
+            },
+            "icon": "icon_stagetest",
+            "code": "S1-4",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 145,
+            "chapter": 1,
+            "stageId": 10145,
+            "preId": 108,
+            "position": "4850,-150",
+            "name": {
+                "id": "160"
+            },
+            "icon": "icon_stagetest",
+            "code": "S1-5",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 146,
+            "chapter": 1,
+            "stageId": 10146,
+            "preId": 145,
+            "position": "5250,-150",
+            "name": {
+                "id": "161"
+            },
+            "icon": "icon_stagetest",
+            "code": "S1-6",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
             "id": 181,
             "chapter": 1,
-            "stageId": 10111,
+            "stageId": 10181,
             "position": "0,0",
             "name": {
-                "id": "4376"
+                "id": "162"
             },
             "icon": "icon_stagetest",
             "code": "avg1",
-            "type": 2,
-            "cover": "mainline_storyimg_01"
+            "type": 2
         },
         {
             "id": 182,
             "chapter": 1,
-            "stageId": 10112,
+            "stageId": 10182,
             "preId": 103,
             "position": "1600,0",
             "name": {
-                "id": "4377"
+                "id": "163"
             },
             "icon": "icon_stagetest",
             "code": "avg2",
             "type": 2,
-            "cover": "mainline_storyimg_01",
             "startPoint": 2
         },
         {
             "id": 183,
             "chapter": 1,
-            "stageId": 10113,
+            "stageId": 10183,
             "preId": 105,
             "position": "2800,0",
             "name": {
-                "id": "4378"
+                "id": "164"
             },
             "icon": "icon_stagetest",
             "code": "avg3",
             "type": 2,
-            "cover": "mainline_storyimg_01",
             "startPoint": 2
         },
         {
             "id": 184,
             "chapter": 1,
-            "stageId": 10114,
+            "stageId": 10184,
             "preId": 106,
             "position": "3600,0",
             "name": {
-                "id": "4379"
+                "id": "165"
             },
             "icon": "icon_stagetest",
             "code": "avg4",
             "type": 2,
-            "cover": "mainline_storyimg_01",
             "startPoint": 2
         },
         {
             "id": 201,
             "chapter": 2,
-            "stageId": 30211,
+            "stageId": 10201,
             "position": "0,0",
             "name": {
-                "id": "4380"
+                "id": "166"
             },
             "icon": "icon_stagetest",
             "code": "2-1",
@@ -213,11 +293,11 @@
         {
             "id": 202,
             "chapter": 2,
-            "stageId": 30212,
+            "stageId": 10202,
             "preId": 201,
             "position": "400,0",
             "name": {
-                "id": "4381"
+                "id": "167"
             },
             "icon": "icon_stagetest",
             "code": "2-2",
@@ -227,11 +307,11 @@
         {
             "id": 203,
             "chapter": 2,
-            "stageId": 30213,
+            "stageId": 10203,
             "preId": 202,
             "position": "800,0",
             "name": {
-                "id": "4382"
+                "id": "168"
             },
             "icon": "icon_stagetest",
             "code": "2-3",
@@ -241,11 +321,11 @@
         {
             "id": 204,
             "chapter": 2,
-            "stageId": 30214,
+            "stageId": 10204,
             "preId": 203,
             "position": "1200,0",
             "name": {
-                "id": "4383"
+                "id": "169"
             },
             "icon": "icon_stagetest",
             "code": "2-4",
@@ -255,11 +335,11 @@
         {
             "id": 205,
             "chapter": 2,
-            "stageId": 30215,
+            "stageId": 10205,
             "preId": 204,
             "position": "1600,0",
             "name": {
-                "id": "4384"
+                "id": "170"
             },
             "icon": "icon_stagetest",
             "code": "2-5",
@@ -269,11 +349,11 @@
         {
             "id": 206,
             "chapter": 2,
-            "stageId": 30216,
+            "stageId": 10206,
             "preId": 205,
             "position": "2000,0",
             "name": {
-                "id": "4385"
+                "id": "171"
             },
             "icon": "icon_stagetest",
             "code": "2-6",
@@ -283,11 +363,11 @@
         {
             "id": 207,
             "chapter": 2,
-            "stageId": 30217,
+            "stageId": 10207,
             "preId": 206,
             "position": "2400,0",
             "name": {
-                "id": "4386"
+                "id": "172"
             },
             "icon": "icon_stagetest",
             "code": "2-7",
@@ -297,11 +377,11 @@
         {
             "id": 208,
             "chapter": 2,
-            "stageId": 30218,
+            "stageId": 10208,
             "preId": 207,
             "position": "2800,0",
             "name": {
-                "id": "4387"
+                "id": "173"
             },
             "icon": "icon_stagetest",
             "code": "2-8",
@@ -311,11 +391,11 @@
         {
             "id": 209,
             "chapter": 2,
-            "stageId": 30219,
+            "stageId": 10209,
             "preId": 208,
             "position": "3200,0",
             "name": {
-                "id": "4388"
+                "id": "174"
             },
             "icon": "icon_stagetest",
             "code": "2-9",
@@ -325,11 +405,11 @@
         {
             "id": 210,
             "chapter": 2,
-            "stageId": 30220,
+            "stageId": 10210,
             "preId": 209,
             "position": "3600,0",
             "name": {
-                "id": "4389"
+                "id": "175"
             },
             "icon": "icon_stagetest",
             "code": "2-10",
@@ -337,40 +417,96 @@
             "startPoint": 2
         },
         {
-            "id": 211,
+            "id": 241,
             "chapter": 2,
-            "stageId": 25311,
-            "preId": 210,
-            "position": "4000,0",
+            "stageId": 10241,
+            "preId": 201,
+            "position": "450,-150",
             "name": {
-                "id": "4390"
+                "id": "176"
             },
             "icon": "icon_stagetest",
-            "code": "2-11",
-            "type": 1,
+            "code": "S2-1",
+            "type": 11,
             "startPoint": 2
         },
         {
-            "id": 212,
+            "id": 242,
             "chapter": 2,
-            "stageId": 25312,
-            "preId": 211,
-            "position": "4400,0",
+            "stageId": 10242,
+            "preId": 241,
+            "position": "850,-150",
             "name": {
-                "id": "4391"
+                "id": "177"
             },
             "icon": "icon_stagetest",
-            "code": "2-12",
-            "type": 1,
+            "code": "S2-2",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 243,
+            "chapter": 2,
+            "stageId": 10243,
+            "preId": 204,
+            "position": "1650,150",
+            "name": {
+                "id": "178"
+            },
+            "icon": "icon_stagetest",
+            "code": "S2-3",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 244,
+            "chapter": 2,
+            "stageId": 10244,
+            "preId": 243,
+            "position": "2050,150",
+            "name": {
+                "id": "179"
+            },
+            "icon": "icon_stagetest",
+            "code": "S2-4",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 245,
+            "chapter": 2,
+            "stageId": 10245,
+            "preId": 210,
+            "position": "3850,-150",
+            "name": {
+                "id": "180"
+            },
+            "icon": "icon_stagetest",
+            "code": "S2-5",
+            "type": 11,
+            "startPoint": 3
+        },
+        {
+            "id": 246,
+            "chapter": 2,
+            "stageId": 10246,
+            "preId": 245,
+            "position": "4250,-150",
+            "name": {
+                "id": "181"
+            },
+            "icon": "icon_stagetest",
+            "code": "S2-6",
+            "type": 11,
             "startPoint": 2
         },
         {
             "id": 301,
             "chapter": 3,
-            "stageId": 30221,
+            "stageId": 10301,
             "position": "0,0",
             "name": {
-                "id": "4392"
+                "id": "182"
             },
             "icon": "icon_stagetest",
             "code": "3-1",
@@ -379,11 +515,11 @@
         {
             "id": 302,
             "chapter": 3,
-            "stageId": 30222,
+            "stageId": 10302,
             "preId": 301,
             "position": "400,0",
             "name": {
-                "id": "4393"
+                "id": "183"
             },
             "icon": "icon_stagetest",
             "code": "3-2",
@@ -393,11 +529,11 @@
         {
             "id": 303,
             "chapter": 3,
-            "stageId": 30223,
+            "stageId": 10303,
             "preId": 302,
             "position": "800,0",
             "name": {
-                "id": "4394"
+                "id": "184"
             },
             "icon": "icon_stagetest",
             "code": "3-3",
@@ -407,11 +543,11 @@
         {
             "id": 304,
             "chapter": 3,
-            "stageId": 30224,
+            "stageId": 10304,
             "preId": 303,
             "position": "1200,0",
             "name": {
-                "id": "4395"
+                "id": "185"
             },
             "icon": "icon_stagetest",
             "code": "3-4",
@@ -421,11 +557,11 @@
         {
             "id": 305,
             "chapter": 3,
-            "stageId": 30225,
+            "stageId": 10305,
             "preId": 304,
             "position": "1600,0",
             "name": {
-                "id": "4396"
+                "id": "187"
             },
             "icon": "icon_stagetest",
             "code": "3-5",
@@ -435,11 +571,11 @@
         {
             "id": 306,
             "chapter": 3,
-            "stageId": 30226,
+            "stageId": 10306,
             "preId": 305,
             "position": "2000,0",
             "name": {
-                "id": "4397"
+                "id": "188"
             },
             "icon": "icon_stagetest",
             "code": "3-6",
@@ -449,11 +585,11 @@
         {
             "id": 307,
             "chapter": 3,
-            "stageId": 30227,
+            "stageId": 10307,
             "preId": 306,
             "position": "2400,0",
             "name": {
-                "id": "4398"
+                "id": "191"
             },
             "icon": "icon_stagetest",
             "code": "3-7",
@@ -463,11 +599,11 @@
         {
             "id": 308,
             "chapter": 3,
-            "stageId": 30228,
+            "stageId": 10308,
             "preId": 307,
             "position": "2800,0",
             "name": {
-                "id": "4399"
+                "id": "194"
             },
             "icon": "icon_stagetest",
             "code": "3-8",
@@ -477,11 +613,11 @@
         {
             "id": 309,
             "chapter": 3,
-            "stageId": 30229,
+            "stageId": 10309,
             "preId": 308,
             "position": "3200,0",
             "name": {
-                "id": "4400"
+                "id": "197"
             },
             "icon": "icon_stagetest",
             "code": "3-9",
@@ -491,16 +627,614 @@
         {
             "id": 310,
             "chapter": 3,
-            "stageId": 30230,
+            "stageId": 10310,
             "preId": 309,
             "position": "3600,0",
             "name": {
-                "id": "4401"
+                "id": "198"
             },
             "icon": "icon_stagetest",
             "code": "3-10",
             "type": 1,
             "startPoint": 2
+        },
+        {
+            "id": 341,
+            "chapter": 3,
+            "stageId": 10341,
+            "preId": 303,
+            "position": "1250,-150",
+            "name": {
+                "id": "201"
+            },
+            "icon": "icon_stagetest",
+            "code": "S3-1",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 342,
+            "chapter": 3,
+            "stageId": 10342,
+            "preId": 341,
+            "position": "1650,-150",
+            "name": {
+                "id": "204"
+            },
+            "icon": "icon_stagetest",
+            "code": "S3-2",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 343,
+            "chapter": 3,
+            "stageId": 10343,
+            "preId": 342,
+            "position": "2050,-150",
+            "name": {
+                "id": "206"
+            },
+            "icon": "icon_stagetest",
+            "code": "S3-3",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 344,
+            "chapter": 3,
+            "stageId": 10344,
+            "preId": 307,
+            "position": "2850,150",
+            "name": {
+                "id": "207"
+            },
+            "icon": "icon_stagetest",
+            "code": "S3-4",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 345,
+            "chapter": 3,
+            "stageId": 10345,
+            "preId": 344,
+            "position": "3250,150",
+            "name": {
+                "id": "209"
+            },
+            "icon": "icon_stagetest",
+            "code": "S3-5",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 346,
+            "chapter": 3,
+            "stageId": 10346,
+            "preId": 345,
+            "position": "3650,150",
+            "name": {
+                "id": "210"
+            },
+            "icon": "icon_stagetest",
+            "code": "S3-6",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 401,
+            "chapter": 4,
+            "stageId": 10401,
+            "position": "0,0",
+            "name": {
+                "id": "211"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-1",
+            "type": 1
+        },
+        {
+            "id": 402,
+            "chapter": 4,
+            "stageId": 10402,
+            "preId": 401,
+            "position": "400,0",
+            "name": {
+                "id": "212"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-2",
+            "type": 1,
+            "startPoint": 2
+        },
+        {
+            "id": 403,
+            "chapter": 4,
+            "stageId": 10403,
+            "preId": 402,
+            "position": "800,0",
+            "name": {
+                "id": "213"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-3",
+            "type": 1,
+            "startPoint": 2
+        },
+        {
+            "id": 404,
+            "chapter": 4,
+            "stageId": 10404,
+            "preId": 403,
+            "position": "1200,0",
+            "name": {
+                "id": "214"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-4",
+            "type": 1,
+            "startPoint": 2
+        },
+        {
+            "id": 405,
+            "chapter": 4,
+            "stageId": 10405,
+            "preId": 404,
+            "position": "1600,0",
+            "name": {
+                "id": "215"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-5",
+            "type": 1,
+            "startPoint": 2
+        },
+        {
+            "id": 406,
+            "chapter": 4,
+            "stageId": 10406,
+            "preId": 405,
+            "position": "2000,0",
+            "name": {
+                "id": "216"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-6",
+            "type": 1,
+            "startPoint": 2
+        },
+        {
+            "id": 407,
+            "chapter": 4,
+            "stageId": 10407,
+            "preId": 406,
+            "position": "2400,0",
+            "name": {
+                "id": "217"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-7",
+            "type": 1,
+            "startPoint": 2
+        },
+        {
+            "id": 408,
+            "chapter": 4,
+            "stageId": 10408,
+            "preId": 407,
+            "position": "2800,0",
+            "name": {
+                "id": "218"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-8",
+            "type": 1,
+            "startPoint": 2
+        },
+        {
+            "id": 409,
+            "chapter": 4,
+            "stageId": 10409,
+            "preId": 408,
+            "position": "3200,0",
+            "name": {
+                "id": "219"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-9",
+            "type": 1,
+            "startPoint": 2
+        },
+        {
+            "id": 410,
+            "chapter": 4,
+            "stageId": 10410,
+            "preId": 409,
+            "position": "3600,0",
+            "name": {
+                "id": "220"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-10",
+            "type": 1,
+            "startPoint": 2
+        },
+        {
+            "id": 441,
+            "chapter": 4,
+            "stageId": 10441,
+            "preId": 404,
+            "position": "1650,-150",
+            "name": {
+                "id": "221"
+            },
+            "icon": "icon_stagetest",
+            "code": "S4-1",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 442,
+            "chapter": 4,
+            "stageId": 10442,
+            "preId": 441,
+            "position": "2050,-150",
+            "name": {
+                "id": "222"
+            },
+            "icon": "icon_stagetest",
+            "code": "S4-2",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 443,
+            "chapter": 4,
+            "stageId": 10443,
+            "preId": 442,
+            "position": "2450,-150",
+            "name": {
+                "id": "223"
+            },
+            "icon": "icon_stagetest",
+            "code": "S4-3",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 444,
+            "chapter": 4,
+            "stageId": 10444,
+            "preId": 408,
+            "position": "3250,150",
+            "name": {
+                "id": "224"
+            },
+            "icon": "icon_stagetest",
+            "code": "S4-4",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 445,
+            "chapter": 4,
+            "stageId": 10445,
+            "preId": 444,
+            "position": "3650,150",
+            "name": {
+                "id": "225"
+            },
+            "icon": "icon_stagetest",
+            "code": "S4-5",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 446,
+            "chapter": 4,
+            "stageId": 10446,
+            "preId": 445,
+            "position": "4050,150",
+            "name": {
+                "id": "226"
+            },
+            "icon": "icon_stagetest",
+            "code": "S4-6",
+            "type": 11,
+            "startPoint": 2
+        },
+        {
+            "id": 10101,
+            "chapter": 101,
+            "stageId": 10161,
+            "position": "0,0",
+            "name": {
+                "id": "142"
+            },
+            "icon": "icon_stagetest",
+            "code": "1-1",
+            "type": 4,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10102,
+            "chapter": 101,
+            "stageId": 10162,
+            "preId": 10101,
+            "position": "400,0",
+            "name": {
+                "id": "144"
+            },
+            "icon": "icon_stagetest",
+            "code": "1-2",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10103,
+            "chapter": 101,
+            "stageId": 10163,
+            "preId": 10102,
+            "position": "800,0",
+            "name": {
+                "id": "146"
+            },
+            "icon": "icon_stagetest",
+            "code": "1-3",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10104,
+            "chapter": 101,
+            "stageId": 10164,
+            "preId": 10103,
+            "position": "1200,0",
+            "name": {
+                "id": "148"
+            },
+            "icon": "icon_stagetest",
+            "code": "1-4",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10105,
+            "chapter": 101,
+            "stageId": 10165,
+            "preId": 10104,
+            "position": "1600,0",
+            "name": {
+                "id": "149"
+            },
+            "icon": "icon_stagetest",
+            "code": "1-5",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10201,
+            "chapter": 102,
+            "stageId": 10261,
+            "position": "0,0",
+            "name": {
+                "id": "166"
+            },
+            "icon": "icon_stagetest",
+            "code": "2-1",
+            "type": 4,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10202,
+            "chapter": 102,
+            "stageId": 10262,
+            "preId": 10201,
+            "position": "400,0",
+            "name": {
+                "id": "167"
+            },
+            "icon": "icon_stagetest",
+            "code": "2-2",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10203,
+            "chapter": 102,
+            "stageId": 10263,
+            "preId": 10202,
+            "position": "800,0",
+            "name": {
+                "id": "168"
+            },
+            "icon": "icon_stagetest",
+            "code": "2-3",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10204,
+            "chapter": 102,
+            "stageId": 10264,
+            "preId": 10203,
+            "position": "1200,0",
+            "name": {
+                "id": "169"
+            },
+            "icon": "icon_stagetest",
+            "code": "2-4",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10205,
+            "chapter": 102,
+            "stageId": 10265,
+            "preId": 10204,
+            "position": "1600,0",
+            "name": {
+                "id": "170"
+            },
+            "icon": "icon_stagetest",
+            "code": "2-5",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10301,
+            "chapter": 103,
+            "stageId": 10361,
+            "position": "0,0",
+            "name": {
+                "id": "182"
+            },
+            "icon": "icon_stagetest",
+            "code": "3-1",
+            "type": 4,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10302,
+            "chapter": 103,
+            "stageId": 10362,
+            "preId": 10301,
+            "position": "400,0",
+            "name": {
+                "id": "183"
+            },
+            "icon": "icon_stagetest",
+            "code": "3-2",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10303,
+            "chapter": 103,
+            "stageId": 10363,
+            "preId": 10302,
+            "position": "800,0",
+            "name": {
+                "id": "184"
+            },
+            "icon": "icon_stagetest",
+            "code": "3-3",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10304,
+            "chapter": 103,
+            "stageId": 10364,
+            "preId": 10303,
+            "position": "1200,0",
+            "name": {
+                "id": "185"
+            },
+            "icon": "icon_stagetest",
+            "code": "3-4",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10305,
+            "chapter": 103,
+            "stageId": 10365,
+            "preId": 10304,
+            "position": "1600,0",
+            "name": {
+                "id": "187"
+            },
+            "icon": "icon_stagetest",
+            "code": "3-5",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10401,
+            "chapter": 104,
+            "stageId": 10461,
+            "position": "0,0",
+            "name": {
+                "id": "211"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-1",
+            "type": 4,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10402,
+            "chapter": 104,
+            "stageId": 10462,
+            "preId": 10401,
+            "position": "400,0",
+            "name": {
+                "id": "212"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-2",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10403,
+            "chapter": 104,
+            "stageId": 10463,
+            "preId": 10402,
+            "position": "800,0",
+            "name": {
+                "id": "213"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-3",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10404,
+            "chapter": 104,
+            "stageId": 10464,
+            "preId": 10403,
+            "position": "1200,0",
+            "name": {
+                "id": "214"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-4",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
+        },
+        {
+            "id": 10405,
+            "chapter": 104,
+            "stageId": 10465,
+            "preId": 10404,
+            "position": "1600,0",
+            "name": {
+                "id": "215"
+            },
+            "icon": "icon_stagetest",
+            "code": "4-5",
+            "type": 4,
+            "startPoint": 2,
+            "dailyTimes": 3
         }
     ]
 }

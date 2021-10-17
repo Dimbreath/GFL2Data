@@ -8,10 +8,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4321"
+                "id": "359"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "Vector_Normal",
@@ -26,10 +26,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4323"
+                "id": "361"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "Vector_Normal",
@@ -43,10 +43,10 @@
             "costumeType": 2,
             "icon": "Skin_0001",
             "name": {
-                "id": "4325"
+                "id": "363"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1002,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -61,10 +61,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4326"
+                "id": "364"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1002,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -78,10 +78,10 @@
             "costumeType": 2,
             "icon": "Skin_0001",
             "name": {
-                "id": "4327"
+                "id": "365"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1003,
             "victoryPerformanceTimeline": "PP90_Normal",
@@ -96,10 +96,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4328"
+                "id": "366"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1002,
             "victoryPerformanceTimeline": "PP90_Normal",
@@ -113,10 +113,10 @@
             "costumeType": 2,
             "icon": "Skin_0001",
             "name": {
-                "id": "4329"
+                "id": "367"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1004,
             "victoryPerformanceTimeline": "Springfield_Normal",
@@ -131,10 +131,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4330"
+                "id": "368"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "Springfield_Normal",
@@ -148,12 +148,12 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4331"
+                "id": "369"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
-            "modelConfigId": 1016,
+            "modelConfigId": 1005,
             "victoryPerformanceTimeline": "HK416_Normal",
             "victoryPerformanceOffset": "0,0,0"
         },
@@ -166,10 +166,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4332"
+                "id": "370"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -183,12 +183,12 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4333"
+                "id": "371"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
-            "modelConfigId": 1008,
+            "modelConfigId": 1006,
             "victoryPerformanceTimeline": "HK416_Normal",
             "victoryPerformanceOffset": "0,0,0"
         },
@@ -201,10 +201,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4334"
+                "id": "372"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -218,10 +218,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4335"
+                "id": "373"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1007,
             "victoryPerformanceTimeline": "561_Normal",
@@ -236,10 +236,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4336"
+                "id": "374"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "561_Normal",
@@ -253,10 +253,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4337"
+                "id": "375"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1008,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -271,10 +271,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4338"
+                "id": "376"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -288,12 +288,12 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4339"
+                "id": "377"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
-            "modelConfigId": 1002,
+            "modelConfigId": 1009,
             "victoryPerformanceTimeline": "MG5_Normal",
             "victoryPerformanceOffset": "0,0,0"
         },
@@ -306,10 +306,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4340"
+                "id": "378"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "MG5_Normal",
@@ -323,10 +323,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4341"
+                "id": "379"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1011,
             "victoryPerformanceTimeline": "Welrod_Normal",
@@ -341,10 +341,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4342"
+                "id": "380"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "Welrod_Normal",
@@ -358,10 +358,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4343"
+                "id": "381"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1011,
             "victoryPerformanceTimeline": "Vector_Normal",
@@ -376,10 +376,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4344"
+                "id": "382"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -393,12 +393,12 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4345"
+                "id": "383"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
-            "modelConfigId": 1002,
+            "modelConfigId": 1012,
             "victoryPerformanceTimeline": "Vector_Normal",
             "victoryPerformanceOffset": "0,0,0"
         },
@@ -411,10 +411,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4346"
+                "id": "384"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -428,10 +428,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4347"
+                "id": "385"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1020,
             "victoryPerformanceTimeline": "Vector_Normal",
@@ -446,10 +446,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4348"
+                "id": "386"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "M99_Normal",
@@ -463,12 +463,12 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4349"
+                "id": "387"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
-            "modelConfigId": 1019,
+            "modelConfigId": 1014,
             "victoryPerformanceTimeline": "Vector_Normal",
             "victoryPerformanceOffset": "0,0,0"
         },
@@ -481,10 +481,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4350"
+                "id": "388"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "6P62_Normal",
@@ -498,12 +498,12 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4351"
+                "id": "389"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
-            "modelConfigId": 1011,
+            "modelConfigId": 1015,
             "victoryPerformanceTimeline": "Vector_Normal",
             "victoryPerformanceOffset": "0,0,0"
         },
@@ -516,10 +516,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4352"
+                "id": "390"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "M1887_Normal",
@@ -533,10 +533,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4353"
+                "id": "391"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1016,
             "victoryPerformanceTimeline": "Vector_Normal",
@@ -551,10 +551,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4354"
+                "id": "392"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "Saiga12_Normal",
@@ -568,10 +568,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4355"
+                "id": "393"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1017,
             "victoryPerformanceTimeline": "Vector_Normal",
@@ -586,10 +586,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4356"
+                "id": "394"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "Klin_Normal",
@@ -603,10 +603,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4357"
+                "id": "395"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1018,
             "victoryPerformanceTimeline": "Vector_Normal",
@@ -620,10 +620,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4358"
+                "id": "396"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1019,
             "victoryPerformanceTimeline": "Vector_Normal",
@@ -637,10 +637,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4359"
+                "id": "397"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1020,
             "victoryPerformanceTimeline": "Vector_Normal",
@@ -654,12 +654,12 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4360"
+                "id": "398"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
-            "modelConfigId": 1019,
+            "modelConfigId": 1021,
             "victoryPerformanceTimeline": "Vector_Normal",
             "victoryPerformanceOffset": "0,0,0"
         },
@@ -671,10 +671,10 @@
             "costumeType": 1,
             "icon": "Skin_0001",
             "name": {
-                "id": "4325"
+                "id": "363"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1030,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -688,10 +688,10 @@
             "costumeType": 2,
             "icon": "Skin_0001",
             "name": {
-                "id": "4325"
+                "id": "363"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1031,
             "victoryPerformanceTimeline": "HK416_Normal",
@@ -699,53 +699,19 @@
         },
         {
             "id": 1109000,
-            "gunId": 1004,
+            "gunId": 1090,
             "detailId": 1090,
             "type": "Gun",
             "costumeType": 2,
             "icon": "Skin_0001",
             "name": {
-                "id": "4329"
+                "id": "367"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "Springfield_Normal",
-            "victoryPerformanceOffset": "0,0,0"
-        },
-        {
-            "id": 1190100,
-            "gunId": 1901,
-            "detailId": 1901,
-            "type": "Gun",
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": {
-                "id": "4361"
-            },
-            "description": {
-                "id": "4322"
-            },
-            "modelConfigId": 5001,
-            "victoryPerformanceTimeline": "Saiga12_Normal",
-            "victoryPerformanceOffset": "0,0,0"
-        },
-        {
-            "id": 1190200,
-            "gunId": 1902,
-            "detailId": 1902,
-            "type": "Gun",
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": {
-                "id": "4362"
-            },
-            "description": {
-                "id": "4322"
-            },
-            "modelConfigId": 5001,
-            "victoryPerformanceTimeline": "Klin_Normal",
             "victoryPerformanceOffset": "0,0,0"
         },
         {
@@ -756,10 +722,10 @@
             "costumeType": 2,
             "icon": "Skin_0001",
             "name": {
-                "id": "4363"
+                "id": "399"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 1002,
             "victoryPerformanceOffset": "0,0,0"
@@ -773,10 +739,10 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": {
-                "id": "4364"
+                "id": "400"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1002,
             "victoryPerformanceOffset": "0,0,0"
@@ -789,10 +755,10 @@
             "costumeType": 2,
             "icon": "Skin_0001",
             "name": {
-                "id": "4365"
+                "id": "401"
             },
             "description": {
-                "id": "4322"
+                "id": "360"
             },
             "modelConfigId": 4001,
             "victoryPerformanceOffset": "0,0,0"
@@ -805,10 +771,10 @@
             "costumeType": 2,
             "icon": "Skin_0001",
             "name": {
-                "id": "4346"
+                "id": "384"
             },
             "description": {
-                "id": "4324"
+                "id": "362"
             },
             "modelConfigId": 1001,
             "victoryPerformanceTimeline": "HK416_Normal",

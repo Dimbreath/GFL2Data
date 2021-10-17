@@ -3,14 +3,14 @@
         {
             "id": 1,
             "name": {
-                "id": "469"
+                "id": "4004"
             },
             "enName": "skill_assistant"
         },
         {
             "id": 2,
             "name": {
-                "id": "470"
+                "id": "4005"
             },
             "enName": "skill_super_awake"
         }

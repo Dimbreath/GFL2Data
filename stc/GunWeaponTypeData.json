@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+            "typeId": 1,
+            "name": {
+                "id": "6375"
+            },
+            "abbr": {
+                "id": "6376"
+            },
+            "description": {
+                "id": "6377"
+            },
+            "icon": "Icon_Weapon_HG"
+        },
+        {
+            "typeId": 2,
+            "name": {
+                "id": "6378"
+            },
+            "abbr": {
+                "id": "6379"
+            },
+            "description": {
+                "id": "6377"
+            },
+            "icon": "Icon_Weapon_SMG"
+        },
+        {
+            "typeId": 3,
+            "name": {
+                "id": "6380"
+            },
+            "abbr": {
+                "id": "6381"
+            },
+            "description": {
+                "id": "6377"
+            },
+            "icon": "Icon_Weapon_RF"
+        },
+        {
+            "typeId": 4,
+            "name": {
+                "id": "6382"
+            },
+            "abbr": {
+                "id": "6383"
+            },
+            "description": {
+                "id": "6377"
+            },
+            "icon": "Icon_Weapon_AR"
+        },
+        {
+            "typeId": 5,
+            "name": {
+                "id": "6384"
+            },
+            "abbr": {
+                "id": "6385"
+            },
+            "description": {
+                "id": "6377"
+            },
+            "icon": "Icon_Weapon_MG"
+        },
+        {
+            "typeId": 6,
+            "name": {
+                "id": "6386"
+            },
+            "abbr": {
+                "id": "6387"
+            },
+            "description": {
+                "id": "6377"
+            },
+            "icon": "Icon_Weapon_SG"
+        },
+        {
+            "typeId": 7,
+            "name": {
+                "id": "6388"
+            },
+            "abbr": {
+                "id": "6389"
+            },
+            "description": {
+                "id": "6377"
+            },
+            "icon": "Icon_Weapon_BLD"
+        },
+        {
+            "typeId": 8,
+            "name": {
+                "id": "6390"
+            },
+            "abbr": {
+                "id": "6391"
+            },
+            "description": {
+                "id": "6377"
+            },
+            "icon": "Icon_Weapon_BLD"
+        }
+    ]
+}

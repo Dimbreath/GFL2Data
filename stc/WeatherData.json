@@ -3,20 +3,20 @@
         {
             "id": 1,
             "name": {
-                "id": "4890"
+                "id": "8298"
             },
             "intro": {
-                "id": "4890"
+                "id": "8298"
             },
             "icon": "Campaign_BattleInfo_Icon_Weather_Nothing"
         },
         {
             "id": 2,
             "name": {
-                "id": "4891"
+                "id": "8299"
             },
             "intro": {
-                "id": "4892"
+                "id": "8300"
             },
             "icon": "Campaign_BattleInfo_Icon_Weather_Sun",
             "battleSkill": 2002
@@ -24,10 +24,10 @@
         {
             "id": 3,
             "name": {
-                "id": "4893"
+                "id": "8301"
             },
             "intro": {
-                "id": "4894"
+                "id": "8302"
             },
             "icon": "Campaign_BattleInfo_Icon_Weather_Fog",
             "battleSkill": 2003
@@ -35,10 +35,10 @@
         {
             "id": 4,
             "name": {
-                "id": "4895"
+                "id": "8303"
             },
             "intro": {
-                "id": "4896"
+                "id": "8304"
             },
             "icon": "Campaign_BattleInfo_Icon_Weather_Rain",
             "battleSkill": 2004,
@@ -47,10 +47,10 @@
         {
             "id": 5,
             "name": {
-                "id": "4897"
+                "id": "8305"
             },
             "intro": {
-                "id": "4898"
+                "id": "8306"
             },
             "icon": "Campaign_BattleInfo_Icon_Weather_HeavyRain",
             "battleSkill": 2005,
@@ -59,10 +59,10 @@
         {
             "id": 6,
             "name": {
-                "id": "4899"
+                "id": "8307"
             },
             "intro": {
-                "id": "4900"
+                "id": "8308"
             },
             "icon": "Campaign_BattleInfo_Icon_Weather_Snow",
             "battleSkill": 2006,
@@ -71,10 +71,10 @@
         {
             "id": 7,
             "name": {
-                "id": "4901"
+                "id": "8309"
             },
             "intro": {
-                "id": "4898"
+                "id": "8306"
             },
             "icon": "Campaign_BattleInfo_Icon_Weather_HeavySnow",
             "battleSkill": 2007,
@@ -83,10 +83,10 @@
         {
             "id": 11,
             "name": {
-                "id": "4902"
+                "id": "8310"
             },
             "intro": {
-                "id": "4903"
+                "id": "8311"
             },
             "battleSkill": 10001
         }

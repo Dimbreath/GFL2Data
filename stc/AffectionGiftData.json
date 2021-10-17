@@ -3,50 +3,50 @@
         {
             "id": 1,
             "name": {
-                "id": "3410"
+                "id": "5422"
             },
             "rank": 1,
             "icon": "Gift_Temp",
             "introduction": {
-                "id": "3411"
+                "id": "5423"
             },
             "likeCharacter": "1,2",
             "dislikeCharacter": "3,4",
             "affectionValue": "10,0,0,0",
             "effectPreview": {
-                "id": "3412"
+                "id": "5424"
             }
         },
         {
             "id": 2,
             "name": {
-                "id": "3413"
+                "id": "5425"
             },
             "rank": 3,
             "icon": "Gift_Temp",
             "introduction": {
-                "id": "3414"
+                "id": "5426"
             },
             "likeCharacter": "3,4",
             "affectionValue": "0,20,0,10",
             "effectPreview": {
-                "id": "3415"
+                "id": "5427"
             }
         },
         {
             "id": 3,
             "name": {
-                "id": "3416"
+                "id": "5428"
             },
             "rank": 5,
             "icon": "Gift_Temp",
             "introduction": {
-                "id": "3417"
+                "id": "5429"
             },
             "dislikeCharacter": "3",
             "affectionValue": "100,100,100,100",
             "effectPreview": {
-                "id": "3418"
+                "id": "5430"
             }
         }
     ]

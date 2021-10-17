@@ -8,16 +8,329 @@
                 "",
                 ""
             ],
+            "summonSkillList": [
+                99000106
+            ],
             "aiList": [
                 10601
             ],
             "modelCode": 106,
             "isEntity": true,
-            "characterPic": "Gatling",
+            "characterPic": "GatlingE",
             "gridOccupied": true,
-            "name": "全局大招-炮塔",
+            "name": "DS9战术支援炮塔",
             "isSelectable": true,
-            "summonLevel": 1
+            "summonLevel": 1,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 107,
+            "skillGroupList": [
+                "*10310101",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10310101
+            ],
+            "aiList": [
+                10701
+            ],
+            "modelCode": 1031,
+            "isEntity": true,
+            "characterPic": "MGDroneR",
+            "gridOccupied": true,
+            "name": "巡回式机枪车",
+            "isSelectable": true,
+            "summonLevel": 1,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1061,
+            "skillGroupList": [
+                "*99001061",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                99001061,
+                9900106
+            ],
+            "aiList": [
+                10601
+            ],
+            "modelCode": 106,
+            "isEntity": true,
+            "characterPic": "GatlingE",
+            "gridOccupied": true,
+            "name": "固定炮塔",
+            "isSelectable": true,
+            "summonLevel": 1,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1062,
+            "skillGroupList": [
+                "*99001062",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                99001062,
+                9900106
+            ],
+            "aiList": [
+                10601
+            ],
+            "modelCode": 106,
+            "isEntity": true,
+            "characterPic": "GatlingE",
+            "gridOccupied": true,
+            "name": "固定炮塔",
+            "isSelectable": true,
+            "summonLevel": 2,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1063,
+            "skillGroupList": [
+                "*99001063",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                99001063,
+                9900106
+            ],
+            "aiList": [
+                10601
+            ],
+            "modelCode": 106,
+            "isEntity": true,
+            "characterPic": "GatlingE",
+            "gridOccupied": true,
+            "name": "固定炮塔",
+            "isSelectable": true,
+            "summonLevel": 3,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1064,
+            "skillGroupList": [
+                "*99001064",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                99001064,
+                9900106
+            ],
+            "aiList": [
+                10601
+            ],
+            "modelCode": 106,
+            "isEntity": true,
+            "characterPic": "GatlingE",
+            "gridOccupied": true,
+            "name": "固定炮塔",
+            "isSelectable": true,
+            "summonLevel": 4,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1065,
+            "skillGroupList": [
+                "*99001065",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                99001065,
+                9900106
+            ],
+            "aiList": [
+                10601
+            ],
+            "modelCode": 106,
+            "isEntity": true,
+            "characterPic": "GatlingE",
+            "gridOccupied": true,
+            "name": "固定炮塔",
+            "isSelectable": true,
+            "summonLevel": 5,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1066,
+            "skillGroupList": [
+                "*99001066",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                99001066,
+                9900106
+            ],
+            "aiList": [
+                10601
+            ],
+            "modelCode": 106,
+            "isEntity": true,
+            "characterPic": "GatlingE",
+            "gridOccupied": true,
+            "name": "固定炮塔",
+            "isSelectable": true,
+            "summonLevel": 6,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1071,
+            "skillGroupList": [
+                "*10310101",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10310101
+            ],
+            "aiList": [
+                10701
+            ],
+            "modelCode": 1031,
+            "isEntity": true,
+            "characterPic": "MGDroneR",
+            "gridOccupied": true,
+            "name": "巡回式机枪车",
+            "isSelectable": true,
+            "summonLevel": 1,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1072,
+            "skillGroupList": [
+                "*10310102",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10310102
+            ],
+            "aiList": [
+                10701
+            ],
+            "modelCode": 1031,
+            "isEntity": true,
+            "characterPic": "MGDroneR",
+            "gridOccupied": true,
+            "name": "巡回式机枪车",
+            "isSelectable": true,
+            "summonLevel": 2,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1073,
+            "skillGroupList": [
+                "*10310103",
+                "*10310111",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10310103,
+                10310111
+            ],
+            "aiList": [
+                10701
+            ],
+            "modelCode": 1031,
+            "isEntity": true,
+            "characterPic": "MGDroneR",
+            "gridOccupied": true,
+            "name": "巡回式机枪车",
+            "isSelectable": true,
+            "summonLevel": 3,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1074,
+            "skillGroupList": [
+                "*10310104",
+                "*10310111",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10310104,
+                10310111
+            ],
+            "aiList": [
+                10701
+            ],
+            "modelCode": 1031,
+            "isEntity": true,
+            "characterPic": "MGDroneR",
+            "gridOccupied": true,
+            "name": "巡回式机枪车",
+            "isSelectable": true,
+            "summonLevel": 4,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1075,
+            "skillGroupList": [
+                "*10310105",
+                "*10310111",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10310105,
+                10310111
+            ],
+            "aiList": [
+                10701
+            ],
+            "modelCode": 1031,
+            "isEntity": true,
+            "characterPic": "MGDroneR",
+            "gridOccupied": true,
+            "name": "巡回式机枪车",
+            "isSelectable": true,
+            "summonLevel": 5,
+            "canBeSuppressed": true
+        },
+        {
+            "id": 1076,
+            "skillGroupList": [
+                "*10310106",
+                "*10310111",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10310106,
+                10310111
+            ],
+            "aiList": [
+                10701
+            ],
+            "modelCode": 1031,
+            "isEntity": true,
+            "characterPic": "MGDroneR",
+            "gridOccupied": true,
+            "name": "巡回式机枪车",
+            "isSelectable": true,
+            "summonLevel": 6,
+            "canBeSuppressed": true
         },
         {
             "id": 9901,
@@ -28,10 +341,15 @@
                 ""
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10010101,
+                10010401,
+                10010501
             ],
             "aiList": [
                 100101
@@ -41,7 +359,8 @@
             "characterPic": "None",
             "gridOccupied": true,
             "name": "测试用",
-            "isSelectable": true
+            "isSelectable": true,
+            "canBeSuppressed": true
         },
         {
             "id": 9902,
@@ -50,6 +369,9 @@
                 "",
                 "",
                 "*99000003"
+            ],
+            "summonSkillList": [
+                99000003
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -66,9 +388,27 @@
             "summonLevel": 1
         },
         {
+            "id": 16001,
+            "skillGroupList": [
+                "*16001"
+            ],
+            "summonSkillList": [
+                16001
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7002,
+            "characterPic": "None",
+            "name": "恐惧表演召唤物"
+        },
+        {
             "id": 40130,
             "skillGroupList": [
                 "*40131"
+            ],
+            "summonSkillList": [
+                40131
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -81,6 +421,9 @@
             "skillGroupList": [
                 "*40133"
             ],
+            "summonSkillList": [
+                40133
+            ],
             "modelCode": 7003,
             "characterPic": "None",
             "name": "火柱预警召唤物",
@@ -92,12 +435,16 @@
             "skillGroupList": [
                 "*50303"
             ],
+            "summonSkillList": [
+                50303
+            ],
             "modelCode": 106,
             "isEntity": true,
             "characterPic": "None",
             "gridOccupied": true,
             "name": "监视BUFF",
-            "isSelectable": true
+            "isSelectable": true,
+            "canBeSuppressed": true
         },
         {
             "id": 6241304,
@@ -106,6 +453,9 @@
                 "",
                 "",
                 "*6241304"
+            ],
+            "summonSkillList": [
+                6241304
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -122,10 +472,15 @@
                 "*6851406"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6851404,
+                6851405,
+                6851406
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -142,10 +497,13 @@
                 ""
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6851502
             ],
             "aiList": [
                 6851501
@@ -163,10 +521,13 @@
                 ""
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6851503
             ],
             "aiList": [
                 6851502
@@ -181,21 +542,26 @@
                 "*6853412"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6853412,
+                6853704
             ],
             "aiList": [
-                999801
+                1
             ],
             "modelCode": 7008,
             "isEntity": true,
-            "characterPic": "Sextans03",
+            "characterPic": "Sextans01",
             "gridOccupied": true,
             "name": "暗翼",
             "isSelectable": true,
-            "summonLevel": 10
+            "summonLevel": 10,
+            "canBeSuppressed": true
         },
         {
             "id": 6853402,
@@ -203,21 +569,26 @@
                 "*6853421"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6853421,
+                6853704
             ],
             "aiList": [
-                999901
+                1
             ],
             "modelCode": 7006,
             "isEntity": true,
-            "characterPic": "Sextans01",
+            "characterPic": "Sextans02",
             "gridOccupied": true,
             "name": "尖星碑",
             "isSelectable": true,
-            "summonLevel": 10
+            "summonLevel": 10,
+            "canBeSuppressed": true
         },
         {
             "id": 6853403,
@@ -225,21 +596,26 @@
                 "*6853431"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6853431,
+                6853704
             ],
             "aiList": [
-                999901
+                1
             ],
             "modelCode": 7007,
             "isEntity": true,
-            "characterPic": "Sextans02",
+            "characterPic": "Sextans03",
             "gridOccupied": true,
             "name": "银面钟",
             "isSelectable": true,
-            "summonLevel": 10
+            "summonLevel": 10,
+            "canBeSuppressed": true
         },
         {
             "id": 6853711,
@@ -247,10 +623,14 @@
                 "*6853701"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6853701,
+                6853401
             ],
             "aiList": [
                 999901
@@ -265,10 +645,14 @@
                 "*6853702"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6853702,
+                6853402
             ],
             "aiList": [
                 999901
@@ -283,10 +667,14 @@
                 "*6853703"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6853703,
+                6853403
             ],
             "aiList": [
                 999901
@@ -294,76 +682,6 @@
             "modelCode": 7003,
             "characterPic": "None",
             "name": "加攻图腾的父亲"
-        },
-        {
-            "id": 10130401,
-            "skillGroupList": [
-                "10130410",
-                "10130520",
-                "*10130421",
-                "10130710"
-            ],
-            "reflectGroupList": [
-                10130400,
-                10130500,
-                0,
-                10130700
-            ],
-            "aiList": [
-                10130401
-            ],
-            "modelCode": 6113,
-            "isEntity": true,
-            "characterPic": "None",
-            "gridOccupied": true,
-            "name": "监视无人机",
-            "isSelectable": true
-        },
-        {
-            "id": 10130701,
-            "skillGroupList": [
-                "10130410",
-                "10130520",
-                "",
-                "10130710"
-            ],
-            "reflectGroupList": [
-                10130400,
-                10130500,
-                0,
-                10130700
-            ],
-            "aiList": [
-                10130701
-            ],
-            "modelCode": 1998,
-            "characterPic": "None",
-            "bindType": 1,
-            "name": "监视无人机"
-        },
-        {
-            "id": 10200501,
-            "skillGroupList": [
-                "10200510",
-                "",
-                "",
-                ""
-            ],
-            "reflectGroupList": [
-                10200500,
-                0,
-                0,
-                0
-            ],
-            "aiList": [
-                10200501
-            ],
-            "modelCode": 107,
-            "isEntity": true,
-            "characterPic": "Spire",
-            "gridOccupied": true,
-            "name": "量子发生器",
-            "isSelectable": true
         },
         {
             "id": 10210701,
@@ -374,10 +692,14 @@
                 ""
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10210711,
+                10210712
             ],
             "modelCode": 7002,
             "characterPic": "None",
@@ -394,16 +716,44 @@
                 "*10300821"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10300851,
+                10300821
             ],
             "modelCode": 108,
             "characterPic": "None",
             "name": "炮车烟雾",
             "summonGroup": 1,
             "summonLevel": 10
+        },
+        {
+            "id": 50001501,
+            "summonSkillList": [
+                50001501
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "炮击图谱召唤物"
+        },
+        {
+            "id": 50011501,
+            "summonSkillList": [
+                50011501
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "炮击图谱召唤物"
         },
         {
             "id": 51010101,
@@ -414,14 +764,35 @@
                 "*99000003"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                99000003
             ],
             "modelCode": 7003,
             "characterPic": "None",
             "name": "测试用",
+            "summonGroup": 1,
+            "summonLevel": 1
+        },
+        {
+            "id": 51010102,
+            "reflectGroupList": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                10170921,
+                10170901
+            ],
+            "modelCode": 108,
+            "characterPic": "None",
+            "name": "闪电SR烟雾弹",
             "summonGroup": 1,
             "summonLevel": 1
         },
@@ -434,10 +805,13 @@
                 "*99000005"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                99000005
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -451,10 +825,13 @@
                 "*6141204"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6141204
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -469,10 +846,14 @@
                 "*6142602"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6142601,
+                6142602
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -485,6 +866,9 @@
                 "",
                 "",
                 "*6179203"
+            ],
+            "summonSkillList": [
+                6179203
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -499,6 +883,9 @@
                 "",
                 "*6179208"
             ],
+            "summonSkillList": [
+                6179208
+            ],
             "modelCode": 7003,
             "characterPic": "None",
             "name": "布瑟尔震撼弹选敌"
@@ -510,6 +897,9 @@
                 "",
                 "",
                 "*6189203"
+            ],
+            "summonSkillList": [
+                6189203
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -524,6 +914,9 @@
                 "",
                 "*6189208"
             ],
+            "summonSkillList": [
+                6189208
+            ],
             "modelCode": 7003,
             "characterPic": "None",
             "name": "布瑟尔震撼弹选敌"
@@ -537,10 +930,13 @@
                 "*6210404"
             ],
             "reflectGroupList": [
-                0,
-                0,
-                0,
-                0
+                "",
+                "",
+                "",
+                ""
+            ],
+            "summonSkillList": [
+                6210404
             ],
             "modelCode": 7003,
             "characterPic": "None",
@@ -564,6 +960,12 @@
                 "*6851012",
                 "*6851014"
             ],
+            "summonSkillList": [
+                6851010,
+                6851011,
+                6851012,
+                6851014
+            ],
             "aiList": [
                 999901
             ],
@@ -573,21 +975,43 @@
             "gridOccupied": true,
             "name": "黑眼分身",
             "isSelectable": true,
-            "summonLevel": 10
+            "summonLevel": 10,
+            "canBeSuppressed": true
         },
         {
             "id": 80010301,
             "skillGroupList": [
                 "*80010101"
             ],
+            "summonSkillList": [
+                80010101
+            ],
             "modelCode": 7003,
             "characterPic": "None",
             "name": "能量系统开场SET"
         },
         {
+            "id": 80020102,
+            "skillGroupList": [
+                "*80020102"
+            ],
+            "summonSkillList": [
+                80020102
+            ],
+            "aiList": [
+                999901
+            ],
+            "modelCode": 7003,
+            "characterPic": "None",
+            "name": "上帝压制技能镜头携带者"
+        },
+        {
             "id": 200102012,
             "skillGroupList": [
                 "*20010202"
+            ],
+            "summonSkillList": [
+                20010202
             ],
             "aiList": [
                 999901
@@ -600,6 +1024,9 @@
             "id": 200102013,
             "skillGroupList": [
                 "*20010204"
+            ],
+            "summonSkillList": [
+                20010204
             ],
             "aiList": [
                 999901

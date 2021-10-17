@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": "GachaGun",
+            "arg": 5,
+            "content": {
+                "id": "1"
+            }
+        },
+        {
+            "id": 2,
+            "type": "GachaWeapon",
+            "arg": 5,
+            "content": {
+                "id": "2"
+            }
+        },
+        {
+            "id": 3,
+            "type": "GunGrade",
+            "arg": 6,
+            "content": {
+                "id": "3"
+            }
+        },
+        {
+            "id": 4,
+            "type": "GunMental",
+            "arg": 11,
+            "content": {
+                "id": "4"
+            }
+        },
+        {
+            "id": 5,
+            "type": "WeaponLv",
+            "arg": 60,
+            "content": {
+                "id": "5"
+            }
+        },
+        {
+            "id": 6,
+            "type": "EquipLv",
+            "arg": 20,
+            "content": {
+                "id": "6"
+            }
+        }
+    ]
+}

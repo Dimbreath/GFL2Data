@@ -3,17 +3,21 @@
         {
             "id": 1,
             "name": {
-                "id": "1247"
+                "id": "1136"
             },
             "type": 1,
-            "chapterReward3": {
-                "1001009": 1
+            "chapterReward1": {
+                "132": 5,
+                "2": 40000
             },
-            "position": "0,-100",
-            "location": "-269,-200",
-            "cameraPosition": "47.28,17.6,-0.84",
-            "cameraRotation": "55,267.4,0",
-            "areaList": "01,02,03",
+            "chapterReward2": {
+                "122": 10,
+                "182": 1
+            },
+            "chapterReward3": {
+                "12": 1,
+                "502": 1
+            },
             "background": "Img_ChapterPic1",
             "mapBackground": "Img_ChapterBg_1",
             "decoration": "UIChapterDecoration1Item",
@@ -22,24 +26,24 @@
         {
             "id": 2,
             "name": {
-                "id": "1254"
+                "id": "1144"
             },
             "type": 1,
             "chapterReward1": {
-                "1001019": 1
+                "132": 5,
+                "2": 60000
             },
             "chapterReward2": {
-                "1001015": 1
+                "122": 15,
+                "182": 1
             },
             "chapterReward3": {
-                "1001008": 1
+                "12": 1,
+                "503": 1
             },
-            "position": "950,100",
-            "location": "28,-254",
-            "cameraPosition": "23.82,36.75,8.69",
-            "cameraRotation": "65.5,267.4,0",
-            "areaList": "04,05,06",
-            "preChapter": 1,
+            "preChapter": [
+                1
+            ],
             "background": "Img_ChapterPic2",
             "mapBackground": "Img_ChapterBg_2",
             "decoration": "UIChapterDecoration1Item",
@@ -48,28 +52,153 @@
         {
             "id": 3,
             "name": {
-                "id": "1262"
+                "id": "1145"
             },
             "type": 1,
             "chapterReward1": {
-                "1001017": 1
+                "132": 5,
+                "2": 80000
             },
             "chapterReward2": {
-                "1001016": 1
+                "182": 1,
+                "122": 20
             },
             "chapterReward3": {
-                "1001021": 1
+                "12": 1,
+                "508": 1
             },
-            "position": "1900,-100",
-            "location": "729,-363",
-            "cameraPosition": "47.28,17.6,-0.84",
-            "cameraRotation": "55,267.4,0",
-            "areaList": "01,02,03",
-            "preChapter": 2,
+            "preChapter": [
+                2
+            ],
             "background": "Img_ChapterPic3",
             "mapBackground": "Img_ChapterBg_3",
             "decoration": "UIChapterDecoration1Item",
             "effects": "story_sandwind"
+        },
+        {
+            "id": 4,
+            "name": {
+                "id": "1146"
+            },
+            "type": 1,
+            "chapterReward1": {
+                "132": 5,
+                "2": 100000
+            },
+            "chapterReward2": {
+                "122": 25,
+                "182": 1
+            },
+            "chapterReward3": {
+                "12": 1,
+                "501": 1
+            },
+            "preChapter": [
+                3
+            ],
+            "background": "Img_ChapterPic4",
+            "mapBackground": "Img_ChapterBg_4",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind"
+        },
+        {
+            "id": 101,
+            "name": {
+                "id": "1147"
+            },
+            "type": 2,
+            "chapterReward1": {
+                "132": 5,
+                "2": 80000
+            },
+            "chapterReward2": {
+                "11004": 5,
+                "123": 4
+            },
+            "chapterReward3": {
+                "12": 1,
+                "507": 1
+            },
+            "preChapter": [
+                1
+            ],
+            "background": "Img_Difficulty_ChapterPic1",
+            "mapBackground": "Img_Difficulty_ChapterBg_1"
+        },
+        {
+            "id": 102,
+            "name": {
+                "id": "1148"
+            },
+            "type": 2,
+            "chapterReward1": {
+                "2": 100000,
+                "132": 5
+            },
+            "chapterReward2": {
+                "123": 5,
+                "11004": 5
+            },
+            "chapterReward3": {
+                "509": 1,
+                "12": 1
+            },
+            "preChapter": [
+                2,
+                101
+            ],
+            "background": "Img_Difficulty_ChapterPic2",
+            "mapBackground": "Img_Difficulty_ChapterBg_1"
+        },
+        {
+            "id": 103,
+            "name": {
+                "id": "1149"
+            },
+            "type": 2,
+            "chapterReward1": {
+                "2": 120000,
+                "132": 5
+            },
+            "chapterReward2": {
+                "11004": 5,
+                "123": 6
+            },
+            "chapterReward3": {
+                "12": 1,
+                "502": 1
+            },
+            "preChapter": [
+                3,
+                102
+            ],
+            "background": "Img_Difficulty_ChapterPic3",
+            "mapBackground": "Img_Difficulty_ChapterBg_1"
+        },
+        {
+            "id": 104,
+            "name": {
+                "id": "1150"
+            },
+            "type": 2,
+            "chapterReward1": {
+                "2": 140000,
+                "132": 5
+            },
+            "chapterReward2": {
+                "123": 7,
+                "11004": 5
+            },
+            "chapterReward3": {
+                "12": 1,
+                "503": 1
+            },
+            "preChapter": [
+                3,
+                102
+            ],
+            "background": "Img_Difficulty_ChapterPic4",
+            "mapBackground": "Img_Difficulty_ChapterBg_1"
         }
     ]
 }

@@ -3,7 +3,7 @@
         {
             "id": 1001,
             "name": {
-                "id": "540"
+                "id": "4851"
             },
             "enName": "Kalina",
             "code": "Welrod",
@@ -12,14 +12,14 @@
             "affectionMaxLevel": 30,
             "defaultCostume": 2100100,
             "npcTitle": {
-                "id": "541"
+                "id": "4852"
             },
             "npcIcon": "npc_icon"
         },
         {
             "id": 1002,
             "name": {
-                "id": "542"
+                "id": "4853"
             },
             "enName": "Haru",
             "code": "HK416",
@@ -28,7 +28,7 @@
             "affectionMaxLevel": 30,
             "defaultCostume": 2100200,
             "npcTitle": {
-                "id": "543"
+                "id": "4854"
             },
             "npcIcon": "npc_icon"
         }

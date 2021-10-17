@@ -1,0 +1,1917 @@
+{
+    "data": [
+        {
+            "id": 500010,
+            "weapon": 50001
+        },
+        {
+            "id": 500011,
+            "weapon": 50001,
+            "breakNum": 1,
+            "crit": 10
+        },
+        {
+            "id": 500012,
+            "weapon": 50001,
+            "breakNum": 2,
+            "crit": 20
+        },
+        {
+            "id": 500013,
+            "weapon": 50001,
+            "breakNum": 3,
+            "crit": 30
+        },
+        {
+            "id": 500014,
+            "weapon": 50001,
+            "breakNum": 4,
+            "crit": 40
+        },
+        {
+            "id": 500015,
+            "weapon": 50001,
+            "breakNum": 5,
+            "crit": 50
+        },
+        {
+            "id": 500020,
+            "weapon": 50002
+        },
+        {
+            "id": 500021,
+            "weapon": 50002,
+            "breakNum": 1,
+            "hitPercentage": 10
+        },
+        {
+            "id": 500022,
+            "weapon": 50002,
+            "breakNum": 2,
+            "hitPercentage": 20
+        },
+        {
+            "id": 500023,
+            "weapon": 50002,
+            "breakNum": 3,
+            "hitPercentage": 30
+        },
+        {
+            "id": 500024,
+            "weapon": 50002,
+            "breakNum": 4,
+            "hitPercentage": 40
+        },
+        {
+            "id": 500025,
+            "weapon": 50002,
+            "breakNum": 5,
+            "hitPercentage": 50
+        },
+        {
+            "id": 500030,
+            "weapon": 50003
+        },
+        {
+            "id": 500031,
+            "weapon": 50003,
+            "breakNum": 1,
+            "critMult": 50
+        },
+        {
+            "id": 500032,
+            "weapon": 50003,
+            "breakNum": 2,
+            "critMult": 100
+        },
+        {
+            "id": 500033,
+            "weapon": 50003,
+            "breakNum": 3,
+            "critMult": 150
+        },
+        {
+            "id": 500034,
+            "weapon": 50003,
+            "breakNum": 4,
+            "critMult": 200
+        },
+        {
+            "id": 500035,
+            "weapon": 50003,
+            "breakNum": 5,
+            "critMult": 250
+        },
+        {
+            "id": 500040,
+            "weapon": 50004
+        },
+        {
+            "id": 500041,
+            "weapon": 50004,
+            "breakNum": 1,
+            "crit": 10
+        },
+        {
+            "id": 500042,
+            "weapon": 50004,
+            "breakNum": 2,
+            "crit": 20
+        },
+        {
+            "id": 500043,
+            "weapon": 50004,
+            "breakNum": 3,
+            "crit": 30
+        },
+        {
+            "id": 500044,
+            "weapon": 50004,
+            "breakNum": 4,
+            "crit": 40
+        },
+        {
+            "id": 500045,
+            "weapon": 50004,
+            "breakNum": 5,
+            "crit": 50
+        },
+        {
+            "id": 500050,
+            "weapon": 50005
+        },
+        {
+            "id": 500051,
+            "weapon": 50005,
+            "breakNum": 1,
+            "hitPercentage": 10
+        },
+        {
+            "id": 500052,
+            "weapon": 50005,
+            "breakNum": 2,
+            "hitPercentage": 20
+        },
+        {
+            "id": 500053,
+            "weapon": 50005,
+            "breakNum": 3,
+            "hitPercentage": 30
+        },
+        {
+            "id": 500054,
+            "weapon": 50005,
+            "breakNum": 4,
+            "hitPercentage": 40
+        },
+        {
+            "id": 500055,
+            "weapon": 50005,
+            "breakNum": 5,
+            "hitPercentage": 50
+        },
+        {
+            "id": 500060,
+            "weapon": 50006
+        },
+        {
+            "id": 500061,
+            "weapon": 50006,
+            "breakNum": 1,
+            "critMult": 50
+        },
+        {
+            "id": 500062,
+            "weapon": 50006,
+            "breakNum": 2,
+            "critMult": 100
+        },
+        {
+            "id": 500063,
+            "weapon": 50006,
+            "breakNum": 3,
+            "critMult": 150
+        },
+        {
+            "id": 500064,
+            "weapon": 50006,
+            "breakNum": 4,
+            "critMult": 200
+        },
+        {
+            "id": 500065,
+            "weapon": 50006,
+            "breakNum": 5,
+            "critMult": 250
+        },
+        {
+            "id": 500070,
+            "weapon": 50007
+        },
+        {
+            "id": 500071,
+            "weapon": 50007,
+            "breakNum": 1,
+            "critMult": 50
+        },
+        {
+            "id": 500072,
+            "weapon": 50007,
+            "breakNum": 2,
+            "critMult": 100
+        },
+        {
+            "id": 500073,
+            "weapon": 50007,
+            "breakNum": 3,
+            "critMult": 150
+        },
+        {
+            "id": 500074,
+            "weapon": 50007,
+            "breakNum": 4,
+            "critMult": 200
+        },
+        {
+            "id": 500075,
+            "weapon": 50007,
+            "breakNum": 5,
+            "critMult": 250
+        },
+        {
+            "id": 510010,
+            "weapon": 51001
+        },
+        {
+            "id": 510011,
+            "weapon": 51001,
+            "breakNum": 1,
+            "crit": 20
+        },
+        {
+            "id": 510012,
+            "weapon": 51001,
+            "breakNum": 2,
+            "crit": 40
+        },
+        {
+            "id": 510013,
+            "weapon": 51001,
+            "breakNum": 3,
+            "crit": 60
+        },
+        {
+            "id": 510014,
+            "weapon": 51001,
+            "breakNum": 4,
+            "crit": 80
+        },
+        {
+            "id": 510015,
+            "weapon": 51001,
+            "breakNum": 5,
+            "crit": 100
+        },
+        {
+            "id": 510020,
+            "weapon": 51002
+        },
+        {
+            "id": 510021,
+            "weapon": 51002,
+            "breakNum": 1,
+            "hitPercentage": 15
+        },
+        {
+            "id": 510022,
+            "weapon": 51002,
+            "breakNum": 2,
+            "hitPercentage": 30
+        },
+        {
+            "id": 510023,
+            "weapon": 51002,
+            "breakNum": 3,
+            "hitPercentage": 45
+        },
+        {
+            "id": 510024,
+            "weapon": 51002,
+            "breakNum": 4,
+            "hitPercentage": 60
+        },
+        {
+            "id": 510025,
+            "weapon": 51002,
+            "breakNum": 5,
+            "hitPercentage": 75
+        },
+        {
+            "id": 510030,
+            "weapon": 51003
+        },
+        {
+            "id": 510031,
+            "weapon": 51003,
+            "breakNum": 1,
+            "critMult": 75
+        },
+        {
+            "id": 510032,
+            "weapon": 51003,
+            "breakNum": 2,
+            "critMult": 150
+        },
+        {
+            "id": 510033,
+            "weapon": 51003,
+            "breakNum": 3,
+            "critMult": 225
+        },
+        {
+            "id": 510034,
+            "weapon": 51003,
+            "breakNum": 4,
+            "critMult": 300
+        },
+        {
+            "id": 510035,
+            "weapon": 51003,
+            "breakNum": 5,
+            "critMult": 375
+        },
+        {
+            "id": 510040,
+            "weapon": 51004
+        },
+        {
+            "id": 510041,
+            "weapon": 51004,
+            "breakNum": 1,
+            "crit": 15
+        },
+        {
+            "id": 510042,
+            "weapon": 51004,
+            "breakNum": 2,
+            "crit": 30
+        },
+        {
+            "id": 510043,
+            "weapon": 51004,
+            "breakNum": 3,
+            "crit": 45
+        },
+        {
+            "id": 510044,
+            "weapon": 51004,
+            "breakNum": 4,
+            "crit": 60
+        },
+        {
+            "id": 510045,
+            "weapon": 51004,
+            "breakNum": 5,
+            "crit": 75
+        },
+        {
+            "id": 510050,
+            "weapon": 51005,
+            "skill": 30050106
+        },
+        {
+            "id": 510051,
+            "weapon": 51005,
+            "breakNum": 1,
+            "crit": 25,
+            "skill": 30050101
+        },
+        {
+            "id": 510052,
+            "weapon": 51005,
+            "breakNum": 2,
+            "crit": 50,
+            "skill": 30050102
+        },
+        {
+            "id": 510053,
+            "weapon": 51005,
+            "breakNum": 3,
+            "crit": 75,
+            "skill": 30050103
+        },
+        {
+            "id": 510054,
+            "weapon": 51005,
+            "breakNum": 4,
+            "crit": 100,
+            "skill": 30050104
+        },
+        {
+            "id": 510055,
+            "weapon": 51005,
+            "breakNum": 5,
+            "crit": 125,
+            "skill": 30050105
+        },
+        {
+            "id": 510060,
+            "weapon": 51006,
+            "skill": 30060106
+        },
+        {
+            "id": 510061,
+            "weapon": 51006,
+            "breakNum": 1,
+            "critMult": 125,
+            "skill": 30060101
+        },
+        {
+            "id": 510062,
+            "weapon": 51006,
+            "breakNum": 2,
+            "critMult": 250,
+            "skill": 30060102
+        },
+        {
+            "id": 510063,
+            "weapon": 51006,
+            "breakNum": 3,
+            "critMult": 375,
+            "skill": 30060103
+        },
+        {
+            "id": 510064,
+            "weapon": 51006,
+            "breakNum": 4,
+            "critMult": 500,
+            "skill": 30060104
+        },
+        {
+            "id": 510065,
+            "weapon": 51006,
+            "breakNum": 5,
+            "critMult": 625,
+            "skill": 30060105
+        },
+        {
+            "id": 510070,
+            "weapon": 51007
+        },
+        {
+            "id": 510071,
+            "weapon": 51007,
+            "breakNum": 1,
+            "crit": 25
+        },
+        {
+            "id": 510072,
+            "weapon": 51007,
+            "breakNum": 2,
+            "crit": 50
+        },
+        {
+            "id": 510073,
+            "weapon": 51007,
+            "breakNum": 3,
+            "crit": 75
+        },
+        {
+            "id": 510074,
+            "weapon": 51007,
+            "breakNum": 4,
+            "crit": 100
+        },
+        {
+            "id": 510075,
+            "weapon": 51007,
+            "breakNum": 5,
+            "crit": 125
+        },
+        {
+            "id": 510080,
+            "weapon": 51008
+        },
+        {
+            "id": 510081,
+            "weapon": 51008,
+            "breakNum": 1,
+            "critMult": 100
+        },
+        {
+            "id": 510082,
+            "weapon": 51008,
+            "breakNum": 2,
+            "critMult": 200
+        },
+        {
+            "id": 510083,
+            "weapon": 51008,
+            "breakNum": 3,
+            "critMult": 300
+        },
+        {
+            "id": 510084,
+            "weapon": 51008,
+            "breakNum": 4,
+            "critMult": 400
+        },
+        {
+            "id": 510085,
+            "weapon": 51008,
+            "breakNum": 5,
+            "critMult": 500
+        },
+        {
+            "id": 510090,
+            "weapon": 51009
+        },
+        {
+            "id": 510091,
+            "weapon": 51009,
+            "breakNum": 1,
+            "hitPercentage": 20
+        },
+        {
+            "id": 510092,
+            "weapon": 51009,
+            "breakNum": 2,
+            "hitPercentage": 40
+        },
+        {
+            "id": 510093,
+            "weapon": 51009,
+            "breakNum": 3,
+            "hitPercentage": 60
+        },
+        {
+            "id": 510094,
+            "weapon": 51009,
+            "breakNum": 4,
+            "hitPercentage": 80
+        },
+        {
+            "id": 510095,
+            "weapon": 51009,
+            "breakNum": 5,
+            "hitPercentage": 100
+        },
+        {
+            "id": 510100,
+            "weapon": 51010
+        },
+        {
+            "id": 510101,
+            "weapon": 51010,
+            "breakNum": 1,
+            "hitPercentage": 25
+        },
+        {
+            "id": 510102,
+            "weapon": 51010,
+            "breakNum": 2,
+            "hitPercentage": 50
+        },
+        {
+            "id": 510103,
+            "weapon": 51010,
+            "breakNum": 3,
+            "hitPercentage": 75
+        },
+        {
+            "id": 510104,
+            "weapon": 51010,
+            "breakNum": 4,
+            "hitPercentage": 100
+        },
+        {
+            "id": 510105,
+            "weapon": 51010,
+            "breakNum": 5,
+            "hitPercentage": 125
+        },
+        {
+            "id": 510110,
+            "weapon": 51011
+        },
+        {
+            "id": 510111,
+            "weapon": 51011,
+            "breakNum": 1,
+            "hitPercentage": 15
+        },
+        {
+            "id": 510112,
+            "weapon": 51011,
+            "breakNum": 2,
+            "hitPercentage": 30
+        },
+        {
+            "id": 510113,
+            "weapon": 51011,
+            "breakNum": 3,
+            "hitPercentage": 45
+        },
+        {
+            "id": 510114,
+            "weapon": 51011,
+            "breakNum": 4,
+            "hitPercentage": 60
+        },
+        {
+            "id": 510115,
+            "weapon": 51011,
+            "breakNum": 5,
+            "hitPercentage": 75
+        },
+        {
+            "id": 510120,
+            "weapon": 51012,
+            "skill": 30120106
+        },
+        {
+            "id": 510121,
+            "weapon": 51012,
+            "breakNum": 1,
+            "hitPercentage": 25,
+            "skill": 30120101
+        },
+        {
+            "id": 510122,
+            "weapon": 51012,
+            "breakNum": 2,
+            "hitPercentage": 50,
+            "skill": 30120102
+        },
+        {
+            "id": 510123,
+            "weapon": 51012,
+            "breakNum": 3,
+            "hitPercentage": 75,
+            "skill": 30120103
+        },
+        {
+            "id": 510124,
+            "weapon": 51012,
+            "breakNum": 4,
+            "hitPercentage": 100,
+            "skill": 30120104
+        },
+        {
+            "id": 510125,
+            "weapon": 51012,
+            "breakNum": 5,
+            "hitPercentage": 125,
+            "skill": 30120105
+        },
+        {
+            "id": 510130,
+            "weapon": 51013
+        },
+        {
+            "id": 510131,
+            "weapon": 51013,
+            "breakNum": 1,
+            "crit": 25
+        },
+        {
+            "id": 510132,
+            "weapon": 51013,
+            "breakNum": 2,
+            "crit": 50
+        },
+        {
+            "id": 510133,
+            "weapon": 51013,
+            "breakNum": 3,
+            "crit": 75
+        },
+        {
+            "id": 510134,
+            "weapon": 51013,
+            "breakNum": 4,
+            "crit": 100
+        },
+        {
+            "id": 510135,
+            "weapon": 51013,
+            "breakNum": 5,
+            "crit": 125
+        },
+        {
+            "id": 510140,
+            "weapon": 51014,
+            "skill": 30140106
+        },
+        {
+            "id": 510141,
+            "weapon": 51014,
+            "breakNum": 1,
+            "critMult": 125,
+            "skill": 30140101
+        },
+        {
+            "id": 510142,
+            "weapon": 51014,
+            "breakNum": 2,
+            "critMult": 250,
+            "skill": 30140102
+        },
+        {
+            "id": 510143,
+            "weapon": 51014,
+            "breakNum": 3,
+            "critMult": 375,
+            "skill": 30140103
+        },
+        {
+            "id": 510144,
+            "weapon": 51014,
+            "breakNum": 4,
+            "critMult": 500,
+            "skill": 30140104
+        },
+        {
+            "id": 510145,
+            "weapon": 51014,
+            "breakNum": 5,
+            "critMult": 625,
+            "skill": 30140105
+        },
+        {
+            "id": 510150,
+            "weapon": 51015
+        },
+        {
+            "id": 510151,
+            "weapon": 51015,
+            "breakNum": 1,
+            "hitPercentage": 20
+        },
+        {
+            "id": 510152,
+            "weapon": 51015,
+            "breakNum": 2,
+            "hitPercentage": 40
+        },
+        {
+            "id": 510153,
+            "weapon": 51015,
+            "breakNum": 3,
+            "hitPercentage": 60
+        },
+        {
+            "id": 510154,
+            "weapon": 51015,
+            "breakNum": 4,
+            "hitPercentage": 80
+        },
+        {
+            "id": 510155,
+            "weapon": 51015,
+            "breakNum": 5,
+            "hitPercentage": 100
+        },
+        {
+            "id": 510160,
+            "weapon": 51016
+        },
+        {
+            "id": 510161,
+            "weapon": 51016,
+            "breakNum": 1,
+            "crit": 15
+        },
+        {
+            "id": 510162,
+            "weapon": 51016,
+            "breakNum": 2,
+            "crit": 30
+        },
+        {
+            "id": 510163,
+            "weapon": 51016,
+            "breakNum": 3,
+            "crit": 45
+        },
+        {
+            "id": 510164,
+            "weapon": 51016,
+            "breakNum": 4,
+            "crit": 60
+        },
+        {
+            "id": 510165,
+            "weapon": 51016,
+            "breakNum": 5,
+            "crit": 75
+        },
+        {
+            "id": 510170,
+            "weapon": 51017
+        },
+        {
+            "id": 510171,
+            "weapon": 51017,
+            "breakNum": 1,
+            "crit": 20
+        },
+        {
+            "id": 510172,
+            "weapon": 51017,
+            "breakNum": 2,
+            "crit": 40
+        },
+        {
+            "id": 510173,
+            "weapon": 51017,
+            "breakNum": 3,
+            "crit": 60
+        },
+        {
+            "id": 510174,
+            "weapon": 51017,
+            "breakNum": 4,
+            "crit": 80
+        },
+        {
+            "id": 510175,
+            "weapon": 51017,
+            "breakNum": 5,
+            "crit": 100
+        },
+        {
+            "id": 510190,
+            "weapon": 51019
+        },
+        {
+            "id": 510191,
+            "weapon": 51019,
+            "breakNum": 1,
+            "critMult": 75
+        },
+        {
+            "id": 510192,
+            "weapon": 51019,
+            "breakNum": 2,
+            "critMult": 150
+        },
+        {
+            "id": 510193,
+            "weapon": 51019,
+            "breakNum": 3,
+            "critMult": 225
+        },
+        {
+            "id": 510194,
+            "weapon": 51019,
+            "breakNum": 4,
+            "critMult": 300
+        },
+        {
+            "id": 510195,
+            "weapon": 51019,
+            "breakNum": 5,
+            "critMult": 375
+        },
+        {
+            "id": 510200,
+            "weapon": 51020
+        },
+        {
+            "id": 510201,
+            "weapon": 51020,
+            "breakNum": 1,
+            "crit": 20
+        },
+        {
+            "id": 510202,
+            "weapon": 51020,
+            "breakNum": 2,
+            "crit": 40
+        },
+        {
+            "id": 510203,
+            "weapon": 51020,
+            "breakNum": 3,
+            "crit": 60
+        },
+        {
+            "id": 510204,
+            "weapon": 51020,
+            "breakNum": 4,
+            "crit": 80
+        },
+        {
+            "id": 510205,
+            "weapon": 51020,
+            "breakNum": 5,
+            "crit": 100
+        },
+        {
+            "id": 510210,
+            "weapon": 51021
+        },
+        {
+            "id": 510211,
+            "weapon": 51021,
+            "breakNum": 1,
+            "critMult": 100
+        },
+        {
+            "id": 510212,
+            "weapon": 51021,
+            "breakNum": 2,
+            "critMult": 200
+        },
+        {
+            "id": 510213,
+            "weapon": 51021,
+            "breakNum": 3,
+            "critMult": 300
+        },
+        {
+            "id": 510214,
+            "weapon": 51021,
+            "breakNum": 4,
+            "critMult": 400
+        },
+        {
+            "id": 510215,
+            "weapon": 51021,
+            "breakNum": 5,
+            "critMult": 500
+        },
+        {
+            "id": 600010,
+            "weapon": 60001
+        },
+        {
+            "id": 600011,
+            "weapon": 60001,
+            "breakNum": 1,
+            "crit": 10
+        },
+        {
+            "id": 600012,
+            "weapon": 60001,
+            "breakNum": 2,
+            "crit": 20
+        },
+        {
+            "id": 600013,
+            "weapon": 60001,
+            "breakNum": 3,
+            "crit": 30
+        },
+        {
+            "id": 600014,
+            "weapon": 60001,
+            "breakNum": 4,
+            "crit": 40
+        },
+        {
+            "id": 600015,
+            "weapon": 60001,
+            "breakNum": 5,
+            "crit": 50
+        },
+        {
+            "id": 600020,
+            "weapon": 60002
+        },
+        {
+            "id": 600021,
+            "weapon": 60002,
+            "breakNum": 1,
+            "hitPercentage": 10
+        },
+        {
+            "id": 600022,
+            "weapon": 60002,
+            "breakNum": 2,
+            "hitPercentage": 20
+        },
+        {
+            "id": 600023,
+            "weapon": 60002,
+            "breakNum": 3,
+            "hitPercentage": 30
+        },
+        {
+            "id": 600024,
+            "weapon": 60002,
+            "breakNum": 4,
+            "hitPercentage": 40
+        },
+        {
+            "id": 600025,
+            "weapon": 60002,
+            "breakNum": 5,
+            "hitPercentage": 50
+        },
+        {
+            "id": 600030,
+            "weapon": 60003
+        },
+        {
+            "id": 600031,
+            "weapon": 60003,
+            "breakNum": 1,
+            "critMult": 50
+        },
+        {
+            "id": 600032,
+            "weapon": 60003,
+            "breakNum": 2,
+            "critMult": 100
+        },
+        {
+            "id": 600033,
+            "weapon": 60003,
+            "breakNum": 3,
+            "critMult": 150
+        },
+        {
+            "id": 600034,
+            "weapon": 60003,
+            "breakNum": 4,
+            "critMult": 200
+        },
+        {
+            "id": 600035,
+            "weapon": 60003,
+            "breakNum": 5,
+            "critMult": 250
+        },
+        {
+            "id": 600040,
+            "weapon": 60004
+        },
+        {
+            "id": 600041,
+            "weapon": 60004,
+            "breakNum": 1,
+            "crit": 10
+        },
+        {
+            "id": 600042,
+            "weapon": 60004,
+            "breakNum": 2,
+            "crit": 20
+        },
+        {
+            "id": 600043,
+            "weapon": 60004,
+            "breakNum": 3,
+            "crit": 30
+        },
+        {
+            "id": 600044,
+            "weapon": 60004,
+            "breakNum": 4,
+            "crit": 40
+        },
+        {
+            "id": 600045,
+            "weapon": 60004,
+            "breakNum": 5,
+            "crit": 50
+        },
+        {
+            "id": 600050,
+            "weapon": 60005
+        },
+        {
+            "id": 600051,
+            "weapon": 60005,
+            "breakNum": 1,
+            "hitPercentage": 10
+        },
+        {
+            "id": 600052,
+            "weapon": 60005,
+            "breakNum": 2,
+            "hitPercentage": 20
+        },
+        {
+            "id": 600053,
+            "weapon": 60005,
+            "breakNum": 3,
+            "hitPercentage": 30
+        },
+        {
+            "id": 600054,
+            "weapon": 60005,
+            "breakNum": 4,
+            "hitPercentage": 40
+        },
+        {
+            "id": 600055,
+            "weapon": 60005,
+            "breakNum": 5,
+            "hitPercentage": 50
+        },
+        {
+            "id": 600060,
+            "weapon": 60006
+        },
+        {
+            "id": 600061,
+            "weapon": 60006,
+            "breakNum": 1,
+            "critMult": 50
+        },
+        {
+            "id": 600062,
+            "weapon": 60006,
+            "breakNum": 2,
+            "critMult": 100
+        },
+        {
+            "id": 600063,
+            "weapon": 60006,
+            "breakNum": 3,
+            "critMult": 150
+        },
+        {
+            "id": 600064,
+            "weapon": 60006,
+            "breakNum": 4,
+            "critMult": 200
+        },
+        {
+            "id": 600065,
+            "weapon": 60006,
+            "breakNum": 5,
+            "critMult": 250
+        },
+        {
+            "id": 600070,
+            "weapon": 60007
+        },
+        {
+            "id": 600071,
+            "weapon": 60007,
+            "breakNum": 1,
+            "critMult": 50
+        },
+        {
+            "id": 600072,
+            "weapon": 60007,
+            "breakNum": 2,
+            "critMult": 100
+        },
+        {
+            "id": 600073,
+            "weapon": 60007,
+            "breakNum": 3,
+            "critMult": 150
+        },
+        {
+            "id": 600074,
+            "weapon": 60007,
+            "breakNum": 4,
+            "critMult": 200
+        },
+        {
+            "id": 600075,
+            "weapon": 60007,
+            "breakNum": 5,
+            "critMult": 250
+        },
+        {
+            "id": 610010,
+            "weapon": 61001
+        },
+        {
+            "id": 610011,
+            "weapon": 61001,
+            "breakNum": 1,
+            "crit": 20
+        },
+        {
+            "id": 610012,
+            "weapon": 61001,
+            "breakNum": 2,
+            "crit": 40
+        },
+        {
+            "id": 610013,
+            "weapon": 61001,
+            "breakNum": 3,
+            "crit": 60
+        },
+        {
+            "id": 610014,
+            "weapon": 61001,
+            "breakNum": 4,
+            "crit": 80
+        },
+        {
+            "id": 610015,
+            "weapon": 61001,
+            "breakNum": 5,
+            "crit": 100
+        },
+        {
+            "id": 610020,
+            "weapon": 61002
+        },
+        {
+            "id": 610021,
+            "weapon": 61002,
+            "breakNum": 1,
+            "hitPercentage": 15
+        },
+        {
+            "id": 610022,
+            "weapon": 61002,
+            "breakNum": 2,
+            "hitPercentage": 30
+        },
+        {
+            "id": 610023,
+            "weapon": 61002,
+            "breakNum": 3,
+            "hitPercentage": 45
+        },
+        {
+            "id": 610024,
+            "weapon": 61002,
+            "breakNum": 4,
+            "hitPercentage": 60
+        },
+        {
+            "id": 610025,
+            "weapon": 61002,
+            "breakNum": 5,
+            "hitPercentage": 75
+        },
+        {
+            "id": 610030,
+            "weapon": 61003
+        },
+        {
+            "id": 610031,
+            "weapon": 61003,
+            "breakNum": 1,
+            "critMult": 75
+        },
+        {
+            "id": 610032,
+            "weapon": 61003,
+            "breakNum": 2,
+            "critMult": 150
+        },
+        {
+            "id": 610033,
+            "weapon": 61003,
+            "breakNum": 3,
+            "critMult": 225
+        },
+        {
+            "id": 610034,
+            "weapon": 61003,
+            "breakNum": 4,
+            "critMult": 300
+        },
+        {
+            "id": 610035,
+            "weapon": 61003,
+            "breakNum": 5,
+            "critMult": 375
+        },
+        {
+            "id": 610040,
+            "weapon": 61004
+        },
+        {
+            "id": 610041,
+            "weapon": 61004,
+            "breakNum": 1,
+            "crit": 15
+        },
+        {
+            "id": 610042,
+            "weapon": 61004,
+            "breakNum": 2,
+            "crit": 30
+        },
+        {
+            "id": 610043,
+            "weapon": 61004,
+            "breakNum": 3,
+            "crit": 45
+        },
+        {
+            "id": 610044,
+            "weapon": 61004,
+            "breakNum": 4,
+            "crit": 60
+        },
+        {
+            "id": 610045,
+            "weapon": 61004,
+            "breakNum": 5,
+            "crit": 75
+        },
+        {
+            "id": 610050,
+            "weapon": 61005,
+            "skill": 30050106
+        },
+        {
+            "id": 610051,
+            "weapon": 61005,
+            "breakNum": 1,
+            "crit": 25,
+            "skill": 30050101
+        },
+        {
+            "id": 610052,
+            "weapon": 61005,
+            "breakNum": 2,
+            "crit": 50,
+            "skill": 30050102
+        },
+        {
+            "id": 610053,
+            "weapon": 61005,
+            "breakNum": 3,
+            "crit": 75,
+            "skill": 30050103
+        },
+        {
+            "id": 610054,
+            "weapon": 61005,
+            "breakNum": 4,
+            "crit": 100,
+            "skill": 30050104
+        },
+        {
+            "id": 610055,
+            "weapon": 61005,
+            "breakNum": 5,
+            "crit": 125,
+            "skill": 30050105
+        },
+        {
+            "id": 610060,
+            "weapon": 61006,
+            "skill": 30060106
+        },
+        {
+            "id": 610061,
+            "weapon": 61006,
+            "breakNum": 1,
+            "critMult": 125,
+            "skill": 30060101
+        },
+        {
+            "id": 610062,
+            "weapon": 61006,
+            "breakNum": 2,
+            "critMult": 250,
+            "skill": 30060102
+        },
+        {
+            "id": 610063,
+            "weapon": 61006,
+            "breakNum": 3,
+            "critMult": 375,
+            "skill": 30060103
+        },
+        {
+            "id": 610064,
+            "weapon": 61006,
+            "breakNum": 4,
+            "critMult": 500,
+            "skill": 30060104
+        },
+        {
+            "id": 610065,
+            "weapon": 61006,
+            "breakNum": 5,
+            "critMult": 625,
+            "skill": 30060105
+        },
+        {
+            "id": 610070,
+            "weapon": 61007
+        },
+        {
+            "id": 610071,
+            "weapon": 61007,
+            "breakNum": 1,
+            "crit": 25
+        },
+        {
+            "id": 610072,
+            "weapon": 61007,
+            "breakNum": 2,
+            "crit": 50
+        },
+        {
+            "id": 610073,
+            "weapon": 61007,
+            "breakNum": 3,
+            "crit": 75
+        },
+        {
+            "id": 610074,
+            "weapon": 61007,
+            "breakNum": 4,
+            "crit": 100
+        },
+        {
+            "id": 610075,
+            "weapon": 61007,
+            "breakNum": 5,
+            "crit": 125
+        },
+        {
+            "id": 610080,
+            "weapon": 61008
+        },
+        {
+            "id": 610081,
+            "weapon": 61008,
+            "breakNum": 1,
+            "critMult": 100
+        },
+        {
+            "id": 610082,
+            "weapon": 61008,
+            "breakNum": 2,
+            "critMult": 200
+        },
+        {
+            "id": 610083,
+            "weapon": 61008,
+            "breakNum": 3,
+            "critMult": 300
+        },
+        {
+            "id": 610084,
+            "weapon": 61008,
+            "breakNum": 4,
+            "critMult": 400
+        },
+        {
+            "id": 610085,
+            "weapon": 61008,
+            "breakNum": 5,
+            "critMult": 500
+        },
+        {
+            "id": 610090,
+            "weapon": 61009
+        },
+        {
+            "id": 610091,
+            "weapon": 61009,
+            "breakNum": 1,
+            "hitPercentage": 20
+        },
+        {
+            "id": 610092,
+            "weapon": 61009,
+            "breakNum": 2,
+            "hitPercentage": 40
+        },
+        {
+            "id": 610093,
+            "weapon": 61009,
+            "breakNum": 3,
+            "hitPercentage": 60
+        },
+        {
+            "id": 610094,
+            "weapon": 61009,
+            "breakNum": 4,
+            "hitPercentage": 80
+        },
+        {
+            "id": 610095,
+            "weapon": 61009,
+            "breakNum": 5,
+            "hitPercentage": 100
+        },
+        {
+            "id": 610100,
+            "weapon": 61010
+        },
+        {
+            "id": 610101,
+            "weapon": 61010,
+            "breakNum": 1,
+            "hitPercentage": 25
+        },
+        {
+            "id": 610102,
+            "weapon": 61010,
+            "breakNum": 2,
+            "hitPercentage": 50
+        },
+        {
+            "id": 610103,
+            "weapon": 61010,
+            "breakNum": 3,
+            "hitPercentage": 75
+        },
+        {
+            "id": 610104,
+            "weapon": 61010,
+            "breakNum": 4,
+            "hitPercentage": 100
+        },
+        {
+            "id": 610105,
+            "weapon": 61010,
+            "breakNum": 5,
+            "hitPercentage": 125
+        },
+        {
+            "id": 610110,
+            "weapon": 61011
+        },
+        {
+            "id": 610111,
+            "weapon": 61011,
+            "breakNum": 1,
+            "hitPercentage": 15
+        },
+        {
+            "id": 610112,
+            "weapon": 61011,
+            "breakNum": 2,
+            "hitPercentage": 30
+        },
+        {
+            "id": 610113,
+            "weapon": 61011,
+            "breakNum": 3,
+            "hitPercentage": 45
+        },
+        {
+            "id": 610114,
+            "weapon": 61011,
+            "breakNum": 4,
+            "hitPercentage": 60
+        },
+        {
+            "id": 610115,
+            "weapon": 61011,
+            "breakNum": 5,
+            "hitPercentage": 75
+        },
+        {
+            "id": 610120,
+            "weapon": 61012,
+            "skill": 30120106
+        },
+        {
+            "id": 610121,
+            "weapon": 61012,
+            "breakNum": 1,
+            "hitPercentage": 25,
+            "skill": 30120101
+        },
+        {
+            "id": 610122,
+            "weapon": 61012,
+            "breakNum": 2,
+            "hitPercentage": 50,
+            "skill": 30120102
+        },
+        {
+            "id": 610123,
+            "weapon": 61012,
+            "breakNum": 3,
+            "hitPercentage": 75,
+            "skill": 30120103
+        },
+        {
+            "id": 610124,
+            "weapon": 61012,
+            "breakNum": 4,
+            "hitPercentage": 100,
+            "skill": 30120104
+        },
+        {
+            "id": 610125,
+            "weapon": 61012,
+            "breakNum": 5,
+            "hitPercentage": 125,
+            "skill": 30120105
+        },
+        {
+            "id": 610130,
+            "weapon": 61013
+        },
+        {
+            "id": 610131,
+            "weapon": 61013,
+            "breakNum": 1,
+            "crit": 25
+        },
+        {
+            "id": 610132,
+            "weapon": 61013,
+            "breakNum": 2,
+            "crit": 50
+        },
+        {
+            "id": 610133,
+            "weapon": 61013,
+            "breakNum": 3,
+            "crit": 75
+        },
+        {
+            "id": 610134,
+            "weapon": 61013,
+            "breakNum": 4,
+            "crit": 100
+        },
+        {
+            "id": 610135,
+            "weapon": 61013,
+            "breakNum": 5,
+            "crit": 125
+        },
+        {
+            "id": 610140,
+            "weapon": 61014,
+            "skill": 30140106
+        },
+        {
+            "id": 610141,
+            "weapon": 61014,
+            "breakNum": 1,
+            "critMult": 125,
+            "skill": 30140101
+        },
+        {
+            "id": 610142,
+            "weapon": 61014,
+            "breakNum": 2,
+            "critMult": 250,
+            "skill": 30140102
+        },
+        {
+            "id": 610143,
+            "weapon": 61014,
+            "breakNum": 3,
+            "critMult": 375,
+            "skill": 30140103
+        },
+        {
+            "id": 610144,
+            "weapon": 61014,
+            "breakNum": 4,
+            "critMult": 500,
+            "skill": 30140104
+        },
+        {
+            "id": 610145,
+            "weapon": 61014,
+            "breakNum": 5,
+            "critMult": 625,
+            "skill": 30140105
+        },
+        {
+            "id": 610150,
+            "weapon": 61015
+        },
+        {
+            "id": 610151,
+            "weapon": 61015,
+            "breakNum": 1,
+            "hitPercentage": 20
+        },
+        {
+            "id": 610152,
+            "weapon": 61015,
+            "breakNum": 2,
+            "hitPercentage": 40
+        },
+        {
+            "id": 610153,
+            "weapon": 61015,
+            "breakNum": 3,
+            "hitPercentage": 60
+        },
+        {
+            "id": 610154,
+            "weapon": 61015,
+            "breakNum": 4,
+            "hitPercentage": 80
+        },
+        {
+            "id": 610155,
+            "weapon": 61015,
+            "breakNum": 5,
+            "hitPercentage": 100
+        },
+        {
+            "id": 610160,
+            "weapon": 61016
+        },
+        {
+            "id": 610161,
+            "weapon": 61016,
+            "breakNum": 1,
+            "crit": 15
+        },
+        {
+            "id": 610162,
+            "weapon": 61016,
+            "breakNum": 2,
+            "crit": 30
+        },
+        {
+            "id": 610163,
+            "weapon": 61016,
+            "breakNum": 3,
+            "crit": 45
+        },
+        {
+            "id": 610164,
+            "weapon": 61016,
+            "breakNum": 4,
+            "crit": 60
+        },
+        {
+            "id": 610165,
+            "weapon": 61016,
+            "breakNum": 5,
+            "crit": 75
+        },
+        {
+            "id": 610170,
+            "weapon": 61017
+        },
+        {
+            "id": 610171,
+            "weapon": 61017,
+            "breakNum": 1,
+            "crit": 20
+        },
+        {
+            "id": 610172,
+            "weapon": 61017,
+            "breakNum": 2,
+            "crit": 40
+        },
+        {
+            "id": 610173,
+            "weapon": 61017,
+            "breakNum": 3,
+            "crit": 60
+        },
+        {
+            "id": 610174,
+            "weapon": 61017,
+            "breakNum": 4,
+            "crit": 80
+        },
+        {
+            "id": 610175,
+            "weapon": 61017,
+            "breakNum": 5,
+            "crit": 100
+        },
+        {
+            "id": 610190,
+            "weapon": 61019
+        },
+        {
+            "id": 610191,
+            "weapon": 61019,
+            "breakNum": 1,
+            "critMult": 75
+        },
+        {
+            "id": 610192,
+            "weapon": 61019,
+            "breakNum": 2,
+            "critMult": 150
+        },
+        {
+            "id": 610193,
+            "weapon": 61019,
+            "breakNum": 3,
+            "critMult": 225
+        },
+        {
+            "id": 610194,
+            "weapon": 61019,
+            "breakNum": 4,
+            "critMult": 300
+        },
+        {
+            "id": 610195,
+            "weapon": 61019,
+            "breakNum": 5,
+            "critMult": 375
+        },
+        {
+            "id": 610200,
+            "weapon": 61020
+        },
+        {
+            "id": 610201,
+            "weapon": 61020,
+            "breakNum": 1,
+            "crit": 20
+        },
+        {
+            "id": 610202,
+            "weapon": 61020,
+            "breakNum": 2,
+            "crit": 40
+        },
+        {
+            "id": 610203,
+            "weapon": 61020,
+            "breakNum": 3,
+            "crit": 60
+        },
+        {
+            "id": 610204,
+            "weapon": 61020,
+            "breakNum": 4,
+            "crit": 80
+        },
+        {
+            "id": 610205,
+            "weapon": 61020,
+            "breakNum": 5,
+            "crit": 100
+        },
+        {
+            "id": 610210,
+            "weapon": 61021
+        },
+        {
+            "id": 610211,
+            "weapon": 61021,
+            "breakNum": 1,
+            "critMult": 100
+        },
+        {
+            "id": 610212,
+            "weapon": 61021,
+            "breakNum": 2,
+            "critMult": 200
+        },
+        {
+            "id": 610213,
+            "weapon": 61021,
+            "breakNum": 3,
+            "critMult": 300
+        },
+        {
+            "id": 610214,
+            "weapon": 61021,
+            "breakNum": 4,
+            "critMult": 400
+        },
+        {
+            "id": 610215,
+            "weapon": 61021,
+            "breakNum": 5,
+            "critMult": 500
+        },
+        {
+            "id": 9500010,
+            "weapon": 950001
+        },
+        {
+            "id": 9500011,
+            "weapon": 950001,
+            "breakNum": 1
+        },
+        {
+            "id": 9500012,
+            "weapon": 950001,
+            "breakNum": 2
+        },
+        {
+            "id": 9500013,
+            "weapon": 950001,
+            "breakNum": 3
+        },
+        {
+            "id": 9500014,
+            "weapon": 950001,
+            "breakNum": 4
+        },
+        {
+            "id": 9500015,
+            "weapon": 950001,
+            "breakNum": 5
+        }
+    ]
+}

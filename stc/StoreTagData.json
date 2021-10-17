@@ -3,10 +3,10 @@
         {
             "id": 1,
             "name": {
-                "id": "4182"
+                "id": "3656"
             },
             "hintname": {
-                "id": "4183"
+                "id": "3657"
             },
             "showtype": 1,
             "icon": "Store_taginfo_Icon_tag1",
@@ -16,26 +16,26 @@
         {
             "id": 2,
             "name": {
-                "id": "4184"
+                "id": "3658"
             },
             "hintname": {
-                "id": "4185"
+                "id": "3659"
             },
             "icon": "Store_taginfo_Icon_tag2",
             "tradeItemList": "1,2",
             "type": "Blackmarket",
-            "unlock": 316,
+            "unlock": 16004,
             "playerRefresh": true,
             "refreshCurrency": 1,
-            "refreshPrice": "5:50,10:100,15:150,20:200"
+            "refreshPrice": "20:1,30:3,50:5,100:0"
         },
         {
             "id": 3,
             "name": {
-                "id": "4186"
+                "id": "3660"
             },
             "hintname": {
-                "id": "4187"
+                "id": "3661"
             },
             "icon": "Store_taginfo_Icon_tag3",
             "tradeItemList": "1,8",
@@ -44,10 +44,10 @@
         {
             "id": 4,
             "name": {
-                "id": "4188"
+                "id": "3662"
             },
             "hintname": {
-                "id": "4189"
+                "id": "3663"
             },
             "icon": "Store_taginfo_Icon_tag4",
             "tradeItemList": "1",
@@ -56,10 +56,10 @@
         {
             "id": 5,
             "name": {
-                "id": "4190"
+                "id": "3664"
             },
             "hintname": {
-                "id": "4191"
+                "id": "3665"
             },
             "icon": "Store_taginfo_Icon_tag5",
             "tradeItemList": "10",
@@ -68,10 +68,10 @@
         {
             "id": 6,
             "name": {
-                "id": "4192"
+                "id": "3666"
             },
             "hintname": {
-                "id": "4193"
+                "id": "3667"
             },
             "icon": "Store_taginfo_Icon_tag6",
             "tradeItemList": "1",
@@ -80,36 +80,36 @@
         {
             "id": 7,
             "name": {
-                "id": "4194"
+                "id": "3668"
             },
             "hintname": {
-                "id": "4195"
+                "id": "3669"
             },
             "icon": "Store_taginfo_Icon_tag7",
             "tradeItemList": "16",
             "type": "Exchange",
-            "unlock": 319
+            "unlock": 16005
         },
         {
             "id": 8,
             "name": {
-                "id": "4196"
+                "id": "3670"
             },
             "hintname": {
-                "id": "4197"
+                "id": "3671"
             },
             "icon": "Store_taginfo_Icon_tag8",
             "tradeItemList": "17",
-            "type": "Exchange",
-            "unlock": 318
+            "type": "Invisible",
+            "unlock": 16005
         },
         {
             "id": 9,
             "name": {
-                "id": "4198"
+                "id": "3672"
             },
             "hintname": {
-                "id": "4199"
+                "id": "3673"
             },
             "icon": "Store_taginfo_Icon_tag10",
             "tradeItemList": "14",
@@ -118,10 +118,10 @@
         {
             "id": 10,
             "name": {
-                "id": "4200"
+                "id": "3674"
             },
             "hintname": {
-                "id": "4199"
+                "id": "3673"
             },
             "icon": "Store_taginfo_Icon_tag10",
             "tradeItemList": "15",
@@ -130,10 +130,10 @@
         {
             "id": 11,
             "name": {
-                "id": "4201"
+                "id": "3675"
             },
             "hintname": {
-                "id": "4202"
+                "id": "3676"
             },
             "icon": "Store_taginfo_Icon_tag10",
             "tradeItemList": "1",
@@ -142,10 +142,10 @@
         {
             "id": 12,
             "name": {
-                "id": "4203"
+                "id": "3677"
             },
             "hintname": {
-                "id": "4204"
+                "id": "3678"
             },
             "showtype": 2,
             "icon": "Store_taginfo_Icon_tag10",
@@ -155,10 +155,10 @@
         {
             "id": 13,
             "name": {
-                "id": "4205"
+                "id": "3679"
             },
             "hintname": {
-                "id": "4206"
+                "id": "3680"
             },
             "icon": "Store_taginfo_Icon_tag3",
             "tradeItemList": "8",
@@ -167,23 +167,23 @@
         {
             "id": 14,
             "name": {
-                "id": "4207"
+                "id": "3681"
             },
             "hintname": {
-                "id": "4208"
+                "id": "3682"
             },
             "icon": "Store_taginfo_Icon_tag3",
             "tradeItemList": "3",
-            "type": "Exchange",
-            "unlock": 312
+            "type": "Invisible",
+            "unlock": 16003
         },
         {
             "id": 15,
             "name": {
-                "id": "4209"
+                "id": "3683"
             },
             "hintname": {
-                "id": "4210"
+                "id": "3684"
             },
             "icon": "Store_taginfo_Icon_tag10",
             "tradeItemList": "1",
@@ -192,14 +192,27 @@
         {
             "id": 16,
             "name": {
-                "id": "4211"
+                "id": "3685"
             },
             "hintname": {
-                "id": "4212"
+                "id": "3686"
             },
             "icon": "Store_taginfo_Icon_tag10",
             "tradeItemList": "1",
             "type": "Shop"
+        },
+        {
+            "id": 17,
+            "name": {
+                "id": "3687"
+            },
+            "hintname": {
+                "id": "3688"
+            },
+            "icon": "Store_taginfo_Icon_tag9",
+            "tradeItemList": "13",
+            "type": "Exchange",
+            "unlock": 16008
         }
     ]
 }

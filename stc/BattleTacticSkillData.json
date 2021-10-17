@@ -2,8 +2,8 @@
     "data": [
         {
             "id": 101,
-            "name": "对地扫射",
-            "detail": "选定一个1×1的区域，使用对地机枪对该区域扫射并造成伤害。扫射可执行2次。",
+            "name": "迷你炮机枪",
+            "detail": "选取战场内的任意敌方目标，对其造成自身攻击<color=#F26C1C>100%</color>的伤害，可选取<color=#F26C1C>2次</color>。",
             "video": 1005,
             "camera": 1,
             "ui": "Missile",
@@ -12,27 +12,27 @@
                 102
             ],
             "teCost": 40,
-            "stock": 1,
+            "stock": 99,
             "filter": "TacticSkill/AC130CameraPP.asset",
             "icon": "Skill_Tactic1"
         },
         {
             "id": 102,
             "name": "DS9战术支援炮塔",
-            "detail": "选定一个1×1的区域，在该区域空投一个炮塔。若炮塔在5个我方回合之内未被摧毁，则将在第6个我方回合开始时自行销毁。",
+            "detail": "选定一个<color=#F26C1C>1×1</color>的区域，在该区域空投一个炮塔。若炮塔在<color=#F26C1C>5个</color>我方回合之内未被摧毁，则将在第<color=#F26C1C>6个</color>我方回合开始时自行销毁。",
             "camera": 2,
             "ui": "NormalSkill",
             "skillList": [
                 106
             ],
             "teCost": 60,
-            "stock": 1,
+            "stock": 99,
             "icon": "Skill_Tactic4"
         },
         {
             "id": 103,
             "name": "寻敌导弹",
-            "detail": "选定一个7×7的区域，使用导弹对该区域造成伤害。",
+            "detail": "选定一个7×7的区域，使用导弹对该区域造成100%伤害。",
             "video": 1001,
             "camera": 1,
             "ui": "AirGunShip",
@@ -40,7 +40,7 @@
                 103
             ],
             "teCost": 70,
-            "stock": 1,
+            "stock": 99,
             "filter": "TacticSkill/AC130CameraPP.asset",
             "icon": "Skill_Tactic3"
         },
@@ -55,7 +55,7 @@
                 101
             ],
             "teCost": 20,
-            "stock": 1,
+            "stock": 99,
             "filter": "TacticSkill/AC130CameraPP.asset",
             "icon": "Skill_Tactic2"
         },
@@ -65,7 +65,7 @@
             "video": 1003,
             "autoSkillList": 104,
             "teCost": 30,
-            "stock": 1,
+            "stock": 99,
             "icon": "Skill_Tactic7"
         },
         {
@@ -78,8 +78,568 @@
                 105
             ],
             "teCost": 30,
-            "stock": 1,
+            "stock": 99,
             "icon": "Skill_Tactic7"
+        },
+        {
+            "id": 107,
+            "name": "全局大招——机枪车",
+            "detail": "选定一个1×1的区域，在该区域空投一个机枪车。若炮塔在5个我方回合之内未被摧毁，则将在第6个我方回合开始时自行销毁。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                107
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic7"
+        },
+        {
+            "id": 1011,
+            "name": "迷你炮机枪 Lv.1",
+            "detail": "选取战场内的任意敌方目标，对其造成自身攻击<color=#F26C1C>100%</color>的伤害，可选取<color=#F26C1C>2次</color>。",
+            "video": 1005,
+            "camera": 1,
+            "ui": "Missile",
+            "skillList": [
+                1021,
+                1021
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic1"
+        },
+        {
+            "id": 1012,
+            "name": "迷你炮机枪 Lv.2",
+            "detail": "选取战场内的任意敌方目标，对其造成自身攻击<color=#F26C1C>112%</color>的伤害，可选取<color=#F26C1C>2次</color>。",
+            "upgradeDescription": "伤害增加至<color=#F26C1C>112%</color>。",
+            "video": 1005,
+            "camera": 1,
+            "ui": "Missile",
+            "skillList": [
+                1022,
+                1022
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic1"
+        },
+        {
+            "id": 1013,
+            "name": "迷你炮机枪 Lv.3",
+            "detail": "选取战场内的任意敌方目标，对其造成自身攻击<color=#F26C1C>112%</color>的伤害，可选取<color=#F26C1C>3次</color>。",
+            "upgradeDescription": "可执行次数增加至<color=#F26C1C>3次</color>。",
+            "video": 1005,
+            "camera": 1,
+            "ui": "Missile",
+            "skillList": [
+                1023,
+                1023,
+                1023
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic1"
+        },
+        {
+            "id": 1014,
+            "name": "迷你炮机枪 Lv.4",
+            "detail": "选取战场内的任意敌方目标，对其造成自身攻击<color=#F26C1C>120%</color>的伤害，可选取<color=#F26C1C>3次</color>。",
+            "upgradeDescription": "伤害增加至<color=#F26C1C>120%</color>。",
+            "video": 1005,
+            "camera": 1,
+            "ui": "Missile",
+            "skillList": [
+                1024,
+                1024,
+                1024
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic1"
+        },
+        {
+            "id": 1015,
+            "name": "迷你炮机枪 Lv.5",
+            "detail": "选取战场内的任意敌方目标，对其造成自身攻击<color=#F26C1C>128%</color>的伤害，可选取<color=#F26C1C>3次</color>。",
+            "upgradeDescription": "伤害增加至<color=#F26C1C>128%</color>。",
+            "video": 1005,
+            "camera": 1,
+            "ui": "Missile",
+            "skillList": [
+                1025,
+                1025,
+                1025
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic1"
+        },
+        {
+            "id": 1016,
+            "name": "迷你炮机枪 Lv.6",
+            "detail": "选取战场内的任意敌方目标，对其造成自身攻击<color=#F26C1C>130%</color>的伤害，可选取<color=#F26C1C>4次</color>。",
+            "upgradeDescription": "伤害增加至<color=#F26C1C>130%</color>伤害，可执行次数增加至<color=#F26C1C>4次</color>。",
+            "video": 1005,
+            "camera": 1,
+            "ui": "Missile",
+            "skillList": [
+                1026,
+                1026,
+                1026,
+                1026
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic1"
+        },
+        {
+            "id": 1021,
+            "name": "固定炮塔 Lv.1",
+            "detail": "可用于在指定地格投放。我方回合结束时，固定炮塔将对敌方单位进行<color=#F26C1C>1次</color>攻击。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "固定炮塔伤害提升至<color=#F26C1C>90%</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1061
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic4"
+        },
+        {
+            "id": 1022,
+            "name": "固定炮塔 Lv.2",
+            "detail": "可用于在指定地格投放。我方回合结束时，固定炮塔将对敌方单位进行<color=#F26C1C>1次</color>攻击。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "固定炮塔伤害提升至<color=#F26C1C>96%</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1062
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic4"
+        },
+        {
+            "id": 1023,
+            "name": "固定炮塔 Lv.3",
+            "detail": "可用于在指定地格投放。我方回合结束时，固定炮塔将对敌方单位进行<color=#F26C1C>2次</color>攻击。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "固定炮塔伤害提升至<color=#F26C1C>102%</color>，攻击次数提升为<color=#F26C1C>2次</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1063
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic4"
+        },
+        {
+            "id": 1024,
+            "name": "固定炮塔 Lv.4",
+            "detail": "可用于在指定地格投放。我方回合结束时，固定炮塔将对敌方单位进行<color=#F26C1C>2次</color>攻击。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "固定炮塔伤害提升至<color=#F26C1C>107%</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1064
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic4"
+        },
+        {
+            "id": 1025,
+            "name": "固定炮塔 Lv.5",
+            "detail": "可用于在指定地格投放。我方回合结束时，固定炮塔将对敌方单位进行<color=#F26C1C>2次</color>攻击。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "固定炮塔伤害提升至<color=#F26C1C>112%</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1065
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic4"
+        },
+        {
+            "id": 1026,
+            "name": "固定炮塔 Lv.6",
+            "detail": "可用于在指定地格投放。我方回合结束时，固定炮塔将对敌方单位进行<color=#F26C1C>3次</color>攻击。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "固定炮塔伤害提升至<color=#F26C1C>115%</color>，攻击次数提升为<color=#F26C1C>3次</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1066
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic4"
+        },
+        {
+            "id": 1031,
+            "name": "寻敌导弹 Lv.1",
+            "detail": "选取战场内的<color=#F26C1C>1个</color>地格目标，对其及其周围<color=#F26C1C>3×3格</color>范围内的所有敌方单位造成自身攻击<color=#F26C1C>100%</color>的群体伤害。",
+            "video": 1001,
+            "camera": 1,
+            "ui": "AirGunShip",
+            "skillList": [
+                1031
+            ],
+            "teCost": 70,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic3"
+        },
+        {
+            "id": 1032,
+            "name": "寻敌导弹 Lv.2",
+            "detail": "选取战场内的<color=#F26C1C>1个</color>地格目标，对其及其周围<color=#F26C1C>3×3格</color>范围内的所有敌方单位造成自身攻击<color=#F26C1C>112%</color>的群体伤害。",
+            "upgradeDescription": "伤害增加至<color=#F26C1C>112%</color>。",
+            "video": 1001,
+            "camera": 1,
+            "ui": "AirGunShip",
+            "skillList": [
+                1032
+            ],
+            "teCost": 70,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic3"
+        },
+        {
+            "id": 1033,
+            "name": "寻敌导弹 Lv.3",
+            "detail": "选取战场内的<color=#F26C1C>1个</color>地格目标，对其及其周围<color=#F26C1C>3×3格</color>范围内的所有敌方单位造成自身攻击<color=#F26C1C>125%</color>的群体伤害。",
+            "upgradeDescription": "伤害增加至<color=#F26C1C>125%</color>。",
+            "video": 1001,
+            "camera": 1,
+            "ui": "AirGunShip",
+            "skillList": [
+                1033
+            ],
+            "teCost": 70,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic3"
+        },
+        {
+            "id": 1034,
+            "name": "寻敌导弹 Lv.4",
+            "detail": "选取战场内的<color=#F26C1C>1个</color>地格目标，对其及其周围<color=#F26C1C>3×3格</color>范围内的所有敌方单位造成自身攻击<color=#F26C1C>137%</color>的群体伤害。",
+            "upgradeDescription": "伤害增加至<color=#F26C1C>137%</color>。",
+            "video": 1001,
+            "camera": 1,
+            "ui": "AirGunShip",
+            "skillList": [
+                1034
+            ],
+            "teCost": 70,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic3"
+        },
+        {
+            "id": 1035,
+            "name": "寻敌导弹 Lv.5",
+            "detail": "选取战场内的<color=#F26C1C>1个</color>地格目标，对其及其周围<color=#F26C1C>5×5格</color>范围内的所有敌方单位造成自身攻击<color=#F26C1C>140%</color>的群体伤害。",
+            "upgradeDescription": "伤害增加至<color=#F26C1C>140%</color>。",
+            "video": 1001,
+            "camera": 1,
+            "ui": "AirGunShip",
+            "skillList": [
+                1035
+            ],
+            "teCost": 70,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic3"
+        },
+        {
+            "id": 1036,
+            "name": "寻敌导弹 Lv.6",
+            "detail": "选取战场内的<color=#F26C1C>1个</color>地格目标，对其及其周围<color=#F26C1C>5×5格</color>范围内的所有敌方单位造成自身攻击<color=#F26C1C>150%</color>的群体伤害。",
+            "upgradeDescription": "伤害增加至<color=#F26C1C>150%</color>。",
+            "video": 1001,
+            "camera": 1,
+            "ui": "AirGunShip",
+            "skillList": [
+                1036
+            ],
+            "teCost": 70,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic3"
+        },
+        {
+            "id": 1071,
+            "name": "巡回式机枪车 Lv.1",
+            "detail": "可用于在指定地格投放。巡回式机枪车将依据自身移动逻辑攻击敌方单位。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "机枪车攻击造成<color=#F26C1C>110%</color>的伤害。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1071
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic7"
+        },
+        {
+            "id": 1072,
+            "name": "巡回式机枪车 Lv.2",
+            "detail": "可用于在指定地格投放。巡回式机枪车将依据自身移动逻辑攻击敌方单位。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "机枪车攻击造成<color=#F26C1C>128%</color>的伤害。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1072
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic7"
+        },
+        {
+            "id": 1073,
+            "name": "巡回式机枪车 Lv.3",
+            "detail": "可用于在指定地格投放。巡回式机枪车将依据自身移动逻辑攻击敌方单位。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "机枪车攻击造成<color=#F26C1C>135%</color>的伤害，生命值为<color=#F26C1C>0</color>时爆炸。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1073
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic7"
+        },
+        {
+            "id": 1074,
+            "name": "巡回式机枪车 Lv.4",
+            "detail": "可用于在指定地格投放。巡回式机枪车将依据自身移动逻辑攻击敌方单位。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "机枪车攻击造成<color=#F26C1C>150%</color>的伤害，生命值为<color=#F26C1C>0</color>时爆炸。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1074
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic7"
+        },
+        {
+            "id": 1075,
+            "name": "巡回式机枪车 Lv.5",
+            "detail": "可用于在指定地格投放。巡回式机枪车将依据自身移动逻辑攻击敌方单位。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "机枪车攻击造成<color=#F26C1C>165%</color>的伤害，生命值为<color=#F26C1C>0</color>时爆炸。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1075
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic7"
+        },
+        {
+            "id": 1076,
+            "name": "巡回式机枪车 Lv.6",
+            "detail": "可用于在指定地格投放。巡回式机枪车将依据自身移动逻辑攻击敌方单位。<color=#F26C1C>3回合后</color>自动销毁。",
+            "upgradeDescription": "机枪车攻击造成<color=#F26C1C>180%</color>的伤害，生命值为<color=#F26C1C>0</color>时爆炸。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1076
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic7"
+        },
+        {
+            "id": 1081,
+            "name": "应急维修组件 Lv.1",
+            "detail": "可在指定地格投放<color=#F26C1C>1个</color>应急维修组件，激活该组件者将回复自身最大生命值的<color=#F26C1C>50%</color>并获得行动追加。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1081
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic8"
+        },
+        {
+            "id": 1082,
+            "name": "应急维修组件 Lv.2",
+            "detail": "可在指定地格投放<color=#F26C1C>1个</color>应急维修组件，激活该组件者将回复自身最大生命值的<color=#F26C1C>62%</color>并获得行动追加。",
+            "upgradeDescription": "回复最大生命值增加至<color=#F26C1C>62%</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1082
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic8"
+        },
+        {
+            "id": 1083,
+            "name": "应急维修组件 Lv.3",
+            "detail": "可在指定地格投放<color=#F26C1C>1个</color>应急维修组件，激活该组件者将回复自身最大生命值的<color=#F26C1C>75%</color>并获得行动追加。",
+            "upgradeDescription": "回复最大生命值增加至<color=#F26C1C>75%</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1083
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic8"
+        },
+        {
+            "id": 1084,
+            "name": "应急维修组件 Lv.4",
+            "detail": "可在指定地格投放<color=#F26C1C>1个</color>应急维修组件，激活该组件者将回复自身最大生命值的<color=#F26C1C>87%</color>并获得行动追加。",
+            "upgradeDescription": "回复最大生命值增加至<color=#F26C1C>87%</color>",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1084
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic8"
+        },
+        {
+            "id": 1085,
+            "name": "应急维修组件 Lv.5",
+            "detail": "可在指定地格投放<color=#F26C1C>2个</color>应急维修组件，激活该组件者将回复自身最大生命值的<color=#F26C1C>92%</color>并获得行动追加。",
+            "upgradeDescription": "回复最大生命值增加至<color=#F26C1C>92%</color>，且可投放数量增加至<color=#F26C1C>2个</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1085
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic8"
+        },
+        {
+            "id": 1086,
+            "name": "应急维修组件 Lv.6",
+            "detail": "可在指定地格投放<color=#F26C1C>2个</color>应急维修组件，激活该组件者将回复自身最大生命值的<color=#F26C1C>100%</color>并获得行动追加。",
+            "upgradeDescription": "回复最大生命值增加至<color=#F26C1C>100%</color>",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1086,
+                1086
+            ],
+            "teCost": 60,
+            "stock": 99,
+            "icon": "Skill_Tactic8"
+        },
+        {
+            "id": 1091,
+            "name": "短效爆发组件 Lv.1",
+            "detail": "可在指定地格投放<color=#F26C1C>1个</color>短效爆发组件，激活该组件者将获得<color=#F26C1C>5点</color>导染指数及行动追加。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1091
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic9"
+        },
+        {
+            "id": 1092,
+            "name": "短效爆发组件 Lv.2",
+            "detail": "可在指定地格投放<color=#F26C1C>1个</color>短效爆发组件，激活该组件者将获得<color=#F26C1C>7点</color>导染指数及行动追加。",
+            "upgradeDescription": "导染指数提升至<color=#F26C1C>7点</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1092
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic9"
+        },
+        {
+            "id": 1093,
+            "name": "短效爆发组件 Lv.3",
+            "detail": "可在指定地格投放<color=#F26C1C>2个</color>短效爆发组件，激活该组件者将获得<color=#F26C1C>7点</color>导染指数及行动追加。",
+            "upgradeDescription": "可投放数量增加至<color=#F26C1C>2个</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1093,
+                1093
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic9"
+        },
+        {
+            "id": 1094,
+            "name": "短效爆发组件 Lv.4",
+            "detail": "可在指定地格投放<color=#F26C1C>2个</color>短效爆发组件，激活该组件者将获得<color=#F26C1C>8点</color>导染指数及行动追加。",
+            "upgradeDescription": "导染指数提升至<color=#F26C1C>8点</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1094,
+                1094
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic9"
+        },
+        {
+            "id": 1095,
+            "name": "短效爆发组件 Lv.5",
+            "detail": "可在指定地格投放<color=#F26C1C>2个</color>短效爆发组件，激活该组件者将获得<color=#F26C1C>9点</color>导染指数及行动追加。",
+            "upgradeDescription": "导染指数提升至<color=#F26C1C>9点</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1095,
+                1095
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic9"
+        },
+        {
+            "id": 1096,
+            "name": "短效爆发组件 Lv.6",
+            "detail": "可在指定地格投放<color=#F26C1C>3个</color>短效爆发组件，激活该组件者将获得<color=#F26C1C>10点</color>导染指数及行动追加。",
+            "upgradeDescription": "导染指数提升至<color=#F26C1C>10</color>，可投放数量增加至<color=#F26C1C>3个</color>。",
+            "camera": 2,
+            "ui": "NormalSkill",
+            "skillList": [
+                1096,
+                1096,
+                1096
+            ],
+            "teCost": 40,
+            "stock": 99,
+            "filter": "TacticSkill/AC130CameraPP.asset",
+            "icon": "Skill_Tactic9"
         }
     ]
 }

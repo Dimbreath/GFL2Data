@@ -3,56 +3,75 @@
         {
             "id": 1,
             "labelName": {
-                "id": "2751"
+                "id": "2023"
             },
-            "labelSequence": 3,
+            "labelSequence": 5,
             "subclassType": 1,
             "icon": "Icon_SimCombat_Equip"
         },
         {
             "id": 2,
             "labelName": {
-                "id": "2752"
+                "id": "2024"
             },
-            "labelSequence": 2,
+            "labelSequence": 4,
             "subclassType": 1,
             "icon": "Icon_SimCombat_Equip"
         },
         {
             "id": 3,
             "labelName": {
-                "id": "2753"
+                "id": "2025"
             },
-            "labelSequence": 1,
+            "labelSequence": 3,
             "subclassType": 1,
             "icon": "Icon_SimCombat_Equip"
         },
         {
             "id": 4,
             "labelName": {
-                "id": "2754"
+                "id": "2026"
             },
+            "labelSequence": 2,
             "subclassType": 1,
             "icon": "Icon_SimCombat_Equip"
         },
         {
             "id": 5,
             "labelName": {
-                "id": "2755"
+                "id": "2027"
             },
-            "subclassType": 2
+            "labelSequence": 1,
+            "subclassType": 1,
+            "icon": "Icon_SimCombat_Equip"
         },
         {
             "id": 6,
             "labelName": {
-                "id": "2756"
+                "id": "2028"
             },
-            "subclassType": 3
+            "subclassType": 1,
+            "icon": "Icon_SimCombat_Equip"
         },
         {
             "id": 7,
             "labelName": {
-                "id": "2757"
+                "id": "2029"
+            },
+            "subclassType": 2,
+            "icon": "Icon_SimCombat_Equip"
+        },
+        {
+            "id": 8,
+            "labelName": {
+                "id": "2030"
+            },
+            "subclassType": 3
+        },
+        {
+            "id": 9,
+            "labelName": {
+                "id": "2031"
             },
             "labelSequence": 4,
             "subclassType": 4,
@@ -60,9 +79,9 @@
             "elementId": 1
         },
         {
-            "id": 8,
+            "id": 10,
             "labelName": {
-                "id": "2758"
+                "id": "2032"
             },
             "labelSequence": 3,
             "subclassType": 4,
@@ -70,9 +89,9 @@
             "elementId": 2
         },
         {
-            "id": 9,
+            "id": 11,
             "labelName": {
-                "id": "2759"
+                "id": "2033"
             },
             "labelSequence": 2,
             "subclassType": 4,
@@ -80,9 +99,9 @@
             "elementId": 3
         },
         {
-            "id": 10,
+            "id": 12,
             "labelName": {
-                "id": "2760"
+                "id": "2034"
             },
             "labelSequence": 1,
             "subclassType": 4,
@@ -90,27 +109,53 @@
             "elementId": 5
         },
         {
-            "id": 11,
+            "id": 13,
             "labelName": {
-                "id": "2761"
+                "id": "2035"
             },
             "subclassType": 4,
             "icon": "Icon_SimCombat_Collapse",
             "elementId": 4
         },
         {
-            "id": 12,
+            "id": 14,
             "labelName": {
-                "id": "2762"
+                "id": "2036"
             },
             "subclassType": 5
         },
         {
-            "id": 13,
+            "id": 15,
             "labelName": {
-                "id": "2763"
+                "id": "2037"
             },
             "subclassType": 6
+        },
+        {
+            "id": 16,
+            "labelName": {
+                "id": "2038"
+            },
+            "subclassType": 7,
+            "icon": "Icon_SimCombat_Equip",
+            "itemId": 20
+        },
+        {
+            "id": 17,
+            "labelName": {
+                "id": "2039"
+            },
+            "subclassType": 8,
+            "icon": "Icon_SimCombat_Equip",
+            "itemId": 21
+        },
+        {
+            "id": 18,
+            "labelName": {
+                "id": "2040"
+            },
+            "subclassType": 9,
+            "icon": "Icon_SimCombat_Equip"
         }
     ]
 }

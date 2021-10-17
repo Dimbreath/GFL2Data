@@ -88,6 +88,11 @@
             "id": 15,
             "damageType": 4,
             "isCritical": 1
+        },
+        {
+            "id": 16,
+            "damageType": 1,
+            "isHit": 1
         }
     ]
 }

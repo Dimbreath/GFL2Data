@@ -3,7 +3,7 @@
         {
             "id": 5,
             "platform": "All",
-            "name": "模组背包栏*5",
+            "name": "模组背包栏×5",
             "reward": {
                 "4": 5
             },
@@ -17,7 +17,7 @@
         {
             "id": 6,
             "platform": "All",
-            "name": "武器背包栏*5",
+            "name": "武器背包栏×5",
             "reward": {
                 "5": 5
             },
@@ -31,15 +31,15 @@
         {
             "id": 1001,
             "platform": "All",
-            "name": "60颗钻石",
+            "name": "坍塌晶条60块",
             "reward": {
                 "1": 60
             },
             "firstBuyReward": {
                 "1": 60
             },
-            "description": "60颗钻石",
-            "firstBuyDescription": "60颗钻石(首次赠送60)",
+            "description": "坍塌晶条60块",
+            "firstBuyDescription": "坍塌晶条60块(首次赠送60)",
             "tag": 1,
             "icon": "Item_Icon_Diamond",
             "sort": 1,
@@ -48,7 +48,7 @@
         {
             "id": 1002,
             "platform": "All",
-            "name": "300颗钻石",
+            "name": "坍塌晶条300块",
             "reward": {
                 "1": 300
             },
@@ -58,8 +58,8 @@
             "firstBuyReward": {
                 "1": 300
             },
-            "description": "300颗钻石(另外赠送30)",
-            "firstBuyDescription": "300颗钻石(首次赠送300)",
+            "description": "坍塌晶条300块(另外赠送30)",
+            "firstBuyDescription": "坍塌晶条300块(首次赠送300)",
             "tag": 1,
             "icon": "Item_Icon_Diamond",
             "sort": 2,
@@ -68,7 +68,7 @@
         {
             "id": 1003,
             "platform": "All",
-            "name": "680颗钻石",
+            "name": "坍塌晶条680块",
             "reward": {
                 "1": 680
             },
@@ -78,8 +78,8 @@
             "firstBuyReward": {
                 "1": 680
             },
-            "description": "680颗钻石(另外赠送80)",
-            "firstBuyDescription": "680颗钻石(首次赠送680)",
+            "description": "坍塌晶条680块(另外赠送80)",
+            "firstBuyDescription": "坍塌晶条680块(首次赠送680)",
             "tag": 1,
             "icon": "Item_Icon_Diamond",
             "sort": 3,
@@ -88,7 +88,7 @@
         {
             "id": 1004,
             "platform": "All",
-            "name": "1280颗钻石",
+            "name": "坍塌晶条1280块",
             "reward": {
                 "1": 1280
             },
@@ -98,8 +98,8 @@
             "firstBuyReward": {
                 "1": 1280
             },
-            "description": "1280颗钻石(另外赠送200)",
-            "firstBuyDescription": "1280颗钻石(首次赠送1280)",
+            "description": "坍塌晶条1280块(另外赠送200)",
+            "firstBuyDescription": "坍塌晶条1280块(首次赠送1280)",
             "tag": 1,
             "icon": "Item_Icon_Diamond",
             "sort": 4,
@@ -108,7 +108,7 @@
         {
             "id": 1005,
             "platform": "All",
-            "name": "3280颗钻石",
+            "name": "坍塌晶条3280块",
             "reward": {
                 "1": 3280
             },
@@ -118,8 +118,8 @@
             "firstBuyReward": {
                 "1": 3280
             },
-            "description": "3280颗钻石(另外赠送600)",
-            "firstBuyDescription": "3280颗钻石(首次赠送3280)",
+            "description": "坍塌晶条3280块(另外赠送600)",
+            "firstBuyDescription": "坍塌晶条3280块(首次赠送3280)",
             "tag": 1,
             "icon": "Item_Icon_Diamond",
             "sort": 5,
@@ -128,7 +128,7 @@
         {
             "id": 1006,
             "platform": "All",
-            "name": "6480颗钻石",
+            "name": "坍塌晶条6480块",
             "reward": {
                 "1": 6480
             },
@@ -138,8 +138,8 @@
             "firstBuyReward": {
                 "1": 6480
             },
-            "description": "6480颗钻石(另外赠送1600)",
-            "firstBuyDescription": "6480颗钻石(首次赠送6480)",
+            "description": "坍塌晶条6480块(另外赠送1600)",
+            "firstBuyDescription": "坍塌晶条60块6480(首次赠送6480)",
             "tag": 1,
             "icon": "Item_Icon_Diamond",
             "sort": 6,
@@ -148,108 +148,86 @@
         {
             "id": 3001,
             "platform": "All",
-            "name": "1张扭蛋券",
+            "name": "访问许可×1",
             "reward": {
                 "12": 1
             },
-            "description": "1张扭蛋券",
-            "firstBuyDescription": "1张扭蛋券",
+            "description": "只是几串简洁的代码，但当使用它们接入萨迩数据库时，就有可能带回意想不到的惊喜……唔，注意控制使用次数。\n可用于购置。",
+            "firstBuyDescription": "只是几串简洁的代码，但当使用它们接入萨迩数据库时，就有可能带回意想不到的惊喜……唔，注意控制使用次数。\n可用于购置。",
             "tag": 3,
             "icon": "Item_Icon_GachaTicket",
             "sort": 1,
             "rank": 5,
-            "unlock": 103
+            "unlock": 13000
         },
         {
             "id": 3002,
             "platform": "All",
-            "name": "10张扭蛋券",
+            "name": "访问许可×10",
             "reward": {
                 "12": 10
             },
-            "buyReward": {
-                "2": 50000
-            },
-            "firstBuyReward": {
-                "2": 50000
-            },
-            "description": "10张扭蛋券(另外赠送50,000金币)",
-            "firstBuyDescription": "10张扭蛋券(另外赠送50,000金币)",
+            "description": "只是几串简洁的代码，但当使用它们接入萨迩数据库时，就有可能带回意想不到的惊喜……唔，注意控制使用次数。\n可用于购置。",
+            "firstBuyDescription": "只是几串简洁的代码，但当使用它们接入萨迩数据库时，就有可能带回意想不到的惊喜……唔，注意控制使用次数。\n可用于购置。",
             "tag": 3,
             "icon": "Item_Icon_GachaTicket",
             "sort": 2,
             "rank": 5,
-            "unlock": 103
+            "unlock": 13000
         },
         {
             "id": 3003,
             "platform": "All",
-            "name": "100,000萨狄斯金",
+            "name": "萨狄斯金50,000盎司",
             "reward": {
-                "2": 100000
+                "2": 50000
             },
-            "buyReward": {
-                "2": 15000
-            },
-            "firstBuyReward": {
-                "2": 15000
-            },
-            "description": "100,000萨狄斯金(另外赠送15,000)",
-            "firstBuyDescription": "100,000萨狄斯金(另外赠送15,000)",
+            "description": "曾经和现在都广为流通的一般等价物，是上至显赫高官下至污染区平民都不会拒绝的稀有贵金属。“我的新年愿望是被成堆的萨狄斯金淹没。”\n可用于购买指定物资。",
+            "firstBuyDescription": "曾经和现在都广为流通的一般等价物，是上至显赫高官下至污染区平民都不会拒绝的稀有贵金属。“我的新年愿望是被成堆的萨狄斯金淹没。”\n可用于购买指定物资。",
             "tag": 3,
             "icon": "Item_Icon_Cash",
             "sort": 3,
-            "rank": 2
+            "rank": 3
         },
         {
             "id": 3004,
             "platform": "All",
-            "name": "500,000萨狄斯金",
+            "name": "萨狄斯金300,000盎司",
             "reward": {
-                "2": 500000
+                "2": 300000
             },
-            "buyReward": {
-                "2": 100000
-            },
-            "firstBuyReward": {
-                "2": 100000
-            },
-            "description": "500,000萨狄斯金(另外赠送100,000)",
-            "firstBuyDescription": "500,000萨狄斯金(另外赠送100,000)",
+            "description": "曾经和现在都广为流通的一般等价物，是上至显赫高官下至污染区平民都不会拒绝的稀有贵金属。“我的新年愿望是被成堆的萨狄斯金淹没。”\n可用于购买指定物资。",
+            "firstBuyDescription": "曾经和现在都广为流通的一般等价物，是上至显赫高官下至污染区平民都不会拒绝的稀有贵金属。“我的新年愿望是被成堆的萨狄斯金淹没。”\n可用于购买指定物资。",
             "tag": 3,
             "icon": "Item_Icon_Cash",
             "sort": 4,
-            "rank": 2
+            "rank": 4
         },
         {
             "id": 3005,
             "platform": "All",
-            "name": "1,000,000萨狄斯金",
+            "name": "萨狄斯金2,000,000盎司",
             "reward": {
-                "2": 1000000
+                "2": 2000000
             },
-            "buyReward": {
-                "2": 250000
-            },
-            "firstBuyReward": {
-                "2": 250000
-            },
-            "description": "1,000,000萨狄斯金(另外赠送250,000)",
-            "firstBuyDescription": "1,000,000萨狄斯金(另外赠送250,000)",
+            "description": "曾经和现在都广为流通的一般等价物，是上至显赫高官下至污染区平民都不会拒绝的稀有贵金属。“我的新年愿望是被成堆的萨狄斯金淹没。”\n可用于购买指定物资。",
+            "firstBuyDescription": "曾经和现在都广为流通的一般等价物，是上至显赫高官下至污染区平民都不会拒绝的稀有贵金属。“我的新年愿望是被成堆的萨狄斯金淹没。”\n可用于购买指定物资。",
             "tag": 3,
             "icon": "Item_Icon_Cash",
             "sort": 5,
-            "rank": 2
+            "rank": 5
         },
         {
             "id": 3006,
             "platform": "All",
-            "name": "情报拼图*100",
+            "name": "情报拼图×100",
             "reward": {
                 "101": 100
             },
-            "description": "玩家进行战斗需要消耗的道具。",
-            "firstBuyDescription": "玩家进行战斗需要消耗的道具。",
+            "limit": 1,
+            "jumpId": 3060,
+            "description": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
+            "firstBuyDescription": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
             "tag": 3,
             "icon": "Item_Icon_Stamina",
             "sort": 6,
@@ -258,45 +236,29 @@
         {
             "id": 3007,
             "platform": "All",
-            "name": "参与凭证",
+            "name": "参与凭证×1",
             "reward": {
                 "9": 1
             },
             "limit": 2,
-            "description": "可以用来进行 [战术评估] 的凭证。",
-            "firstBuyDescription": "可以用来进行 [战术评估] 的凭证。",
+            "description": "由B.R.I.E.F.协会补发的特殊凭证，选择偷懒的赏金猎人们终于能够放心大胆地休假而不用担心自己错过奖励了。\n可用于参加“战术评估”模块的作战。",
+            "firstBuyDescription": "由B.R.I.E.F.协会补发的特殊凭证，选择偷懒的赏金猎人们终于能够放心大胆地休假而不用担心自己错过奖励了。\n可用于参加“战术评估”模块的作战。",
             "tag": 3,
             "icon": "Item_Icon_SimTLTicket",
             "sort": 7,
             "rank": 1,
-            "unlock": 204
-        },
-        {
-            "id": 3008,
-            "platform": "All",
-            "name": "演习准入证*5",
-            "reward": {
-                "102": 5
-            },
-            "limit": 1,
-            "description": "可以用来进行 [实兵演习] 的凭证。",
-            "firstBuyDescription": "可以用来进行 [实兵演习] 的凭证。",
-            "tag": 3,
-            "icon": "Item_Icon_PVPTicket",
-            "sort": 8,
-            "rank": 1,
-            "unlock": 312
+            "unlock": 11007
         },
         {
             "id": 3009,
             "platform": "All",
-            "name": "情报拼图*50",
+            "name": "情报拼图×50",
             "reward": {
                 "101": 50
             },
-            "description": "玩家进行战斗需要消耗的道具。",
-            "firstBuyDescription": "玩家进行战斗需要消耗的道具。",
-            "tag": 3,
+            "description": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
+            "firstBuyDescription": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
+            "tag": 6,
             "icon": "Item_Icon_Stamina",
             "sort": 9,
             "rank": 1
@@ -304,185 +266,225 @@
         {
             "id": 3010,
             "platform": "All",
-            "name": "参与凭证",
+            "name": "参与凭证×1",
             "reward": {
                 "9": 1
             },
             "limit": 2,
-            "description": "可以用来进行 [战术评估] 的凭证。",
-            "firstBuyDescription": "可以用来进行 [战术评估] 的凭证。",
-            "tag": 3,
+            "description": "由B.R.I.E.F.协会补发的特殊凭证，选择偷懒的赏金猎人们终于能够放心大胆地休假而不用担心自己错过奖励了。\n可用于参加“战术评估”模块的作战。",
+            "firstBuyDescription": "由B.R.I.E.F.协会补发的特殊凭证，选择偷懒的赏金猎人们终于能够放心大胆地休假而不用担心自己错过奖励了。\n可用于参加“战术评估”模块的作战。",
+            "tag": 6,
             "icon": "Item_Icon_SimTLTicket",
             "sort": 10,
             "rank": 1,
-            "unlock": 204
+            "unlock": 11007
         },
         {
-            "id": 3011,
+            "id": 3060,
             "platform": "All",
-            "name": "演习准入证*5",
+            "name": "情报拼图×100",
             "reward": {
-                "102": 5
+                "101": 100
+            },
+            "limit": 2,
+            "jumpId": 3061,
+            "description": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
+            "firstBuyDescription": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
+            "tag": 3,
+            "icon": "Item_Icon_Stamina",
+            "sort": 6,
+            "rank": 1
+        },
+        {
+            "id": 3061,
+            "platform": "All",
+            "name": "情报拼图×100",
+            "reward": {
+                "101": 100
+            },
+            "limit": 2,
+            "jumpId": 3062,
+            "description": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
+            "firstBuyDescription": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
+            "tag": 3,
+            "icon": "Item_Icon_Stamina",
+            "sort": 6,
+            "rank": 1
+        },
+        {
+            "id": 3062,
+            "platform": "All",
+            "name": "情报拼图×100",
+            "reward": {
+                "101": 100
             },
             "limit": 1,
-            "description": "可以用来进行 [实兵演习] 的凭证。",
-            "firstBuyDescription": "可以用来进行 [实兵演习] 的凭证。",
+            "description": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
+            "firstBuyDescription": "持有详细的环境情报是在污染区生存的必要条件。毕竟没人想成为被曜石兔吃掉的那种倒霉鬼。\n可用于作战。",
             "tag": 3,
-            "icon": "Item_Icon_PVPTicket",
-            "sort": 11,
-            "rank": 1,
-            "unlock": 312
+            "icon": "Item_Icon_Stamina",
+            "sort": 6,
+            "rank": 1
+        },
+        {
+            "id": 3070,
+            "platform": "All",
+            "name": "燃油×100",
+            "reward": {
+                "23": 100
+            },
+            "limit": 2,
+            "jumpId": 3071,
+            "description": "一种十分珍贵的消耗品，在赏金猎人中甚至被称为“液体黄金”。在这个疯狂的世界里，谁会不喜欢那种用无人飞行载具轰炸污染区毁灭一切的感觉呢？\n可用于在作战中呼叫无人飞行载具支援。",
+            "firstBuyDescription": "一种十分珍贵的消耗品，在赏金猎人中甚至被称为“液体黄金”。在这个疯狂的世界里，谁会不喜欢那种用无人飞行载具轰炸污染区毁灭一切的感觉呢？\n可用于在作战中呼叫无人飞行载具支援。",
+            "tag": 3,
+            "icon": "Item_Icon_Gasoline",
+            "sort": 7,
+            "rank": 2
+        },
+        {
+            "id": 3071,
+            "platform": "All",
+            "name": "燃油×100",
+            "reward": {
+                "23": 100
+            },
+            "description": "一种十分珍贵的消耗品，在赏金猎人中甚至被称为“液体黄金”。在这个疯狂的世界里，谁会不喜欢那种用无人飞行载具轰炸污染区毁灭一切的感觉呢？\n可用于在作战中呼叫无人飞行载具支援。",
+            "firstBuyDescription": "一种十分珍贵的消耗品，在赏金猎人中甚至被称为“液体黄金”。在这个疯狂的世界里，谁会不喜欢那种用无人飞行载具轰炸污染区毁灭一切的感觉呢？\n可用于在作战中呼叫无人飞行载具支援。",
+            "tag": 3,
+            "icon": "Item_Icon_Gasoline",
+            "sort": 7,
+            "rank": 2
         },
         {
             "id": 7001,
             "platform": "All",
-            "name": "1张扭蛋券",
+            "name": "王冠鹿角兔",
             "reward": {
-                "12": 1
+                "51005": 1
             },
-            "limit": 5,
-            "description": "1张扭蛋券",
-            "firstBuyDescription": "1张扭蛋券",
+            "description": "剑和手炮的组合，是克罗丽科被配给的高性能武器。威力强大，外观颇有艺术感。使用它来进行的战斗，也一定更有观赏性吧。\n动能武器，能够产生动能攻击。",
+            "firstBuyDescription": "剑和手炮的组合，是克罗丽科被配给的高性能武器。威力强大，外观颇有艺术感。使用它来进行的战斗，也一定更有观赏性吧。\n动能武器，能够产生动能攻击。",
             "tag": 7,
-            "icon": "Item_Icon_GachaTicket",
             "sort": 1,
-            "rank": 5
+            "rank": 5,
+            "frame": 51005,
+            "itemtype": 8
         },
         {
             "id": 7002,
             "platform": "All",
-            "name": "困难战场报告",
+            "name": "复仇女神",
             "reward": {
-                "123": 1
+                "51006": 1
             },
-            "description": "困难战场报告",
-            "firstBuyDescription": "困难战场报告",
+            "description": "纳美西丝被配给的高性能狙击枪，以OM50为原型，针对原枪械的劣势进行了一定的修改和调整。通过这把枪，纳美西丝会表达些什么呢？\n动能武器，能够产生动能攻击。",
+            "firstBuyDescription": "纳美西丝被配给的高性能狙击枪，以OM50为原型，针对原枪械的劣势进行了一定的修改和调整。通过这把枪，纳美西丝会表达些什么呢？\n动能武器，能够产生动能攻击。",
             "tag": 7,
-            "icon": "Item_Icon_Expbook_3",
             "sort": 2,
-            "rank": 5
+            "rank": 5,
+            "frame": 51006,
+            "itemtype": 8
         },
         {
             "id": 7003,
             "platform": "All",
-            "name": "标准改造图纸",
+            "name": "喧闹恶灵",
             "reward": {
-                "126": 1
+                "51012": 1
             },
-            "description": "标准改造图纸",
-            "firstBuyDescription": "标准改造图纸",
+            "description": "寇尔芙被配给的高性能手枪，以TaurusCurve为原型，由指挥官委托定制。名字是寇尔芙自己起的，据说源于一种会吃掉不听话小孩的怪物。\n动能武器，能够产生动能攻击。",
+            "firstBuyDescription": "寇尔芙被配给的高性能手枪，以TaurusCurve为原型，由指挥官委托定制。名字是寇尔芙自己起的，据说源于一种会吃掉不听话小孩的怪物。\n动能武器，能够产生动能攻击。",
             "tag": 7,
-            "icon": "Item_Icon_WeaponBlueprint_2",
             "sort": 3,
-            "rank": 4
+            "rank": 5,
+            "frame": 51012,
+            "itemtype": 8
         },
         {
             "id": 7004,
             "platform": "All",
-            "name": "详尽改造图纸",
+            "name": "光学幻境",
             "reward": {
-                "127": 1
+                "51014": 1
             },
-            "description": "详尽改造图纸",
-            "firstBuyDescription": "详尽改造图纸",
+            "description": "佩里缇亚被配给的高性能机枪，以PKP-SP为原型，改装后，威力有了大幅提升。使用这把武器的人，是否也会像幻境一样消失？\n动能武器，能够产生动能攻击。",
+            "firstBuyDescription": "佩里缇亚被配给的高性能机枪，以PKP-SP为原型，改装后，威力有了大幅提升。使用这把武器的人，是否也会像幻境一样消失？\n动能武器，能够产生动能攻击。",
             "tag": 7,
-            "icon": "Item_Icon_WeaponBlueprint_3",
             "sort": 4,
-            "rank": 5
+            "rank": 5,
+            "frame": 51014,
+            "itemtype": 8
         },
         {
             "id": 7005,
             "platform": "All",
-            "name": "详细通用日志（片段）",
+            "name": "王冠鹿角兔",
             "reward": {
-                "132": 1
+                "61005": 1
             },
-            "description": "详细通用日志（片段）",
-            "firstBuyDescription": "详细通用日志（片段）",
+            "description": "剑和手炮的组合，是克罗丽科被配给的高性能武器。威力强大，外观颇有艺术感。使用它来进行的战斗，也一定更有观赏性吧。\n装有重离子覆膜装置的离子武器，能够产生离子攻击。",
+            "firstBuyDescription": "剑和手炮的组合，是克罗丽科被配给的高性能武器。威力强大，外观颇有艺术感。使用它来进行的战斗，也一定更有观赏性吧。\n装有重离子覆膜装置的离子武器，能够产生离子攻击。",
             "tag": 7,
-            "icon": "Item_Icon_CommonSheet_2",
             "sort": 5,
-            "rank": 4
+            "rank": 5,
+            "frame": 61005,
+            "itemtype": 8
         },
         {
             "id": 7006,
             "platform": "All",
-            "name": "初级物理拟合日志（片段）",
+            "name": "复仇女神",
             "reward": {
-                "140": 1
+                "61006": 1
             },
-            "description": "初级物理拟合日志（片段）",
-            "firstBuyDescription": "初级物理拟合日志（片段）",
+            "description": "纳美西丝被配给的高性能狙击枪，以OM 50为原型，针对原枪械的劣势进行了一定的修改和调整。通过这把枪，纳美西丝会表达些什么呢？\n装有重离子覆膜装置的离子武器，能够产生离子攻击。",
+            "firstBuyDescription": "纳美西丝被配给的高性能狙击枪，以OM 50为原型，针对原枪械的劣势进行了一定的修改和调整。通过这把枪，纳美西丝会表达些什么呢？\n装有重离子覆膜装置的离子武器，能够产生离子攻击。",
             "tag": 7,
-            "icon": "Item_Icon_PhysicsSheet_1",
             "sort": 6,
-            "rank": 3
+            "rank": 5,
+            "frame": 61006,
+            "itemtype": 8
         },
         {
             "id": 7007,
             "platform": "All",
-            "name": "初级热态拟合日志（片段）",
+            "name": "喧闹恶灵",
             "reward": {
-                "141": 1
+                "61012": 1
             },
-            "description": "初级热态拟合日志（片段）",
-            "firstBuyDescription": "初级热态拟合日志（片段）",
+            "description": "寇尔芙被配给的高性能手枪，以Taurus Curve为原型，由指挥官委托定制。名字是寇尔芙自己起的，据说源于一种会吃掉不听话小孩的怪物。\n装有重离子覆膜装置的离子武器，能够产生离子攻击。",
+            "firstBuyDescription": "寇尔芙被配给的高性能手枪，以Taurus Curve为原型，由指挥官委托定制。名字是寇尔芙自己起的，据说源于一种会吃掉不听话小孩的怪物。\n装有重离子覆膜装置的离子武器，能够产生离子攻击。",
             "tag": 7,
-            "icon": "Item_Icon_HeatSheet_1",
             "sort": 7,
-            "rank": 3
+            "rank": 5,
+            "frame": 61012,
+            "itemtype": 8
         },
         {
             "id": 7008,
             "platform": "All",
-            "name": "初级电磁拟合日志（片段）",
+            "name": "光学幻境",
             "reward": {
-                "142": 1
+                "61014": 1
             },
-            "description": "初级电磁拟合日志（片段）",
-            "firstBuyDescription": "初级电磁拟合日志（片段）",
+            "description": "佩里缇亚被配给的高性能机枪，以PKP-SP为原型，改装后，威力有了大幅提升。使用这把武器的人，是否也会像幻境一样消失？\n装有重离子覆膜装置的离子武器，能够产生离子攻击。",
+            "firstBuyDescription": "佩里缇亚被配给的高性能机枪，以PKP-SP为原型，改装后，威力有了大幅提升。使用这把武器的人，是否也会像幻境一样消失？\n装有重离子覆膜装置的离子武器，能够产生离子攻击。",
             "tag": 7,
-            "icon": "Item_Icon_LightningSheet_1",
             "sort": 8,
-            "rank": 3
-        },
-        {
-            "id": 7009,
-            "platform": "All",
-            "name": "初级坍塌拟合日志（片段）",
-            "reward": {
-                "143": 1
-            },
-            "description": "初级坍塌拟合日志（片段）",
-            "firstBuyDescription": "初级坍塌拟合日志（片段）",
-            "tag": 7,
-            "icon": "Item_Icon_CollapseSheet_1",
-            "sort": 9,
-            "rank": 3
-        },
-        {
-            "id": 7010,
-            "platform": "All",
-            "name": "初级逆向拟合日志（片段）",
-            "reward": {
-                "144": 1
-            },
-            "description": "初级逆向拟合日志（片段）",
-            "firstBuyDescription": "初级逆向拟合日志（片段）",
-            "tag": 7,
-            "icon": "Item_Icon_ReverseSheet_1",
-            "sort": 10,
-            "rank": 3
+            "rank": 5,
+            "frame": 61014,
+            "itemtype": 8
         },
         {
             "id": 8001,
             "platform": "All",
-            "name": "1张扭蛋券",
+            "name": "访问许可×1",
             "reward": {
                 "12": 1
             },
-            "description": "1张扭蛋券",
-            "firstBuyDescription": "1张扭蛋券",
+            "description": "只是几串简洁的代码，但当使用它们接入萨迩数据库时，就有可能带回意想不到的惊喜……唔，注意控制使用次数。\n可用于购置。",
+            "firstBuyDescription": "只是几串简洁的代码，但当使用它们接入萨迩数据库时，就有可能带回意想不到的惊喜……唔，注意控制使用次数。\n可用于购置。",
             "tag": 8,
             "icon": "Item_Icon_GachaTicket",
             "sort": 1,
@@ -491,17 +493,17 @@
         {
             "id": 8002,
             "platform": "All",
-            "name": "闪电-核心",
+            "name": "闪电·凛锋",
             "reward": {
                 "1001017": 1
             },
             "limit": 1,
-            "description": "闪电-核心",
-            "firstBuyDescription": "闪电-核心",
+            "description": "如何统合性格迥异的小队成员共同完成各项任务，一直是闪电首先需要考虑的事情。要充分了解成员们的各项能力，然后做出合理的规划安排——虽然存在各种意外，但好在大家还算配合。",
+            "firstBuyDescription": "如何统合性格迥异的小队成员共同完成各项任务，一直是闪电首先需要考虑的事情。要充分了解成员们的各项能力，然后做出合理的规划安排——虽然存在各种意外，但好在大家还算配合。",
             "tag": 8,
             "sort": 2,
             "rank": 4,
-            "frame": 1017,
+            "frame": 1001017,
             "itemtype": 4
         },
         {
@@ -517,7 +519,7 @@
             "tag": 8,
             "sort": 3,
             "rank": 4,
-            "frame": 1020,
+            "frame": 1001020,
             "itemtype": 4
         },
         {
@@ -555,12 +557,12 @@
         {
             "id": 8006,
             "platform": "All",
-            "name": "标准数校仪",
+            "name": "标准调校仪",
             "reward": {
                 "2402": 1
             },
-            "description": "标准数校仪",
-            "firstBuyDescription": "标准数校仪",
+            "description": "标准结构的战术妖精调校仪，被用于检测战术妖精辅助输入程式效果、调整妖精AI，从而使其能够更精确地控制坍塌粒子重塑及拟态方式。最初命名时曾因为妖精的类人造型而产生过争议。“不管怎么想，都不该是这个'校'字吧？！”这样说着的研究员被全组注视了。\n使用后将为战术妖精提供200点经验值。",
+            "firstBuyDescription": "标准结构的战术妖精调校仪，被用于检测战术妖精辅助输入程式效果、调整妖精AI，从而使其能够更精确地控制坍塌粒子重塑及拟态方式。最初命名时曾因为妖精的类人造型而产生过争议。“不管怎么想，都不该是这个'校'字吧？！”这样说着的研究员被全组注视了。\n使用后将为战术妖精提供200点经验值。",
             "tag": 8,
             "icon": "Item_Icon_EquipBook_2",
             "sort": 6,
@@ -573,8 +575,8 @@
             "reward": {
                 "2403": 1
             },
-            "description": "精密调校仪",
-            "firstBuyDescription": "精密调校仪",
+            "description": "复杂结构的战术妖精调校仪，被用于检测战术妖精辅助输入程式效果、调整妖精AI，从而使其能够更精确地控制坍塌粒子重塑及拟态方式。最初命名时曾因为妖精的类人造型而产生过争议。“不管怎么想，都不该是这个'校'字吧？！”这样说着的研究员被全组注视了。\n使用后将为战术妖精提供1000点经验值。",
+            "firstBuyDescription": "复杂结构的战术妖精调校仪，被用于检测战术妖精辅助输入程式效果、调整妖精AI，从而使其能够更精确地控制坍塌粒子重塑及拟态方式。最初命名时曾因为妖精的类人造型而产生过争议。“不管怎么想，都不该是这个'校'字吧？！”这样说着的研究员被全组注视了。\n使用后将为战术妖精提供1000点经验值。",
             "tag": 8,
             "icon": "Item_Icon_EquipBook_3",
             "sort": 7,
@@ -598,7 +600,7 @@
         {
             "id": 14002,
             "platform": "All",
-            "name": "情报拼图*50",
+            "name": "情报拼图×50",
             "reward": {
                 "101": 50
             },
@@ -659,62 +661,14 @@
             "itemtype": 5
         },
         {
-            "id": 14006,
-            "platform": "All",
-            "name": "专家κρ_889套装Ⅳ",
-            "reward": {
-                "3004": 1
-            },
-            "limit": 1,
-            "description": "暴击套装4号位，随机赋予属性值",
-            "firstBuyDescription": "暴击套装4号位，随机赋予属性值",
-            "tag": 14,
-            "sort": 6,
-            "rank": 6,
-            "frame": 3004,
-            "itemtype": 5
-        },
-        {
-            "id": 14007,
-            "platform": "All",
-            "name": "专家κρ_889套装Ⅴ",
-            "reward": {
-                "3005": 1
-            },
-            "limit": 1,
-            "description": "暴击套装5号位，随机赋予属性值",
-            "firstBuyDescription": "暴击套装5号位，随机赋予属性值",
-            "tag": 14,
-            "sort": 7,
-            "rank": 6,
-            "frame": 3005,
-            "itemtype": 5
-        },
-        {
-            "id": 14008,
-            "platform": "All",
-            "name": "专家κρ_889套装Ⅵ",
-            "reward": {
-                "3006": 1
-            },
-            "limit": 1,
-            "description": "暴击套装6号位，随机赋予属性值",
-            "firstBuyDescription": "暴击套装6号位，随机赋予属性值",
-            "tag": 14,
-            "sort": 8,
-            "rank": 6,
-            "frame": 3006,
-            "itemtype": 5
-        },
-        {
             "id": 14009,
             "platform": "All",
             "name": "简易调校仪",
             "reward": {
                 "2401": 1
             },
-            "description": "提供1500点模组经验值。",
-            "firstBuyDescription": "提供1500点模组经验值。",
+            "description": "简单结构的战术妖精调校仪，被用于检测战术妖精辅助输入程式效果、调整妖精AI，从而使其能够更精确地控制坍塌粒子重塑及拟态方式。最初命名时曾因为妖精的类人造型而产生过争议。“不管怎么想，都不该是这个'校'字吧？！”这样说着的研究员被全组注视了。\n使用后将为战术妖精提供50点经验值。",
+            "firstBuyDescription": "简单结构的战术妖精调校仪，被用于检测战术妖精辅助输入程式效果、调整妖精AI，从而使其能够更精确地控制坍塌粒子重塑及拟态方式。最初命名时曾因为妖精的类人造型而产生过争议。“不管怎么想，都不该是这个'校'字吧？！”这样说着的研究员被全组注视了。\n使用后将为战术妖精提供50点经验值。",
             "tag": 14,
             "icon": "Item_Icon_EquipBook_1",
             "sort": 9,
@@ -723,16 +677,129 @@
         {
             "id": 14010,
             "platform": "All",
-            "name": "标准数校仪",
+            "name": "标准调校仪",
             "reward": {
                 "2402": 1
             },
-            "description": "提供4500点模组经验值。",
-            "firstBuyDescription": "提供4500点模组经验值。",
+            "description": "标准结构的战术妖精调校仪，被用于检测战术妖精辅助输入程式效果、调整妖精AI，从而使其能够更精确地控制坍塌粒子重塑及拟态方式。最初命名时曾因为妖精的类人造型而产生过争议。“不管怎么想，都不该是这个'校'字吧？！”这样说着的研究员被全组注视了。\n使用后将为战术妖精提供200点经验值。",
+            "firstBuyDescription": "标准结构的战术妖精调校仪，被用于检测战术妖精辅助输入程式效果、调整妖精AI，从而使其能够更精确地控制坍塌粒子重塑及拟态方式。最初命名时曾因为妖精的类人造型而产生过争议。“不管怎么想，都不该是这个'校'字吧？！”这样说着的研究员被全组注视了。\n使用后将为战术妖精提供200点经验值。",
             "tag": 14,
             "icon": "Item_Icon_EquipBook_2",
             "sort": 10,
             "rank": 3
+        },
+        {
+            "id": 17001,
+            "platform": "All",
+            "name": "访问许可×1",
+            "reward": {
+                "12": 1
+            },
+            "limit": 1,
+            "description": "只是几串简洁的代码，但当使用它们接入萨迩数据库时，就有可能带回意想不到的惊喜……唔，注意控制使用次数。\n可用于购置。",
+            "firstBuyDescription": "只是几串简洁的代码，但当使用它们接入萨迩数据库时，就有可能带回意想不到的惊喜……唔，注意控制使用次数。\n可用于购置。",
+            "tag": 17,
+            "icon": "Item_Icon_GachaTicket",
+            "sort": 1,
+            "rank": 4
+        },
+        {
+            "id": 17002,
+            "platform": "All",
+            "name": "枪口装置配件箱",
+            "reward": {
+                "7001": 1
+            },
+            "description": "从暗商手中得到的配件箱，其中存放着枪口装置。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的枪口装置。",
+            "firstBuyDescription": "从暗商手中得到的配件箱，其中存放着枪口装置。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的枪口装置。",
+            "tag": 17,
+            "icon": "Item_Icon_WeaponPartMuzzle_4",
+            "sort": 2,
+            "rank": 5
+        },
+        {
+            "id": 17003,
+            "platform": "All",
+            "name": "瞄具配件箱",
+            "reward": {
+                "7002": 1
+            },
+            "description": "从暗商手中得到的配件箱，其中存放着瞄具。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的瞄具。",
+            "firstBuyDescription": "从暗商手中得到的配件箱，其中存放着瞄具。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的瞄具。",
+            "tag": 17,
+            "icon": "Item_Icon_WeaponPartScope_4",
+            "sort": 3,
+            "rank": 5
+        },
+        {
+            "id": 17004,
+            "platform": "All",
+            "name": "导轨附件配件箱",
+            "reward": {
+                "7003": 1
+            },
+            "description": "从暗商手中得到的配件箱，其中存放着导轨附件。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的导轨附件。",
+            "firstBuyDescription": "从暗商手中得到的配件箱，其中存放着导轨附件。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的导轨附件。",
+            "tag": 17,
+            "icon": "Item_Icon_WeaponPartFishbone_4",
+            "sort": 4,
+            "rank": 5
+        },
+        {
+            "id": 17005,
+            "platform": "All",
+            "name": "前握把配件箱",
+            "reward": {
+                "7004": 1
+            },
+            "description": "从暗商手中得到的配件箱，其中存放着前握把。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的导轨附件。",
+            "firstBuyDescription": "从暗商手中得到的配件箱，其中存放着前握把。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的导轨附件。",
+            "tag": 17,
+            "icon": "Item_Icon_WeaponPartGrip_4",
+            "sort": 5,
+            "rank": 5
+        },
+        {
+            "id": 17006,
+            "platform": "All",
+            "name": "弹药配件箱",
+            "reward": {
+                "7005": 1
+            },
+            "description": "从暗商手中得到的配件箱，其中存放着弹药。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的弹药。",
+            "firstBuyDescription": "从暗商手中得到的配件箱，其中存放着弹药。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的弹药。",
+            "tag": 17,
+            "icon": "Item_Icon_WeaponPartBullet_4",
+            "sort": 6,
+            "rank": 5
+        },
+        {
+            "id": 17007,
+            "platform": "All",
+            "name": "冷兵器配件箱",
+            "reward": {
+                "7006": 1
+            },
+            "description": "从暗商手中得到的配件箱，其中存放着可装配于冷冰器上的配件。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的冷兵器配件。",
+            "firstBuyDescription": "从暗商手中得到的配件箱，其中存放着可装配于冷冰器上的配件。虽然箱子外观完全一致，但内容物品质却良莠不齐。很难不怀疑这是暗商为了倾销滞销商品而设下的商业陷阱。“怎么会呢，有不少客人也通过这种方式得到了很珍贵的配件哦。”\n开启后可获得1个随机品质的冷兵器配件。",
+            "tag": 17,
+            "icon": "Item_Icon_WeaponPartBlade_4",
+            "sort": 7,
+            "rank": 5
+        },
+        {
+            "id": 17008,
+            "platform": "All",
+            "name": "同步插件",
+            "reward": {
+                "601": 1
+            },
+            "description": "为了方便武器使用者随时对自己的配件进行适配调整，各厂商联合推出了统一化的适配方法与接口，并将其置于同样规格的集成芯片中。但受限于技术水平，使用这种插件会让配件的适配性存在概率浮动。“这东西才面世不久，价格很高，一般的配件暂时就别用了吧。”\n可用于3星配件的适配提升，在各类型配件中通用。3星配件报废被拆解后可以将其回收二次利用。",
+            "firstBuyDescription": "为了方便武器使用者随时对自己的配件进行适配调整，各厂商联合推出了统一化的适配方法与接口，并将其置于同样规格的集成芯片中。但受限于技术水平，使用这种插件会让配件的适配性存在概率浮动。“这东西才面世不久，价格很高，一般的配件暂时就别用了吧。”\n可用于3星配件的适配提升，在各类型配件中通用。3星配件报废被拆解后可以将其回收二次利用。",
+            "tag": 17,
+            "icon": "Item_Icon_CalibrMater",
+            "sort": 8,
+            "rank": 4
         },
         {
             "id": 90001,
@@ -760,7 +827,8 @@
             "firstBuyDescription": "这是一个皮肤",
             "tag": 12,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 1
         },
         {
             "id": 130002,
@@ -774,7 +842,8 @@
             "firstBuyDescription": "这是一个皮肤",
             "tag": 12,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 1
         },
         {
             "id": 130003,
@@ -788,7 +857,8 @@
             "firstBuyDescription": "这是一个皮肤",
             "tag": 12,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 1
         },
         {
             "id": 130004,
@@ -802,7 +872,8 @@
             "firstBuyDescription": "这是一个皮肤",
             "tag": 12,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 1
         },
         {
             "id": 130005,
@@ -816,7 +887,8 @@
             "firstBuyDescription": "这是一个皮肤",
             "tag": 12,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 1
         },
         {
             "id": 150001,
@@ -830,7 +902,8 @@
             "firstBuyDescription": "1SR克罗丽科专属",
             "tag": 15,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 4
         },
         {
             "id": 150002,
@@ -844,7 +917,8 @@
             "firstBuyDescription": "2R寇尔芙专属",
             "tag": 15,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 4
         },
         {
             "id": 150003,
@@ -858,7 +932,8 @@
             "firstBuyDescription": "3R纳美西斯专属",
             "tag": 15,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 4
         },
         {
             "id": 150004,
@@ -872,7 +947,8 @@
             "firstBuyDescription": "4R闪电专属",
             "tag": 15,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 4
         },
         {
             "id": 150005,
@@ -886,7 +962,8 @@
             "firstBuyDescription": "5SSR克罗丽科专属",
             "tag": 15,
             "icon": "Unknow",
-            "rank": 6
+            "rank": 6,
+            "refreshType": 4
         },
         {
             "id": 160001,

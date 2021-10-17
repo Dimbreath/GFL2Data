@@ -2,8 +2,8 @@
     "data": [
         {
             "hp2Attack": 4,
-            "strongAgainst": 1.2,
-            "weakAgainst": 0.8,
+            "strongAgainst": 1.0,
+            "weakAgainst": 1.0,
             "reactLimit": 7,
             "charHeight": 1.8,
             "shootHeightAdjust": -0.36,
@@ -24,7 +24,7 @@
             "hpChangeSpeed": 80,
             "cameraShakeZoom": 50,
             "selectSound": 5900004,
-            "cancelSound": 5900005,
+            "cancelSound": 5900001,
             "moveSound": 5900012,
             "attackTargetSound": 5900011,
             "clickSound": 5900005,
@@ -33,10 +33,10 @@
             "fakeFireRandom": 3,
             "fakeFireOffset": 700,
             "fakeFireDistance": 4000,
-            "skillEstimateOffset": 80,
+            "skillEstimateOffset": 55,
             "gridDetailShowtime": 1.0,
             "gridDetailVector": 1.0,
-            "potentialHunt": 1,
+            "potentialHunt": 2,
             "potentialElementCounter": 1,
             "potentialSection": "0,109;110,119;120,129;130,139;140,149;150,159;160,169;170,179;180,189;190,199;200,999",
             "potentialDamegaShow": "100;105;110;115;120;125;130;135;140;145;150",
@@ -44,7 +44,15 @@
             "gmSkillOn": "90000001;90000001,1;90000003;90000005;90000007;90000009;90000011;90000013;90000016;90000017;90000018,1;90000019",
             "gmSkillOff": "90000002;90000002,1;90000004;90000006;90000008;90000010;90000012;90000014;;;;",
             "gmSkillDes": "伤害免疫,敌方伤害免疫,技能无CD,无限移动,无限攻击力,无限暴击,无限命中,无限闪避,清除CD,提升浓度,我方回血10%,恢复燃油",
-            "potentialHuntRace": "1001,4;1002,2;1003,6;1099,20;2001,5"
+            "potentialHuntRace": "1001,2;1002,1;1003,2;1099,2;2001,2",
+            "aiDecideGroupLimit": 6,
+            "buffShowHeight": 120,
+            "skillShowHeight": 120,
+            "suppressSkill": "80020101",
+            "unsuppressSkill": "80020103",
+            "buffShowDuration": 3000,
+            "twinShieldDifRatio": 0.2,
+            "pveDefaultSkills": "71010101"
         }
     ]
 }

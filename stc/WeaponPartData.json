@@ -1,0 +1,1390 @@
+{
+    "data": [
+        {
+            "id": 12001,
+            "name": {
+                "id": "99"
+            },
+            "description": {
+                "id": "100"
+            },
+            "icon": "WeaponPart_Muzzle_1",
+            "type": 1,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12002,
+            "name": {
+                "id": "101"
+            },
+            "description": {
+                "id": "102"
+            },
+            "icon": "WeaponPart_Scope_1",
+            "type": 2,
+            "rank": 2,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12003,
+            "name": {
+                "id": "103"
+            },
+            "description": {
+                "id": "104"
+            },
+            "icon": "WeaponPart_Grip_1",
+            "type": 3,
+            "rank": 2,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12004,
+            "name": {
+                "id": "105"
+            },
+            "description": {
+                "id": "106"
+            },
+            "icon": "WeaponPart_Fishbone_1",
+            "type": 4,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12005,
+            "name": {
+                "id": "107"
+            },
+            "description": {
+                "id": "108"
+            },
+            "icon": "WeaponPart_Bullet_1",
+            "type": 5,
+            "rank": 2,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12006,
+            "name": {
+                "id": "109"
+            },
+            "description": {
+                "id": "110"
+            },
+            "icon": "WeaponPart_Ensharp_1",
+            "type": 6,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12007,
+            "name": {
+                "id": "111"
+            },
+            "description": {
+                "id": "112"
+            },
+            "icon": "WeaponPart_Handle_5",
+            "type": 7,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12008,
+            "name": {
+                "id": "113"
+            },
+            "description": {
+                "id": "114"
+            },
+            "icon": "WeaponPart_Lightweight_2",
+            "type": 8,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12009,
+            "name": {
+                "id": "115"
+            },
+            "description": {
+                "id": "116"
+            },
+            "icon": "WeaponPart_Texture_2",
+            "type": 9,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12010,
+            "name": {
+                "id": "117"
+            },
+            "description": {
+                "id": "118"
+            },
+            "icon": "WeaponPart_Muzzle_2",
+            "type": 1,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12011,
+            "name": {
+                "id": "119"
+            },
+            "description": {
+                "id": "120"
+            },
+            "icon": "WeaponPart_Scope_2",
+            "type": 2,
+            "rank": 2,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12012,
+            "name": {
+                "id": "121"
+            },
+            "description": {
+                "id": "122"
+            },
+            "icon": "WeaponPart_Grip_2",
+            "type": 3,
+            "rank": 2,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12013,
+            "name": {
+                "id": "123"
+            },
+            "description": {
+                "id": "124"
+            },
+            "icon": "WeaponPart_Fishbone_2",
+            "type": 4,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12014,
+            "name": {
+                "id": "125"
+            },
+            "description": {
+                "id": "126"
+            },
+            "icon": "WeaponPart_Bullet_2",
+            "type": 5,
+            "rank": 2,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12015,
+            "name": {
+                "id": "127"
+            },
+            "description": {
+                "id": "128"
+            },
+            "icon": "WeaponPart_Ensharp_2",
+            "type": 6,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12016,
+            "name": {
+                "id": "129"
+            },
+            "description": {
+                "id": "130"
+            },
+            "icon": "WeaponPart_Handle_6",
+            "type": 7,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12017,
+            "name": {
+                "id": "131"
+            },
+            "description": {
+                "id": "132"
+            },
+            "icon": "WeaponPart_Lightweight_1",
+            "type": 8,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 12018,
+            "name": {
+                "id": "133"
+            },
+            "description": {
+                "id": "134"
+            },
+            "icon": "WeaponPart_Texture_1",
+            "type": 9,
+            "rank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 5,
+            "partAbilityMax": 5,
+            "soldGet": {
+                "13": 100
+            }
+        },
+        {
+            "id": 13001,
+            "name": {
+                "id": "99"
+            },
+            "description": {
+                "id": "100"
+            },
+            "icon": "WeaponPart_Muzzle_1",
+            "type": 1,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13002,
+            "name": {
+                "id": "101"
+            },
+            "description": {
+                "id": "102"
+            },
+            "icon": "WeaponPart_Scope_1",
+            "type": 2,
+            "rank": 3,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13003,
+            "name": {
+                "id": "103"
+            },
+            "description": {
+                "id": "104"
+            },
+            "icon": "WeaponPart_Grip_1",
+            "type": 3,
+            "rank": 3,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13004,
+            "name": {
+                "id": "105"
+            },
+            "description": {
+                "id": "106"
+            },
+            "icon": "WeaponPart_Fishbone_1",
+            "type": 4,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13005,
+            "name": {
+                "id": "107"
+            },
+            "description": {
+                "id": "108"
+            },
+            "icon": "WeaponPart_Bullet_1",
+            "type": 5,
+            "rank": 3,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13006,
+            "name": {
+                "id": "109"
+            },
+            "description": {
+                "id": "110"
+            },
+            "icon": "WeaponPart_Ensharp_1",
+            "type": 6,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13007,
+            "name": {
+                "id": "111"
+            },
+            "description": {
+                "id": "112"
+            },
+            "icon": "WeaponPart_Handle_5",
+            "type": 7,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13008,
+            "name": {
+                "id": "113"
+            },
+            "description": {
+                "id": "114"
+            },
+            "icon": "WeaponPart_Lightweight_2",
+            "type": 8,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13009,
+            "name": {
+                "id": "115"
+            },
+            "description": {
+                "id": "116"
+            },
+            "icon": "WeaponPart_Texture_2",
+            "type": 9,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13010,
+            "name": {
+                "id": "117"
+            },
+            "description": {
+                "id": "118"
+            },
+            "icon": "WeaponPart_Muzzle_2",
+            "type": 1,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13011,
+            "name": {
+                "id": "119"
+            },
+            "description": {
+                "id": "120"
+            },
+            "icon": "WeaponPart_Scope_2",
+            "type": 2,
+            "rank": 3,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13012,
+            "name": {
+                "id": "121"
+            },
+            "description": {
+                "id": "122"
+            },
+            "icon": "WeaponPart_Grip_2",
+            "type": 3,
+            "rank": 3,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13013,
+            "name": {
+                "id": "123"
+            },
+            "description": {
+                "id": "124"
+            },
+            "icon": "WeaponPart_Fishbone_2",
+            "type": 4,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13014,
+            "name": {
+                "id": "125"
+            },
+            "description": {
+                "id": "126"
+            },
+            "icon": "WeaponPart_Bullet_2",
+            "type": 5,
+            "rank": 3,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13015,
+            "name": {
+                "id": "127"
+            },
+            "description": {
+                "id": "128"
+            },
+            "icon": "WeaponPart_Ensharp_2",
+            "type": 6,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13016,
+            "name": {
+                "id": "129"
+            },
+            "description": {
+                "id": "130"
+            },
+            "icon": "WeaponPart_Handle_6",
+            "type": 7,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13017,
+            "name": {
+                "id": "131"
+            },
+            "description": {
+                "id": "132"
+            },
+            "icon": "WeaponPart_Lightweight_1",
+            "type": 8,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 13018,
+            "name": {
+                "id": "133"
+            },
+            "description": {
+                "id": "134"
+            },
+            "icon": "WeaponPart_Texture_1",
+            "type": 9,
+            "rank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 8,
+            "partAbilityMax": 8,
+            "soldGet": {
+                "13": 300
+            }
+        },
+        {
+            "id": 14001,
+            "name": {
+                "id": "99"
+            },
+            "description": {
+                "id": "100"
+            },
+            "icon": "WeaponPart_Muzzle_1",
+            "type": 1,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 1,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14002,
+            "name": {
+                "id": "101"
+            },
+            "description": {
+                "id": "102"
+            },
+            "icon": "WeaponPart_Scope_1",
+            "type": 2,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 1,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14003,
+            "name": {
+                "id": "103"
+            },
+            "description": {
+                "id": "104"
+            },
+            "icon": "WeaponPart_Grip_1",
+            "type": 3,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 1,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14004,
+            "name": {
+                "id": "105"
+            },
+            "description": {
+                "id": "106"
+            },
+            "icon": "WeaponPart_Fishbone_1",
+            "type": 4,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 2,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14005,
+            "name": {
+                "id": "107"
+            },
+            "description": {
+                "id": "108"
+            },
+            "icon": "WeaponPart_Bullet_1",
+            "type": 5,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 1,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14006,
+            "name": {
+                "id": "109"
+            },
+            "description": {
+                "id": "110"
+            },
+            "icon": "WeaponPart_Ensharp_1",
+            "type": 6,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 6,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14007,
+            "name": {
+                "id": "111"
+            },
+            "description": {
+                "id": "112"
+            },
+            "icon": "WeaponPart_Handle_5",
+            "type": 7,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 6,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14008,
+            "name": {
+                "id": "113"
+            },
+            "description": {
+                "id": "114"
+            },
+            "icon": "WeaponPart_Lightweight_2",
+            "type": 8,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 6,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14009,
+            "name": {
+                "id": "115"
+            },
+            "description": {
+                "id": "116"
+            },
+            "icon": "WeaponPart_Texture_2",
+            "type": 9,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 6,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14010,
+            "name": {
+                "id": "117"
+            },
+            "description": {
+                "id": "118"
+            },
+            "icon": "WeaponPart_Muzzle_2",
+            "type": 1,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 1,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14011,
+            "name": {
+                "id": "119"
+            },
+            "description": {
+                "id": "120"
+            },
+            "icon": "WeaponPart_Scope_2",
+            "type": 2,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 2,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14012,
+            "name": {
+                "id": "121"
+            },
+            "description": {
+                "id": "122"
+            },
+            "icon": "WeaponPart_Grip_2",
+            "type": 3,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 1,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14013,
+            "name": {
+                "id": "123"
+            },
+            "description": {
+                "id": "124"
+            },
+            "icon": "WeaponPart_Fishbone_2",
+            "type": 4,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 1,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14014,
+            "name": {
+                "id": "125"
+            },
+            "description": {
+                "id": "126"
+            },
+            "icon": "WeaponPart_Bullet_2",
+            "type": 5,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 2,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14015,
+            "name": {
+                "id": "127"
+            },
+            "description": {
+                "id": "128"
+            },
+            "icon": "WeaponPart_Ensharp_2",
+            "type": 6,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 6,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14016,
+            "name": {
+                "id": "129"
+            },
+            "description": {
+                "id": "130"
+            },
+            "icon": "WeaponPart_Handle_6",
+            "type": 7,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 6,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14017,
+            "name": {
+                "id": "131"
+            },
+            "description": {
+                "id": "132"
+            },
+            "icon": "WeaponPart_Lightweight_1",
+            "type": 8,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 6,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 14018,
+            "name": {
+                "id": "133"
+            },
+            "description": {
+                "id": "134"
+            },
+            "icon": "WeaponPart_Texture_1",
+            "type": 9,
+            "rank": 4,
+            "affixNum": 1,
+            "affixBank": 6,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 12,
+            "partAbilityMax": 12,
+            "soldGet": {
+                "13": 1000
+            }
+        },
+        {
+            "id": 15001,
+            "name": {
+                "id": "99"
+            },
+            "description": {
+                "id": "100"
+            },
+            "icon": "WeaponPart_Muzzle_1",
+            "type": 1,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15002,
+            "name": {
+                "id": "101"
+            },
+            "description": {
+                "id": "102"
+            },
+            "icon": "WeaponPart_Scope_1",
+            "type": 2,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 3,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15003,
+            "name": {
+                "id": "103"
+            },
+            "description": {
+                "id": "104"
+            },
+            "icon": "WeaponPart_Grip_1",
+            "type": 3,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 4,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15004,
+            "name": {
+                "id": "105"
+            },
+            "description": {
+                "id": "106"
+            },
+            "icon": "WeaponPart_Fishbone_1",
+            "type": 4,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15005,
+            "name": {
+                "id": "107"
+            },
+            "description": {
+                "id": "108"
+            },
+            "icon": "WeaponPart_Bullet_1",
+            "type": 5,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 4,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15006,
+            "name": {
+                "id": "109"
+            },
+            "description": {
+                "id": "110"
+            },
+            "icon": "WeaponPart_Ensharp_1",
+            "type": 6,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 7,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15007,
+            "name": {
+                "id": "111"
+            },
+            "description": {
+                "id": "112"
+            },
+            "icon": "WeaponPart_Handle_5",
+            "type": 7,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 7,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15008,
+            "name": {
+                "id": "113"
+            },
+            "description": {
+                "id": "114"
+            },
+            "icon": "WeaponPart_Lightweight_2",
+            "type": 8,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 7,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15009,
+            "name": {
+                "id": "115"
+            },
+            "description": {
+                "id": "116"
+            },
+            "icon": "WeaponPart_Texture_2",
+            "type": 9,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 7,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15010,
+            "name": {
+                "id": "117"
+            },
+            "description": {
+                "id": "118"
+            },
+            "icon": "WeaponPart_Muzzle_2",
+            "type": 1,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 3,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15011,
+            "name": {
+                "id": "119"
+            },
+            "description": {
+                "id": "120"
+            },
+            "icon": "WeaponPart_Scope_2",
+            "type": 2,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 4,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15012,
+            "name": {
+                "id": "121"
+            },
+            "description": {
+                "id": "122"
+            },
+            "icon": "WeaponPart_Grip_2",
+            "type": 3,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 4,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15013,
+            "name": {
+                "id": "123"
+            },
+            "description": {
+                "id": "124"
+            },
+            "icon": "WeaponPart_Fishbone_2",
+            "type": 4,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 5,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15014,
+            "name": {
+                "id": "125"
+            },
+            "description": {
+                "id": "126"
+            },
+            "icon": "WeaponPart_Bullet_2",
+            "type": 5,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 3,
+            "partAbility": "suppress_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15015,
+            "name": {
+                "id": "127"
+            },
+            "description": {
+                "id": "128"
+            },
+            "icon": "WeaponPart_Ensharp_2",
+            "type": 6,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 7,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15016,
+            "name": {
+                "id": "129"
+            },
+            "description": {
+                "id": "130"
+            },
+            "icon": "WeaponPart_Handle_6",
+            "type": 7,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 7,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15017,
+            "name": {
+                "id": "131"
+            },
+            "description": {
+                "id": "132"
+            },
+            "icon": "WeaponPart_Lightweight_1",
+            "type": 8,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 7,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        },
+        {
+            "id": 15018,
+            "name": {
+                "id": "133"
+            },
+            "description": {
+                "id": "134"
+            },
+            "icon": "WeaponPart_Texture_1",
+            "type": 9,
+            "rank": 5,
+            "affixNum": 1,
+            "affixBank": 7,
+            "partAbility": "max_will_value",
+            "partAbilityIni": 15,
+            "partAbilityMax": 30,
+            "calibrationOn": true,
+            "soldGet": {
+                "601": 1
+            }
+        }
+    ]
+}

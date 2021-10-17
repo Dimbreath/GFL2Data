@@ -1,13 +1,30 @@
 {
     "data": [
         {
-            "propertyGroup": 1001,
+            "propertyGroup": 1003,
             "element": 6
         },
         {
             "id": 1,
             "addLevel": 12,
-            "propertyGroup": 1201,
+            "propertyGroup": 3212,
+            "element": 6
+        },
+        {
+            "id": 2,
+            "skillList": [
+                931000101
+            ],
+            "propertyGroup": 3212,
+            "maxAp": 500,
+            "element": 6
+        },
+        {
+            "id": 3,
+            "skillList": [
+                930000031
+            ],
+            "propertyGroup": 3212,
             "element": 6
         }
     ]

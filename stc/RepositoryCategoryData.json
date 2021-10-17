@@ -3,10 +3,10 @@
         {
             "id": 1,
             "title": {
-                "id": "1071"
+                "id": "5418"
             },
             "titleEn": {
-                "id": "1072"
+                "id": "5419"
             },
             "icon": "Icon_Repository_Res",
             "itemType": "1"
@@ -14,10 +14,10 @@
         {
             "id": 2,
             "title": {
-                "id": "1076"
+                "id": "5420"
             },
             "titleEn": {
-                "id": "1885"
+                "id": "5421"
             },
             "icon": "Icon_Repository_Item",
             "itemType": "3"

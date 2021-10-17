@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "id": "735"
+            },
+            "favorStage": 200
+        },
+        {
+            "id": 2,
+            "name": {
+                "id": "736"
+            },
+            "favorStage": 400
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "737"
+            },
+            "favorStage": 600
+        },
+        {
+            "id": 4,
+            "name": {
+                "id": "738"
+            },
+            "favorStage": 800
+        },
+        {
+            "id": 5,
+            "name": {
+                "id": "739"
+            },
+            "favorStage": 1000
+        },
+        {
+            "id": 6,
+            "name": {
+                "id": "740"
+            },
+            "favorStage": 999999
+        }
+    ]
+}

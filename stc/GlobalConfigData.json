@@ -122,10 +122,10 @@
             "gunQualityColor1": [
                 "bcbcbbff",
                 "4bb56cff",
-                "2eadcfff",
-                "8977c9ff",
-                "f0af14ff",
-                "f0af14ff"
+                "74D1EAff",
+                "B0A0EAff",
+                "FFD367ff",
+                "fcc236ff"
             ],
             "gunQualityColor2": [
                 "bcbcbbff",
@@ -209,7 +209,7 @@
                 13
             ],
             "avgdialogueDelayed": 0.5,
-            "simStamina": 100,
+            "simStamina": 120,
             "staminaRegainTime": 60,
             "staminaRegainAmount": 1,
             "staminaCost": 10,
@@ -351,7 +351,7 @@
             "sphereFadeRadius": 0.45,
             "nameplateBuffNums": 4,
             "limitDispatch": 2,
-            "gunExceedlevel": 150,
+            "gunExceedlevel": 5,
             "commanderLevel": 60,
             "guildDonationLimit": 5,
             "memberDonationLimit": 20,
@@ -386,7 +386,7 @@
                 112113
             ],
             "gunLevelUpItemAddSpeed": "10:5",
-            "mailMaxlimit": 200,
+            "mailMaxlimit": 100,
             "hardmodeDailytimes": 3,
             "selectedStoryPosition": 0.4,
             "selectedStoryForceposition": 0.3,
@@ -404,10 +404,14 @@
             "collisionRoleHeight": 1.5,
             "coverCollierHeight": 2.0,
             "gridborderColour": [
-                "75cbffff",
-                "fb0d0dcc"
+                "beffffac",
+                "ff9632ff"
             ],
-            "slgDoubleClick": 0.3
+            "slgDoubleClick": 0.3,
+            "hpGunbarColor": "c9ef6e",
+            "hpEnemybarColor": "ff6f43",
+            "hpGunbarbgColor": "2e405f",
+            "hpEnemybarbgColor": "4c0d08"
         }
     ]
 }

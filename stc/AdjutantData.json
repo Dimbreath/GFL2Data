@@ -1,6 +1,31 @@
 {
     "data": [
         {
+            "id": 10119,
+            "name": "测试人",
+            "type": "Gun",
+            "detailId": [
+                1017
+            ],
+            "unlock": 1,
+            "idle": [
+                "c_Groza_idle"
+            ],
+            "standby": [
+                "c_Groza_behave_HairLift"
+            ],
+            "move": [
+                "c_Groza_CommandCenter_OpenBattlList"
+            ],
+            "dialogueList": [
+                10119001,
+                10119002
+            ],
+            "dialogueHello": [
+                10119001
+            ]
+        },
+        {
             "id": 11017,
             "name": "SR闪电",
             "type": "Gun",
@@ -30,7 +55,18 @@
                 11017010,
                 11017011,
                 11017012,
-                11017013
+                11017013,
+                11017014,
+                11017015,
+                11017016,
+                11017017,
+                11017018,
+                11017019,
+                11017020,
+                11017021,
+                11017022,
+                11017023,
+                11017024
             ],
             "dialogueHello": [
                 11017001

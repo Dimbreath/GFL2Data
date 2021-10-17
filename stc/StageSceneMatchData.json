@@ -41,11 +41,6 @@
             "levelNode": "FightTest/demo_slg_debugCentre_2"
         },
         {
-            "sceneId": 9,
-            "scene": "Main/Green/l_main_green_rooftop_01/l_main_green_rooftop_01_sim",
-            "levelNode": "Main/Green/l_main_green_rooftop_01"
-        },
-        {
             "sceneId": 10,
             "scene": "Main/White/l_main_white_rooftop_02",
             "levelNode": "Main/White/l_main_white_rooftop_02"
@@ -57,7 +52,7 @@
         },
         {
             "sceneId": 12,
-            "scene": "Main/Green/l_main_green_lab_01/l_main_green_lab_01_sim",
+            "scene": "Main/Green/l_main_green_lab_01/l_main_green_lab_01",
             "levelNode": "Main/Green/l_main_green_lab_01"
         },
         {
@@ -277,8 +272,8 @@
         },
         {
             "sceneId": 57,
-            "scene": "Main/Yellow/l_main_yellow_beacon_01/l_main_yellow_beacon_01",
-            "levelNode": "Main/Yellow/l_main_yellow_beacon_01"
+            "scene": "Main/Yellow/l_main_yellow_brokenBridge_01/l_main_yellow_brokenBridge_01",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridge_01"
         },
         {
             "sceneId": 58,
@@ -837,17 +832,17 @@
         },
         {
             "sceneId": 177,
-            "scene": "Main/Green/l_main_green_rooftop_01/l_main_green_rooftop_01_sim",
+            "scene": "Main/Green/l_main_green_rooftop_01/l_main_green_rooftop_01",
             "levelNode": "Main/Green/l_main_green_rooftop_01"
         },
         {
             "sceneId": 178,
-            "scene": "Main/Green/l_main_green_lab_01/l_main_green_lab_01_sim",
-            "levelNode": "Main/Green/l_main_green_lab_01"
+            "scene": "Main/Green/l_main_green_rooftop_02/l_main_green_rooftop_02",
+            "levelNode": "Main/Green/l_main_green_rooftop_02"
         },
         {
             "sceneId": 179,
-            "scene": "Main/Green/l_main_green_SatelliteTown_01/l_main_green_SatelliteTown_01_sim",
+            "scene": "Main/Green/l_main_green_SatelliteTown_01/l_main_green_SatelliteTown_01",
             "levelNode": "Main/Green/l_main_green_SatelliteTown_01"
         },
         {
@@ -927,8 +922,128 @@
         },
         {
             "sceneId": 195,
-            "scene": "SIM/l_sim_CBT1Hidden_01_1/l_sim_CBT1Hidden_01_1",
-            "levelNode": "Sim/l_sim_CBT1Hidden_01_1"
+            "scene": "SIM/l_sim_fightTest_01_1/l_sim_fightTest_01_1",
+            "levelNode": "Sim/l_sim_fightTest_01_1"
+        },
+        {
+            "sceneId": 196,
+            "scene": "SIM/l_sim_tower_03_1/l_sim_tower_03_1",
+            "levelNode": "Sim/l_sim_tower_03_1"
+        },
+        {
+            "sceneId": 197,
+            "scene": "SIM/l_sim_tower_03_2/l_sim_tower_03_2",
+            "levelNode": "Sim/l_sim_tower_03_2"
+        },
+        {
+            "sceneId": 198,
+            "scene": "SIM/l_sim_tower_03_3/l_sim_tower_03_3",
+            "levelNode": "Sim/l_sim_tower_03_3"
+        },
+        {
+            "sceneId": 199,
+            "scene": "SIM/l_sim_tower_03_4/l_sim_tower_03_4",
+            "levelNode": "Sim/l_sim_tower_03_4"
+        },
+        {
+            "sceneId": 200,
+            "scene": "SIM/l_sim_tower_04_1/l_sim_tower_04_1",
+            "levelNode": "Sim/l_sim_tower_04_1"
+        },
+        {
+            "sceneId": 201,
+            "scene": "SIM/l_sim_tower_04_2/l_sim_tower_04_2",
+            "levelNode": "Sim/l_sim_tower_04_2"
+        },
+        {
+            "sceneId": 202,
+            "scene": "SIM/l_sim_tower_04_3/l_sim_tower_04_3",
+            "levelNode": "Sim/l_sim_tower_04_3"
+        },
+        {
+            "sceneId": 203,
+            "scene": "SIM/l_sim_tower_04_4/l_sim_tower_04_4",
+            "levelNode": "Sim/l_sim_tower_04_4"
+        },
+        {
+            "sceneId": 204,
+            "scene": "SIM/l_sim_tower_01_7/l_sim_tower_01_7",
+            "levelNode": "Sim/l_sim_tower_01_7"
+        },
+        {
+            "sceneId": 205,
+            "scene": "SIM/l_sim_tower_01_8/l_sim_tower_01_8",
+            "levelNode": "Sim/l_sim_tower_01_8"
+        },
+        {
+            "sceneId": 206,
+            "scene": "SIM/l_sim_simCombat01_test_01/l_sim_simCombat01_test_01",
+            "levelNode": "Sim/l_sim_simCombat01_test_01"
+        },
+        {
+            "sceneId": 207,
+            "scene": "SIM/l_sim_simCombat01_test_02/l_sim_simCombat01_test_02",
+            "levelNode": "Sim/l_sim_simCombat01_test_02"
+        },
+        {
+            "sceneId": 208,
+            "scene": "SIM/l_sim_fightTest_02/l_sim_fightTest_02",
+            "levelNode": "Sim/l_sim_fightTest_02"
+        },
+        {
+            "sceneId": 209,
+            "scene": "SIM/l_sim_longTest_01/l_sim_longTest_01",
+            "levelNode": "Sim/l_sim_longTest_01"
+        },
+        {
+            "sceneId": 210,
+            "scene": "SIM/l_sim_puzzle_01/l_sim_puzzle_01",
+            "levelNode": "Sim/l_sim_puzzle_01"
+        },
+        {
+            "sceneId": 211,
+            "scene": "SIM/l_sim_gold/l_sim_gold",
+            "levelNode": "Sim/l_sim_gold"
+        },
+        {
+            "sceneId": 212,
+            "scene": "SIM/l_sim_exp/l_sim_exp",
+            "levelNode": "Sim/l_sim_exp"
+        },
+        {
+            "sceneId": 213,
+            "scene": "SIM/l_sim_weekchallenge_01/l_sim_weekchallenge_01",
+            "levelNode": "Sim/l_sim_weekchallenge_01"
+        },
+        {
+            "sceneId": 214,
+            "scene": "SIM/l_sim_weekchallenge_02/l_sim_weekchallenge_02",
+            "levelNode": "Sim/l_sim_weekchallenge_02"
+        },
+        {
+            "sceneId": 215,
+            "scene": "SIM/l_sim_weekchallenge_03/l_sim_weekchallenge_03",
+            "levelNode": "Sim/l_sim_weekchallenge_03"
+        },
+        {
+            "sceneId": 216,
+            "scene": "SIM/l_sim_gold/l_sim_gold_1",
+            "levelNode": "Sim/l_sim_gold_1"
+        },
+        {
+            "sceneId": 217,
+            "scene": "SIM/l_sim_exp/l_sim_exp_1",
+            "levelNode": "Sim/l_sim_exp_1"
+        },
+        {
+            "sceneId": 218,
+            "scene": "SIM/l_sim_puzzle_02/l_sim_puzzle_02",
+            "levelNode": "Sim/l_sim_puzzle_02"
+        },
+        {
+            "sceneId": 219,
+            "scene": "SIM/l_sim_puzzle_03/l_sim_puzzle_03",
+            "levelNode": "Sim/l_sim_puzzle_03"
         }
     ]
 }

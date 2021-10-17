@@ -3,10 +3,10 @@
         {
             "id": 1,
             "name": {
-                "id": "2213"
+                "id": "5167"
             },
             "nameEn": {
-                "id": "2214"
+                "id": "5168"
             },
             "rank": 1,
             "type": 1,
@@ -15,25 +15,50 @@
                 2,
                 3,
                 4
-            ]
+            ],
+            "background": "Img_BattleIndexBg_Plot"
         },
         {
             "id": 2,
             "name": {
-                "id": "2215"
+                "id": "5169"
             },
             "nameEn": {
-                "id": "2216"
+                "id": "5170"
             },
-            "rank": 2,
+            "rank": 3,
             "type": 2,
             "detailId": [
                 1,
                 2,
                 3,
                 4,
-                5
-            ]
+                5,
+                6,
+                7,
+                8
+            ],
+            "background": "Img_BattleIndexBg_Sim",
+            "unlock": 10999
+        },
+        {
+            "id": 3,
+            "name": {
+                "id": "5171"
+            },
+            "nameEn": {
+                "id": "5172"
+            },
+            "rank": 2,
+            "type": 1,
+            "detailId": [
+                101,
+                102,
+                103,
+                104
+            ],
+            "background": "Img_BattleIndexBg_Difficulty",
+            "unlock": 11002
         }
     ]
 }

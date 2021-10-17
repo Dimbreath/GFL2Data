@@ -1,15 +1,1776 @@
 {
     "data": [
         {
-            "id": 1001,
-            "group": 1,
+            "id": 10001,
+            "group": 10,
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,50,-150",
             "text": {
-                "id": "32"
+                "id": "4031"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 10002,
+            "group": 10,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4032"
             },
             "clickType": "ClickUi",
-            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnGuide/ComBtnGuideItemV2:1",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnCombat/Btn_Combat/Root/Cast:1"
+        },
+        {
+            "id": 10003,
+            "group": 10,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4033"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpPlotCombat/Trans_GrpContentList/Viewport/Content:1,PlotCombatChapterItemV2(Clone)/GrpContent/Cast:1",
+            "delay": 1.0,
+            "finishPage": 1
+        },
+        {
+            "id": 11001,
+            "group": 11,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4034"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpCenter/GrpDetailsList/Viewport/Content:1,StoryChapterItemV2(Clone)/Root/Cast:13"
+        },
+        {
+            "id": 11002,
+            "group": 11,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4035"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Trans_GrpCombatLauncher/ComDetailsPanelV2(Clone)/Root/GrpRight/GrpAction/BtnStart/Btn_Start/Root/Cast:1",
+            "delay": 1.0,
+            "finishPage": 1
+        },
+        {
+            "id": 20001,
+            "group": 20,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4036"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ComReceiveDialogV2(Clone)/Root/GrpBg/Btn_Close/ImgBlackBg:1"
+        },
+        {
+            "id": 20002,
+            "group": 20,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4037"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpCenter/GrpDetailsList/Viewport/Content:1,StoryChapterItemV2(Clone)/Root/Cast:3",
+            "delay": 1.0
+        },
+        {
+            "id": 20003,
+            "group": 20,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4038"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Trans_GrpCombatLauncher/ComDetailsPanelV2(Clone)/Root/GrpRight/GrpAction/BtnStart/Btn_Start/Root/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 21001,
+            "group": 21,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4039"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnCombat/Btn_Combat/Root/Cast:1"
+        },
+        {
+            "id": 21002,
+            "group": 21,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4033"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpPlotCombat/Trans_GrpContentList/Viewport/Content:1,PlotCombatChapterItemV2(Clone)/GrpContent/Cast:1"
+        },
+        {
+            "id": 21003,
+            "group": 21,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4037"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpCenter/GrpDetailsList/Viewport/Content:1,StoryChapterItemV2(Clone)/Root/Cast:3"
+        },
+        {
+            "id": 21004,
+            "group": 21,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4040"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Trans_GrpCombatLauncher/ComDetailsPanelV2(Clone)/Root/GrpRight/GrpAction/BtnStart/Btn_Start/Root/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 22001,
+            "group": 22,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4041"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 22002,
+            "group": 22,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4042"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 30001,
+            "group": 30,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4043"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 30002,
+            "group": 30,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4044"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "_LevelNode(Clone)/Canvas/BattleSettingmentPanelV2(Clone)/Root/Trans_GrpWinSet/Trans_WinSet/GrpAction/BtnBackToMap/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 30003,
+            "group": 30,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4045"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnHome/ComBtnHomeItemV2:1",
+            "delay": 1.0
+        },
+        {
+            "id": 31001,
+            "group": 31,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4046"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnBarrack/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 31002,
+            "group": 31,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4047"
+            },
+            "nextButton": true,
+            "delay": 1.0
+        },
+        {
+            "id": 31003,
+            "group": 31,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4048"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpRight/GrpCardList/Viewport/Content:1,ChrCardDisplayItemV2(Clone)/Cast:2"
+        },
+        {
+            "id": 31004,
+            "group": 31,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4049"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpLeft/GrpDetailsList/Content:1,PowerUpListItemV2(Clone)/Cast:2",
+            "delay": 2.0
+        },
+        {
+            "id": 31005,
+            "group": 31,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4050"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 31006,
+            "group": 31,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4051"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 31007,
+            "group": 31,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4052"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpPowerUp/Trans_Mental/ChrMentalPanelV2(Clone)/Root/GrpRight/GrpAction/BtnRight/ComBtn3ItemV2/Root/Cast:1",
+            "delay": 1.0
+        },
+        {
+            "id": 31008,
+            "group": 31,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4053"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 31009,
+            "group": 31,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4054"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 40001,
+            "group": 40,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4055"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 40002,
+            "group": 40,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4056"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "_LevelNode(Clone)/Canvas/BattleSettingmentPanelV2(Clone)/Root/Trans_GrpWinSet/Trans_WinSet/GrpAction/BtnBackToMap/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 40003,
+            "group": 40,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4057"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnHome/ComBtnHomeItemV2:1",
+            "delay": 1.0
+        },
+        {
+            "id": 41001,
+            "group": 41,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4058"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpRightBottom/GrpTabSwitch/BtnUAV/Btn_Content/Root/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 41002,
+            "group": 41,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4059"
+            },
+            "nextButton": true,
+            "delay": 1.0
+        },
+        {
+            "id": 50001,
+            "group": 50,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4060"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 50002,
+            "group": 50,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4061"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "_LevelNode(Clone)/Canvas/BattleSettingmentPanelV2(Clone)/Root/Trans_GrpWinSet/Trans_WinSet/GrpAction/BtnBackToMap/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 50003,
+            "group": 50,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4062"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnHome/ComBtnHomeItemV2:1",
+            "delay": 1.0
+        },
+        {
+            "id": 51001,
+            "group": 51,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4063"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpRightTop/GrpTabSwitch/BtnQuest/Btn_Content/Root/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 51002,
+            "group": 51,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4064"
+            },
+            "nextButton": true,
+            "delay": 1.0
+        },
+        {
+            "id": 51003,
+            "group": 51,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4065"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/QuestPanelV2(Clone)/Root/GrpRight/Trans_GrpRookieQuest/GrpRookieQuestList/Viewport/Content:1,RookieQuestItemV2(Clone)/GrpState/Trans_GrpReceive/QuestAccessItemV2/Root/Cast:1"
+        },
+        {
+            "id": 51004,
+            "group": 51,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4066"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ComReceiveDialogV2(Clone)/Root/GrpBg/Btn_Close/ImgBlackBg:1"
+        },
+        {
+            "id": 51005,
+            "group": 51,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4067"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 51006,
+            "group": 51,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4068"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 51007,
+            "group": 51,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4069"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 60001,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4070"
+            }
+        },
+        {
+            "id": 60002,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4071"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnGashapon/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 60003,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4072"
+            },
+            "nextButton": true,
+            "delay": 2.0
+        },
+        {
+            "id": 60004,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4073"
+            },
+            "nextButton": true,
+            "giveItem": {
+                "12": 1
+            }
+        },
+        {
+            "id": 60005,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4074"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/GashaponMainPanelV2(Clone)/Root/GrpOrder/GrpRight/GrpAction/Btn_OrderOne/Root/Cast:1"
+        },
+        {
+            "id": 60006,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4075"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ComDialogV2(Clone)/Root/GrpDialog/GrpAction/BtnConfirm/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 60007,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4076"
+            },
+            "nextButton": true,
+            "delay": 18.0
+        },
+        {
+            "id": 60008,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4077"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/GashaponChrWeaponDisplayPanelV2(Clone)/Root/Trans_BtnSkip/GashaponSkipPanelV2(Clone)/Btn_BgSkip:1"
+        },
+        {
+            "id": 60009,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4078"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/GashaponResultPanelV2(Clone)/Root/Btn_Close:1",
+            "delay": 1.0
+        },
+        {
+            "id": 60010,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4079"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 60011,
+            "group": 60,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4062"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/GashaponMainPanelV2(Clone)/Root/GrpTop/BtnBack/Btn_Content/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 70001,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4080"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 70002,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4081"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnBarrack/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 70003,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4082"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpLeft/GrpScreen/BtnScreen/Btn_Dropdown/Cast:1"
+        },
+        {
+            "id": 70004,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4082"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpLeft/GrpScreen/Trans_GrpScreenList/ComScreenDropdownListItemV2(Clone)/Content:1,ChrEquipSuitDropdownItemV2(Clone)/Cast:3"
+        },
+        {
+            "id": 70005,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4082"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpRight/GrpCardList/Viewport/Content:1,ChrCardDisplayItemV2(Clone)/Cast:3"
+        },
+        {
+            "id": 70006,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4083"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpPowerUp/Trans_Overview/ChrOverviewPanelV2(Clone)/Root/GrpRight/GrpAction/Trans_BtnLevelUp/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 70007,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4084"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 70008,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4085"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpPowerUp/Trans_Overview/ChrOverviewPanelV2(Clone)/Root/GrpGunLevelUp/ChrLevelUpDialogV2(Clone)/Root/GrpDialog/GrpCenter/GrpItemList/Content:1,ComItemV2(Clone)/Cast:1"
+        },
+        {
+            "id": 70009,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4086"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpPowerUp/Trans_Overview/ChrOverviewPanelV2(Clone)/Root/GrpGunLevelUp/ChrLevelUpDialogV2(Clone)/Root/GrpDialog/GrpCenter/GrpAction/BtnConfirm/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 70010,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4087"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpPowerUp/Trans_Overview/ChrOverviewPanelV2(Clone)/Root/GrpGunLevelUp/ChrLevelUpDialogV2(Clone)/Root/GrpBg/Btn_Close/ImgBlackBg:1"
+        },
+        {
+            "id": 70011,
+            "group": 70,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4088"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 80001,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4089"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 80002,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4090"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnBarrack/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 80003,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4091"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpLeft/GrpScreen/BtnScreen/Btn_Dropdown/Cast:1"
+        },
+        {
+            "id": 80004,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4091"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpLeft/GrpScreen/Trans_GrpScreenList/ComScreenDropdownListItemV2(Clone)/Content:1,ChrEquipSuitDropdownItemV2(Clone)/Cast:3"
+        },
+        {
+            "id": 80005,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4091"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpRight/GrpCardList/Viewport/Content:1,ChrCardDisplayItemV2(Clone)/Cast:2"
+        },
+        {
+            "id": 80006,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4092"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpLeft/GrpDetailsList/Content:1,PowerUpListItemV2(Clone)/Cast:4"
+        },
+        {
+            "id": 80007,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4093"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 80008,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4094"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpPowerUp/Trans_Weapon/ChrWeaponPanelV2(Clone)/Root/Trans_GrpWeaponDetails_0/GrpWeaponInfo/Trans_GrpAction/Trans_BtnReplace/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 80009,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4095"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpPowerUp/Trans_Weapon/ChrWeaponPanelV2(Clone)/Root/Trans_GrpWeaponDetails_0/Trans_GrpWeaponList/GrpWeaponList/Viewport/Content/item_1/Cast:1"
+        },
+        {
+            "id": 80010,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4096"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpPowerUp/Trans_Weapon/ChrWeaponPanelV2(Clone)/Root/Trans_GrpWeaponDetails_0/GrpWeaponInfo/Trans_GrpAction/Trans_BtnReplace/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 80011,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4097"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 80012,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4098"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 80013,
+            "group": 80,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4099"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 81001,
+            "group": 81,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4100"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 81002,
+            "group": 81,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4090"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnBarrack/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 81003,
+            "group": 81,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4101"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpLeft/GrpScreen/BtnScreen/Btn_Dropdown/Cast:1"
+        },
+        {
+            "id": 81004,
+            "group": 81,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4101"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpLeft/GrpScreen/Trans_GrpScreenList/ComScreenDropdownListItemV2(Clone)/Content:1,ChrEquipSuitDropdownItemV2(Clone)/Cast:3"
+        },
+        {
+            "id": 81005,
+            "group": 81,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4102"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpRight/GrpCardList/Viewport/Content:1,ChrCardDisplayItemV2(Clone)/Cast:2"
+        },
+        {
+            "id": 81006,
+            "group": 81,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4092"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpLeft/GrpDetailsList/Content:1,PowerUpListItemV2(Clone)/Cast:4"
+        },
+        {
+            "id": 81007,
+            "group": 81,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4093"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 81008,
+            "group": 81,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4103"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 81009,
+            "group": 81,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4104"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 90001,
+            "group": 90,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4105"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 90002,
+            "group": 90,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4061"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "_LevelNode(Clone)/Canvas/BattleSettingmentPanelV2(Clone)/Root/Trans_GrpWinSet/Trans_WinSet/GrpAction/BtnBackToMap/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 90003,
+            "group": 90,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4062"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnHome/ComBtnHomeItemV2:1",
+            "delay": 1.0
+        },
+        {
+            "id": 91001,
+            "group": 91,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4032"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnCombat/Btn_Combat/Root/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 91002,
+            "group": 91,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4106"
+            },
+            "delay": 1.0
+        },
+        {
+            "id": 91003,
+            "group": 91,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4107"
+            },
+            "nextButton": true,
+            "delay": 1.0
+        },
+        {
+            "id": 91004,
+            "group": 91,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4108"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpSimCombat/GrpBattleIndexList/BattleIndexListItemV2(Clone)/Cast:1"
+        },
+        {
+            "id": 91005,
+            "group": 91,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4109"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 91006,
+            "group": 91,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4110"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 91007,
+            "group": 91,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4111"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 91008,
+            "group": 91,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4112"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpSimCombat/Trans_GrpContentList/Viewport/Content:1,SimCombatChapterItemV2(Clone)/GrpContent/Cast:3",
+            "nextButton": true
+        },
+        {
+            "id": 92001,
+            "group": 92,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4113"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/SimCombatGoldPanelV2(Clone)/Root/GrpCenter/GrpDetailsList/Viewport/Content:1,SimCombatGoldChapterSelListItemV2(Clone)/Root/Cast:1",
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 92002,
+            "group": 92,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4040"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/SimCombatGoldPanelV2(Clone)/Trans_GrpCombatLauncher/ComDetailsPanelV2(Clone)/Root/GrpRight/GrpAction/BtnStart/Btn_Start/Root/Cast:1",
+            "nextButton": true
+        },
+        {
+            "id": 100001,
+            "group": 100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4114"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 100002,
+            "group": 100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4061"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "_LevelNode(Clone)/Canvas/BattleSettingmentPanelV2(Clone)/Root/Trans_GrpWinSet/Trans_WinSet/GrpAction/BtnBackToMap/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 100003,
+            "group": 100,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4062"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnHome/ComBtnHomeItemV2:1",
+            "delay": 1.0
+        },
+        {
+            "id": 101001,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4090"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnBarrack/Btn_Content/Root/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 101002,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4101"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpLeft/GrpScreen/BtnScreen/Btn_Dropdown/Cast:1"
+        },
+        {
+            "id": 101003,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4101"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpLeft/GrpScreen/Trans_GrpScreenList/ComScreenDropdownListItemV2(Clone)/Content:1,ChrEquipSuitDropdownItemV2(Clone)/Cast:3"
+        },
+        {
+            "id": 101004,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4115"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrCardMainPanelV2(Clone)/Root/GrpRight/GrpCardList/Viewport/Content:1,ChrCardDisplayItemV2(Clone)/Cast:2"
+        },
+        {
+            "id": 101005,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4116"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpLeft/GrpDetailsList/Content:1,PowerUpListItemV2(Clone)/Cast:3"
+        },
+        {
+            "id": 101006,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4117"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 101007,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4118"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 101008,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4119"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BarrackPowerUpPanelV2(Clone)/Root/GrpPowerUp/Trans_Equip/ChrEquipPanelV2(Clone)/Root/GrpEquip/Content/EquipItem_1/ChrEquipItemV2(Clone)/Cast:1"
+        },
+        {
+            "id": 101009,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4120"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrEquipReplaceListPanelV2(Clone)/Root/GrpLeft/Trans_GrpPosition/GrpEquipList/Viewport/Content/item_0/Cast:1"
+        },
+        {
+            "id": 101010,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4121"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/ChrEquipReplaceListPanelV2(Clone)/Root/GrpLeft/Trans_GrpEquipDetailsLeft/ChrWeaponEquipInfoItemV2(Clone)/GrpAction/BtnEquipe/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 101011,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4122"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 101012,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4123"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 101013,
+            "group": 101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4124"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 110001,
+            "group": 110,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4125"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 110002,
+            "group": 110,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4126"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpRightTop/GrpTabSwitch/BtnQuest/Btn_Content/Root/Cast:1",
+            "delay": 1.0
+        },
+        {
+            "id": 110003,
+            "group": 110,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4127"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/QuestPanelV2(Clone)/Root/GrpLeft/Content/GrpTabList/Viewport/Content:1,ComLeftTab1ItemV2(Clone)/Cast:2"
+        },
+        {
+            "id": 110004,
+            "group": 110,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4128"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 110005,
+            "group": 110,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4129"
+            },
+            "nextButton": true,
+            "delay": 1.0
+        },
+        {
+            "id": 111001,
+            "group": 111,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4127"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/QuestPanelV2(Clone)/Root/GrpLeft/Content/GrpTabList/Viewport/Content:1,ComLeftTab1ItemV2(Clone)/Cast:2",
+            "finishPage": 1
+        },
+        {
+            "id": 120001,
+            "group": 120,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4130"
+            },
+            "finishPage": 1
+        },
+        {
+            "id": 120002,
+            "group": 120,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4044"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "_LevelNode(Clone)/Canvas/BattleSettingmentPanelV2(Clone)/Root/Trans_GrpWinSet/Trans_WinSet/GrpAction/BtnBackToMap/Btn_Content/Root/Cast:1"
+        },
+        {
+            "id": 120003,
+            "group": 120,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4045"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnHome/ComBtnHomeItemV2:1",
+            "delay": 1.0
+        },
+        {
+            "id": 121001,
+            "group": 121,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4032"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnCombat/Btn_Combat/Root/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 121002,
+            "group": 121,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4131"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpDifficultyCombat/GrpBattleIndexList/BattleIndexListItemV2(Clone)/Cast:1"
+        },
+        {
+            "id": 121003,
+            "group": 121,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4132"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpDifficultyCombat/Trans_GrpContentList/Viewport/Content:1,DifficultyCombatChapterItemV2(Clone)/GrpContent/Cast:1",
+            "delay": 1.0
+        },
+        {
+            "id": 122001,
+            "group": 122,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4133"
+            },
+            "nextButton": true,
+            "delay": 1.0,
+            "finishPage": 1
+        },
+        {
+            "id": 122002,
+            "group": 122,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4134"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 130001,
+            "group": 130,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4135"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 130002,
+            "group": 130,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4044"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "_LevelNode(Clone)/Canvas/BattleSettingmentPanelV2(Clone)/Root/Trans_GrpWinSet/Trans_WinSet/GrpAction/BtnBackToMap/Btn_Content/Root/Cast:1",
+            "delay": 1.0
+        },
+        {
+            "id": 130003,
+            "group": 130,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4045"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnHome/ComBtnHomeItemV2:1",
+            "delay": 1.0
+        },
+        {
+            "id": 131001,
+            "group": 131,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4032"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnCombat/Btn_Combat/Root/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 131002,
+            "group": 131,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4108"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpSimCombat/GrpBattleIndexList/BattleIndexListItemV2(Clone)/Cast:1",
+            "delay": 1.0
+        },
+        {
+            "id": 131003,
+            "group": 131,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4136"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpSimCombat/Trans_GrpContentList/Viewport/Content:1,SimCombatChapterItemV2(Clone)/GrpContent/Cast:5",
+            "delay": 1.0
+        },
+        {
+            "id": 132001,
+            "group": 132,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4137"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 132002,
+            "group": 132,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4138"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/TrainingListPanelV2(Clone)/Root/GrpLeft/GrpTrainingList/Viewport/Content/item_0/Trans_Btn_GrpNow/GrpContent/Cast:1"
+        },
+        {
+            "id": 132003,
+            "group": 132,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4139"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/TrainingListPanelV2(Clone)/Root/Trans_CombatLauncher/ComDetailsPanelV2(Clone)/Root/GrpRight/GrpAction/BtnStart/Btn_Start/Root/Cast:1",
+            "delay": 1.0
+        },
+        {
+            "id": 140001,
+            "group": 140,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4140"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 140002,
+            "group": 140,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4044"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "_LevelNode(Clone)/Canvas/BattleSettingmentPanelV2(Clone)/Root/Trans_GrpWinSet/Trans_WinSet/GrpAction/BtnBackToMap/Btn_Content/Root/Cast:1",
+            "delay": 1.0
+        },
+        {
+            "id": 140003,
+            "group": 140,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4045"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpTop/BtnHome/ComBtnHomeItemV2:1",
+            "delay": 1.0
+        },
+        {
+            "id": 141001,
+            "group": 141,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4032"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnCombat/Btn_Combat/Root/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 141002,
+            "group": 141,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4108"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpSimCombat/GrpBattleIndexList/BattleIndexListItemV2(Clone)/Cast:1",
+            "delay": 1.0
+        },
+        {
+            "id": 141003,
+            "group": 141,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4141"
+            },
+            "clickType": "ClickUiSlide",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpSimCombat/Trans_GrpContentList:1;-900,-800;250,0;-250,0",
+            "delay": 1.0
+        },
+        {
+            "id": 141004,
+            "group": 141,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4141"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpSimCombat/Trans_GrpContentList/Viewport/Content:1,SimCombatChapterItemV2(Clone)/GrpContent/Cast:6",
+            "delay": 1.0
+        },
+        {
+            "id": 142001,
+            "group": 142,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4142"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 142002,
+            "group": 142,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4143"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 142003,
+            "group": 142,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4144"
+            },
+            "nextButton": true,
+            "delay": 1.0
+        },
+        {
+            "id": 142004,
+            "group": 142,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4145"
+            },
+            "nextButton": true,
+            "delay": 1.0
+        },
+        {
+            "id": 150001,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4146"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 150002,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4147"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 150003,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4148"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CommandCenterPanelV2(Clone)/Root/GrpBottom/GrpTabSwitch/BtnCombat/Btn_Combat/Root/Cast:1"
+        },
+        {
+            "id": 150004,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "3,-800,250",
+            "text": {
+                "id": "4149"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/BattleIndexPanelV2(Clone)/Root/GrpModeList/GrpModeSelList/Viewport/Content/GrpPlotCombat/Trans_GrpContentList/Viewport/Content:1,PlotCombatChapterItemV2(Clone)/GrpContent/Cast:2",
+            "delay": 1.0
+        },
+        {
+            "id": 150005,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4150"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 150006,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4151"
+            },
+            "clickType": "ClickUiSlide",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpCenter/GrpDetailsList:1;-1100,-1000;-250,0;250,0",
+            "delay": 1.0
+        },
+        {
+            "id": 150007,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4151"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Root/GrpCenter/GrpDetailsList/Viewport/Content:1,StoryChapterItemV2(Clone)/Root/Cast:3",
+            "delay": 1.0
+        },
+        {
+            "id": 150008,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4152"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 150009,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4153"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/StoryChapterPanelV2(Clone)/Trans_GrpCombatLauncher/ComDetailsPanelV2(Clone)/Root/GrpRight/GrpAction/Trans_BtnRaid/ComBtn3ItemV2/Root/Cast:1"
+        },
+        {
+            "id": 150010,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4154"
+            },
+            "nextButton": true,
+            "giveItem": {
+                "101": 8
+            }
+        },
+        {
+            "id": 150011,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4155"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/RaidDialogV2(Clone)/Root/GrpDialog/GrpAction/BtnConfirm/Btn_Confirm/Root/Cast:1"
+        },
+        {
+            "id": 150012,
+            "group": 150,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,50,-150",
+            "text": {
+                "id": "4156"
+            },
+            "nextButton": true,
+            "delay": 6.0,
             "finishPage": 1
         },
         {
@@ -17,147 +1778,190 @@
             "group": 1001,
             "textPosition": "2,0,1",
             "text": {
-                "id": "33"
+                "id": "4157"
             },
             "clickType": "ClickPicGuide",
-            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1.png"
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2_a.png"
         },
         {
             "id": 1001002,
             "group": 1001,
             "textPosition": "2,0,2",
             "text": {
-                "id": "34"
+                "id": "4158"
             },
             "clickType": "ClickPicGuide",
-            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2.png"
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2_b.png"
         },
         {
             "id": 1002001,
             "group": 1002,
             "textPosition": "2,0,1",
             "text": {
-                "id": "35"
+                "id": "4159"
             },
             "clickType": "ClickPicGuide",
-            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3.png"
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_a.png"
         },
         {
             "id": 1002002,
             "group": 1002,
             "textPosition": "2,0,2",
             "text": {
-                "id": "36"
+                "id": "4160"
             },
             "clickType": "ClickPicGuide",
-            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4.png"
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_b.png"
+        },
+        {
+            "id": 1002003,
+            "group": 1002,
+            "textPosition": "2,0,3",
+            "text": {
+                "id": "4161"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_d.png"
         },
         {
             "id": 1003001,
             "group": 1003,
             "textPosition": "2,0,1",
             "text": {
-                "id": "37"
+                "id": "4162"
             },
             "clickType": "ClickPicGuide",
-            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_5.png"
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_a.png"
         },
         {
             "id": 1003002,
             "group": 1003,
             "textPosition": "2,0,2",
             "text": {
-                "id": "38"
+                "id": "4163"
             },
             "clickType": "ClickPicGuide",
-            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_6.png"
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_b.png"
+        },
+        {
+            "id": 1003003,
+            "group": 1003,
+            "textPosition": "2,0,3",
+            "text": {
+                "id": "4164"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_c.png"
         },
         {
             "id": 1004001,
             "group": 1004,
             "textPosition": "2,0,1",
             "text": {
-                "id": "39"
+                "id": "4165"
             },
             "clickType": "ClickPicGuide",
-            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_7.png"
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_a.png"
         },
         {
-            "id": 1005001,
-            "group": 1005,
+            "id": 1004002,
+            "group": 1004,
+            "textPosition": "2,0,2",
+            "text": {
+                "id": "4166"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_b.png"
+        },
+        {
+            "id": 1004003,
+            "group": 1004,
+            "textPosition": "2,0,3",
+            "text": {
+                "id": "4167"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_c.png"
+        },
+        {
+            "id": 40121001,
+            "group": 40121,
             "textPosition": "2,0,1",
             "text": {
-                "id": "40"
+                "id": "4159"
             },
             "clickType": "ClickPicGuide",
-            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_8.png"
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_a.png"
         },
         {
-            "id": 2001001,
-            "group": 2001,
-            "avatar": "Monster_Head_6P",
-            "textPosition": "1,60,350",
+            "id": 40122001,
+            "group": 40122,
+            "textPosition": "2,0,1",
             "text": {
-                "id": "41"
-            }
-        },
-        {
-            "id": 2001002,
-            "group": 2001,
-            "avatar": "Monster_Head_Felagi_Shoot",
-            "textPosition": "1,60,350",
-            "text": {
-                "id": "42"
+                "id": "4160"
             },
-            "finishPage": 1
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_b.png"
         },
         {
-            "id": 2002001,
-            "group": 2002,
-            "avatar": "Monster_Head_6P",
-            "textPosition": "1,60,350",
+            "id": 40123001,
+            "group": 40123,
+            "textPosition": "2,0,1",
             "text": {
-                "id": "43"
+                "id": "4168"
             },
-            "finishPage": 1
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_c.png"
         },
         {
-            "id": 2003001,
-            "group": 2003,
-            "avatar": "Monster_Head_FunGay",
-            "textPosition": "1,60,350",
+            "id": 40124001,
+            "group": 40124,
+            "textPosition": "2,0,1",
             "text": {
-                "id": "44"
+                "id": "4161"
             },
-            "finishPage": 1
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_d.png"
         },
         {
-            "id": 2004001,
-            "group": 2004,
-            "avatar": "Monster_Head_6P",
-            "textPosition": "1,60,350",
+            "id": 40125001,
+            "group": 40125,
+            "textPosition": "2,0,1",
             "text": {
-                "id": "45"
-            }
-        },
-        {
-            "id": 2004002,
-            "group": 2004,
-            "avatar": "Monster_Head_6P",
-            "textPosition": "1,60,350",
-            "text": {
-                "id": "41"
-            }
-        },
-        {
-            "id": 2004003,
-            "group": 2004,
-            "avatar": "Monster_Head_Felagi_Shoot",
-            "textPosition": "1,60,350",
-            "text": {
-                "id": "42"
+                "id": "4169"
             },
-            "finishPage": 1
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_e.png"
+        },
+        {
+            "id": 40126001,
+            "group": 40126,
+            "textPosition": "2,0,1",
+            "text": {
+                "id": "4170"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_f.png"
+        },
+        {
+            "id": 40133001,
+            "group": 40133,
+            "textPosition": "2,0,1",
+            "text": {
+                "id": "4171"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_d.png"
+        },
+        {
+            "id": 40133002,
+            "group": 40133,
+            "textPosition": "2,0,2",
+            "text": {
+                "id": "4172"
+            },
+            "clickType": "ClickPicGuide",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_e.png"
         },
         {
             "id": 1010100001,
@@ -165,7 +1969,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "46"
+                "id": "4173"
             },
             "nextButton": true
         },
@@ -175,7 +1979,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "47"
+                "id": "4174"
             },
             "nextButton": true
         },
@@ -185,11 +1989,12 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "48"
+                "id": "4175"
             },
-            "clickType": "ClickUi",
-            "clickAreaPosition": "Canvas/EmbattlePanelV2(Clone)/Root/GrpBottom/GrpChrList/Viewport/Content/item_0/ComChrInfoItemV2(Clone)/Cast:1",
-            "focusPoint": 1703967
+            "clickType": "ClickDrag",
+            "clickAreaPosition": "Canvas/EmbattlePanelV2(Clone)/Root/GrpBottom/GrpCard/GrpChr/GrpChrList/Viewport/Content/item_0/Cast:1>>1703967",
+            "focusPoint": 1703967,
+            "delay": 0.5
         },
         {
             "id": 1010100004,
@@ -197,9 +2002,12 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "49"
+                "id": "4176"
             },
-            "nextButton": true
+            "clickType": "ClickDrag",
+            "clickAreaPosition": "Canvas/EmbattlePanelV2(Clone)/Root/GrpBottom/GrpCard/GrpChr/GrpChrList/Viewport/Content/item_0/Cast:1>>1769503",
+            "focusPoint": 1769503,
+            "delay": 0.5
         },
         {
             "id": 1010100005,
@@ -207,88 +2015,11 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "50"
-            },
-            "clickType": "ClickTile",
-            "clickAreaPosition": "1507356"
-        },
-        {
-            "id": 1010100006,
-            "group": 1010100,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "51"
-            },
-            "clickType": "ClickTile",
-            "clickAreaPosition": "1703967",
-            "focusPoint": 1703967,
-            "maskControl": true
-        },
-        {
-            "id": 1010100007,
-            "group": 1010100,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "52"
-            },
-            "clickType": "ClickUi",
-            "clickAreaPosition": "Canvas/EmbattlePanelV2(Clone)/Root/GrpBottom/GrpChrList/Viewport/Content/item_0:1,ComChrInfoItemV2(Clone)/Cast:2"
-        },
-        {
-            "id": 1010100008,
-            "group": 1010100,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "53"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010100009,
-            "group": 1010100,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "50"
-            },
-            "clickType": "ClickTile",
-            "clickAreaPosition": "1507356"
-        },
-        {
-            "id": 1010100010,
-            "group": 1010100,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "54"
-            },
-            "clickType": "ClickTile",
-            "clickAreaPosition": "1769503",
-            "focusPoint": 1769503
-        },
-        {
-            "id": 1010100011,
-            "group": 1010100,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "55"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010100012,
-            "group": 1010100,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "56"
+                "id": "4177"
             },
             "clickType": "ClickUi",
             "clickAreaPosition": "Canvas/EmbattlePanelV2(Clone)/Root/GrpBottom/BtnAction/Trans_BtnStart/CombatBtn1ItemV2/Cast:1",
+            "delay": 0.5,
             "finishPage": 1,
             "maskControl": true
         },
@@ -298,7 +2029,7 @@
             "avatar": "Monster_Head_Felagi_Shoot",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "57"
+                "id": "4178"
             },
             "focusPoint": 1703962,
             "nextButton": true,
@@ -310,7 +2041,7 @@
             "avatar": "Monster_Head_Felagi_Shoot",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "58"
+                "id": "4179"
             },
             "focusPoint": 1769496,
             "nextButton": true
@@ -321,7 +2052,7 @@
             "avatar": "Monster_Head_Felagi_Shoot",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "59"
+                "id": "4180"
             },
             "focusPoint": 1703962,
             "nextButton": true
@@ -332,7 +2063,7 @@
             "avatar": "Monster_Head_Felagi_Shoot",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "60"
+                "id": "4181"
             },
             "focusPoint": 1769496,
             "nextButton": true,
@@ -345,7 +2076,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "61"
+                "id": "4182"
             },
             "nextButton": true
         },
@@ -355,7 +2086,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "62"
+                "id": "4183"
             },
             "focusPoint": 1769503,
             "nextButton": true
@@ -366,7 +2097,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "63"
+                "id": "4184"
             },
             "nextButton": true
         },
@@ -376,7 +2107,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "64"
+                "id": "4185"
             },
             "nextButton": true
         },
@@ -386,7 +2117,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "65"
+                "id": "4186"
             },
             "clickType": "ClickTile",
             "clickAreaPosition": "1769501",
@@ -398,7 +2129,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "66"
+                "id": "4187"
             },
             "clickType": "ClickTile",
             "clickAreaPosition": "1769496",
@@ -410,10 +2141,11 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "67"
+                "id": "4188"
             },
             "clickType": "ClickUi",
-            "clickAreaPosition": "Canvas/UICombatMainPanel(Clone)/Trans_GrpSkillRelease/GrpBottom/GrpRight/GrpAction/BtnConfirm/Btn_Confirm/Root/Cast:1",
+            "clickAreaPosition": "Canvas/CombatMainPanelV2(Clone)/Root/Trans_GrpSelSkillInfo/Root/Content/GrpAction/BtnConfirm/Btn_Confirm/Root/Cast:1",
+            "delay": 0.5,
             "finishPage": 1,
             "maskControl": true
         },
@@ -423,7 +2155,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "68"
+                "id": "4189"
             },
             "nextButton": true
         },
@@ -433,7 +2165,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "69"
+                "id": "4190"
             },
             "clickType": "ClickTile",
             "clickAreaPosition": "1703965",
@@ -445,7 +2177,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "69"
+                "id": "4190"
             },
             "clickType": "ClickTile",
             "clickAreaPosition": "1703962",
@@ -457,7 +2189,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "70"
+                "id": "4191"
             },
             "clickType": "ClickTile",
             "clickAreaPosition": "1703962",
@@ -470,7 +2202,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "71"
+                "id": "4192"
             },
             "nextButton": true
         },
@@ -480,7 +2212,17 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "72"
+                "id": "4193"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010104003,
+            "group": 1010104,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4194"
             },
             "nextButton": true,
             "finishPage": 1,
@@ -492,7 +2234,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "73"
+                "id": "4195"
             },
             "nextButton": true
         },
@@ -502,7 +2244,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "74"
+                "id": "4196"
             },
             "nextButton": true
         },
@@ -512,7 +2254,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "75"
+                "id": "4197"
             },
             "nextButton": true
         },
@@ -522,7 +2264,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "76"
+                "id": "4198"
             },
             "nextButton": true
         },
@@ -532,7 +2274,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "77"
+                "id": "4199"
             },
             "nextButton": true,
             "finishPage": 1
@@ -543,10 +2285,11 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "78"
+                "id": "4200"
             },
             "clickType": "ClickUi",
-            "clickAreaPosition": "Canvas/UICombatMainPanel(Clone)/GrpBottom/GrpRight/GrpSkillStandBy/GrpSkill:1,ComBatSkillItemV2(Clone)/Cast:1"
+            "clickAreaPosition": "Canvas/CombatMainPanelV2(Clone)/Root/GrpChrSkill/GrpSkill/GrpSkill:1,ComBatSkill2ItemV2(Clone)/Cast:1",
+            "delay": 0.5
         },
         {
             "id": 1010106003,
@@ -554,7 +2297,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "79"
+                "id": "4201"
             },
             "clickType": "ClickTile",
             "clickAreaPosition": "1703961",
@@ -566,7 +2309,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "80"
+                "id": "4202"
             },
             "clickType": "ClickTile",
             "clickAreaPosition": "1703961",
@@ -579,7 +2322,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "81"
+                "id": "4203"
             },
             "nextButton": true
         },
@@ -589,7 +2332,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "82"
+                "id": "4204"
             },
             "nextButton": true,
             "finishPage": 1
@@ -600,7 +2343,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "83"
+                "id": "4205"
             },
             "nextButton": true
         },
@@ -610,7 +2353,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "84"
+                "id": "4206"
             },
             "nextButton": true,
             "finishPage": 1,
@@ -622,7 +2365,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "85"
+                "id": "4207"
             },
             "nextButton": true
         },
@@ -632,7 +2375,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "86"
+                "id": "4208"
             },
             "focusPoint": 1703964,
             "nextButton": true
@@ -643,7 +2386,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "87"
+                "id": "4209"
             },
             "nextButton": true
         },
@@ -653,70 +2396,9 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "88"
+                "id": "4210"
             },
             "focusPoint": 1703962,
-            "nextButton": true,
-            "finishPage": 1
-        },
-        {
-            "id": 1010201001,
-            "group": 1010201,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "89"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010201002,
-            "group": 1010201,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "90"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010201003,
-            "group": 1010201,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "75"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010201004,
-            "group": 1010201,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "76"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010201005,
-            "group": 1010201,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "77"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010201006,
-            "group": 1010201,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "91"
-            },
             "nextButton": true,
             "finishPage": 1
         },
@@ -726,7 +2408,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "92"
+                "id": "4211"
             },
             "nextButton": true
         },
@@ -736,7 +2418,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "93"
+                "id": "4212"
             },
             "nextButton": true,
             "finishPage": 1
@@ -747,7 +2429,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "94"
+                "id": "4213"
             },
             "nextButton": true
         },
@@ -757,9 +2439,9 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "95"
+                "id": "4214"
             },
-            "focusPoint": 1900574,
+            "focusPoint": 1966111,
             "nextButton": true
         },
         {
@@ -768,7 +2450,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "96"
+                "id": "4215"
             },
             "nextButton": true
         },
@@ -778,7 +2460,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "97"
+                "id": "4216"
             },
             "nextButton": true
         },
@@ -788,9 +2470,9 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "98"
+                "id": "4217"
             },
-            "focusPoint": 1900568,
+            "focusPoint": 1966105,
             "nextButton": true,
             "finishPage": 1
         },
@@ -800,7 +2482,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "99"
+                "id": "4218"
             },
             "nextButton": true
         },
@@ -810,7 +2492,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "100"
+                "id": "4219"
             },
             "nextButton": true
         },
@@ -820,7 +2502,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "101"
+                "id": "4220"
             },
             "nextButton": true
         },
@@ -830,7 +2512,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "102"
+                "id": "4221"
             },
             "nextButton": true
         },
@@ -840,7 +2522,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "103"
+                "id": "4222"
             },
             "nextButton": true
         },
@@ -850,7 +2532,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "104"
+                "id": "4223"
             },
             "nextButton": true,
             "finishPage": 1
@@ -861,7 +2543,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "105"
+                "id": "4224"
             },
             "nextButton": true,
             "finishPage": 1
@@ -872,7 +2554,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "106"
+                "id": "4225"
             },
             "nextButton": true,
             "finishPage": 1
@@ -883,7 +2565,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "107"
+                "id": "4226"
             },
             "focusPoint": 1835031,
             "nextButton": true
@@ -894,7 +2576,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "108"
+                "id": "4227"
             },
             "nextButton": true
         },
@@ -904,7 +2586,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "109"
+                "id": "4228"
             },
             "nextButton": true
         },
@@ -914,7 +2596,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "110"
+                "id": "4229"
             },
             "nextButton": true
         },
@@ -924,50 +2606,9 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "111"
+                "id": "4230"
             },
             "focusPoint": 1835027,
-            "nextButton": true,
-            "finishPage": 1
-        },
-        {
-            "id": 1010401001,
-            "group": 1010401,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "112"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010401002,
-            "group": 1010401,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "113"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010401003,
-            "group": 1010401,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "114"
-            },
-            "nextButton": true
-        },
-        {
-            "id": 1010401004,
-            "group": 1010401,
-            "avatar": "Avatar_Head_GrozaR",
-            "textPosition": "7,58,-72",
-            "text": {
-                "id": "115"
-            },
             "nextButton": true,
             "finishPage": 1
         },
@@ -977,7 +2618,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "116"
+                "id": "4231"
             },
             "nextButton": true
         },
@@ -987,7 +2628,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "117"
+                "id": "4232"
             },
             "nextButton": true
         },
@@ -997,41 +2638,155 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "118"
+                "id": "4233"
             },
             "nextButton": true,
             "finishPage": 1
         },
         {
-            "id": 1010600001,
-            "group": 1010600,
+            "id": 1010601001,
+            "group": 1010601,
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "119"
+                "id": "4224"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010602001,
+            "group": 1010602,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4234"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010603001,
+            "group": 1010603,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4235"
             },
             "nextButton": true
         },
         {
-            "id": 1010600002,
-            "group": 1010600,
+            "id": 1010603002,
+            "group": 1010603,
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "120"
+                "id": "4236"
             },
-            "focusPoint": 1507352,
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010700001,
+            "group": 1010700,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4237"
+            },
             "nextButton": true
         },
         {
-            "id": 1010600003,
-            "group": 1010600,
+            "id": 1010700002,
+            "group": 1010700,
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "121"
+                "id": "4238"
             },
             "nextButton": true
+        },
+        {
+            "id": 1010700003,
+            "group": 1010700,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4239"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010700004,
+            "group": 1010700,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4240"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1010801001,
+            "group": 1010801,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4241"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010801002,
+            "group": 1010801,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4242"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010801003,
+            "group": 1010801,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4243"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010801004,
+            "group": 1010801,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4244"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010801005,
+            "group": 1010801,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4245"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1010801006,
+            "group": 1010801,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4246"
+            },
+            "nextButton": true,
+            "finishPage": 1
         },
         {
             "id": 1011000001,
@@ -1039,7 +2794,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "122"
+                "id": "4247"
             },
             "focusPoint": 1966105,
             "nextButton": true
@@ -1050,7 +2805,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "123"
+                "id": "4248"
             },
             "nextButton": true
         },
@@ -1060,9 +2815,222 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "124"
+                "id": "4249"
             },
             "focusPoint": 1441813,
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1011001001,
+            "group": 1011001,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4250"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1011001002,
+            "group": 1011001,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4251"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1011001003,
+            "group": 1011001,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4252"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1020201001,
+            "group": 1020201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4253"
+            },
+            "focusPoint": 1572891,
+            "nextButton": true
+        },
+        {
+            "id": 1020201002,
+            "group": 1020201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4254"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1020201003,
+            "group": 1020201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4255"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1020400001,
+            "group": 1020400,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4256"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1020400002,
+            "group": 1020400,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4257"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1020400003,
+            "group": 1020400,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4258"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1020901001,
+            "group": 1020901,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4259"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1020901002,
+            "group": 1020901,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4260"
+            },
+            "focusPoint": 1638425,
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1020902001,
+            "group": 1020902,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4261"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1020903001,
+            "group": 1020903,
+            "avatar": "Monster_Head_Ravn",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4262"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1020903002,
+            "group": 1020903,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4263"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1021001001,
+            "group": 1021001,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4264"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1021001002,
+            "group": 1021001,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4265"
+            },
+            "focusPoint": 1572897,
+            "nextButton": true
+        },
+        {
+            "id": 1021001003,
+            "group": 1021001,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4266"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 1021001004,
+            "group": 1021001,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4267"
+            },
+            "focusPoint": 1572884,
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 1030101001,
+            "group": 1030101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4268"
+            },
+            "focusPoint": 1572893,
+            "nextButton": true
+        },
+        {
+            "id": 1030101002,
+            "group": 1030101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4269"
+            },
             "nextButton": true,
             "finishPage": 1
         },
@@ -1072,7 +3040,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "125"
+                "id": "4270"
             },
             "focusPoint": 1310742,
             "nextButton": true
@@ -1083,7 +3051,7 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "126"
+                "id": "4271"
             },
             "focusPoint": 1441819,
             "nextButton": true
@@ -1094,9 +3062,175 @@
             "avatar": "Avatar_Head_GrozaR",
             "textPosition": "7,58,-72",
             "text": {
-                "id": "127"
+                "id": "4272"
             },
             "focusPoint": 1507347,
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 4010101001,
+            "group": 4010101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4273"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4010101002,
+            "group": 4010101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4274"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4010101003,
+            "group": 4010101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4275"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4010101004,
+            "group": 4010101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4276"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4010101005,
+            "group": 4010101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4277"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4010101006,
+            "group": 4010101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4278"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4010101007,
+            "group": 4010101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4279"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4010101008,
+            "group": 4010101,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4280"
+            },
+            "clickType": "ClickUi",
+            "clickAreaPosition": "Canvas/CombatMainPanelV2(Clone)/Root/GrpTop/Right/BtnInfo/Btn_Info/Cast:1",
+            "finishPage": 1
+        },
+        {
+            "id": 4010201001,
+            "group": 4010201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4281"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4010201002,
+            "group": 4010201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4282"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 4010301001,
+            "group": 4010301,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4283"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4010301002,
+            "group": 4010301,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4284"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 4011201001,
+            "group": 4011201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4285"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4011201002,
+            "group": 4011201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4286"
+            },
+            "nextButton": true,
+            "finishPage": 1
+        },
+        {
+            "id": 4013201001,
+            "group": 4013201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4287"
+            },
+            "nextButton": true
+        },
+        {
+            "id": 4013201002,
+            "group": 4013201,
+            "avatar": "Avatar_Head_GrozaR",
+            "textPosition": "7,58,-72",
+            "text": {
+                "id": "4288"
+            },
             "nextButton": true,
             "finishPage": 1
         }

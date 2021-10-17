@@ -1,8 +1,89 @@
 {
     "data": [
         {
+            "interfaceId": 522,
+            "resources": "12:19:2,1"
+        },
+        {
+            "interfaceId": 532,
+            "resources": "1"
+        },
+        {
+            "interfaceId": 554,
+            "resources": "1,2:19:2,101:7",
+            "system": "8",
+            "systemIcon": "Currency_SystemIcon_Mail",
+            "color": 1
+        },
+        {
+            "interfaceId": 561,
+            "resources": "1"
+        },
+        {
+            "interfaceId": 563,
+            "resources": "23,101:7"
+        },
+        {
+            "interfaceId": 568,
+            "resources": "2"
+        },
+        {
+            "interfaceId": 572,
+            "resources": "1,2:19:2,101:7"
+        },
+        {
+            "interfaceId": 574,
+            "resources": "9:19:2"
+        },
+        {
+            "interfaceId": 583,
+            "resources": "101",
+            "color": 1
+        },
+        {
+            "interfaceId": 601,
+            "resources": "101"
+        },
+        {
+            "interfaceId": 605,
+            "resources": "23,101:7"
+        },
+        {
+            "interfaceId": 606,
+            "resources": "23,101:7"
+        },
+        {
             "interfaceId": 607,
-            "resources": "1,3:19:3,102:19:3"
+            "resources": "1,3:19:2,102:19:2"
+        },
+        {
+            "interfaceId": 609,
+            "resources": "2"
+        },
+        {
+            "interfaceId": 627,
+            "resources": "2"
+        },
+        {
+            "interfaceId": 636,
+            "resources": "2"
+        },
+        {
+            "interfaceId": 651,
+            "resources": "23,101:7"
+        },
+        {
+            "interfaceId": 652,
+            "resources": "23,101:7"
+        },
+        {
+            "interfaceId": 657,
+            "resources": "23,101:7"
+        },
+        {
+            "interfaceId": 664,
+            "resources": "1",
+            "color": 1
         }
     ]
 }

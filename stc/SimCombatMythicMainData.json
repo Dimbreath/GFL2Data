@@ -7,11 +7,13 @@
                 40061,
                 40111
             ],
+            "buffGroup": 2,
             "rewardList": {
                 "1": 100
             },
             "bossStage": 25401,
-            "bossIcon": "Ravn",
+            "bossIcon": "Monster_Half_Ravn",
+            "bossId": 6169,
             "bossElement": 1,
             "levelList": [
                 10,
@@ -20,7 +22,9 @@
                 13,
                 14,
                 15
-            ]
+            ],
+            "imageBg": "Img_SimCombatMythicBg1",
+            "imageTheme": "Img_SimCombatMythicPic1"
         },
         {
             "id": 2,
@@ -29,11 +33,13 @@
                 40071,
                 40121
             ],
+            "buffGroup": 1,
             "rewardList": {
                 "1": 200
             },
             "bossStage": 25402,
-            "bossIcon": "Ravn",
+            "bossIcon": "Monster_Half_Ravn",
+            "bossId": 6169,
             "bossElement": 2,
             "levelList": [
                 10,
@@ -42,7 +48,9 @@
                 13,
                 14,
                 15
-            ]
+            ],
+            "imageBg": "Img_SimCombatMythicBg1",
+            "imageTheme": "Img_SimCombatMythicPic1"
         },
         {
             "id": 3,
@@ -51,11 +59,13 @@
                 40081,
                 40131
             ],
+            "buffGroup": 1,
             "rewardList": {
                 "1": 300
             },
             "bossStage": 25403,
-            "bossIcon": "Ravn",
+            "bossIcon": "Monster_Half_Ravn",
+            "bossId": 6169,
             "bossElement": 3,
             "levelList": [
                 10,
@@ -64,7 +74,9 @@
                 13,
                 14,
                 15
-            ]
+            ],
+            "imageBg": "Img_SimCombatMythicBg1",
+            "imageTheme": "Img_SimCombatMythicPic1"
         },
         {
             "id": 4,
@@ -73,11 +85,13 @@
                 40091,
                 40141
             ],
+            "buffGroup": 1,
             "rewardList": {
                 "1": 400
             },
             "bossStage": 25404,
-            "bossIcon": "Ravn",
+            "bossIcon": "Monster_Half_Ravn",
+            "bossId": 6169,
             "bossElement": 1,
             "levelList": [
                 10,
@@ -86,7 +100,9 @@
                 13,
                 14,
                 15
-            ]
+            ],
+            "imageBg": "Img_SimCombatMythicBg1",
+            "imageTheme": "Img_SimCombatMythicPic1"
         },
         {
             "id": 5,
@@ -95,11 +111,13 @@
                 40101,
                 40151
             ],
+            "buffGroup": 1,
             "rewardList": {
                 "1": 500
             },
             "bossStage": 25405,
-            "bossIcon": "Ravn",
+            "bossIcon": "Monster_Half_Ravn",
+            "bossId": 6169,
             "bossElement": 2,
             "levelList": [
                 10,
@@ -108,7 +126,9 @@
                 13,
                 14,
                 15
-            ]
+            ],
+            "imageBg": "Img_SimCombatMythicBg1",
+            "imageTheme": "Img_SimCombatMythicPic1"
         }
     ]
 }

@@ -1,17 +1,271 @@
 {
     "data": [
         {
-            "id": 1,
-            "condition": [
-                4320024
-            ],
+            "id": 10,
             "priority": 1,
-            "timing": "15"
+            "timing": "1",
+            "finishCondition": 1014
+        },
+        {
+            "id": 11,
+            "priority": 1,
+            "timing": "15",
+            "finishCondition": 1014
+        },
+        {
+            "id": 20,
+            "condition": [
+                1014
+            ],
+            "priority": 2,
+            "timing": "15",
+            "finishCondition": 1001
+        },
+        {
+            "id": 21,
+            "condition": [
+                1014
+            ],
+            "priority": 2,
+            "timing": "1",
+            "finishCondition": 1001
+        },
+        {
+            "id": 22,
+            "condition": [
+                1001
+            ],
+            "priority": 2,
+            "timing": "2"
+        },
+        {
+            "id": 30,
+            "condition": [
+                1002
+            ],
+            "priority": 3,
+            "timing": "2"
+        },
+        {
+            "id": 31,
+            "condition": [
+                1002
+            ],
+            "priority": 3,
+            "timing": "1",
+            "finishCondition": 1015
+        },
+        {
+            "id": 40,
+            "condition": [
+                99999
+            ],
+            "priority": 4,
+            "timing": "2"
+        },
+        {
+            "id": 41,
+            "condition": [
+                99999
+            ],
+            "priority": 4,
+            "timing": "1"
+        },
+        {
+            "id": 50,
+            "condition": [
+                1004
+            ],
+            "priority": 5,
+            "timing": "2"
+        },
+        {
+            "id": 51,
+            "condition": [
+                1004
+            ],
+            "priority": 5,
+            "timing": "1"
+        },
+        {
+            "id": 60,
+            "condition": [
+                1004
+            ],
+            "priority": 6,
+            "timing": "1",
+            "finishCondition": 1016
+        },
+        {
+            "id": 70,
+            "condition": [
+                1016
+            ],
+            "priority": 7,
+            "timing": "1"
+        },
+        {
+            "id": 80,
+            "condition": [
+                1018,
+                1004
+            ],
+            "priority": 51,
+            "timing": "1"
+        },
+        {
+            "id": 81,
+            "condition": [
+                1017,
+                1004
+            ],
+            "priority": 51,
+            "timing": "1"
+        },
+        {
+            "id": 90,
+            "condition": [
+                1005
+            ],
+            "priority": 9,
+            "timing": "2"
+        },
+        {
+            "id": 91,
+            "condition": [
+                1005
+            ],
+            "priority": 9,
+            "timing": "1"
+        },
+        {
+            "id": 92,
+            "condition": [
+                1005
+            ],
+            "priority": 9,
+            "timing": "20"
+        },
+        {
+            "id": 100,
+            "condition": [
+                1006
+            ],
+            "priority": 10,
+            "timing": "2"
+        },
+        {
+            "id": 101,
+            "condition": [
+                1006
+            ],
+            "priority": 10,
+            "timing": "1"
+        },
+        {
+            "id": 110,
+            "condition": [
+                1007
+            ],
+            "priority": 50,
+            "timing": "1"
+        },
+        {
+            "id": 111,
+            "condition": [
+                99999
+            ],
+            "priority": 50,
+            "timing": "17"
+        },
+        {
+            "id": 120,
+            "condition": [
+                1008
+            ],
+            "priority": 12,
+            "timing": "2"
+        },
+        {
+            "id": 121,
+            "condition": [
+                1008
+            ],
+            "priority": 12,
+            "timing": "1"
+        },
+        {
+            "id": 122,
+            "condition": [
+                1008
+            ],
+            "priority": 12,
+            "timing": "18"
+        },
+        {
+            "id": 130,
+            "condition": [
+                1009
+            ],
+            "priority": 13,
+            "timing": "2"
+        },
+        {
+            "id": 131,
+            "condition": [
+                1009
+            ],
+            "priority": 13,
+            "timing": "1"
+        },
+        {
+            "id": 132,
+            "condition": [
+                1009
+            ],
+            "priority": 13,
+            "timing": "10"
+        },
+        {
+            "id": 140,
+            "condition": [
+                1010,
+                1011
+            ],
+            "priority": 14,
+            "timing": "2"
+        },
+        {
+            "id": 141,
+            "condition": [
+                1010,
+                1011
+            ],
+            "priority": 14,
+            "timing": "1"
+        },
+        {
+            "id": 142,
+            "condition": [
+                1010,
+                1011
+            ],
+            "priority": 14,
+            "timing": "19"
+        },
+        {
+            "id": 150,
+            "condition": [
+                1006
+            ],
+            "priority": 11,
+            "timing": "1",
+            "finishCondition": 1019
         },
         {
             "id": 1001,
             "condition": [
-                30201
+                10101
             ],
             "priority": 1,
             "timing": "8",
@@ -20,7 +274,7 @@
         {
             "id": 1002,
             "condition": [
-                30202
+                10102
             ],
             "priority": 1,
             "timing": "8",
@@ -29,7 +283,7 @@
         {
             "id": 1003,
             "condition": [
-                30203
+                10103
             ],
             "priority": 1,
             "timing": "8",
@@ -38,7 +292,7 @@
         {
             "id": 1004,
             "condition": [
-                30204
+                10104
             ],
             "priority": 1,
             "timing": "8",
@@ -47,51 +301,11 @@
         {
             "id": 1005,
             "condition": [
-                30206
+                10106
             ],
             "priority": 1,
             "timing": "8",
             "finishCondition": 1005
-        },
-        {
-            "id": 2001,
-            "condition": [
-                2001
-            ],
-            "priority": 1,
-            "timing": "5",
-            "finishCondition": 25313,
-            "isPause": 1
-        },
-        {
-            "id": 2002,
-            "condition": [
-                2002
-            ],
-            "priority": 1,
-            "timing": "5",
-            "finishCondition": 25313,
-            "isPause": 1
-        },
-        {
-            "id": 2003,
-            "condition": [
-                2003
-            ],
-            "priority": 1,
-            "timing": "5",
-            "finishCondition": 25313,
-            "isPause": 1
-        },
-        {
-            "id": 2004,
-            "condition": [
-                2004
-            ],
-            "priority": 1,
-            "timing": "5",
-            "finishCondition": 25313,
-            "isPause": 1
         },
         {
             "id": 6001,
@@ -139,13 +353,76 @@
             "finishCondition": 9005
         },
         {
+            "id": 40121,
+            "condition": [
+                40121
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 40121
+        },
+        {
+            "id": 40122,
+            "condition": [
+                40122
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 40122
+        },
+        {
+            "id": 40123,
+            "condition": [
+                40123
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 40123
+        },
+        {
+            "id": 40124,
+            "condition": [
+                40124
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 40124
+        },
+        {
+            "id": 40125,
+            "condition": [
+                40125
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 40125
+        },
+        {
+            "id": 40126,
+            "condition": [
+                40126
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 40126
+        },
+        {
+            "id": 40133,
+            "condition": [
+                40133
+            ],
+            "priority": 1,
+            "timing": "8",
+            "finishCondition": 40133
+        },
+        {
             "id": 1010100,
             "condition": [
-                30201
+                10101
             ],
             "priority": 1,
             "timing": "7",
-            "finishCondition": 30201
+            "finishCondition": 10101
         },
         {
             "id": 1010101,
@@ -154,7 +431,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30201,
+            "finishCondition": 10101,
             "isPause": 1
         },
         {
@@ -164,7 +441,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30201
+            "finishCondition": 10101
         },
         {
             "id": 1010103,
@@ -173,7 +450,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30201
+            "finishCondition": 10101
         },
         {
             "id": 1010104,
@@ -182,7 +459,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30201,
+            "finishCondition": 10101,
             "isPause": 1
         },
         {
@@ -192,7 +469,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30201,
+            "finishCondition": 10101,
             "isPause": 1
         },
         {
@@ -202,7 +479,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30201
+            "finishCondition": 10101
         },
         {
             "id": 1010107,
@@ -211,7 +488,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30201,
+            "finishCondition": 10101,
             "isPause": 1
         },
         {
@@ -221,17 +498,17 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30201,
+            "finishCondition": 10101,
             "isPause": 1
         },
         {
             "id": 1010200,
             "condition": [
-                30202
+                10102
             ],
             "priority": 1,
             "timing": "7",
-            "finishCondition": 30202
+            "finishCondition": 10102
         },
         {
             "id": 1010201,
@@ -240,7 +517,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30202,
+            "finishCondition": 10102,
             "isPause": 1
         },
         {
@@ -250,17 +527,17 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30202,
+            "finishCondition": 10102,
             "isPause": 1
         },
         {
             "id": 1010300,
             "condition": [
-                30203
+                10103
             ],
             "priority": 1,
             "timing": "7",
-            "finishCondition": 30203
+            "finishCondition": 10103
         },
         {
             "id": 1010301,
@@ -269,7 +546,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30203,
+            "finishCondition": 10103,
             "isPause": 1
         },
         {
@@ -279,7 +556,7 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30203,
+            "finishCondition": 10103,
             "isPause": 1
         },
         {
@@ -289,54 +566,93 @@
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 30203,
+            "finishCondition": 10103,
             "isPause": 1
         },
         {
             "id": 1010400,
             "condition": [
-                30204
+                10104
             ],
             "priority": 1,
             "timing": "7",
-            "finishCondition": 30204
-        },
-        {
-            "id": 1010401,
-            "condition": [
-                1010401
-            ],
-            "priority": 1,
-            "timing": "5",
-            "finishCondition": 30204,
-            "isPause": 1
+            "finishCondition": 10104
         },
         {
             "id": 1010500,
             "condition": [
-                30205
+                10105
             ],
             "priority": 1,
             "timing": "7",
-            "finishCondition": 30205
+            "finishCondition": 10105
         },
         {
-            "id": 1010600,
+            "id": 1010601,
             "condition": [
-                30206
+                1010601
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10106,
+            "isPause": 1
+        },
+        {
+            "id": 1010602,
+            "condition": [
+                1010602
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10106,
+            "isPause": 1
+        },
+        {
+            "id": 1010603,
+            "condition": [
+                1010603
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10106,
+            "isPause": 1
+        },
+        {
+            "id": 1010700,
+            "condition": [
+                10107
             ],
             "priority": 1,
             "timing": "7",
-            "finishCondition": 30206
+            "finishCondition": 10107
+        },
+        {
+            "id": 1010801,
+            "condition": [
+                1010801
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10108
         },
         {
             "id": 1011000,
             "condition": [
-                30210
+                10110
             ],
             "priority": 1,
             "timing": "7",
-            "finishCondition": 30210
+            "finishCondition": 10110
+        },
+        {
+            "id": 1011001,
+            "condition": [
+                1011001
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10110,
+            "isPause": 1
         },
         {
             "id": 1020201,
@@ -348,13 +664,42 @@
             "finishCondition": 10202
         },
         {
-            "id": 1020401,
+            "id": 1020400,
             "condition": [
-                1020401
+                10201
+            ],
+            "priority": 1,
+            "timing": "7",
+            "finishCondition": 10201
+        },
+        {
+            "id": 1020901,
+            "condition": [
+                1020901
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 10204
+            "finishCondition": 10209
+        },
+        {
+            "id": 1020902,
+            "condition": [
+                1020902
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10209,
+            "isPause": 1
+        },
+        {
+            "id": 1020903,
+            "condition": [
+                1020903
+            ],
+            "priority": 1,
+            "timing": "5",
+            "finishCondition": 10209,
+            "isPause": 1
         },
         {
             "id": 1021001,
@@ -366,23 +711,53 @@
             "finishCondition": 10210
         },
         {
-            "id": 1030201,
+            "id": 1030101,
             "condition": [
-                1030201
+                1030101
             ],
             "priority": 1,
             "timing": "5",
-            "finishCondition": 10302
+            "finishCondition": 10301
         },
         {
-            "id": 2011201,
+            "id": 4010101,
             "condition": [
-                20112
+                4010101
             ],
             "priority": 1,
-            "timing": "7",
-            "finishCondition": 20112,
-            "isPause": 1
+            "timing": "5"
+        },
+        {
+            "id": 4010201,
+            "condition": [
+                4010201
+            ],
+            "priority": 1,
+            "timing": "5"
+        },
+        {
+            "id": 4010301,
+            "condition": [
+                4010301
+            ],
+            "priority": 1,
+            "timing": "5"
+        },
+        {
+            "id": 4011201,
+            "condition": [
+                4011201
+            ],
+            "priority": 1,
+            "timing": "5"
+        },
+        {
+            "id": 4013201,
+            "condition": [
+                4013201
+            ],
+            "priority": 1,
+            "timing": "5"
         }
     ]
 }

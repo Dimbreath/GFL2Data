@@ -3,61 +3,22 @@
         {
             "id": 1,
             "name": {
-                "id": "2903"
+                "id": "2014"
             },
-            "nameEn": "Physics",
-            "icon": "Icon_Element_Physics",
-            "color": "28aa53FF",
+            "nameEn": "Kinetic",
+            "icon": "Icon_Weapon_Kinetic",
+            "color": "333333FF",
             "barrackAvaliable": 1
         },
         {
             "id": 2,
             "name": {
-                "id": "2904"
+                "id": "2015"
             },
-            "nameEn": "Heat",
-            "icon": "Icon_Element_Heat",
-            "color": "da4a30FF",
+            "nameEn": "Ion",
+            "icon": "Icon_Weapon_Ion",
+            "color": "333333FF",
             "barrackAvaliable": 1
-        },
-        {
-            "id": 3,
-            "name": {
-                "id": "2905"
-            },
-            "nameEn": "Lightning",
-            "icon": "Icon_Element_Lighting",
-            "color": "4380c1FF",
-            "barrackAvaliable": 1
-        },
-        {
-            "id": 4,
-            "name": {
-                "id": "2906"
-            },
-            "nameEn": "Collapse",
-            "icon": "Icon_Element_Collapse",
-            "color": "7e50cbFF",
-            "barrackAvaliable": 1
-        },
-        {
-            "id": 5,
-            "name": {
-                "id": "2907"
-            },
-            "nameEn": "Reverse",
-            "icon": "Icon_Element_Reverse",
-            "color": "daaf18FF",
-            "barrackAvaliable": 1
-        },
-        {
-            "id": 6,
-            "name": {
-                "id": "2908"
-            },
-            "nameEn": "None",
-            "icon": "Icon_Element_None",
-            "color": "c9c8ceFF"
         }
     ]
 }

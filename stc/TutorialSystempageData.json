@@ -4,7 +4,7 @@
             "id": 101,
             "groupId": 1,
             "text": {
-                "id": "2895"
+                "id": "7769"
             },
             "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1.png"
         },
@@ -12,7 +12,7 @@
             "id": 102,
             "groupId": 1,
             "text": {
-                "id": "2896"
+                "id": "7770"
             },
             "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2.png"
         },
@@ -20,7 +20,7 @@
             "id": 103,
             "groupId": 1,
             "text": {
-                "id": "2897"
+                "id": "7771"
             },
             "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3.png"
         },
@@ -28,7 +28,7 @@
             "id": 104,
             "groupId": 1,
             "text": {
-                "id": "2898"
+                "id": "7772"
             },
             "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4.png"
         },
@@ -36,7 +36,7 @@
             "id": 105,
             "groupId": 1,
             "text": {
-                "id": "2899"
+                "id": "7773"
             },
             "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_5.png"
         },
@@ -44,7 +44,7 @@
             "id": 106,
             "groupId": 1,
             "text": {
-                "id": "2900"
+                "id": "7774"
             },
             "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_6.png"
         },
@@ -52,7 +52,7 @@
             "id": 107,
             "groupId": 1,
             "text": {
-                "id": "2901"
+                "id": "7775"
             },
             "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_7.png"
         },
@@ -60,7 +60,7 @@
             "id": 108,
             "groupId": 1,
             "text": {
-                "id": "2902"
+                "id": "7776"
             },
             "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_8.png"
         }

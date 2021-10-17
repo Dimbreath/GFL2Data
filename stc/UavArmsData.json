@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "迷你炮机枪",
+            "rank": 4,
+            "type": 1,
+            "description": "迷你炮机枪",
+            "resCode": "MachineGun",
+            "cost": 1,
+            "itemId": 501,
+            "unlockNum": 1,
+            "upgradeCost": [
+                5,
+                10,
+                20,
+                30,
+                50
+            ],
+            "skillSet": 1011
+        },
+        {
+            "id": 2,
+            "name": "固定炮塔",
+            "rank": 4,
+            "type": 2,
+            "description": "固定炮塔",
+            "resCode": "DefenseTower",
+            "cost": 3,
+            "itemId": 502,
+            "unlockNum": 1,
+            "upgradeCost": [
+                5,
+                10,
+                20,
+                30,
+                50
+            ],
+            "skillSet": 1021
+        },
+        {
+            "id": 3,
+            "name": "寻敌导弹",
+            "rank": 4,
+            "type": 1,
+            "description": "寻敌导弹",
+            "resCode": "Missile",
+            "cost": 2,
+            "itemId": 503,
+            "unlockNum": 1,
+            "upgradeCost": [
+                5,
+                10,
+                20,
+                30,
+                50
+            ],
+            "skillSet": 1031
+        },
+        {
+            "id": 7,
+            "name": "巡回式机枪车",
+            "rank": 4,
+            "type": 2,
+            "description": "巡回式机枪车",
+            "resCode": "MG_Vehicle",
+            "cost": 2,
+            "itemId": 507,
+            "unlockNum": 1,
+            "upgradeCost": [
+                5,
+                10,
+                20,
+                30,
+                50
+            ],
+            "skillSet": 1071
+        },
+        {
+            "id": 8,
+            "name": "应急维修组件",
+            "rank": 4,
+            "type": 2,
+            "description": "应急维修组件",
+            "resCode": "AED",
+            "cost": 4,
+            "itemId": 508,
+            "unlockNum": 1,
+            "upgradeCost": [
+                5,
+                10,
+                20,
+                30,
+                50
+            ],
+            "skillSet": 1081
+        },
+        {
+            "id": 9,
+            "name": "短效爆发组件",
+            "rank": 4,
+            "type": 2,
+            "description": "短效爆发组件",
+            "resCode": "Potential",
+            "cost": 5,
+            "itemId": 509,
+            "unlockNum": 1,
+            "upgradeCost": [
+                5,
+                10,
+                20,
+                30,
+                50
+            ],
+            "skillSet": 1091
+        }
+    ]
+}

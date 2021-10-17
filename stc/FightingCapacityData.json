@@ -4,31 +4,30 @@
             "id": 1,
             "type": 1,
             "name": "pow",
-            "value": 1.2945
+            "value": 0.42
         },
         {
             "id": 2,
             "type": 1,
-            "name": "armor",
-            "value": 1.2945
+            "name": "armor"
         },
         {
             "id": 3,
             "type": 1,
             "name": "max_hp",
-            "value": 0.3699
+            "value": 0.14
         },
         {
             "id": 4,
             "type": 1,
             "name": "crit",
-            "value": 3.3333
+            "value": 2.0
         },
         {
             "id": 5,
             "type": 1,
             "name": "crit_mult",
-            "value": 2.0
+            "value": 0.4
         },
         {
             "id": 6,
@@ -51,26 +50,22 @@
         {
             "id": 9,
             "type": 2,
-            "name": "skill_normal_attack",
-            "value": 0.01
+            "name": "skill_normal_attack"
         },
         {
             "id": 10,
             "type": 2,
-            "name": "skill_active",
-            "value": 0.01
+            "name": "skill_active"
         },
         {
             "id": 11,
             "type": 2,
-            "name": "skill_super",
-            "value": 0.01
+            "name": "skill_super"
         },
         {
             "id": 12,
             "type": 2,
-            "name": "skill_talent",
-            "value": 0.05
+            "name": "skill_talent"
         },
         {
             "id": 13,
@@ -81,20 +76,35 @@
         {
             "id": 14,
             "type": 2,
-            "name": "skill_weapon_1",
-            "value": 0.05
+            "name": "skill_weapon_1"
         },
         {
             "id": 15,
             "type": 2,
-            "name": "skill_weapon_2",
-            "value": 0.01
+            "name": "skill_weapon_2"
         },
         {
             "id": 16,
             "type": 2,
-            "name": "skill_equip",
-            "value": 0.05
+            "name": "skill_equip"
+        },
+        {
+            "id": 17,
+            "type": 2,
+            "name": "grade_skill_1",
+            "value": 0.3
+        },
+        {
+            "id": 18,
+            "type": 1,
+            "name": "physical_shield",
+            "value": 0.14
+        },
+        {
+            "id": 19,
+            "type": 1,
+            "name": "magical_shield",
+            "value": 0.14
         }
     ]
 }

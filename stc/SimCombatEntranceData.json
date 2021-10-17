@@ -3,77 +3,86 @@
         {
             "id": 1,
             "name": {
-                "id": "4865"
+                "id": "7777"
             },
-            "englishName": "EQUIPMENT/",
-            "image": "Img_SimCombatPic1",
-            "awardIcon": "OreRed3",
-            "awardName": {
-                "id": "4866"
-            },
-            "openTime": {
-                "id": "4867"
-            }
-        },
-        {
-            "id": 2,
-            "name": {
-                "id": "4868"
-            },
-            "englishName": "RUNES/",
             "image": "Img_SimCombatPic2",
-            "awardIcon": "Cash",
             "awardName": {
-                "id": "4869"
+                "id": "7778"
             },
             "openTime": {
-                "id": "4867"
-            }
+                "id": "7779"
+            },
+            "array": 4
         },
         {
             "id": 3,
             "name": {
-                "id": "4870"
+                "id": "7780"
             },
-            "englishName": "EXTREME/",
-            "image": "Img_SimCombatPic3",
-            "awardIcon": "Diamond",
+            "image": "Img_SimCombatPic7",
             "awardName": {
-                "id": "4871"
+                "id": "7778"
             },
             "openTime": {
-                "id": "4867"
-            }
+                "id": "7779"
+            },
+            "array": 5
         },
         {
             "id": 4,
             "name": {
-                "id": "4872"
+                "id": "7781"
             },
-            "englishName": "RECORD/",
-            "image": "Img_SimCombatPic3",
-            "awardIcon": "Diamond",
+            "image": "Img_SimCombatPic6",
             "awardName": {
-                "id": "4871"
+                "id": "7778"
             },
             "openTime": {
-                "id": "4873"
-            }
+                "id": "7782"
+            },
+            "array": 6
         },
         {
-            "id": 5,
+            "id": 6,
             "name": {
-                "id": "4874"
+                "id": "7783"
             },
-            "englishName": "MYTHIC/",
-            "image": "Img_SimCombatPic3",
-            "awardIcon": "Diamond",
+            "image": "Img_SimCombatPic4",
             "awardName": {
-                "id": "4871"
+                "id": "7778"
             },
             "openTime": {
-                "id": "4867"
-            }
+                "id": "7779"
+            },
+            "array": 3
+        },
+        {
+            "id": 7,
+            "name": {
+                "id": "7784"
+            },
+            "image": "Img_SimCombatPic5",
+            "awardName": {
+                "id": "7778"
+            },
+            "openTime": {
+                "id": "7779"
+            },
+            "array": 2
+        },
+        {
+            "id": 8,
+            "name": {
+                "id": "7785"
+            },
+            "image": "Img_SimCombatPic3",
+            "awardName": {
+                "id": "7778"
+            },
+            "openTime": {
+                "id": "7779"
+            },
+            "array": 1
         }
     ]
 }

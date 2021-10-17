@@ -137,26 +137,26 @@
         },
         {
             "id": 10800,
-            "model": "CannonDrone_summon01",
+            "model": "GrozaSR01_summon01",
             "featureCode": 2,
             "lgpType": 104,
             "lgpPath": "lgp_Muzzle"
         },
         {
             "id": 10801,
-            "model": "CannonDrone_summon01",
+            "model": "GrozaSR01_summon01",
             "lgpType": 108,
             "lgpPath": "lgp_Muzzle"
         },
         {
             "id": 10802,
-            "model": "CannonDrone_summon01",
+            "model": "GrozaSR01_summon01",
             "lgpType": 109,
             "lgpPath": "lgp_Muzzle"
         },
         {
             "id": 10803,
-            "model": "CannonDrone_summon01",
+            "model": "GrozaSR01_summon01",
             "lgpType": 111,
             "lgpPath": "Body"
         },
@@ -245,6 +245,12 @@
             "model": "CharolicSR01",
             "lgpType": 116,
             "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 100110,
+            "model": "CharolicSR01",
+            "lgpType": 201,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon/Bone002"
         },
         {
             "id": 100200,
@@ -433,13 +439,13 @@
             "id": 100500,
             "model": "CharolicSSR01",
             "lgpType": 101,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Weapon_L_Hand_Point"
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
         },
         {
             "id": 100501,
             "model": "CharolicSSR01",
             "lgpType": 102,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Weapon_R_Hand_Point"
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand"
         },
         {
             "id": 100502,
@@ -458,7 +464,7 @@
             "id": 100504,
             "model": "CharolicSSR01",
             "lgpType": 108,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Weapon_L_Hand_Point/lgp_muzzle"
+            "lgpPath": "lgp_muzzle"
         },
         {
             "id": 100505,
@@ -470,7 +476,7 @@
             "id": 100506,
             "model": "CharolicSSR01",
             "lgpType": 111,
-            "lgpPath": "c_CharolicSR01_slg_body"
+            "lgpPath": "HPMesh"
         },
         {
             "id": 100507,
@@ -482,7 +488,7 @@
             "id": 100508,
             "model": "CharolicSSR01",
             "lgpType": 115,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Weapon_R_Hand_Point"
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
         },
         {
             "id": 100509,
@@ -491,16 +497,22 @@
             "lgpPath": "lgp_tag"
         },
         {
+            "id": 100510,
+            "model": "CharolicSSR01",
+            "lgpType": 201,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon/Bone002"
+        },
+        {
             "id": 100600,
             "model": "NemesisSSR01",
             "lgpType": 101,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Weapon_L_Hand_Point"
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
         },
         {
             "id": 100601,
             "model": "NemesisSSR01",
             "lgpType": 102,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Weapon_R_Hand_Point"
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand"
         },
         {
             "id": 100602,
@@ -519,7 +531,7 @@
             "id": 100604,
             "model": "NemesisSSR01",
             "lgpType": 108,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Weapon_R_Hand_Point/Weapon/lgp_muzzle"
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon/lgp_muzzle"
         },
         {
             "id": 100605,
@@ -531,7 +543,7 @@
             "id": 100606,
             "model": "NemesisSSR01",
             "lgpType": 111,
-            "lgpPath": "c_NemesisR01_slg_body"
+            "lgpPath": "HPMesh"
         },
         {
             "id": 100607,
@@ -543,13 +555,19 @@
             "id": 100608,
             "model": "NemesisSSR01",
             "lgpType": 115,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Weapon_R_Hand_Point/Weapon/lgp_eject"
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon/lgp_eject"
         },
         {
             "id": 100609,
             "model": "NemesisSSR01",
             "lgpType": 116,
             "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 100610,
+            "model": "NemesisSSR01",
+            "lgpType": 201,
+            "lgpPath": "Bip001"
         },
         {
             "id": 100700,
@@ -733,6 +751,18 @@
             "model": "ColphneSR01",
             "lgpType": 116,
             "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 100910,
+            "model": "ColphneSR01",
+            "lgpType": 105,
+            "lgpPath": "lgp_muzzle1"
+        },
+        {
+            "id": 100911,
+            "model": "ColphneSR01",
+            "lgpType": 201,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/R ForeTwist"
         },
         {
             "id": 101000,
@@ -985,6 +1015,91 @@
             "lgpPath": "lgp_tag"
         },
         {
+            "id": 101400,
+            "model": "PerityaSSR01",
+            "lgpType": 101,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
+        },
+        {
+            "id": 101401,
+            "model": "PerityaSSR01",
+            "lgpType": 102,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand"
+        },
+        {
+            "id": 101402,
+            "model": "PerityaSSR01",
+            "lgpType": 103,
+            "lgpPath": "lgp_Head"
+        },
+        {
+            "id": 101403,
+            "model": "PerityaSSR01",
+            "featureCode": 2,
+            "lgpType": 104,
+            "lgpPath": "lgp_Chest"
+        },
+        {
+            "id": 101404,
+            "model": "PerityaSSR01",
+            "lgpType": 108,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/lgp_muzzle"
+        },
+        {
+            "id": 101405,
+            "model": "PerityaSSR01",
+            "lgpType": 109,
+            "lgpPath": "lgp_Root"
+        },
+        {
+            "id": 101406,
+            "model": "PerityaSSR01",
+            "lgpType": 111,
+            "lgpPath": "HPMesh"
+        },
+        {
+            "id": 101407,
+            "model": "PerityaSSR01",
+            "lgpType": 114,
+            "lgpPath": "HPPoint"
+        },
+        {
+            "id": 101408,
+            "model": "PerityaSSR01",
+            "lgpType": 115,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/lgp_eject"
+        },
+        {
+            "id": 101409,
+            "model": "PerityaSSR01",
+            "lgpType": 116,
+            "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 101410,
+            "model": "PerityaSSR01",
+            "lgpType": 201,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/b_Shield_B/b_Shield_L_02/b_Shield_L_03/b_Shield_L_031/b_Shield_L_04/b_Shield_L_041"
+        },
+        {
+            "id": 101411,
+            "model": "PerityaSSR01",
+            "lgpType": 202,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/b_Shield_B/b_Shield_L_02/b_Shield_L_03/b_Shield_L_031/b_Shield_L_04/b_Shield_L_05/b_Shield_L_051"
+        },
+        {
+            "id": 101412,
+            "model": "PerityaSSR01",
+            "lgpType": 203,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/b_Shield_B/b_Shield_R_02/b_Shield_R_03/b_Shield_R_031/b_Shield_R_04/b_Shield_R_041"
+        },
+        {
+            "id": 101413,
+            "model": "PerityaSSR01",
+            "lgpType": 204,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/b_Shield_B/b_Shield_R_02/b_Shield_R_03/b_Shield_R_031/b_Shield_R_04/b_Shield_R_05/b_Shield_R_051"
+        },
+        {
             "id": 101500,
             "model": "VepleySR01",
             "lgpType": 101,
@@ -1107,6 +1222,12 @@
             "lgpPath": "lgp_tag"
         },
         {
+            "id": 101610,
+            "model": "CharolicR01",
+            "lgpType": 201,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon/Bone002"
+        },
+        {
             "id": 101700,
             "model": "GrozaSR01",
             "lgpType": 101,
@@ -1166,6 +1287,12 @@
             "model": "GrozaSR01",
             "lgpType": 116,
             "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 101710,
+            "model": "GrozaSR01",
+            "lgpType": 105,
+            "lgpPath": "lgp_muzzle1"
         },
         {
             "id": 101800,
@@ -1281,7 +1408,7 @@
             "id": 101908,
             "model": "PerityaR01",
             "lgpType": 115,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/b_weapon_015"
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/lgp_eject"
         },
         {
             "id": 102000,
@@ -1397,7 +1524,31 @@
             "id": 102108,
             "model": "PerityaSR01",
             "lgpType": 115,
-            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/b_weapon_015"
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/lgp_eject"
+        },
+        {
+            "id": 102109,
+            "model": "PerityaSR01",
+            "lgpType": 201,
+            "lgpPath": "Bip001/Bip001 Pelvis/b_machine_L_01/b_machine_L_02/b_machine_L_03/b_machine_L_04/b_machine_L_05"
+        },
+        {
+            "id": 102110,
+            "model": "PerityaSR01",
+            "lgpType": 202,
+            "lgpPath": "Bip001/Bip001 Pelvis/b_machine_L_01/b_machine_L_02/b_machine_L_03/b_machine_L_04/b_machine_L_06"
+        },
+        {
+            "id": 102111,
+            "model": "PerityaSR01",
+            "lgpType": 203,
+            "lgpPath": "Bip001/Bip001 Pelvis/b_machine_R_01/b_machine_R_02/b_machine_R_03/b_machine_R_04/b_machine_R_05"
+        },
+        {
+            "id": 102112,
+            "model": "PerityaSR01",
+            "lgpType": 204,
+            "lgpPath": "Bip001/Bip001 Pelvis/b_machine_R_01/b_machine_R_02/b_machine_R_03/b_machine_R_04/b_machine_R_06"
         },
         {
             "id": 103000,
@@ -4059,6 +4210,48 @@
             "lgpPath": "lgp_tag"
         },
         {
+            "id": 626101,
+            "model": "Elid_Thutoad",
+            "lgpType": 103,
+            "lgpPath": "lgp_Head"
+        },
+        {
+            "id": 626102,
+            "model": "Elid_Thutoad",
+            "lgpType": 104,
+            "lgpPath": "lgp_Chest"
+        },
+        {
+            "id": 626103,
+            "model": "Elid_Thutoad",
+            "lgpType": 108,
+            "lgpPath": "lgp_muzzle"
+        },
+        {
+            "id": 626104,
+            "model": "Elid_Thutoad",
+            "lgpType": 109,
+            "lgpPath": "lgp_Root"
+        },
+        {
+            "id": 626105,
+            "model": "Elid_Thutoad",
+            "lgpType": 111,
+            "lgpPath": "HPMesh"
+        },
+        {
+            "id": 626106,
+            "model": "Elid_Thutoad",
+            "lgpType": 114,
+            "lgpPath": "HPPoint"
+        },
+        {
+            "id": 626107,
+            "model": "Elid_Thutoad",
+            "lgpType": 116,
+            "lgpPath": "lgp_tag"
+        },
+        {
             "id": 631000,
             "model": "TX_Ripper",
             "lgpType": 101,
@@ -5767,6 +5960,299 @@
         {
             "id": 999913,
             "model": "EE_Boss",
+            "lgpType": 116,
+            "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 9611000,
+            "model": "FB_Felade_Magical",
+            "lgpType": 101,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_L_Hand_Point"
+        },
+        {
+            "id": 9611001,
+            "model": "FB_Felade_Magical",
+            "lgpType": 102,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_R_Hand_Point"
+        },
+        {
+            "id": 9611002,
+            "model": "FB_Felade_Magical",
+            "lgpType": 103,
+            "lgpPath": "lgp_Head"
+        },
+        {
+            "id": 9611003,
+            "model": "FB_Felade_Magical",
+            "featureCode": 2,
+            "lgpType": 104,
+            "lgpPath": "lgp_Chest"
+        },
+        {
+            "id": 9611004,
+            "model": "FB_Felade_Magical",
+            "lgpType": 108,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_R_Hand_Point/FB_Felade/lgp_muzzle"
+        },
+        {
+            "id": 9611005,
+            "model": "FB_Felade_Magical",
+            "lgpType": 106,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_R_Hand_Point/FB_Felade"
+        },
+        {
+            "id": 9611006,
+            "model": "FB_Felade_Magical",
+            "lgpType": 109,
+            "lgpPath": "lgp_Root"
+        },
+        {
+            "id": 9611007,
+            "model": "FB_Felade_Magical",
+            "lgpType": 111,
+            "lgpPath": "Body"
+        },
+        {
+            "id": 9611008,
+            "model": "FB_Felade_Magical",
+            "lgpType": 114,
+            "lgpPath": "HPPoint"
+        },
+        {
+            "id": 9611009,
+            "model": "FB_Felade_Magical",
+            "lgpType": 115,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_R_Hand_Point/FB_Felade/lgp_eject"
+        },
+        {
+            "id": 9611010,
+            "model": "FB_Felade_Magical",
+            "lgpType": 116,
+            "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 9611300,
+            "model": "FB_Svejk_Magical",
+            "lgpType": 103,
+            "lgpPath": "lgp_Head"
+        },
+        {
+            "id": 9611301,
+            "model": "FB_Svejk_Magical",
+            "featureCode": 2,
+            "lgpType": 104,
+            "lgpPath": "lgp_Chest"
+        },
+        {
+            "id": 9611302,
+            "model": "FB_Svejk_Magical",
+            "lgpType": 108,
+            "lgpPath": "lgp_muzzle"
+        },
+        {
+            "id": 9611303,
+            "model": "FB_Svejk_Magical",
+            "lgpType": 109,
+            "lgpPath": "lgp_Root"
+        },
+        {
+            "id": 9611304,
+            "model": "FB_Svejk_Magical",
+            "lgpType": 111,
+            "lgpPath": "c_FeiBangDog_w_slg"
+        },
+        {
+            "id": 9611305,
+            "model": "FB_Svejk_Magical",
+            "lgpType": 106,
+            "lgpPath": "lgp_Root"
+        },
+        {
+            "id": 9611306,
+            "model": "FB_Svejk_Magical",
+            "lgpType": 114,
+            "lgpPath": "HPPoint"
+        },
+        {
+            "id": 9611307,
+            "model": "FB_Svejk_Magical",
+            "lgpType": 116,
+            "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 9621000,
+            "model": "ELID_Pitsard_Magical",
+            "lgpType": 103,
+            "lgpPath": "lgp_Head"
+        },
+        {
+            "id": 9621001,
+            "model": "ELID_Pitsard_Magical",
+            "featureCode": 2,
+            "lgpType": 104,
+            "lgpPath": "lgp_Chest"
+        },
+        {
+            "id": 9621002,
+            "model": "ELID_Pitsard_Magical",
+            "lgpType": 108,
+            "lgpPath": "lgp_muzzle"
+        },
+        {
+            "id": 9621003,
+            "model": "ELID_Pitsard_Magical",
+            "lgpType": 109,
+            "lgpPath": "lgp_Root"
+        },
+        {
+            "id": 9621004,
+            "model": "ELID_Pitsard_Magical",
+            "lgpType": 111,
+            "lgpPath": "c_lizard_Skin"
+        },
+        {
+            "id": 9621005,
+            "model": "ELID_Pitsard_Magical",
+            "lgpType": 114,
+            "lgpPath": "HPPoint"
+        },
+        {
+            "id": 9621006,
+            "model": "ELID_Pitsard_Magical",
+            "lgpType": 115,
+            "lgpPath": "lgp_eject"
+        },
+        {
+            "id": 9621007,
+            "model": "ELID_Pitsard_Magical",
+            "lgpType": 116,
+            "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 9631100,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 101,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_L_Hand_Point"
+        },
+        {
+            "id": 9631101,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 102,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_R_Hand_Point"
+        },
+        {
+            "id": 9631102,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 103,
+            "lgpPath": "lgp_Head"
+        },
+        {
+            "id": 9631103,
+            "model": "TX_Jaeger_Magical",
+            "featureCode": 2,
+            "lgpType": 104,
+            "lgpPath": "lgp_Chest"
+        },
+        {
+            "id": 9631104,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 108,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_R_Hand_Point/cw_TX_Jaeger_RF/lgp_muzzle"
+        },
+        {
+            "id": 9631105,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 109,
+            "lgpPath": "B_Root"
+        },
+        {
+            "id": 9631106,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 111,
+            "lgpPath": "RX_B_QGZ_cs_01"
+        },
+        {
+            "id": 9631107,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 106,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_R_Hand_Point/cw_TX_Jaeger_RF"
+        },
+        {
+            "id": 9631108,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 114,
+            "lgpPath": "HPPoint"
+        },
+        {
+            "id": 9631109,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 115,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Weapon_R_Hand_Point/TX_Ripper/lgp_eject"
+        },
+        {
+            "id": 9631110,
+            "model": "TX_Jaeger_Magical",
+            "lgpType": 116,
+            "lgpPath": "lgp_tag"
+        },
+        {
+            "id": 9631400,
+            "model": "TX_Guard_Magical",
+            "lgpType": 101,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
+        },
+        {
+            "id": 9631401,
+            "model": "TX_Guard_Magical",
+            "lgpType": 102,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand"
+        },
+        {
+            "id": 9631402,
+            "model": "TX_Guard_Magical",
+            "lgpType": 103,
+            "lgpPath": "lgp_Head"
+        },
+        {
+            "id": 9631403,
+            "model": "TX_Guard_Magical",
+            "featureCode": 2,
+            "lgpType": 104,
+            "lgpPath": "lgp_Chest"
+        },
+        {
+            "id": 9631404,
+            "model": "TX_Guard_Magical",
+            "lgpType": 108,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/lgp_muzzle"
+        },
+        {
+            "id": 9631405,
+            "model": "TX_Guard_Magical",
+            "lgpType": 109,
+            "lgpPath": "B_Root"
+        },
+        {
+            "id": 9631406,
+            "model": "TX_Guard_Magical",
+            "lgpType": 111,
+            "lgpPath": "c_TX_Guard_slg_lod0"
+        },
+        {
+            "id": 9631407,
+            "model": "TX_Guard_Magical",
+            "lgpType": 114,
+            "lgpPath": "HPPoint"
+        },
+        {
+            "id": 9631408,
+            "model": "TX_Guard_Magical",
+            "lgpType": 115,
+            "lgpPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/lgp_eject"
+        },
+        {
+            "id": 9631409,
+            "model": "TX_Guard_Magical",
             "lgpType": 116,
             "lgpPath": "lgp_tag"
         }

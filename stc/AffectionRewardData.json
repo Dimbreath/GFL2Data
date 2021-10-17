@@ -4,10 +4,10 @@
             "id": 1,
             "gunId": 20,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -17,10 +17,10 @@
             "id": 2,
             "gunId": 20,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -30,10 +30,10 @@
             "id": 3,
             "gunId": 20,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -43,10 +43,10 @@
             "id": 4,
             "gunId": 20,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -56,10 +56,10 @@
             "id": 5,
             "gunId": 20,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -69,10 +69,10 @@
             "id": 6,
             "gunId": 20,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -83,10 +83,10 @@
             "id": 7,
             "gunId": 20,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -97,10 +97,10 @@
             "id": 8,
             "gunId": 20,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -111,10 +111,10 @@
             "id": 9,
             "gunId": 20,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -125,10 +125,10 @@
             "id": 10,
             "gunId": 20,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -139,10 +139,10 @@
             "id": 11,
             "gunId": 20,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -153,10 +153,10 @@
             "id": 12,
             "gunId": 20,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -167,10 +167,10 @@
             "id": 13,
             "gunId": 20,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -181,10 +181,10 @@
             "id": 14,
             "gunId": 20,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -195,10 +195,10 @@
             "id": 15,
             "gunId": 20,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -209,10 +209,10 @@
             "id": 16,
             "gunId": 20,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -223,10 +223,10 @@
             "id": 17,
             "gunId": 20,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -237,10 +237,10 @@
             "id": 18,
             "gunId": 20,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -251,10 +251,10 @@
             "id": 19,
             "gunId": 20,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -265,10 +265,10 @@
             "id": 20,
             "gunId": 20,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -279,10 +279,10 @@
             "id": 21,
             "gunId": 21,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -292,10 +292,10 @@
             "id": 22,
             "gunId": 21,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -305,10 +305,10 @@
             "id": 23,
             "gunId": 21,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -318,10 +318,10 @@
             "id": 24,
             "gunId": 21,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -331,10 +331,10 @@
             "id": 25,
             "gunId": 21,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -344,10 +344,10 @@
             "id": 26,
             "gunId": 21,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -358,10 +358,10 @@
             "id": 27,
             "gunId": 21,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -372,10 +372,10 @@
             "id": 28,
             "gunId": 21,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -386,10 +386,10 @@
             "id": 29,
             "gunId": 21,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -400,10 +400,10 @@
             "id": 30,
             "gunId": 21,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -414,10 +414,10 @@
             "id": 31,
             "gunId": 21,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -428,10 +428,10 @@
             "id": 32,
             "gunId": 21,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -442,10 +442,10 @@
             "id": 33,
             "gunId": 21,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -456,10 +456,10 @@
             "id": 34,
             "gunId": 21,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -470,10 +470,10 @@
             "id": 35,
             "gunId": 21,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -484,10 +484,10 @@
             "id": 36,
             "gunId": 21,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -498,10 +498,10 @@
             "id": 37,
             "gunId": 21,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -512,10 +512,10 @@
             "id": 38,
             "gunId": 21,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -526,10 +526,10 @@
             "id": 39,
             "gunId": 21,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -540,10 +540,10 @@
             "id": 40,
             "gunId": 21,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -554,10 +554,10 @@
             "id": 41,
             "gunId": 23,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -567,10 +567,10 @@
             "id": 42,
             "gunId": 23,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -580,10 +580,10 @@
             "id": 43,
             "gunId": 23,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -593,10 +593,10 @@
             "id": 44,
             "gunId": 23,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -606,10 +606,10 @@
             "id": 45,
             "gunId": 23,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -619,10 +619,10 @@
             "id": 46,
             "gunId": 23,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -633,10 +633,10 @@
             "id": 47,
             "gunId": 23,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -647,10 +647,10 @@
             "id": 48,
             "gunId": 23,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -661,10 +661,10 @@
             "id": 49,
             "gunId": 23,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -675,10 +675,10 @@
             "id": 50,
             "gunId": 23,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -689,10 +689,10 @@
             "id": 51,
             "gunId": 23,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -703,10 +703,10 @@
             "id": 52,
             "gunId": 23,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -717,10 +717,10 @@
             "id": 53,
             "gunId": 23,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -731,10 +731,10 @@
             "id": 54,
             "gunId": 23,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -745,10 +745,10 @@
             "id": 55,
             "gunId": 23,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -759,10 +759,10 @@
             "id": 56,
             "gunId": 23,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -773,10 +773,10 @@
             "id": 57,
             "gunId": 23,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -787,10 +787,10 @@
             "id": 58,
             "gunId": 23,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -801,10 +801,10 @@
             "id": 59,
             "gunId": 23,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -815,10 +815,10 @@
             "id": 60,
             "gunId": 23,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -829,10 +829,10 @@
             "id": 61,
             "gunId": 36,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -842,10 +842,10 @@
             "id": 62,
             "gunId": 36,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -855,10 +855,10 @@
             "id": 63,
             "gunId": 36,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -868,10 +868,10 @@
             "id": 64,
             "gunId": 36,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -881,10 +881,10 @@
             "id": 65,
             "gunId": 36,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -894,10 +894,10 @@
             "id": 66,
             "gunId": 36,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -908,10 +908,10 @@
             "id": 67,
             "gunId": 36,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -922,10 +922,10 @@
             "id": 68,
             "gunId": 36,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -936,10 +936,10 @@
             "id": 69,
             "gunId": 36,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -950,10 +950,10 @@
             "id": 70,
             "gunId": 36,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -964,10 +964,10 @@
             "id": 71,
             "gunId": 36,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -978,10 +978,10 @@
             "id": 72,
             "gunId": 36,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -992,10 +992,10 @@
             "id": 73,
             "gunId": 36,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1006,10 +1006,10 @@
             "id": 74,
             "gunId": 36,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1020,10 +1020,10 @@
             "id": 75,
             "gunId": 36,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1034,10 +1034,10 @@
             "id": 76,
             "gunId": 36,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1048,10 +1048,10 @@
             "id": 77,
             "gunId": 36,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1062,10 +1062,10 @@
             "id": 78,
             "gunId": 36,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1076,10 +1076,10 @@
             "id": 79,
             "gunId": 36,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1090,10 +1090,10 @@
             "id": 80,
             "gunId": 36,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1104,10 +1104,10 @@
             "id": 81,
             "gunId": 37,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -1117,10 +1117,10 @@
             "id": 82,
             "gunId": 37,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -1130,10 +1130,10 @@
             "id": 83,
             "gunId": 37,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -1143,10 +1143,10 @@
             "id": 84,
             "gunId": 37,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -1156,10 +1156,10 @@
             "id": 85,
             "gunId": 37,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -1169,10 +1169,10 @@
             "id": 86,
             "gunId": 37,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1183,10 +1183,10 @@
             "id": 87,
             "gunId": 37,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1197,10 +1197,10 @@
             "id": 88,
             "gunId": 37,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1211,10 +1211,10 @@
             "id": 89,
             "gunId": 37,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1225,10 +1225,10 @@
             "id": 90,
             "gunId": 37,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1239,10 +1239,10 @@
             "id": 91,
             "gunId": 37,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1253,10 +1253,10 @@
             "id": 92,
             "gunId": 37,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1267,10 +1267,10 @@
             "id": 93,
             "gunId": 37,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1281,10 +1281,10 @@
             "id": 94,
             "gunId": 37,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1295,10 +1295,10 @@
             "id": 95,
             "gunId": 37,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1309,10 +1309,10 @@
             "id": 96,
             "gunId": 37,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1323,10 +1323,10 @@
             "id": 97,
             "gunId": 37,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1337,10 +1337,10 @@
             "id": 98,
             "gunId": 37,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1351,10 +1351,10 @@
             "id": 99,
             "gunId": 37,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1365,10 +1365,10 @@
             "id": 100,
             "gunId": 37,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1379,10 +1379,10 @@
             "id": 101,
             "gunId": 65,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -1392,10 +1392,10 @@
             "id": 102,
             "gunId": 65,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -1405,10 +1405,10 @@
             "id": 103,
             "gunId": 65,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -1418,10 +1418,10 @@
             "id": 104,
             "gunId": 65,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -1431,10 +1431,10 @@
             "id": 105,
             "gunId": 65,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -1444,10 +1444,10 @@
             "id": 106,
             "gunId": 65,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1458,10 +1458,10 @@
             "id": 107,
             "gunId": 65,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1472,10 +1472,10 @@
             "id": 108,
             "gunId": 65,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1486,10 +1486,10 @@
             "id": 109,
             "gunId": 65,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1500,10 +1500,10 @@
             "id": 110,
             "gunId": 65,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1514,10 +1514,10 @@
             "id": 111,
             "gunId": 65,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1528,10 +1528,10 @@
             "id": 112,
             "gunId": 65,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1542,10 +1542,10 @@
             "id": 113,
             "gunId": 65,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1556,10 +1556,10 @@
             "id": 114,
             "gunId": 65,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1570,10 +1570,10 @@
             "id": 115,
             "gunId": 65,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1584,10 +1584,10 @@
             "id": 116,
             "gunId": 65,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1598,10 +1598,10 @@
             "id": 117,
             "gunId": 65,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1612,10 +1612,10 @@
             "id": 118,
             "gunId": 65,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1626,10 +1626,10 @@
             "id": 119,
             "gunId": 65,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1640,10 +1640,10 @@
             "id": 120,
             "gunId": 65,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1654,10 +1654,10 @@
             "id": 121,
             "gunId": 66,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -1667,10 +1667,10 @@
             "id": 122,
             "gunId": 66,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -1680,10 +1680,10 @@
             "id": 123,
             "gunId": 66,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -1693,10 +1693,10 @@
             "id": 124,
             "gunId": 66,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -1706,10 +1706,10 @@
             "id": 125,
             "gunId": 66,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -1719,10 +1719,10 @@
             "id": 126,
             "gunId": 66,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1733,10 +1733,10 @@
             "id": 127,
             "gunId": 66,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1747,10 +1747,10 @@
             "id": 128,
             "gunId": 66,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1761,10 +1761,10 @@
             "id": 129,
             "gunId": 66,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1775,10 +1775,10 @@
             "id": 130,
             "gunId": 66,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -1789,10 +1789,10 @@
             "id": 131,
             "gunId": 66,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1803,10 +1803,10 @@
             "id": 132,
             "gunId": 66,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1817,10 +1817,10 @@
             "id": 133,
             "gunId": 66,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1831,10 +1831,10 @@
             "id": 134,
             "gunId": 66,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1845,10 +1845,10 @@
             "id": 135,
             "gunId": 66,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -1859,10 +1859,10 @@
             "id": 136,
             "gunId": 66,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1873,10 +1873,10 @@
             "id": 137,
             "gunId": 66,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1887,10 +1887,10 @@
             "id": 138,
             "gunId": 66,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1901,10 +1901,10 @@
             "id": 139,
             "gunId": 66,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1915,10 +1915,10 @@
             "id": 140,
             "gunId": 66,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -1929,10 +1929,10 @@
             "id": 141,
             "gunId": 89,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -1942,10 +1942,10 @@
             "id": 142,
             "gunId": 89,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -1955,10 +1955,10 @@
             "id": 143,
             "gunId": 89,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -1968,10 +1968,10 @@
             "id": 144,
             "gunId": 89,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -1981,10 +1981,10 @@
             "id": 145,
             "gunId": 89,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -1994,10 +1994,10 @@
             "id": 146,
             "gunId": 89,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2008,10 +2008,10 @@
             "id": 147,
             "gunId": 89,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2022,10 +2022,10 @@
             "id": 148,
             "gunId": 89,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2036,10 +2036,10 @@
             "id": 149,
             "gunId": 89,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2050,10 +2050,10 @@
             "id": 150,
             "gunId": 89,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2064,10 +2064,10 @@
             "id": 151,
             "gunId": 89,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2078,10 +2078,10 @@
             "id": 152,
             "gunId": 89,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2092,10 +2092,10 @@
             "id": 153,
             "gunId": 89,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2106,10 +2106,10 @@
             "id": 154,
             "gunId": 89,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2120,10 +2120,10 @@
             "id": 155,
             "gunId": 89,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2134,10 +2134,10 @@
             "id": 156,
             "gunId": 89,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2148,10 +2148,10 @@
             "id": 157,
             "gunId": 89,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2162,10 +2162,10 @@
             "id": 158,
             "gunId": 89,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2176,10 +2176,10 @@
             "id": 159,
             "gunId": 89,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2190,10 +2190,10 @@
             "id": 160,
             "gunId": 89,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2204,10 +2204,10 @@
             "id": 161,
             "gunId": 109,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -2217,10 +2217,10 @@
             "id": 162,
             "gunId": 109,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -2230,10 +2230,10 @@
             "id": 163,
             "gunId": 109,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -2243,10 +2243,10 @@
             "id": 164,
             "gunId": 109,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -2256,10 +2256,10 @@
             "id": 165,
             "gunId": 109,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -2269,10 +2269,10 @@
             "id": 166,
             "gunId": 109,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2283,10 +2283,10 @@
             "id": 167,
             "gunId": 109,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2297,10 +2297,10 @@
             "id": 168,
             "gunId": 109,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2311,10 +2311,10 @@
             "id": 169,
             "gunId": 109,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2325,10 +2325,10 @@
             "id": 170,
             "gunId": 109,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2339,10 +2339,10 @@
             "id": 171,
             "gunId": 109,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2353,10 +2353,10 @@
             "id": 172,
             "gunId": 109,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2367,10 +2367,10 @@
             "id": 173,
             "gunId": 109,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2381,10 +2381,10 @@
             "id": 174,
             "gunId": 109,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2395,10 +2395,10 @@
             "id": 175,
             "gunId": 109,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2409,10 +2409,10 @@
             "id": 176,
             "gunId": 109,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2423,10 +2423,10 @@
             "id": 177,
             "gunId": 109,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2437,10 +2437,10 @@
             "id": 178,
             "gunId": 109,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2451,10 +2451,10 @@
             "id": 179,
             "gunId": 109,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2465,10 +2465,10 @@
             "id": 180,
             "gunId": 109,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2479,10 +2479,10 @@
             "id": 181,
             "gunId": 114,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -2492,10 +2492,10 @@
             "id": 182,
             "gunId": 114,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -2505,10 +2505,10 @@
             "id": 183,
             "gunId": 114,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -2518,10 +2518,10 @@
             "id": 184,
             "gunId": 114,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -2531,10 +2531,10 @@
             "id": 185,
             "gunId": 114,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -2544,10 +2544,10 @@
             "id": 186,
             "gunId": 114,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2558,10 +2558,10 @@
             "id": 187,
             "gunId": 114,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2572,10 +2572,10 @@
             "id": 188,
             "gunId": 114,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2586,10 +2586,10 @@
             "id": 189,
             "gunId": 114,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2600,10 +2600,10 @@
             "id": 190,
             "gunId": 114,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2614,10 +2614,10 @@
             "id": 191,
             "gunId": 114,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2628,10 +2628,10 @@
             "id": 192,
             "gunId": 114,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2642,10 +2642,10 @@
             "id": 193,
             "gunId": 114,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2656,10 +2656,10 @@
             "id": 194,
             "gunId": 114,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2670,10 +2670,10 @@
             "id": 195,
             "gunId": 114,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2684,10 +2684,10 @@
             "id": 196,
             "gunId": 114,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2698,10 +2698,10 @@
             "id": 197,
             "gunId": 114,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2712,10 +2712,10 @@
             "id": 198,
             "gunId": 114,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2726,10 +2726,10 @@
             "id": 199,
             "gunId": 114,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2740,10 +2740,10 @@
             "id": 200,
             "gunId": 114,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2754,10 +2754,10 @@
             "id": 201,
             "gunId": 118,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -2767,10 +2767,10 @@
             "id": 202,
             "gunId": 118,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -2780,10 +2780,10 @@
             "id": 203,
             "gunId": 118,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -2793,10 +2793,10 @@
             "id": 204,
             "gunId": 118,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -2806,10 +2806,10 @@
             "id": 205,
             "gunId": 118,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -2819,10 +2819,10 @@
             "id": 206,
             "gunId": 118,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2833,10 +2833,10 @@
             "id": 207,
             "gunId": 118,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2847,10 +2847,10 @@
             "id": 208,
             "gunId": 118,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2861,10 +2861,10 @@
             "id": 209,
             "gunId": 118,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2875,10 +2875,10 @@
             "id": 210,
             "gunId": 118,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -2889,10 +2889,10 @@
             "id": 211,
             "gunId": 118,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2903,10 +2903,10 @@
             "id": 212,
             "gunId": 118,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2917,10 +2917,10 @@
             "id": 213,
             "gunId": 118,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2931,10 +2931,10 @@
             "id": 214,
             "gunId": 118,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2945,10 +2945,10 @@
             "id": 215,
             "gunId": 118,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -2959,10 +2959,10 @@
             "id": 216,
             "gunId": 118,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2973,10 +2973,10 @@
             "id": 217,
             "gunId": 118,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -2987,10 +2987,10 @@
             "id": 218,
             "gunId": 118,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3001,10 +3001,10 @@
             "id": 219,
             "gunId": 118,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3015,10 +3015,10 @@
             "id": 220,
             "gunId": 118,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3029,10 +3029,10 @@
             "id": 221,
             "gunId": 128,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -3042,10 +3042,10 @@
             "id": 222,
             "gunId": 128,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -3055,10 +3055,10 @@
             "id": 223,
             "gunId": 128,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -3068,10 +3068,10 @@
             "id": 224,
             "gunId": 128,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -3081,10 +3081,10 @@
             "id": 225,
             "gunId": 128,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -3094,10 +3094,10 @@
             "id": 226,
             "gunId": 128,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3108,10 +3108,10 @@
             "id": 227,
             "gunId": 128,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3122,10 +3122,10 @@
             "id": 228,
             "gunId": 128,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3136,10 +3136,10 @@
             "id": 229,
             "gunId": 128,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3150,10 +3150,10 @@
             "id": 230,
             "gunId": 128,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3164,10 +3164,10 @@
             "id": 231,
             "gunId": 128,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3178,10 +3178,10 @@
             "id": 232,
             "gunId": 128,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3192,10 +3192,10 @@
             "id": 233,
             "gunId": 128,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3206,10 +3206,10 @@
             "id": 234,
             "gunId": 128,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3220,10 +3220,10 @@
             "id": 235,
             "gunId": 128,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3234,10 +3234,10 @@
             "id": 236,
             "gunId": 128,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3248,10 +3248,10 @@
             "id": 237,
             "gunId": 128,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3262,10 +3262,10 @@
             "id": 238,
             "gunId": 128,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3276,10 +3276,10 @@
             "id": 239,
             "gunId": 128,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3290,10 +3290,10 @@
             "id": 240,
             "gunId": 128,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3304,10 +3304,10 @@
             "id": 241,
             "gunId": 138,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -3317,10 +3317,10 @@
             "id": 242,
             "gunId": 138,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -3330,10 +3330,10 @@
             "id": 243,
             "gunId": 138,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -3343,10 +3343,10 @@
             "id": 244,
             "gunId": 138,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -3356,10 +3356,10 @@
             "id": 245,
             "gunId": 138,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -3369,10 +3369,10 @@
             "id": 246,
             "gunId": 138,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3383,10 +3383,10 @@
             "id": 247,
             "gunId": 138,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3397,10 +3397,10 @@
             "id": 248,
             "gunId": 138,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3411,10 +3411,10 @@
             "id": 249,
             "gunId": 138,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3425,10 +3425,10 @@
             "id": 250,
             "gunId": 138,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3439,10 +3439,10 @@
             "id": 251,
             "gunId": 138,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3453,10 +3453,10 @@
             "id": 252,
             "gunId": 138,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3467,10 +3467,10 @@
             "id": 253,
             "gunId": 138,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3481,10 +3481,10 @@
             "id": 254,
             "gunId": 138,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3495,10 +3495,10 @@
             "id": 255,
             "gunId": 138,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3509,10 +3509,10 @@
             "id": 256,
             "gunId": 138,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3523,10 +3523,10 @@
             "id": 257,
             "gunId": 138,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3537,10 +3537,10 @@
             "id": 258,
             "gunId": 138,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3551,10 +3551,10 @@
             "id": 259,
             "gunId": 138,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3565,10 +3565,10 @@
             "id": 260,
             "gunId": 138,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3579,10 +3579,10 @@
             "id": 261,
             "gunId": 151,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -3592,10 +3592,10 @@
             "id": 262,
             "gunId": 151,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -3605,10 +3605,10 @@
             "id": 263,
             "gunId": 151,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -3618,10 +3618,10 @@
             "id": 264,
             "gunId": 151,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -3631,10 +3631,10 @@
             "id": 265,
             "gunId": 151,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -3644,10 +3644,10 @@
             "id": 266,
             "gunId": 151,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3658,10 +3658,10 @@
             "id": 267,
             "gunId": 151,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3672,10 +3672,10 @@
             "id": 268,
             "gunId": 151,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3686,10 +3686,10 @@
             "id": 269,
             "gunId": 151,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3700,10 +3700,10 @@
             "id": 270,
             "gunId": 151,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3714,10 +3714,10 @@
             "id": 271,
             "gunId": 151,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3728,10 +3728,10 @@
             "id": 272,
             "gunId": 151,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3742,10 +3742,10 @@
             "id": 273,
             "gunId": 151,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3756,10 +3756,10 @@
             "id": 274,
             "gunId": 151,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3770,10 +3770,10 @@
             "id": 275,
             "gunId": 151,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -3784,10 +3784,10 @@
             "id": 276,
             "gunId": 151,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3798,10 +3798,10 @@
             "id": 277,
             "gunId": 151,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3812,10 +3812,10 @@
             "id": 278,
             "gunId": 151,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3826,10 +3826,10 @@
             "id": 279,
             "gunId": 151,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3840,10 +3840,10 @@
             "id": 280,
             "gunId": 151,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -3854,10 +3854,10 @@
             "id": 281,
             "gunId": 160,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -3867,10 +3867,10 @@
             "id": 282,
             "gunId": 160,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -3880,10 +3880,10 @@
             "id": 283,
             "gunId": 160,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -3893,10 +3893,10 @@
             "id": 284,
             "gunId": 160,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -3906,10 +3906,10 @@
             "id": 285,
             "gunId": 160,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -3919,10 +3919,10 @@
             "id": 286,
             "gunId": 160,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3933,10 +3933,10 @@
             "id": 287,
             "gunId": 160,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3947,10 +3947,10 @@
             "id": 288,
             "gunId": 160,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3961,10 +3961,10 @@
             "id": 289,
             "gunId": 160,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3975,10 +3975,10 @@
             "id": 290,
             "gunId": 160,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -3989,10 +3989,10 @@
             "id": 291,
             "gunId": 160,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4003,10 +4003,10 @@
             "id": 292,
             "gunId": 160,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4017,10 +4017,10 @@
             "id": 293,
             "gunId": 160,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4031,10 +4031,10 @@
             "id": 294,
             "gunId": 160,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4045,10 +4045,10 @@
             "id": 295,
             "gunId": 160,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4059,10 +4059,10 @@
             "id": 296,
             "gunId": 160,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4073,10 +4073,10 @@
             "id": 297,
             "gunId": 160,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4087,10 +4087,10 @@
             "id": 298,
             "gunId": 160,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4101,10 +4101,10 @@
             "id": 299,
             "gunId": 160,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4115,10 +4115,10 @@
             "id": 300,
             "gunId": 160,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4129,10 +4129,10 @@
             "id": 301,
             "gunId": 177,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -4142,10 +4142,10 @@
             "id": 302,
             "gunId": 177,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -4155,10 +4155,10 @@
             "id": 303,
             "gunId": 177,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -4168,10 +4168,10 @@
             "id": 304,
             "gunId": 177,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -4181,10 +4181,10 @@
             "id": 305,
             "gunId": 177,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -4194,10 +4194,10 @@
             "id": 306,
             "gunId": 177,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4208,10 +4208,10 @@
             "id": 307,
             "gunId": 177,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4222,10 +4222,10 @@
             "id": 308,
             "gunId": 177,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4236,10 +4236,10 @@
             "id": 309,
             "gunId": 177,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4250,10 +4250,10 @@
             "id": 310,
             "gunId": 177,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4264,10 +4264,10 @@
             "id": 311,
             "gunId": 177,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4278,10 +4278,10 @@
             "id": 312,
             "gunId": 177,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4292,10 +4292,10 @@
             "id": 313,
             "gunId": 177,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4306,10 +4306,10 @@
             "id": 314,
             "gunId": 177,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4320,10 +4320,10 @@
             "id": 315,
             "gunId": 177,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4334,10 +4334,10 @@
             "id": 316,
             "gunId": 177,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4348,10 +4348,10 @@
             "id": 317,
             "gunId": 177,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4362,10 +4362,10 @@
             "id": 318,
             "gunId": 177,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4376,10 +4376,10 @@
             "id": 319,
             "gunId": 177,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4390,10 +4390,10 @@
             "id": 320,
             "gunId": 177,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4404,10 +4404,10 @@
             "id": 321,
             "gunId": 119,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "request": 5,
@@ -4417,10 +4417,10 @@
             "id": 322,
             "gunId": 119,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "request": 10,
@@ -4430,10 +4430,10 @@
             "id": 323,
             "gunId": 119,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "request": 50,
@@ -4443,10 +4443,10 @@
             "id": 324,
             "gunId": 119,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "request": 200,
@@ -4456,10 +4456,10 @@
             "id": 325,
             "gunId": 119,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "request": 500,
@@ -4469,10 +4469,10 @@
             "id": 326,
             "gunId": 119,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4483,10 +4483,10 @@
             "id": 327,
             "gunId": 119,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4497,10 +4497,10 @@
             "id": 328,
             "gunId": 119,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4511,10 +4511,10 @@
             "id": 329,
             "gunId": 119,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4525,10 +4525,10 @@
             "id": 330,
             "gunId": 119,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 1,
@@ -4539,10 +4539,10 @@
             "id": 331,
             "gunId": 119,
             "name": {
-                "id": "1899"
+                "id": "2694"
             },
             "introduction": {
-                "id": "1899"
+                "id": "2694"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4553,10 +4553,10 @@
             "id": 332,
             "gunId": 119,
             "name": {
-                "id": "1898"
+                "id": "2693"
             },
             "introduction": {
-                "id": "1898"
+                "id": "2693"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4567,10 +4567,10 @@
             "id": 333,
             "gunId": 119,
             "name": {
-                "id": "1897"
+                "id": "2692"
             },
             "introduction": {
-                "id": "1897"
+                "id": "2692"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4581,10 +4581,10 @@
             "id": 334,
             "gunId": 119,
             "name": {
-                "id": "1896"
+                "id": "2691"
             },
             "introduction": {
-                "id": "1896"
+                "id": "2691"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4595,10 +4595,10 @@
             "id": 335,
             "gunId": 119,
             "name": {
-                "id": "1895"
+                "id": "2690"
             },
             "introduction": {
-                "id": "1895"
+                "id": "2690"
             },
             "icon": "Core",
             "dimension": 2,
@@ -4609,10 +4609,10 @@
             "id": 336,
             "gunId": 119,
             "name": {
-                "id": "1894"
+                "id": "2689"
             },
             "introduction": {
-                "id": "1894"
+                "id": "2689"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4623,10 +4623,10 @@
             "id": 337,
             "gunId": 119,
             "name": {
-                "id": "1893"
+                "id": "2688"
             },
             "introduction": {
-                "id": "1893"
+                "id": "2688"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4637,10 +4637,10 @@
             "id": 338,
             "gunId": 119,
             "name": {
-                "id": "1892"
+                "id": "2687"
             },
             "introduction": {
-                "id": "1892"
+                "id": "2687"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4651,10 +4651,10 @@
             "id": 339,
             "gunId": 119,
             "name": {
-                "id": "1891"
+                "id": "2686"
             },
             "introduction": {
-                "id": "1891"
+                "id": "2686"
             },
             "icon": "Core",
             "dimension": 3,
@@ -4665,10 +4665,10 @@
             "id": 340,
             "gunId": 119,
             "name": {
-                "id": "1890"
+                "id": "2685"
             },
             "introduction": {
-                "id": "1890"
+                "id": "2685"
             },
             "icon": "Core",
             "dimension": 3,

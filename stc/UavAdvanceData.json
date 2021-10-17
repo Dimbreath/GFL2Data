@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "equipNum": 1,
+            "cost": 4
+        },
+        {
+            "advanceNum": 1,
+            "uavMaterial": 182,
+            "equipNum": 2,
+            "cost": 5
+        },
+        {
+            "advanceNum": 2,
+            "uavMaterial": 182,
+            "equipNum": 3,
+            "cost": 6
+        },
+        {
+            "advanceNum": 3,
+            "uavMaterial": 182,
+            "equipNum": 3,
+            "cost": 7,
+            "crit": 50
+        },
+        {
+            "advanceNum": 4,
+            "uavMaterial": 182,
+            "equipNum": 3,
+            "cost": 7,
+            "crit": 50,
+            "critMult": 200
+        },
+        {
+            "advanceNum": 5,
+            "uavMaterial": 182,
+            "equipNum": 3,
+            "cost": 7,
+            "crit": 100,
+            "critMult": 200
+        }
+    ]
+}

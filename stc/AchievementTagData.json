@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "tagName": "作战",
+            "icon": "Icon_Achievement_Battle",
+            "pointItem": 307
+        },
+        {
+            "id": 2,
+            "tagName": "收集",
+            "icon": "Icon_Achievement_Collection",
+            "pointItem": 308
+        },
+        {
+            "id": 3,
+            "tagName": "整备",
+            "icon": "Icon_Achievement_PowerUp",
+            "pointItem": 309
+        },
+        {
+            "id": 4,
+            "tagName": "特殊",
+            "icon": "Icon_Achievement_Other",
+            "pointItem": 310
+        }
+    ]
+}

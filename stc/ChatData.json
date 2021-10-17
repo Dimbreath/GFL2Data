@@ -2,303 +2,91 @@
     "data": [
         {
             "id": 1,
-            "type": 1,
-            "icon": "Emoji_01"
+            "icon": "Img_EimojiPic_1"
         },
         {
             "id": 2,
-            "type": 1,
-            "icon": "Emoji_02"
+            "icon": "Img_EimojiPic_2"
         },
         {
             "id": 3,
-            "type": 1,
-            "icon": "Emoji_03"
+            "icon": "Img_EimojiPic_3"
         },
         {
             "id": 4,
-            "type": 1,
-            "icon": "Emoji_04"
+            "icon": "Img_EimojiPic_4"
         },
         {
             "id": 5,
-            "type": 1,
-            "icon": "Emoji_05"
+            "icon": "Img_EimojiPic_5"
         },
         {
             "id": 6,
-            "type": 1,
-            "icon": "Emoji_06"
+            "icon": "Img_EimojiPic_6"
         },
         {
             "id": 7,
-            "type": 1,
-            "icon": "Emoji_07"
+            "icon": "Img_EimojiPic_7"
         },
         {
             "id": 8,
-            "type": 1,
-            "icon": "Emoji_08"
+            "icon": "Img_EimojiPic_9"
         },
         {
             "id": 9,
-            "type": 1,
-            "icon": "Emoji_09"
+            "icon": "Img_EimojiPic_10"
         },
         {
             "id": 10,
-            "type": 1,
-            "icon": "Emoji_10"
+            "icon": "Img_EimojiPic_11"
         },
         {
             "id": 11,
-            "type": 1,
-            "icon": "Emoji_11"
+            "icon": "Img_EimojiPic_12"
         },
         {
             "id": 12,
-            "type": 1,
-            "icon": "Emoji_12"
+            "icon": "Img_EimojiPic_13"
         },
         {
             "id": 13,
-            "type": 1,
-            "icon": "Emoji_13"
+            "icon": "Img_EimojiPic_14"
         },
         {
             "id": 14,
-            "type": 1,
-            "icon": "Emoji_14"
+            "icon": "Img_EimojiPic_15"
         },
         {
             "id": 15,
-            "type": 1,
-            "icon": "Emoji_15"
+            "icon": "Img_EimojiPic_16"
         },
         {
             "id": 16,
-            "type": 1,
-            "icon": "Emoji_16"
+            "icon": "Img_EimojiPic_17"
         },
         {
             "id": 17,
-            "type": 1,
-            "icon": "Emoji_17"
+            "icon": "Img_EimojiPic_18"
         },
         {
             "id": 18,
-            "type": 1,
-            "icon": "Emoji_18"
+            "icon": "Img_EimojiPic_19"
         },
         {
             "id": 19,
-            "type": 1,
-            "icon": "Emoji_19"
+            "icon": "Img_EimojiPic_20"
         },
         {
             "id": 20,
-            "type": 1,
-            "icon": "Emoji_20"
+            "icon": "Img_EimojiPic_21"
         },
         {
             "id": 21,
-            "type": 1,
-            "icon": "Emoji_21"
+            "icon": "Img_EimojiPic_22"
         },
         {
             "id": 22,
-            "type": 1,
-            "icon": "Emoji_22"
-        },
-        {
-            "id": 23,
-            "type": 1,
-            "icon": "Emoji_23"
-        },
-        {
-            "id": 24,
-            "type": 1,
-            "icon": "Emoji_24"
-        },
-        {
-            "id": 25,
-            "type": 1,
-            "icon": "Emoji_25"
-        },
-        {
-            "id": 26,
-            "type": 1,
-            "icon": "Emoji_26"
-        },
-        {
-            "id": 27,
-            "type": 1,
-            "icon": "Emoji_27"
-        },
-        {
-            "id": 28,
-            "type": 1,
-            "icon": "Emoji_28"
-        },
-        {
-            "id": 29,
-            "type": 1,
-            "icon": "Emoji_29"
-        },
-        {
-            "id": 30,
-            "type": 1,
-            "icon": "Emoji_30"
-        },
-        {
-            "id": 31,
-            "type": 1,
-            "icon": "Emoji_31"
-        },
-        {
-            "id": 32,
-            "type": 1,
-            "icon": "Emoji_32"
-        },
-        {
-            "id": 33,
-            "type": 1,
-            "icon": "Emoji_33"
-        },
-        {
-            "id": 34,
-            "type": 1,
-            "icon": "Emoji_34"
-        },
-        {
-            "id": 35,
-            "type": 1,
-            "icon": "Emoji_35"
-        },
-        {
-            "id": 36,
-            "type": 1,
-            "icon": "Emoji_36"
-        },
-        {
-            "id": 37,
-            "type": 1,
-            "icon": "Emoji_37"
-        },
-        {
-            "id": 38,
-            "type": 1,
-            "icon": "Emoji_38"
-        },
-        {
-            "id": 39,
-            "type": 1,
-            "icon": "Emoji_39"
-        },
-        {
-            "id": 40,
-            "type": 1,
-            "icon": "Emoji_40"
-        },
-        {
-            "id": 41,
-            "type": 1,
-            "icon": "Emoji_41"
-        },
-        {
-            "id": 42,
-            "type": 1,
-            "icon": "Emoji_42"
-        },
-        {
-            "id": 43,
-            "type": 1,
-            "icon": "Emoji_43"
-        },
-        {
-            "id": 44,
-            "type": 1,
-            "icon": "Emoji_44"
-        },
-        {
-            "id": 45,
-            "type": 1,
-            "icon": "Emoji_45"
-        },
-        {
-            "id": 1001,
-            "type": 2,
-            "icon": "Emoji_Big_01"
-        },
-        {
-            "id": 1002,
-            "type": 2,
-            "icon": "Emoji_Big_02"
-        },
-        {
-            "id": 1003,
-            "type": 2,
-            "icon": "Emoji_Big_03"
-        },
-        {
-            "id": 1004,
-            "type": 2,
-            "icon": "Emoji_Big_04"
-        },
-        {
-            "id": 1005,
-            "type": 2,
-            "icon": "Emoji_Big_05"
-        },
-        {
-            "id": 1006,
-            "type": 2,
-            "icon": "Emoji_Big_06"
-        },
-        {
-            "id": 1007,
-            "type": 2,
-            "icon": "Emoji_Big_07"
-        },
-        {
-            "id": 1008,
-            "type": 2,
-            "icon": "Emoji_Big_08"
-        },
-        {
-            "id": 1009,
-            "type": 2,
-            "icon": "Emoji_Big_09"
-        },
-        {
-            "id": 1010,
-            "type": 2,
-            "icon": "Emoji_Big_10"
-        },
-        {
-            "id": 1011,
-            "type": 2,
-            "icon": "Emoji_Big_11"
-        },
-        {
-            "id": 1012,
-            "type": 2,
-            "icon": "Emoji_Big_12"
-        },
-        {
-            "id": 1013,
-            "type": 2,
-            "icon": "Emoji_Big_13"
-        },
-        {
-            "id": 1014,
-            "type": 2,
-            "icon": "Emoji_Big_14"
-        },
-        {
-            "id": 1015,
-            "type": 2,
-            "icon": "Emoji_Big_15"
+            "icon": "Img_EimojiPic_23"
         }
     ]
 }

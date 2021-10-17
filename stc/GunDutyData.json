@@ -3,106 +3,80 @@
         {
             "id": 1,
             "name": {
-                "id": "2247"
+                "id": "412"
             },
             "enName": {
-                "id": "2248"
+                "id": "413"
             },
             "abbr": {
-                "id": "2249"
+                "id": "413"
             },
-            "icon": "Combat_GunTypeIcon_1"
+            "icon": "Icon_Professional_Guard"
         },
         {
             "id": 2,
             "name": {
-                "id": "2250"
+                "id": "414"
             },
             "enName": {
-                "id": "2251"
+                "id": "415"
             },
             "abbr": {
-                "id": "2252"
+                "id": "415"
             },
-            "icon": "Combat_GunTypeIcon_2"
+            "icon": "Icon_Professional_Scout"
         },
         {
             "id": 3,
             "name": {
-                "id": "2253"
+                "id": "416"
             },
             "enName": {
-                "id": "2254"
+                "id": "417"
             },
             "abbr": {
-                "id": "2255"
+                "id": "417"
             },
-            "icon": "Combat_GunTypeIcon_3"
+            "icon": "Icon_Professional_Assist"
         },
         {
             "id": 4,
             "name": {
-                "id": "2256"
+                "id": "418"
             },
             "enName": {
-                "id": "2257"
+                "id": "419"
             },
             "abbr": {
-                "id": "2258"
+                "id": "419"
             },
-            "icon": "Combat_GunTypeIcon_4"
+            "icon": "Icon_Professional_Suppress"
         },
         {
             "id": 5,
             "name": {
-                "id": "2259"
+                "id": "420"
             },
             "enName": {
-                "id": "2260"
+                "id": "421"
             },
             "abbr": {
-                "id": "2261"
+                "id": "421"
             },
-            "icon": "Combat_GunTypeIcon_1"
+            "icon": "Icon_Professional_Sniper"
         },
         {
             "id": 6,
             "name": {
-                "id": "2262"
+                "id": "422"
             },
             "enName": {
-                "id": "2263"
+                "id": "423"
             },
             "abbr": {
-                "id": "2264"
+                "id": "423"
             },
-            "icon": "Combat_GunTypeIcon_2"
-        },
-        {
-            "id": 7,
-            "name": {
-                "id": "2265"
-            },
-            "enName": {
-                "id": "2266"
-            },
-            "abbr": {
-                "id": "2267"
-            },
-            "icon": "Combat_GunTypeIcon_3"
-        },
-        {
-            "id": 8,
-            "name": {
-                "id": "2268"
-            },
-            "enName": {
-                "id": "2269"
-            },
-            "abbr": {
-                "id": "2269"
-            },
-            "icon": "Combat_GunTypeIcon_4"
+            "icon": "Icon_Professional_Burst"
         }
     ]
 }

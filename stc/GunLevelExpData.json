@@ -4,420 +4,599 @@
             "level": 1,
             "powLevelFactor": 1000,
             "hpLevelFactor": 1000,
-            "armorLevelFactor": 1000
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 1000,
+            "magicalShieldLevelFactor": 1000
         },
         {
             "level": 2,
-            "exp": 130,
-            "powLevelFactor": 1070,
-            "hpLevelFactor": 1070,
-            "armorLevelFactor": 1070
+            "exp": 100,
+            "gold": 50,
+            "powLevelFactor": 1125,
+            "hpLevelFactor": 1125,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 1131,
+            "magicalShieldLevelFactor": 1131
         },
         {
             "level": 3,
-            "exp": 150,
-            "powLevelFactor": 1161,
-            "hpLevelFactor": 1161,
-            "armorLevelFactor": 1161
+            "exp": 200,
+            "gold": 100,
+            "powLevelFactor": 1250,
+            "hpLevelFactor": 1250,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 1263,
+            "magicalShieldLevelFactor": 1263
         },
         {
             "level": 4,
-            "exp": 210,
-            "powLevelFactor": 1262,
-            "hpLevelFactor": 1262,
-            "armorLevelFactor": 1262
+            "exp": 300,
+            "gold": 150,
+            "powLevelFactor": 1375,
+            "hpLevelFactor": 1375,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 1368,
+            "magicalShieldLevelFactor": 1368
         },
         {
             "level": 5,
-            "exp": 320,
-            "powLevelFactor": 1370,
-            "hpLevelFactor": 1370,
-            "armorLevelFactor": 1370
+            "exp": 600,
+            "gold": 300,
+            "powLevelFactor": 1525,
+            "hpLevelFactor": 1520,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 1526,
+            "magicalShieldLevelFactor": 1526
         },
         {
             "level": 6,
-            "exp": 500,
-            "powLevelFactor": 1483,
-            "hpLevelFactor": 1483,
-            "armorLevelFactor": 1483
+            "exp": 800,
+            "gold": 400,
+            "powLevelFactor": 1675,
+            "hpLevelFactor": 1666,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 1684,
+            "magicalShieldLevelFactor": 1684
         },
         {
             "level": 7,
-            "exp": 770,
-            "powLevelFactor": 1602,
-            "hpLevelFactor": 1602,
-            "armorLevelFactor": 1602
+            "exp": 1200,
+            "gold": 600,
+            "powLevelFactor": 1825,
+            "hpLevelFactor": 1822,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 1842,
+            "magicalShieldLevelFactor": 1842
         },
         {
             "level": 8,
-            "exp": 1150,
-            "powLevelFactor": 1724,
-            "hpLevelFactor": 1724,
-            "armorLevelFactor": 1724
+            "exp": 1600,
+            "gold": 800,
+            "powLevelFactor": 1975,
+            "hpLevelFactor": 1968,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 1973,
+            "magicalShieldLevelFactor": 1973
         },
         {
             "level": 9,
-            "exp": 1660,
-            "powLevelFactor": 1849,
-            "hpLevelFactor": 1849,
-            "armorLevelFactor": 1849
+            "exp": 2100,
+            "gold": 1050,
+            "powLevelFactor": 2125,
+            "hpLevelFactor": 2125,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 2131,
+            "magicalShieldLevelFactor": 2131
         },
         {
             "level": 10,
-            "exp": 2310,
-            "powLevelFactor": 1978,
-            "hpLevelFactor": 1978,
-            "armorLevelFactor": 1978
+            "exp": 2600,
+            "gold": 1300,
+            "powLevelFactor": 2300,
+            "hpLevelFactor": 2291,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 2315,
+            "magicalShieldLevelFactor": 2315
         },
         {
             "level": 11,
-            "exp": 3130,
-            "powLevelFactor": 2110,
-            "hpLevelFactor": 2110,
-            "armorLevelFactor": 2110
+            "exp": 3200,
+            "gold": 1600,
+            "powLevelFactor": 2475,
+            "hpLevelFactor": 2468,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 2473,
+            "magicalShieldLevelFactor": 2473
         },
         {
             "level": 12,
-            "exp": 4120,
-            "powLevelFactor": 2244,
-            "hpLevelFactor": 2244,
-            "armorLevelFactor": 2244
+            "exp": 3900,
+            "gold": 1950,
+            "powLevelFactor": 2650,
+            "hpLevelFactor": 2645,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 2657,
+            "magicalShieldLevelFactor": 2657
         },
         {
             "level": 13,
-            "exp": 5310,
-            "powLevelFactor": 2381,
-            "hpLevelFactor": 2381,
-            "armorLevelFactor": 2381
+            "exp": 4700,
+            "gold": 2350,
+            "powLevelFactor": 2825,
+            "hpLevelFactor": 2822,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 2842,
+            "magicalShieldLevelFactor": 2842
         },
         {
             "level": 14,
-            "exp": 6720,
-            "powLevelFactor": 2520,
-            "hpLevelFactor": 2520,
-            "armorLevelFactor": 2520
+            "exp": 5500,
+            "gold": 2750,
+            "powLevelFactor": 3000,
+            "hpLevelFactor": 3000,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 3026,
+            "magicalShieldLevelFactor": 3026
         },
         {
             "level": 15,
-            "exp": 8360,
-            "powLevelFactor": 2662,
-            "hpLevelFactor": 2662,
-            "armorLevelFactor": 2662
+            "exp": 6500,
+            "gold": 3250,
+            "powLevelFactor": 3200,
+            "hpLevelFactor": 3197,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 3210,
+            "magicalShieldLevelFactor": 3210
         },
         {
             "level": 16,
-            "exp": 10250,
-            "powLevelFactor": 2805,
-            "hpLevelFactor": 2805,
-            "armorLevelFactor": 2805
+            "exp": 7500,
+            "gold": 3750,
+            "powLevelFactor": 3400,
+            "hpLevelFactor": 3395,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 3421,
+            "magicalShieldLevelFactor": 3421
         },
         {
             "level": 17,
-            "exp": 12410,
-            "powLevelFactor": 2951,
-            "hpLevelFactor": 2951,
-            "armorLevelFactor": 2951
+            "exp": 8600,
+            "gold": 4300,
+            "powLevelFactor": 3600,
+            "hpLevelFactor": 3593,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 3631,
+            "magicalShieldLevelFactor": 3631
         },
         {
             "level": 18,
-            "exp": 14860,
-            "powLevelFactor": 3098,
-            "hpLevelFactor": 3098,
-            "armorLevelFactor": 3098
+            "exp": 9800,
+            "gold": 4900,
+            "powLevelFactor": 3800,
+            "hpLevelFactor": 3791,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 3815,
+            "magicalShieldLevelFactor": 3815
         },
         {
             "level": 19,
-            "exp": 17620,
-            "powLevelFactor": 3247,
-            "hpLevelFactor": 3247,
-            "armorLevelFactor": 3247
+            "exp": 11100,
+            "gold": 5550,
+            "powLevelFactor": 4000,
+            "hpLevelFactor": 4000,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 4026,
+            "magicalShieldLevelFactor": 4026
         },
         {
             "level": 20,
-            "exp": 20700,
-            "powLevelFactor": 3397,
-            "hpLevelFactor": 3397,
-            "armorLevelFactor": 3397
+            "exp": 12500,
+            "gold": 6250,
+            "powLevelFactor": 4225,
+            "hpLevelFactor": 4218,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 4263,
+            "magicalShieldLevelFactor": 4263
         },
         {
             "level": 21,
-            "exp": 24130,
-            "powLevelFactor": 3549,
-            "hpLevelFactor": 3549,
-            "armorLevelFactor": 3549
+            "exp": 14000,
+            "gold": 7000,
+            "powLevelFactor": 4450,
+            "hpLevelFactor": 4447,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 4473,
+            "magicalShieldLevelFactor": 4473
         },
         {
             "level": 22,
-            "exp": 27910,
-            "powLevelFactor": 3703,
-            "hpLevelFactor": 3703,
-            "armorLevelFactor": 3703
+            "exp": 15600,
+            "gold": 7800,
+            "powLevelFactor": 4675,
+            "hpLevelFactor": 4666,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 4710,
+            "magicalShieldLevelFactor": 4710
         },
         {
             "level": 23,
-            "exp": 32070,
-            "powLevelFactor": 3858,
-            "hpLevelFactor": 3858,
-            "armorLevelFactor": 3858
+            "exp": 17300,
+            "gold": 8650,
+            "powLevelFactor": 4900,
+            "hpLevelFactor": 4895,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 4947,
+            "magicalShieldLevelFactor": 4947
         },
         {
             "level": 24,
-            "exp": 36630,
-            "powLevelFactor": 4015,
-            "hpLevelFactor": 4015,
-            "armorLevelFactor": 4015
+            "exp": 19200,
+            "gold": 9600,
+            "powLevelFactor": 5125,
+            "hpLevelFactor": 5125,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 5157,
+            "magicalShieldLevelFactor": 5157
         },
         {
             "level": 25,
-            "exp": 41600,
-            "powLevelFactor": 4173,
-            "hpLevelFactor": 4173,
-            "armorLevelFactor": 4173
+            "exp": 21200,
+            "gold": 10600,
+            "powLevelFactor": 5375,
+            "hpLevelFactor": 5375,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 5421,
+            "magicalShieldLevelFactor": 5421
         },
         {
             "level": 26,
-            "exp": 47000,
-            "powLevelFactor": 4332,
-            "hpLevelFactor": 4332,
-            "armorLevelFactor": 4332
+            "exp": 23400,
+            "gold": 11700,
+            "powLevelFactor": 5625,
+            "hpLevelFactor": 5625,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 5684,
+            "magicalShieldLevelFactor": 5684
         },
         {
             "level": 27,
-            "exp": 52850,
-            "powLevelFactor": 4492,
-            "hpLevelFactor": 4492,
-            "armorLevelFactor": 4492
+            "exp": 25700,
+            "gold": 12850,
+            "powLevelFactor": 5875,
+            "hpLevelFactor": 5875,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 5921,
+            "magicalShieldLevelFactor": 5921
         },
         {
             "level": 28,
-            "exp": 59170,
-            "powLevelFactor": 4654,
-            "hpLevelFactor": 4654,
-            "armorLevelFactor": 4654
+            "exp": 28200,
+            "gold": 14100,
+            "powLevelFactor": 6125,
+            "hpLevelFactor": 6125,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 6184,
+            "magicalShieldLevelFactor": 6184
         },
         {
             "level": 29,
-            "exp": 65980,
-            "powLevelFactor": 4817,
-            "hpLevelFactor": 4817,
-            "armorLevelFactor": 4817
+            "exp": 31000,
+            "gold": 15500,
+            "powLevelFactor": 6375,
+            "hpLevelFactor": 6375,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 6421,
+            "magicalShieldLevelFactor": 6421
         },
         {
             "level": 30,
-            "exp": 73290,
-            "powLevelFactor": 4981,
-            "hpLevelFactor": 4981,
-            "armorLevelFactor": 4981
+            "exp": 33900,
+            "gold": 16950,
+            "powLevelFactor": 6650,
+            "hpLevelFactor": 6645,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 6710,
+            "magicalShieldLevelFactor": 6710
         },
         {
             "level": 31,
-            "exp": 81130,
-            "powLevelFactor": 5147,
-            "hpLevelFactor": 5147,
-            "armorLevelFactor": 5147
+            "exp": 37200,
+            "gold": 18600,
+            "powLevelFactor": 6925,
+            "hpLevelFactor": 6916,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 6973,
+            "magicalShieldLevelFactor": 6973
         },
         {
             "level": 32,
-            "exp": 89500,
-            "powLevelFactor": 5313,
-            "hpLevelFactor": 5313,
-            "armorLevelFactor": 5313
+            "exp": 40700,
+            "gold": 20350,
+            "powLevelFactor": 7200,
+            "hpLevelFactor": 7197,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 7263,
+            "magicalShieldLevelFactor": 7263
         },
         {
             "level": 33,
-            "exp": 98430,
-            "powLevelFactor": 5480,
-            "hpLevelFactor": 5480,
-            "armorLevelFactor": 5480
+            "exp": 44500,
+            "gold": 22250,
+            "powLevelFactor": 7475,
+            "hpLevelFactor": 7468,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 7526,
+            "magicalShieldLevelFactor": 7526
         },
         {
             "level": 34,
-            "exp": 107940,
-            "powLevelFactor": 5649,
-            "hpLevelFactor": 5649,
-            "armorLevelFactor": 5649
+            "exp": 48700,
+            "gold": 24350,
+            "powLevelFactor": 7750,
+            "hpLevelFactor": 7750,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 7815,
+            "magicalShieldLevelFactor": 7815
         },
         {
             "level": 35,
-            "exp": 118040,
-            "powLevelFactor": 5819,
-            "hpLevelFactor": 5819,
-            "armorLevelFactor": 5819
+            "exp": 53200,
+            "gold": 26600,
+            "powLevelFactor": 8050,
+            "hpLevelFactor": 8041,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 8105,
+            "magicalShieldLevelFactor": 8105
         },
         {
             "level": 36,
-            "exp": 128750,
-            "powLevelFactor": 5989,
-            "hpLevelFactor": 5989,
-            "armorLevelFactor": 5989
+            "exp": 58300,
+            "gold": 29150,
+            "powLevelFactor": 8350,
+            "hpLevelFactor": 8343,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 8421,
+            "magicalShieldLevelFactor": 8421
         },
         {
             "level": 37,
-            "exp": 140090,
-            "powLevelFactor": 6161,
-            "hpLevelFactor": 6161,
-            "armorLevelFactor": 6161
+            "exp": 63800,
+            "gold": 31900,
+            "powLevelFactor": 8650,
+            "hpLevelFactor": 8645,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 8736,
+            "magicalShieldLevelFactor": 8736
         },
         {
             "level": 38,
-            "exp": 152080,
-            "powLevelFactor": 6333,
-            "hpLevelFactor": 6333,
-            "armorLevelFactor": 6333
+            "exp": 69900,
+            "gold": 34950,
+            "powLevelFactor": 8950,
+            "hpLevelFactor": 8947,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 9026,
+            "magicalShieldLevelFactor": 9026
         },
         {
             "level": 39,
-            "exp": 164740,
-            "powLevelFactor": 6507,
-            "hpLevelFactor": 6507,
-            "armorLevelFactor": 6507
+            "exp": 76700,
+            "gold": 38350,
+            "powLevelFactor": 9250,
+            "hpLevelFactor": 9250,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 9342,
+            "magicalShieldLevelFactor": 9342
         },
         {
             "level": 40,
-            "exp": 178080,
-            "powLevelFactor": 6681,
-            "hpLevelFactor": 6681,
-            "armorLevelFactor": 6681
+            "exp": 84200,
+            "gold": 42100,
+            "powLevelFactor": 9575,
+            "hpLevelFactor": 9572,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 9657,
+            "magicalShieldLevelFactor": 9657
         },
         {
             "level": 41,
-            "exp": 192130,
-            "powLevelFactor": 6856,
-            "hpLevelFactor": 6856,
-            "armorLevelFactor": 6856
+            "exp": 92500,
+            "gold": 46250,
+            "powLevelFactor": 9900,
+            "hpLevelFactor": 9895,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 10000,
+            "magicalShieldLevelFactor": 10000
         },
         {
             "level": 42,
-            "exp": 206890,
-            "powLevelFactor": 7032,
-            "hpLevelFactor": 7032,
-            "armorLevelFactor": 7032
+            "exp": 101900,
+            "gold": 50950,
+            "powLevelFactor": 10225,
+            "hpLevelFactor": 10218,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 10315,
+            "magicalShieldLevelFactor": 10315
         },
         {
             "level": 43,
-            "exp": 222390,
-            "powLevelFactor": 7209,
-            "hpLevelFactor": 7209,
-            "armorLevelFactor": 7209
+            "exp": 112300,
+            "gold": 56150,
+            "powLevelFactor": 10550,
+            "hpLevelFactor": 10541,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 10631,
+            "magicalShieldLevelFactor": 10631
         },
         {
             "level": 44,
-            "exp": 238650,
-            "powLevelFactor": 7387,
-            "hpLevelFactor": 7387,
-            "armorLevelFactor": 7387
+            "exp": 124000,
+            "gold": 62000,
+            "powLevelFactor": 10875,
+            "hpLevelFactor": 10875,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 10973,
+            "magicalShieldLevelFactor": 10973
         },
         {
             "level": 45,
-            "exp": 255680,
-            "powLevelFactor": 7566,
-            "hpLevelFactor": 7566,
-            "armorLevelFactor": 7566
+            "exp": 137100,
+            "gold": 68550,
+            "powLevelFactor": 11225,
+            "hpLevelFactor": 11218,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 11315,
+            "magicalShieldLevelFactor": 11315
         },
         {
             "level": 46,
-            "exp": 273500,
-            "powLevelFactor": 7745,
-            "hpLevelFactor": 7745,
-            "armorLevelFactor": 7745
+            "exp": 151800,
+            "gold": 75900,
+            "powLevelFactor": 11575,
+            "hpLevelFactor": 11572,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 11684,
+            "magicalShieldLevelFactor": 11684
         },
         {
             "level": 47,
-            "exp": 292130,
-            "powLevelFactor": 7925,
-            "hpLevelFactor": 7925,
-            "armorLevelFactor": 7925
+            "exp": 168400,
+            "gold": 84200,
+            "powLevelFactor": 11925,
+            "hpLevelFactor": 11916,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 12026,
+            "magicalShieldLevelFactor": 12026
         },
         {
             "level": 48,
-            "exp": 311590,
-            "powLevelFactor": 8106,
-            "hpLevelFactor": 8106,
-            "armorLevelFactor": 8106
+            "exp": 187200,
+            "gold": 93600,
+            "powLevelFactor": 12275,
+            "hpLevelFactor": 12270,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 12394,
+            "magicalShieldLevelFactor": 12394
         },
         {
             "level": 49,
-            "exp": 331900,
-            "powLevelFactor": 8288,
-            "hpLevelFactor": 8288,
-            "armorLevelFactor": 8288
+            "exp": 208500,
+            "gold": 104250,
+            "powLevelFactor": 12625,
+            "hpLevelFactor": 12625,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 12736,
+            "magicalShieldLevelFactor": 12736
         },
         {
             "level": 50,
-            "exp": 353070,
-            "powLevelFactor": 8471,
-            "hpLevelFactor": 8471,
-            "armorLevelFactor": 8471
+            "exp": 232500,
+            "gold": 116250,
+            "powLevelFactor": 13000,
+            "hpLevelFactor": 13000,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 13131,
+            "magicalShieldLevelFactor": 13131
         },
         {
             "level": 51,
-            "exp": 375130,
-            "powLevelFactor": 8654,
-            "hpLevelFactor": 8654,
-            "armorLevelFactor": 8654
+            "exp": 259900,
+            "gold": 129950,
+            "powLevelFactor": 13375,
+            "hpLevelFactor": 13375,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 13500,
+            "magicalShieldLevelFactor": 13500
         },
         {
             "level": 52,
-            "exp": 398080,
-            "powLevelFactor": 8838,
-            "hpLevelFactor": 8838,
-            "armorLevelFactor": 8838
+            "exp": 290900,
+            "gold": 145450,
+            "powLevelFactor": 13750,
+            "hpLevelFactor": 13750,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 13894,
+            "magicalShieldLevelFactor": 13894
         },
         {
             "level": 53,
-            "exp": 421950,
-            "powLevelFactor": 9023,
-            "hpLevelFactor": 9023,
-            "armorLevelFactor": 9023
+            "exp": 326200,
+            "gold": 163100,
+            "powLevelFactor": 14125,
+            "hpLevelFactor": 14125,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 14263,
+            "magicalShieldLevelFactor": 14263
         },
         {
             "level": 54,
-            "exp": 446760,
-            "powLevelFactor": 9208,
-            "hpLevelFactor": 9208,
-            "armorLevelFactor": 9208
+            "exp": 366400,
+            "gold": 183200,
+            "powLevelFactor": 14500,
+            "hpLevelFactor": 14500,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 14631,
+            "magicalShieldLevelFactor": 14631
         },
         {
             "level": 55,
-            "exp": 472520,
-            "powLevelFactor": 9395,
-            "hpLevelFactor": 9395,
-            "armorLevelFactor": 9395
+            "exp": 412200,
+            "gold": 206100,
+            "powLevelFactor": 14900,
+            "hpLevelFactor": 14895,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 15052,
+            "magicalShieldLevelFactor": 15052
         },
         {
             "level": 56,
-            "exp": 499250,
-            "powLevelFactor": 9581,
-            "hpLevelFactor": 9581,
-            "armorLevelFactor": 9581
+            "exp": 464500,
+            "gold": 232250,
+            "powLevelFactor": 15300,
+            "hpLevelFactor": 15291,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 15447,
+            "magicalShieldLevelFactor": 15447
         },
         {
             "level": 57,
-            "exp": 526970,
-            "powLevelFactor": 9769,
-            "hpLevelFactor": 9769,
-            "armorLevelFactor": 9769
+            "exp": 524200,
+            "gold": 262100,
+            "powLevelFactor": 15700,
+            "hpLevelFactor": 15697,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 15842,
+            "magicalShieldLevelFactor": 15842
         },
         {
             "level": 58,
-            "exp": 555700,
-            "powLevelFactor": 9957,
-            "hpLevelFactor": 9957,
-            "armorLevelFactor": 9957
+            "exp": 592400,
+            "gold": 296200,
+            "powLevelFactor": 16100,
+            "hpLevelFactor": 16093,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 16263,
+            "magicalShieldLevelFactor": 16263
         },
         {
             "level": 59,
-            "exp": 585460,
-            "powLevelFactor": 10146,
-            "hpLevelFactor": 10146,
-            "armorLevelFactor": 10146
+            "exp": 670400,
+            "gold": 335200,
+            "powLevelFactor": 16500,
+            "hpLevelFactor": 16500,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 16657,
+            "magicalShieldLevelFactor": 16657
         },
         {
             "level": 60,
-            "exp": 616260,
-            "powLevelFactor": 10336,
-            "hpLevelFactor": 10336,
-            "armorLevelFactor": 10336
+            "exp": 759600,
+            "gold": 379800,
+            "powLevelFactor": 16925,
+            "hpLevelFactor": 16916,
+            "armorLevelFactor": 1000,
+            "physicalShieldLevelFactor": 17078,
+            "magicalShieldLevelFactor": 17078
         }
     ]
 }

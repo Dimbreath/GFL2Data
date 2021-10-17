@@ -1,0 +1,297 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "punctuations": "。",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 2,
+            "punctuations": "？",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 3,
+            "punctuations": "！",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 4,
+            "punctuations": "，",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 5,
+            "punctuations": "；",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 6,
+            "punctuations": "：",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 7,
+            "punctuations": "“",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 8,
+            "punctuations": "”",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 9,
+            "punctuations": "‘",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 10,
+            "punctuations": "’",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 11,
+            "punctuations": "『",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 12,
+            "punctuations": "』",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 13,
+            "punctuations": "「",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 14,
+            "punctuations": "」",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 15,
+            "punctuations": "（",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 16,
+            "punctuations": "）",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 17,
+            "punctuations": "[",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 18,
+            "punctuations": "]",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 19,
+            "punctuations": "{",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 20,
+            "punctuations": "}",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 21,
+            "punctuations": "【",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 22,
+            "punctuations": "】",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 23,
+            "punctuations": "·",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 24,
+            "punctuations": "-",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 25,
+            "punctuations": "—",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 26,
+            "punctuations": "~",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 27,
+            "punctuations": "·",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 28,
+            "punctuations": "《",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 29,
+            "punctuations": "》",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 30,
+            "punctuations": "<",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 31,
+            "punctuations": ">",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 32,
+            "punctuations": "/",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 33,
+            "punctuations": "_",
+            "language": [
+                1
+            ]
+        },
+        {
+            "id": 34,
+            "punctuations": "…",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                3
+            ]
+        },
+        {
+            "id": 35,
+            "punctuations": "—",
+            "language": [
+                1
+            ],
+            "property": [
+                1,
+                3
+            ]
+        }
+    ]
+}

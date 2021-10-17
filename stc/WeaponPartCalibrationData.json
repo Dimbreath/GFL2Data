@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": 2101,
+            "partAbility": "max_will_value",
+            "partAbilityInterval": [
+                15,
+                20
+            ],
+            "adjustNum": {
+                "601": 1
+            }
+        },
+        {
+            "id": 2102,
+            "partAbility": "max_will_value",
+            "partAbilityInterval": [
+                20,
+                25
+            ],
+            "adjustNum": {
+                "601": 1
+            }
+        },
+        {
+            "id": 2103,
+            "partAbility": "max_will_value",
+            "partAbilityInterval": [
+                25,
+                30
+            ],
+            "adjustNum": {
+                "601": 1
+            }
+        },
+        {
+            "id": 2201,
+            "partAbility": "suppress_value",
+            "partAbilityInterval": [
+                15,
+                20
+            ],
+            "adjustNum": {
+                "601": 1
+            }
+        },
+        {
+            "id": 2202,
+            "partAbility": "suppress_value",
+            "partAbilityInterval": [
+                20,
+                25
+            ],
+            "adjustNum": {
+                "601": 1
+            }
+        },
+        {
+            "id": 2203,
+            "partAbility": "suppress_value",
+            "partAbilityInterval": [
+                25,
+                30
+            ],
+            "adjustNum": {
+                "601": 1
+            }
+        }
+    ]
+}

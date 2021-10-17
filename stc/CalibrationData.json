@@ -2,70 +2,48 @@
     "data": [
         {
             "id": 1,
-            "property": "pow",
+            "poolId": 1,
+            "property": "max_hp",
             "type": 1,
             "growRange": [
-                4,
-                4
+                29,
+                29
             ]
         },
         {
             "id": 2,
-            "property": "pow",
+            "poolId": 2,
+            "property": "max_hp",
             "type": 1,
             "growRange": [
-                6,
-                6
+                38,
+                38
             ]
         },
         {
             "id": 3,
-            "property": "pow",
+            "poolId": 3,
+            "property": "max_hp",
             "type": 1,
             "growRange": [
-                8,
-                8
+                49,
+                49
             ]
         },
         {
             "id": 4,
-            "property": "pow",
+            "poolId": 4,
+            "property": "max_hp",
             "type": 1,
             "growRange": [
-                10,
-                10
+                58,
+                58
             ]
         },
         {
             "id": 5,
-            "property": "max_hp",
-            "type": 1,
-            "growRange": [
-                8,
-                8
-            ]
-        },
-        {
-            "id": 6,
-            "property": "max_hp",
-            "type": 1,
-            "growRange": [
-                12,
-                12
-            ]
-        },
-        {
-            "id": 7,
-            "property": "max_hp",
-            "type": 1,
-            "growRange": [
-                16,
-                16
-            ]
-        },
-        {
-            "id": 8,
-            "property": "max_hp",
+            "poolId": 5,
+            "property": "physical_shield",
             "type": 1,
             "growRange": [
                 20,
@@ -73,43 +51,78 @@
             ]
         },
         {
-            "id": 9,
-            "property": "armor",
+            "id": 6,
+            "poolId": 6,
+            "property": "physical_shield",
             "type": 1,
             "growRange": [
-                4,
-                4
+                26,
+                26
+            ]
+        },
+        {
+            "id": 7,
+            "poolId": 7,
+            "property": "physical_shield",
+            "type": 1,
+            "growRange": [
+                33,
+                33
+            ]
+        },
+        {
+            "id": 8,
+            "poolId": 8,
+            "property": "physical_shield",
+            "type": 1,
+            "growRange": [
+                39,
+                39
+            ]
+        },
+        {
+            "id": 9,
+            "poolId": 9,
+            "property": "magical_shield",
+            "type": 1,
+            "growRange": [
+                20,
+                20
             ]
         },
         {
             "id": 10,
-            "property": "armor",
+            "poolId": 10,
+            "property": "magical_shield",
             "type": 1,
             "growRange": [
-                6,
-                6
+                26,
+                26
             ]
         },
         {
             "id": 11,
-            "property": "armor",
+            "poolId": 11,
+            "property": "magical_shield",
             "type": 1,
             "growRange": [
-                8,
-                8
+                33,
+                33
             ]
         },
         {
             "id": 12,
-            "property": "armor",
+            "poolId": 12,
+            "property": "magical_shield",
             "type": 1,
             "growRange": [
-                10,
-                10
+                39,
+                39
             ]
         },
         {
             "id": 13,
+            "poolId": 13,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -119,6 +132,7 @@
         },
         {
             "id": 14,
+            "poolId": 13,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -128,8 +142,9 @@
         },
         {
             "id": 15,
-            "property": "armor",
-            "type": 2,
+            "poolId": 13,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 6,
                 6
@@ -137,6 +152,7 @@
         },
         {
             "id": 16,
+            "poolId": 14,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -146,6 +162,7 @@
         },
         {
             "id": 17,
+            "poolId": 14,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -155,8 +172,9 @@
         },
         {
             "id": 18,
-            "property": "armor",
-            "type": 2,
+            "poolId": 14,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 9,
                 9
@@ -164,6 +182,7 @@
         },
         {
             "id": 19,
+            "poolId": 14,
             "property": "crit",
             "type": 1,
             "growRange": [
@@ -173,6 +192,7 @@
         },
         {
             "id": 20,
+            "poolId": 14,
             "property": "crit_mult",
             "type": 1,
             "growRange": [
@@ -182,6 +202,7 @@
         },
         {
             "id": 21,
+            "poolId": 15,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -191,6 +212,7 @@
         },
         {
             "id": 22,
+            "poolId": 15,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -200,8 +222,9 @@
         },
         {
             "id": 23,
-            "property": "armor",
-            "type": 2,
+            "poolId": 15,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 12,
                 12
@@ -209,6 +232,7 @@
         },
         {
             "id": 24,
+            "poolId": 15,
             "property": "crit",
             "type": 1,
             "growRange": [
@@ -218,6 +242,7 @@
         },
         {
             "id": 25,
+            "poolId": 15,
             "property": "crit_mult",
             "type": 1,
             "growRange": [
@@ -227,6 +252,7 @@
         },
         {
             "id": 26,
+            "poolId": 16,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -236,6 +262,7 @@
         },
         {
             "id": 27,
+            "poolId": 16,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -245,8 +272,9 @@
         },
         {
             "id": 28,
-            "property": "armor",
-            "type": 2,
+            "poolId": 16,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 15,
                 15
@@ -254,6 +282,7 @@
         },
         {
             "id": 29,
+            "poolId": 16,
             "property": "crit",
             "type": 1,
             "growRange": [
@@ -263,6 +292,7 @@
         },
         {
             "id": 30,
+            "poolId": 16,
             "property": "crit_mult",
             "type": 1,
             "growRange": [
@@ -272,6 +302,7 @@
         },
         {
             "id": 31,
+            "poolId": 17,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -281,6 +312,7 @@
         },
         {
             "id": 32,
+            "poolId": 17,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -290,8 +322,9 @@
         },
         {
             "id": 33,
-            "property": "armor",
-            "type": 2,
+            "poolId": 17,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 6,
                 6
@@ -299,6 +332,7 @@
         },
         {
             "id": 34,
+            "poolId": 18,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -308,6 +342,7 @@
         },
         {
             "id": 35,
+            "poolId": 18,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -317,8 +352,9 @@
         },
         {
             "id": 36,
-            "property": "armor",
-            "type": 2,
+            "poolId": 18,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 9,
                 9
@@ -326,6 +362,7 @@
         },
         {
             "id": 37,
+            "poolId": 19,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -335,6 +372,7 @@
         },
         {
             "id": 38,
+            "poolId": 19,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -344,8 +382,9 @@
         },
         {
             "id": 39,
-            "property": "armor",
-            "type": 2,
+            "poolId": 19,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 12,
                 12
@@ -353,6 +392,7 @@
         },
         {
             "id": 40,
+            "poolId": 19,
             "property": "hit_percentage",
             "type": 1,
             "growRange": [
@@ -362,6 +402,7 @@
         },
         {
             "id": 41,
+            "poolId": 19,
             "property": "dodge_percentage",
             "type": 1,
             "growRange": [
@@ -371,6 +412,7 @@
         },
         {
             "id": 42,
+            "poolId": 20,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -380,6 +422,7 @@
         },
         {
             "id": 43,
+            "poolId": 20,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -389,8 +432,9 @@
         },
         {
             "id": 44,
-            "property": "armor",
-            "type": 2,
+            "poolId": 20,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 15,
                 15
@@ -398,6 +442,7 @@
         },
         {
             "id": 45,
+            "poolId": 20,
             "property": "hit_percentage",
             "type": 1,
             "growRange": [
@@ -407,6 +452,7 @@
         },
         {
             "id": 46,
+            "poolId": 20,
             "property": "dodge_percentage",
             "type": 1,
             "growRange": [
@@ -416,6 +462,7 @@
         },
         {
             "id": 47,
+            "poolId": 21,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -425,6 +472,7 @@
         },
         {
             "id": 48,
+            "poolId": 21,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -434,8 +482,9 @@
         },
         {
             "id": 49,
-            "property": "armor",
-            "type": 2,
+            "poolId": 21,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 6,
                 6
@@ -443,6 +492,7 @@
         },
         {
             "id": 50,
+            "poolId": 22,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -452,6 +502,7 @@
         },
         {
             "id": 51,
+            "poolId": 22,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -461,8 +512,9 @@
         },
         {
             "id": 52,
-            "property": "armor",
-            "type": 2,
+            "poolId": 22,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 9,
                 9
@@ -470,6 +522,7 @@
         },
         {
             "id": 53,
+            "poolId": 23,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -479,6 +532,7 @@
         },
         {
             "id": 54,
+            "poolId": 23,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -488,8 +542,9 @@
         },
         {
             "id": 55,
-            "property": "armor",
-            "type": 2,
+            "poolId": 23,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 12,
                 12
@@ -497,6 +552,7 @@
         },
         {
             "id": 56,
+            "poolId": 24,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -506,6 +562,7 @@
         },
         {
             "id": 57,
+            "poolId": 24,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -515,8 +572,9 @@
         },
         {
             "id": 58,
-            "property": "armor",
-            "type": 2,
+            "poolId": 24,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 15,
                 15
@@ -524,6 +582,7 @@
         },
         {
             "id": 59,
+            "poolId": 24,
             "property": "max_ap",
             "type": 2,
             "growRange": [
@@ -533,181 +592,217 @@
         },
         {
             "id": 60,
-            "property": "pow",
+            "poolId": 25,
+            "property": "max_hp",
             "type": 1
         },
         {
             "id": 61,
-            "property": "max_hp",
+            "poolId": 25,
+            "property": "physical_shield",
             "type": 1
         },
         {
             "id": 62,
-            "property": "armor",
+            "poolId": 25,
+            "property": "magical_shield",
             "type": 1
         },
         {
             "id": 63,
-            "property": "pow",
-            "type": 2
-        },
-        {
-            "id": 64,
+            "poolId": 25,
             "property": "max_hp",
             "type": 2
         },
         {
+            "id": 64,
+            "poolId": 25,
+            "property": "crit",
+            "type": 1
+        },
+        {
             "id": 65,
-            "property": "armor",
-            "type": 2
+            "poolId": 25,
+            "property": "crit_mult",
+            "type": 1
         },
         {
             "id": 66,
+            "poolId": 26,
             "property": "pow",
             "type": 1
         },
         {
             "id": 67,
+            "poolId": 26,
             "property": "max_hp",
             "type": 1
         },
         {
             "id": 68,
-            "property": "armor",
+            "poolId": 26,
+            "property": "physical_shield",
             "type": 1
         },
         {
             "id": 69,
-            "property": "pow",
-            "type": 2
+            "poolId": 26,
+            "property": "magical_shield",
+            "type": 1
         },
         {
             "id": 70,
+            "poolId": 26,
             "property": "max_hp",
             "type": 2
         },
         {
             "id": 71,
-            "property": "armor",
-            "type": 2
-        },
-        {
-            "id": 72,
+            "poolId": 26,
             "property": "crit",
             "type": 1
         },
         {
-            "id": 73,
+            "id": 72,
+            "poolId": 26,
             "property": "crit_mult",
             "type": 1
         },
         {
+            "id": 73,
+            "poolId": 26,
+            "property": "pow",
+            "type": 2
+        },
+        {
             "id": 74,
+            "poolId": 27,
             "property": "pow",
             "type": 1
         },
         {
             "id": 75,
+            "poolId": 27,
             "property": "max_hp",
             "type": 1
         },
         {
             "id": 76,
-            "property": "armor",
+            "poolId": 27,
+            "property": "physical_shield",
             "type": 1
         },
         {
             "id": 77,
+            "poolId": 27,
             "property": "pow",
             "type": 2
         },
         {
             "id": 78,
+            "poolId": 27,
             "property": "max_hp",
             "type": 2
         },
         {
             "id": 79,
-            "property": "armor",
-            "type": 2
+            "poolId": 27,
+            "property": "physical_shield",
+            "type": 1
         },
         {
             "id": 80,
+            "poolId": 27,
             "property": "crit",
             "type": 1
         },
         {
             "id": 81,
+            "poolId": 27,
             "property": "crit_mult",
             "type": 1
         },
         {
             "id": 82,
+            "poolId": 27,
             "property": "hit_percentage",
             "type": 1
         },
         {
             "id": 83,
+            "poolId": 27,
             "property": "dodge_percentage",
             "type": 1
         },
         {
             "id": 84,
+            "poolId": 28,
             "property": "pow",
             "type": 1
         },
         {
             "id": 85,
+            "poolId": 28,
             "property": "max_hp",
             "type": 1
         },
         {
             "id": 86,
-            "property": "armor",
+            "poolId": 28,
+            "property": "physical_shield",
             "type": 1
         },
         {
             "id": 87,
+            "poolId": 28,
             "property": "pow",
             "type": 2
         },
         {
             "id": 88,
+            "poolId": 28,
             "property": "max_hp",
             "type": 2
         },
         {
             "id": 89,
-            "property": "armor",
-            "type": 2
+            "poolId": 28,
+            "property": "physical_shield",
+            "type": 1
         },
         {
             "id": 90,
+            "poolId": 28,
             "property": "crit",
             "type": 1
         },
         {
             "id": 91,
+            "poolId": 28,
             "property": "crit_mult",
             "type": 1
         },
         {
             "id": 92,
+            "poolId": 28,
             "property": "hit_percentage",
             "type": 1
         },
         {
             "id": 93,
+            "poolId": 28,
             "property": "dodge_percentage",
             "type": 1
         },
         {
             "id": 94,
+            "poolId": 28,
             "property": "max_ap",
             "type": 2
         },
         {
             "id": 101,
+            "poolId": 101,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -717,6 +812,7 @@
         },
         {
             "id": 102,
+            "poolId": 102,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -726,8 +822,9 @@
         },
         {
             "id": 103,
-            "property": "armor",
-            "type": 2,
+            "poolId": 103,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 6,
                 6
@@ -735,6 +832,7 @@
         },
         {
             "id": 104,
+            "poolId": 104,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -744,6 +842,7 @@
         },
         {
             "id": 105,
+            "poolId": 105,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -753,8 +852,9 @@
         },
         {
             "id": 106,
-            "property": "armor",
-            "type": 2,
+            "poolId": 106,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 9,
                 9
@@ -762,6 +862,7 @@
         },
         {
             "id": 107,
+            "poolId": 107,
             "property": "crit",
             "type": 1,
             "growRange": [
@@ -771,6 +872,7 @@
         },
         {
             "id": 108,
+            "poolId": 108,
             "property": "crit_mult",
             "type": 1,
             "growRange": [
@@ -780,6 +882,7 @@
         },
         {
             "id": 109,
+            "poolId": 109,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -789,6 +892,7 @@
         },
         {
             "id": 110,
+            "poolId": 110,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -798,8 +902,9 @@
         },
         {
             "id": 111,
-            "property": "armor",
-            "type": 2,
+            "poolId": 111,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 12,
                 12
@@ -807,6 +912,7 @@
         },
         {
             "id": 112,
+            "poolId": 112,
             "property": "crit",
             "type": 1,
             "growRange": [
@@ -816,6 +922,7 @@
         },
         {
             "id": 113,
+            "poolId": 113,
             "property": "crit_mult",
             "type": 1,
             "growRange": [
@@ -825,6 +932,7 @@
         },
         {
             "id": 114,
+            "poolId": 114,
             "property": "hit_percentage",
             "type": 1,
             "growRange": [
@@ -834,6 +942,7 @@
         },
         {
             "id": 115,
+            "poolId": 115,
             "property": "dodge_percentage",
             "type": 1,
             "growRange": [
@@ -843,6 +952,7 @@
         },
         {
             "id": 116,
+            "poolId": 116,
             "property": "pow",
             "type": 2,
             "growRange": [
@@ -852,6 +962,7 @@
         },
         {
             "id": 117,
+            "poolId": 117,
             "property": "max_hp",
             "type": 2,
             "growRange": [
@@ -861,8 +972,9 @@
         },
         {
             "id": 118,
-            "property": "armor",
-            "type": 2,
+            "poolId": 118,
+            "property": "physical_shield",
+            "type": 1,
             "growRange": [
                 15,
                 15
@@ -870,6 +982,7 @@
         },
         {
             "id": 119,
+            "poolId": 119,
             "property": "crit",
             "type": 1,
             "growRange": [
@@ -879,6 +992,7 @@
         },
         {
             "id": 120,
+            "poolId": 120,
             "property": "crit_mult",
             "type": 1,
             "growRange": [
@@ -888,6 +1002,7 @@
         },
         {
             "id": 121,
+            "poolId": 121,
             "property": "hit_percentage",
             "type": 1,
             "growRange": [
@@ -897,6 +1012,7 @@
         },
         {
             "id": 122,
+            "poolId": 122,
             "property": "dodge_percentage",
             "type": 1,
             "growRange": [
@@ -906,6 +1022,7 @@
         },
         {
             "id": 123,
+            "poolId": 123,
             "property": "max_ap",
             "type": 2,
             "growRange": [
@@ -915,156 +1032,187 @@
         },
         {
             "id": 131,
+            "poolId": 131,
             "property": "pow",
             "type": 2
         },
         {
             "id": 132,
+            "poolId": 131,
             "property": "crit",
             "type": 1
         },
         {
             "id": 133,
+            "poolId": 131,
             "property": "crit_mult",
             "type": 1
         },
         {
             "id": 134,
+            "poolId": 131,
             "property": "max_ap",
             "type": 2
         },
         {
             "id": 135,
+            "poolId": 135,
             "property": "pow",
             "type": 2
         },
         {
             "id": 136,
+            "poolId": 135,
             "property": "max_hp",
             "type": 2
         },
         {
             "id": 137,
+            "poolId": 137,
             "property": "pow",
             "type": 2
         },
         {
             "id": 138,
+            "poolId": 137,
             "property": "crit",
             "type": 1
         },
         {
             "id": 139,
+            "poolId": 139,
             "property": "max_hp",
             "type": 2
         },
         {
             "id": 140,
+            "poolId": 139,
             "property": "crit",
             "type": 1
         },
         {
             "id": 141,
+            "poolId": 141,
             "property": "pow",
             "type": 2
         },
         {
             "id": 142,
+            "poolId": 141,
             "property": "max_hp",
             "type": 2
         },
         {
             "id": 143,
+            "poolId": 141,
             "property": "crit",
             "type": 1
         },
         {
             "id": 144,
+            "poolId": 144,
             "property": "pow",
             "type": 2
         },
         {
             "id": 145,
+            "poolId": 144,
             "property": "hit_percentage",
             "type": 1
         },
         {
             "id": 146,
+            "poolId": 144,
             "property": "dodge_percentage",
             "type": 1
         },
         {
             "id": 147,
+            "poolId": 147,
             "property": "max_hp",
             "type": 2
         },
         {
             "id": 148,
+            "poolId": 147,
             "property": "crit",
             "type": 1
         },
         {
             "id": 149,
+            "poolId": 147,
             "property": "crit_mult",
             "type": 1
         },
         {
             "id": 150,
+            "poolId": 150,
             "property": "pow",
             "type": 2
         },
         {
             "id": 151,
+            "poolId": 150,
             "property": "max_hp",
             "type": 2
         },
         {
             "id": 152,
+            "poolId": 150,
             "property": "crit",
             "type": 1
         },
         {
             "id": 153,
+            "poolId": 150,
             "property": "hit_percentage",
             "type": 1
         },
         {
             "id": 154,
+            "poolId": 154,
             "property": "pow",
             "type": 2
         },
         {
             "id": 155,
+            "poolId": 154,
             "property": "hit_percentage",
             "type": 1
         },
         {
             "id": 156,
+            "poolId": 154,
             "property": "dodge_percentage",
             "type": 1
         },
         {
             "id": 157,
+            "poolId": 154,
             "property": "max_ap",
             "type": 2
         },
         {
             "id": 158,
+            "poolId": 158,
             "property": "max_hp",
             "type": 2
         },
         {
             "id": 159,
+            "poolId": 158,
             "property": "crit",
             "type": 1
         },
         {
             "id": 160,
+            "poolId": 158,
             "property": "crit_mult",
             "type": 1
         },
         {
             "id": 161,
+            "poolId": 158,
             "property": "max_ap",
             "type": 2
         }

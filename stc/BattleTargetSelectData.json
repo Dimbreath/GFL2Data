@@ -175,6 +175,63 @@
             "targetNumber": 1
         },
         {
+            "id": 29,
+            "targetTypeCode": 6,
+            "targetNumber": 1,
+            "selectGround": 1
+        },
+        {
+            "id": 30,
+            "targetTypeCode": 6,
+            "targetNumber": 99
+        },
+        {
+            "id": 31,
+            "targetTypeCode": 4,
+            "selectOrderPb": 2,
+            "selectPara": "potential_gain",
+            "targetNumber": 1
+        },
+        {
+            "id": 32,
+            "targetTypeCode": 4,
+            "selectOrderPb": 2,
+            "selectPara": "potential_gain",
+            "targetNumber": 2
+        },
+        {
+            "id": 33,
+            "targetTypeCode": 4,
+            "selectOrderPb": 2,
+            "selectPara": "will_value",
+            "targetNumber": 1
+        },
+        {
+            "id": 34,
+            "targetTypeCode": 4,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 2
+        },
+        {
+            "id": 35,
+            "targetTypeCode": 4,
+            "targetBuffId": 20030101,
+            "targetBuffTier": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 1
+        },
+        {
+            "id": 36,
+            "targetTypeCode": 4,
+            "targetBuffId": 20030101,
+            "targetBuffTier": 1,
+            "selectOrderPb": 1,
+            "isAscendOrder": 1,
+            "targetNumber": 2
+        },
+        {
             "id": 5101131,
             "targetTypeCode": 2,
             "targetBuffId": 5101101,

@@ -3,108 +3,143 @@
         {},
         {
             "level": 1,
-            "equipExp": 200,
-            "equipCash": 2000,
+            "equipExp": 20,
+            "equipCash": 200,
+            "equipExpTotal": 20,
+            "equipCashTotal": 200
+        },
+        {
+            "level": 2,
+            "equipExp": 40,
+            "equipCash": 400,
+            "equipExpTotal": 60,
+            "equipCashTotal": 600
+        },
+        {
+            "level": 3,
+            "equipExp": 60,
+            "equipCash": 600,
+            "equipExpTotal": 120,
+            "equipCashTotal": 1200
+        },
+        {
+            "level": 4,
+            "equipExp": 80,
+            "equipCash": 800,
             "equipExpTotal": 200,
             "equipCashTotal": 2000
         },
         {
-            "level": 2,
-            "equipExp": 250,
-            "equipCash": 2500,
-            "equipExpTotal": 450,
-            "equipCashTotal": 4500
-        },
-        {
-            "level": 3,
-            "equipExp": 300,
-            "equipCash": 3000,
-            "equipExpTotal": 750,
-            "equipCashTotal": 7500
-        },
-        {
-            "level": 4,
-            "equipExp": 400,
-            "equipCash": 4000,
-            "equipExpTotal": 1150,
-            "equipCashTotal": 11500
-        },
-        {
             "level": 5,
-            "equipExp": 600,
-            "equipCash": 6000,
-            "equipExpTotal": 1750,
-            "equipCashTotal": 17500
+            "equipExp": 100,
+            "equipCash": 1000,
+            "equipExpTotal": 300,
+            "equipCashTotal": 3000
         },
         {
             "level": 6,
-            "equipExp": 800,
-            "equipCash": 8000,
+            "equipExp": 120,
+            "equipCash": 1200,
+            "equipExpTotal": 390,
+            "equipCashTotal": 3900
+        },
+        {
+            "level": 7,
+            "equipExp": 160,
+            "equipCash": 1600,
+            "equipExpTotal": 510,
+            "equipCashTotal": 5100
+        },
+        {
+            "level": 8,
+            "equipExp": 200,
+            "equipCash": 2000,
+            "equipExpTotal": 660,
+            "equipCashTotal": 6600
+        },
+        {
+            "level": 9,
+            "equipExp": 240,
+            "equipCash": 2400,
+            "equipExpTotal": 840,
+            "equipCashTotal": 8400
+        },
+        {
+            "level": 10,
+            "equipExp": 280,
+            "equipCash": 2800,
+            "equipExpTotal": 1050,
+            "equipCashTotal": 10500
+        },
+        {
+            "level": 11,
+            "equipExp": 320,
+            "equipCash": 3200,
+            "equipExpTotal": 1290,
+            "equipCashTotal": 12900
+        },
+        {
+            "level": 12,
+            "equipExp": 360,
+            "equipCash": 3600,
+            "equipExpTotal": 1560,
+            "equipCashTotal": 15600
+        },
+        {
+            "level": 13,
+            "equipExp": 400,
+            "equipCash": 4000,
+            "equipExpTotal": 1860,
+            "equipCashTotal": 18600
+        },
+        {
+            "level": 14,
+            "equipExp": 440,
+            "equipCash": 4400,
+            "equipExpTotal": 2190,
+            "equipCashTotal": 21900
+        },
+        {
+            "level": 15,
+            "equipExp": 480,
+            "equipCash": 4800,
             "equipExpTotal": 2550,
             "equipCashTotal": 25500
         },
         {
-            "level": 7,
-            "equipExp": 1100,
-            "equipCash": 11000,
-            "equipExpTotal": 3650,
-            "equipCashTotal": 36500
+            "level": 16,
+            "equipExp": 540,
+            "equipCash": 5400,
+            "equipExpTotal": 2820,
+            "equipCashTotal": 28200
         },
         {
-            "level": 8,
-            "equipExp": 1400,
-            "equipCash": 14000,
-            "equipExpTotal": 5050,
-            "equipCashTotal": 50500
+            "level": 17,
+            "equipExp": 600,
+            "equipCash": 6000,
+            "equipExpTotal": 3120,
+            "equipCashTotal": 31200
         },
         {
-            "level": 9,
-            "equipExp": 1700,
-            "equipCash": 17000,
-            "equipExpTotal": 6750,
-            "equipCashTotal": 67500
+            "level": 18,
+            "equipExp": 660,
+            "equipCash": 6600,
+            "equipExpTotal": 3450,
+            "equipCashTotal": 34500
         },
         {
-            "level": 10,
-            "equipExp": 2100,
-            "equipCash": 21000,
-            "equipExpTotal": 8850,
-            "equipCashTotal": 88500
+            "level": 19,
+            "equipExp": 720,
+            "equipCash": 7200,
+            "equipExpTotal": 3810,
+            "equipCashTotal": 38100
         },
         {
-            "level": 11,
-            "equipExp": 2700,
-            "equipCash": 27000,
-            "equipExpTotal": 11550,
-            "equipCashTotal": 115500
-        },
-        {
-            "level": 12,
-            "equipExp": 3400,
-            "equipCash": 34000,
-            "equipExpTotal": 14950,
-            "equipCashTotal": 149500
-        },
-        {
-            "level": 13,
-            "equipExp": 4200,
-            "equipCash": 42000,
-            "equipExpTotal": 19150,
-            "equipCashTotal": 191500
-        },
-        {
-            "level": 14,
-            "equipExp": 5300,
-            "equipCash": 53000,
-            "equipExpTotal": 24450,
-            "equipCashTotal": 244500
-        },
-        {
-            "level": 15,
-            "equipExp": 6800,
-            "equipCash": 68000,
-            "equipExpTotal": 31250,
-            "equipCashTotal": 312500
+            "level": 20,
+            "equipExp": 800,
+            "equipCash": 8000,
+            "equipExpTotal": 4210,
+            "equipCashTotal": 42100
         }
     ]
 }

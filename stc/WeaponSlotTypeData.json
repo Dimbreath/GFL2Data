@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "枪口装置",
+            "partType": [
+                1
+            ],
+            "slotBase": "WeaponPart_Muzzle_None"
+        },
+        {
+            "id": 2,
+            "name": "瞄具",
+            "partType": [
+                2
+            ],
+            "slotBase": "WeaponPart_Scope_None"
+        },
+        {
+            "id": 3,
+            "name": "前握把",
+            "partType": [
+                3
+            ],
+            "slotBase": "WeaponPart_Grip_None"
+        },
+        {
+            "id": 4,
+            "name": "导轨附件",
+            "partType": [
+                4
+            ],
+            "slotBase": "WeaponPart_Fishbone_None"
+        },
+        {
+            "id": 5,
+            "name": "弹药",
+            "partType": [
+                5
+            ],
+            "slotBase": "WeaponPart_Bullet_None"
+        },
+        {
+            "id": 6,
+            "name": "锋刃",
+            "partType": [
+                6
+            ],
+            "slotBase": "WeaponPart_Ensharp_None"
+        },
+        {
+            "id": 7,
+            "name": "持握配件",
+            "partType": [
+                7
+            ],
+            "slotBase": "WeaponPart_Handle_None"
+        },
+        {
+            "id": 8,
+            "name": "特型组件",
+            "partType": [
+                8
+            ],
+            "slotBase": "WeaponPart_Lightweight_None"
+        },
+        {
+            "id": 9,
+            "name": "增效装置",
+            "partType": [
+                9
+            ],
+            "slotBase": "WeaponPart_Texture_None"
+        }
+    ]
+}

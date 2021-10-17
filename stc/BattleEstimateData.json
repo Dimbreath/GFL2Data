@@ -7,6 +7,7 @@
             "value": 200,
             "side": 1,
             "expression": "0",
+            "conditionId": "0",
             "parameter1": "0",
             "parameter2": "0"
         },
@@ -17,7 +18,7 @@
             "value": 2000,
             "side": 1,
             "expression": "0",
-            "conditionId": 2,
+            "conditionId": "2",
             "parameter1": "32",
             "parameter2": "0"
         },
@@ -28,6 +29,7 @@
             "value": 1000,
             "side": 1,
             "expression": "0",
+            "conditionId": "0",
             "parameter1": "0",
             "parameter2": "0"
         },
@@ -35,23 +37,31 @@
             "id": 4,
             "type": 3,
             "property": "hit_damage",
-            "value": 2000,
-            "side": 1,
-            "expression": "hit_damage*2000",
-            "conditionId": 5,
-            "parameter1": "0,150",
-            "parameter2": "1"
+            "value": 1500,
+            "side": 2,
+            "expression": "hit_damage*2000000"
         },
         {
             "id": 5,
-            "type": 1,
+            "type": 3,
             "property": "crit",
-            "value": 20000,
-            "side": 1,
+            "value": 500,
             "expression": "crit*20000",
-            "conditionId": 5,
-            "parameter1": "0,150",
-            "parameter2": "1"
+            "conditionId": "1000010"
+        },
+        {
+            "id": 6,
+            "type": 3,
+            "property": "hit_damage",
+            "value": 600,
+            "conditionId": "191"
+        },
+        {
+            "id": 7,
+            "type": 3,
+            "property": "hit_damage",
+            "value": 1200,
+            "conditionId": "191"
         }
     ]
 }

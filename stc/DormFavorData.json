@@ -4,7 +4,7 @@
             "id": 1,
             "cid": 1,
             "name": {
-                "id": "402"
+                "id": "2016"
             },
             "favorMax": 1000,
             "favorLevelAmount": 10,
@@ -25,7 +25,7 @@
             "id": 2,
             "cid": 2,
             "name": {
-                "id": "403"
+                "id": "2017"
             },
             "favorMax": 1000,
             "favorLevelAmount": 10,
@@ -46,7 +46,7 @@
             "id": 3,
             "cid": 3,
             "name": {
-                "id": "404"
+                "id": "2018"
             },
             "favorMax": 1000,
             "favorLevelAmount": 10,
@@ -67,7 +67,7 @@
             "id": 4,
             "cid": 4,
             "name": {
-                "id": "405"
+                "id": "2019"
             },
             "favorMax": 1000,
             "favorLevelAmount": 10,
@@ -88,7 +88,7 @@
             "id": 5,
             "cid": 5,
             "name": {
-                "id": "406"
+                "id": "2020"
             },
             "favorMax": 1000,
             "favorLevelAmount": 10,
@@ -109,7 +109,7 @@
             "id": 6,
             "cid": 6,
             "name": {
-                "id": "407"
+                "id": "2021"
             },
             "favorMax": 1000,
             "favorLevelAmount": 10,
@@ -130,7 +130,7 @@
             "id": 7,
             "cid": 7,
             "name": {
-                "id": "408"
+                "id": "2022"
             },
             "favorMax": 1000,
             "favorLevelAmount": 10,

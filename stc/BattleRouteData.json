@@ -181,10 +181,10 @@
         },
         {
             "id": 24,
-            "birthType": 2,
-            "birthLgpType": 109,
-            "destType": 2,
-            "destLgpType": 109
+            "birthType": 1,
+            "birthLgpType": 101,
+            "destType": 1,
+            "destLgpType": 101
         },
         {
             "id": 25,
@@ -313,6 +313,58 @@
             "routeType": 7
         },
         {
+            "id": 40,
+            "birthType": 1,
+            "birthLgpType": 105,
+            "destType": 4,
+            "routeType": 2,
+            "speed": 10.0,
+            "routePara": 10.0
+        },
+        {
+            "id": 41,
+            "birthType": 1,
+            "birthLgpType": 105,
+            "destType": 1,
+            "destLgpType": 105
+        },
+        {
+            "id": 42,
+            "birthType": 1,
+            "birthLgpType": 101,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 2,
+            "speed": 10.0,
+            "routePara": 10.0
+        },
+        {
+            "id": 43,
+            "birthType": 1,
+            "birthLgpType": 102,
+            "destType": 1,
+            "destLgpType": 102
+        },
+        {
+            "id": 44,
+            "birthType": 1,
+            "birthLgpType": 101,
+            "destType": 2,
+            "destLgpType": 104,
+            "routeType": 2,
+            "speed": 15.0,
+            "routePara": 2.0
+        },
+        {
+            "id": 45,
+            "birthType": 1,
+            "birthLgpType": 101,
+            "destType": 4,
+            "routeType": 2,
+            "speed": 10.0,
+            "routePara": 10.0
+        },
+        {
             "id": 100,
             "birthType": 5,
             "birthGameobjectName": "EffectRoot"
@@ -378,6 +430,22 @@
             "destType": 3,
             "routeType": 4,
             "effectPoint": 1
+        },
+        {
+            "id": 109,
+            "birthType": 1,
+            "birthLgpType": 102,
+            "destType": 1,
+            "destLgpType": 102,
+            "routeType": 4
+        },
+        {
+            "id": 110,
+            "birthType": 1,
+            "birthLgpType": 201,
+            "destType": 1,
+            "destLgpType": 201,
+            "routeType": 4
         },
         {
             "id": 197,

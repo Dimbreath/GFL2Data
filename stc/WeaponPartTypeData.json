@@ -1,0 +1,93 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "枪口装置",
+            "weaponType": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "typeIcon": "WeaponPart_Muzzle_Repository"
+        },
+        {
+            "id": 2,
+            "name": "瞄具",
+            "weaponType": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "typeIcon": "WeaponPart_Scope_Repository"
+        },
+        {
+            "id": 3,
+            "name": "前握把",
+            "weaponType": [
+                2,
+                4,
+                5
+            ],
+            "typeIcon": "WeaponPart_Grip_Repository"
+        },
+        {
+            "id": 4,
+            "name": "导轨附件",
+            "weaponType": [
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "typeIcon": "WeaponPart_Fishbone_Repository"
+        },
+        {
+            "id": 5,
+            "name": "弹药",
+            "weaponType": [
+                3,
+                6
+            ],
+            "typeIcon": "WeaponPart_Bullet_Repository"
+        },
+        {
+            "id": 6,
+            "name": "锋刃",
+            "weaponType": [
+                7
+            ],
+            "typeIcon": "WeaponPart_Ensharp_Repository"
+        },
+        {
+            "id": 7,
+            "name": "持握配件",
+            "weaponType": [
+                7
+            ],
+            "typeIcon": "WeaponPart_Handle_Repository"
+        },
+        {
+            "id": 8,
+            "name": "特型组件",
+            "weaponType": [
+                7
+            ],
+            "typeIcon": "WeaponPart_Lightweight_Repository"
+        },
+        {
+            "id": 9,
+            "name": "增效装置",
+            "weaponType": [
+                7
+            ],
+            "typeIcon": "WeaponPart_Texture_Repository"
+        }
+    ]
+}

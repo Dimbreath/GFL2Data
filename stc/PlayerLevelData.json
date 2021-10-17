@@ -5,713 +5,694 @@
         },
         {
             "id": 2,
-            "exp": 130,
+            "exp": 60,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "6": 1
             },
-            "extaStamina": 1,
-            "rewardShow": {
-                "101": 40
-            }
+            "extaStamina": 1
         },
         {
             "id": 3,
-            "exp": 150,
+            "exp": 60,
             "upgradeReward": {
-                "101": 40,
                 "6": 1
             },
-            "extaStamina": 2,
-            "rewardShow": {
-                "101": 40
-            }
+            "extaStamina": 2
         },
         {
             "id": 4,
-            "exp": 210,
+            "exp": 120,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "6": 1
             },
-            "extaStamina": 3,
-            "rewardShow": {
-                "101": 40
-            }
+            "extaStamina": 3
         },
         {
             "id": 5,
-            "exp": 320,
+            "exp": 120,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "6": 1
             },
-            "extaStamina": 4,
-            "rewardShow": {
-                "101": 40
-            }
+            "extaStamina": 4
         },
         {
             "id": 6,
-            "exp": 500,
+            "exp": 180,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 30,
+                "6": 1
             },
             "extaStamina": 5,
             "rewardShow": {
-                "101": 40
+                "101": 30
             }
         },
         {
             "id": 7,
-            "exp": 770,
+            "exp": 240,
             "upgradeReward": {
-                "101": 40,
+                "101": 30,
                 "6": 1
             },
             "extaStamina": 6,
             "rewardShow": {
-                "101": 40
+                "101": 30
             }
         },
         {
             "id": 8,
-            "exp": 1150,
+            "exp": 300,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 30
             },
             "extaStamina": 7,
             "rewardShow": {
-                "101": 40
+                "101": 30
             }
         },
         {
             "id": 9,
-            "exp": 1660,
+            "exp": 420,
             "upgradeReward": {
-                "101": 40,
+                "101": 30,
                 "6": 1
             },
             "extaStamina": 8,
             "rewardShow": {
-                "101": 40
+                "101": 30
             }
         },
         {
             "id": 10,
-            "exp": 2310,
+            "exp": 600,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 30
             },
             "extaStamina": 9,
             "rewardShow": {
-                "101": 40
+                "101": 30
             }
         },
         {
             "id": 11,
-            "exp": 3130,
+            "exp": 900,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 60
             },
             "extaStamina": 10,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 12,
-            "exp": 4120,
+            "exp": 1200,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 60
             },
             "extaStamina": 11,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 13,
-            "exp": 5310,
+            "exp": 1500,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 60,
+                "6": 1
             },
             "extaStamina": 12,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 14,
-            "exp": 6720,
+            "exp": 1800,
             "upgradeReward": {
-                "101": 40,
-                "6": 1
+                "6": 1,
+                "101": 60
             },
             "extaStamina": 13,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 15,
-            "exp": 8360,
+            "exp": 2100,
             "upgradeReward": {
-                "6": 1,
-                "18": 1,
-                "101": 40
+                "101": 60,
+                "6": 1
             },
             "extaStamina": 14,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 16,
-            "exp": 10250,
+            "exp": 2400,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 60
             },
             "extaStamina": 15,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 17,
-            "exp": 12410,
+            "exp": 2700,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 60,
+                "6": 1
             },
             "extaStamina": 16,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 18,
-            "exp": 14860,
+            "exp": 3000,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 60
             },
             "extaStamina": 17,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 19,
-            "exp": 17620,
+            "exp": 3300,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 60,
+                "6": 1
             },
             "extaStamina": 18,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 20,
-            "exp": 20700,
+            "exp": 3600,
             "upgradeReward": {
-                "18": 1,
                 "6": 1,
-                "101": 40
+                "101": 60
             },
             "extaStamina": 19,
             "rewardShow": {
-                "101": 40
+                "101": 60
             }
         },
         {
             "id": 21,
-            "exp": 24130,
+            "exp": 3960,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 20,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 22,
-            "exp": 27910,
+            "exp": 4380,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 21,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 23,
-            "exp": 32070,
+            "exp": 4800,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 22,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 24,
-            "exp": 36630,
+            "exp": 5280,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 23,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 25,
-            "exp": 41600,
+            "exp": 5760,
             "upgradeReward": {
-                "101": 40,
                 "6": 1,
-                "18": 1
+                "101": 120
             },
             "extaStamina": 24,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 26,
-            "exp": 47000,
+            "exp": 6240,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 25,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 27,
-            "exp": 52850,
+            "exp": 6780,
             "upgradeReward": {
-                "101": 40,
+                "101": 120,
                 "6": 1
             },
             "extaStamina": 26,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 28,
-            "exp": 59170,
+            "exp": 7320,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 27,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 29,
-            "exp": 65980,
+            "exp": 7920,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 28,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 30,
-            "exp": 73290,
+            "exp": 8520,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 29,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 31,
-            "exp": 81130,
+            "exp": 9120,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 30,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 32,
-            "exp": 89500,
+            "exp": 9780,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 31,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 33,
-            "exp": 98430,
+            "exp": 10440,
             "upgradeReward": {
-                "101": 40,
+                "101": 120,
                 "6": 1
             },
             "extaStamina": 32,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 34,
-            "exp": 107940,
+            "exp": 11160,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 33,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 35,
-            "exp": 118040,
+            "exp": 11880,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 34,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 36,
-            "exp": 128750,
+            "exp": 12660,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 35,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 37,
-            "exp": 140090,
+            "exp": 13500,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 36,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 38,
-            "exp": 152080,
+            "exp": 14340,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 37,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 39,
-            "exp": 164740,
+            "exp": 15240,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 38,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 40,
-            "exp": 178080,
+            "exp": 16140,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 39,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 41,
-            "exp": 192130,
+            "exp": 17100,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 40,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 42,
-            "exp": 206890,
+            "exp": 18060,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 41,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 43,
-            "exp": 222390,
+            "exp": 19140,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 42,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 44,
-            "exp": 238650,
+            "exp": 20220,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 43,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 45,
-            "exp": 255680,
+            "exp": 21360,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 44,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 46,
-            "exp": 273500,
+            "exp": 22560,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 45,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 47,
-            "exp": 292130,
+            "exp": 23820,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 46,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 48,
-            "exp": 311590,
+            "exp": 25140,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 47,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 49,
-            "exp": 331900,
+            "exp": 26520,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 48,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 50,
-            "exp": 353070,
+            "exp": 27960,
             "upgradeReward": {
-                "101": 40,
+                "101": 120,
                 "6": 1
             },
             "extaStamina": 49,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 51,
-            "exp": 375130,
+            "exp": 29520,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 50,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 52,
-            "exp": 398080,
+            "exp": 31140,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 51,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 53,
-            "exp": 421950,
+            "exp": 32820,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 52,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 54,
-            "exp": 446760,
+            "exp": 34620,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 53,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 55,
-            "exp": 472520,
+            "exp": 36540,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 54,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 56,
-            "exp": 499250,
+            "exp": 38520,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 55,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 57,
-            "exp": 526970,
+            "exp": 40680,
             "upgradeReward": {
                 "6": 1,
-                "101": 40
+                "101": 120
             },
             "extaStamina": 56,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 58,
-            "exp": 555700,
+            "exp": 42960,
             "upgradeReward": {
-                "101": 40,
+                "101": 120,
                 "6": 1
             },
             "extaStamina": 57,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 59,
-            "exp": 585460,
+            "exp": 45360,
             "upgradeReward": {
-                "6": 1,
-                "101": 40
+                "101": 120,
+                "6": 1
             },
             "extaStamina": 58,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         },
         {
             "id": 60,
-            "exp": 616260,
+            "exp": 47880,
             "upgradeReward": {
-                "101": 40,
+                "101": 120,
                 "6": 1
             },
             "extaStamina": 59,
             "rewardShow": {
-                "101": 40
+                "101": 120
             }
         }
     ]

@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "path": "CombatMainPanelV2(Clone)/Root/GrpTop/BtnAutoSpeed/Root/Btn_Auto"
+        },
+        {
+            "id": 2,
+            "path": "CombatMainPanelV2(Clone)/Root/GrpTacticSkill"
+        },
+        {
+            "id": 3,
+            "path": "CombatMainPanelV2(Clone)/Root/GrpTop/Right/BtnLine"
+        }
+    ]
+}

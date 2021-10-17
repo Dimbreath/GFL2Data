@@ -5,7 +5,8 @@
             "effectPath": "Buff/AtkU",
             "effectLifetime": 60,
             "routeId": 8,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 1000,
@@ -13,14 +14,24 @@
             "effectLifetime": -1,
             "routeId": 34,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 1001,
             "effectPath": "Buff/empty",
             "routeId": 9,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 1002,
+            "effectPath": "Buff/empty",
+            "routeId": 4,
+            "bindType": 1,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 1011,
@@ -28,7 +39,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 199,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 1012,
@@ -37,7 +49,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 1021,
@@ -47,7 +60,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "1500,0,1500",
             "routeId": 198,
-            "zoomRatio": 230
+            "zoomRatio": 230,
+            "displayCameraMode": 7
         },
         {
             "id": 1022,
@@ -57,7 +71,8 @@
             "routeId": 8,
             "zoomRatio": 130,
             "zTest": 1,
-            "shakeTemplate": 5
+            "shakeTemplate": 5,
+            "displayCameraMode": 7
         },
         {
             "id": 1031,
@@ -65,7 +80,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 199,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 1032,
@@ -75,7 +91,8 @@
             "routeId": 8,
             "zoomRatio": 130,
             "zTest": 1,
-            "shakeTemplate": 4
+            "shakeTemplate": 4,
+            "displayCameraMode": 7
         },
         {
             "id": 1033,
@@ -84,7 +101,17 @@
             "priority": 3,
             "routeId": 100,
             "bindType": 2,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 1999,
+            "effectPath": "Skill/AirBox_Explosion",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10000,
@@ -94,7 +121,12 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,300",
             "routeId": 15,
-            "zoomRatio": 230
+            "zoomRatio": 230,
+            "coverHitType": 1,
+            "shotMark": [
+                99998
+            ],
+            "displayCameraMode": 7
         },
         {
             "id": 10001,
@@ -104,7 +136,8 @@
             "routeId": 7,
             "bindType": 5,
             "zoomRatio": 230,
-            "dieDelay": 120
+            "dieDelay": 120,
+            "displayCameraMode": 7
         },
         {
             "id": 10002,
@@ -117,7 +150,28 @@
             "destRandomPb": "300,300,300",
             "routeId": 15,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 99998,
+            "effectPath": "Skill/10030501_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 110,
+            "randomRotate": true,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 99999,
+            "effectPath": "Other/Break",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 107,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10000001,
@@ -125,98 +179,112 @@
             "effectLifetime": 120,
             "routeId": 31,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000002,
             "effectPath": "Buff/empty",
             "effectLifetime": 60,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000003,
             "effectPath": "Buff/empty",
             "effectLifetime": 60,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000004,
             "effectPath": "Buff/Heal",
             "effectLifetime": 60,
             "routeId": 9,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000005,
             "effectPath": "Buff/Recover",
             "effectLifetime": 60,
             "routeId": 9,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000006,
             "effectPath": "Buff/empty",
             "effectLifetime": 60,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000007,
             "effectPath": "Buff/AtkU",
             "effectLifetime": 60,
             "routeId": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000008,
             "effectPath": "Buff/empty",
             "effectLifetime": 60,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000009,
             "effectPath": "Buff/DefU",
             "effectLifetime": 60,
             "routeId": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000010,
             "effectPath": "Buff/empty",
             "effectLifetime": 60,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000011,
             "effectPath": "Buff/AtkD",
             "effectLifetime": 60,
             "routeId": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000012,
             "effectPath": "Buff/empty",
             "effectLifetime": 60,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000013,
             "effectPath": "Buff/DefD",
             "effectLifetime": 60,
             "routeId": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000014,
             "effectPath": "Weapon/Explode",
             "effectLifetime": 60,
             "routeId": 4,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000015,
@@ -224,7 +292,8 @@
             "effectLifetime": 60,
             "routeId": 5,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000016,
@@ -232,21 +301,24 @@
             "effectLifetime": 60,
             "routeId": 5,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000017,
             "effectPath": "Skill/charge",
             "effectLifetime": 60,
             "routeId": 4,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000018,
             "effectPath": "Skill/refresh",
             "effectLifetime": 60,
             "routeId": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000019,
@@ -254,7 +326,8 @@
             "effectLifetime": 60,
             "routeId": 3,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000020,
@@ -262,7 +335,8 @@
             "effectLifetime": 60,
             "routeId": 3,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000021,
@@ -270,7 +344,8 @@
             "effectLifetime": 60,
             "routeId": 13,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000022,
@@ -278,7 +353,8 @@
             "effectLifetime": -1,
             "routeId": 103,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000023,
@@ -286,7 +362,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000024,
@@ -294,7 +371,8 @@
             "effectLifetime": -1,
             "routeId": 101,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000025,
@@ -302,7 +380,8 @@
             "effectLifetime": 60,
             "routeId": 3,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10000026,
@@ -310,15 +389,17 @@
             "effectLifetime": 180,
             "routeId": 5,
             "bindType": 1,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10000027,
             "effectPath": "Buff/Common_Heal",
             "effectLifetime": 120,
-            "routeId": 3,
+            "routeId": 13,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10003001,
@@ -326,7 +407,8 @@
             "effectLifetime": -1,
             "routeId": 104,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003002,
@@ -336,7 +418,8 @@
             "destOffsetPb": "0,500,0",
             "routeId": 104,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003003,
@@ -344,7 +427,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003004,
@@ -352,7 +436,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003005,
@@ -360,7 +445,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003006,
@@ -368,7 +454,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003007,
@@ -376,7 +463,8 @@
             "effectLifetime": -1,
             "routeId": 103,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003008,
@@ -384,7 +472,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003009,
@@ -392,7 +481,8 @@
             "effectLifetime": -1,
             "routeId": 103,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10003010,
@@ -400,7 +490,8 @@
             "effectLifetime": -1,
             "routeId": 104,
             "bindType": 1,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10003011,
@@ -408,7 +499,8 @@
             "effectLifetime": -1,
             "routeId": 103,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003012,
@@ -418,7 +510,8 @@
             "destOffsetPb": "0,200,0",
             "routeId": 104,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003013,
@@ -426,7 +519,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003014,
@@ -434,7 +528,8 @@
             "effectLifetime": -1,
             "routeId": 101,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003015,
@@ -442,7 +537,8 @@
             "effectLifetime": 180,
             "routeId": 5,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003016,
@@ -450,7 +546,8 @@
             "effectLifetime": 180,
             "routeId": 5,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003017,
@@ -458,7 +555,8 @@
             "effectLifetime": -1,
             "routeId": 103,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003018,
@@ -466,7 +564,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003019,
@@ -474,7 +573,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003020,
@@ -482,7 +582,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003021,
@@ -490,7 +591,8 @@
             "effectLifetime": -1,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003022,
@@ -498,7 +600,8 @@
             "effectLifetime": -1,
             "routeId": 103,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003023,
@@ -506,7 +609,8 @@
             "effectLifetime": -1,
             "routeId": 105,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10003024,
@@ -514,7 +618,8 @@
             "effectLifetime": 60,
             "routeId": 102,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10010101,
@@ -522,7 +627,8 @@
             "effectLifetime": 90,
             "priority": 3,
             "routeId": 7,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10010102,
@@ -530,8 +636,10 @@
             "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
+            "bindType": 5,
             "zoomRatio": 160,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10010103,
@@ -539,7 +647,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10010111,
@@ -548,7 +657,8 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10010112,
@@ -556,7 +666,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10010401,
@@ -567,7 +678,8 @@
             "destRandomPb": "0,0,0",
             "routeId": 3,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10010501,
@@ -575,7 +687,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10010502,
@@ -583,7 +696,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10010503,
@@ -591,7 +705,18 @@
             "effectLifetime": 240,
             "priority": 3,
             "routeId": 13,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10010701,
+            "effectPath": "Skill/1001_BladeCharge",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 110,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10020101,
@@ -599,17 +724,19 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 7,
-            "zoomRatio": 180
+            "bindType": 5,
+            "zoomRatio": 180,
+            "displayCameraMode": 7
         },
         {
             "id": 10020102,
             "effectPath": "Weapon/HG_ATK01_BulletHit_Physical",
-            "effectLifetime": 60,
+            "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
-            "bindType": 5,
             "zoomRatio": 200,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10020103,
@@ -619,7 +746,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,300",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10020401,
@@ -628,7 +756,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10020402,
@@ -636,7 +765,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10020403,
@@ -644,7 +774,71 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 30,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10020404,
+            "effectPath": "Skill/10020401_new_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10020405,
+            "effectPath": "Skill/10020401_new_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 120,
+            "randomRotate": true,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10020406,
+            "effectPath": "Skill/10020401_new_Bullet",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10020407,
+            "effectPath": "Skill/10020401_FlashBullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,4000,0",
+            "destRandomPb": "0,0,0",
+            "routeId": 14,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10020408,
+            "effectPath": "Skill/10020401_FlashS",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100,
+            "zTest": 1,
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10020409,
+            "effectPath": "Skill/10020401_FlashL",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100,
+            "zTest": 1,
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10020501,
@@ -653,7 +847,8 @@
             "priority": 3,
             "routeId": 9,
             "bindType": 1,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10030101,
@@ -662,7 +857,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10030102,
@@ -671,7 +867,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10030103,
@@ -679,7 +876,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10030401,
@@ -688,7 +886,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10030402,
@@ -696,7 +895,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10030403,
@@ -704,16 +904,18 @@
             "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10030501,
-            "effectPath": "Weapon/Longrange_ATK01_ShotFire",
+            "effectPath": "Skill/10030501_ShotFire",
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10030502,
@@ -722,7 +924,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10030503,
@@ -730,7 +933,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10030504,
@@ -739,7 +943,8 @@
             "priority": 3,
             "routeId": 4,
             "zoomRatio": 100,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10040101,
@@ -748,16 +953,18 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 180
+            "zoomRatio": 180,
+            "displayCameraMode": 7
         },
         {
             "id": 10040102,
             "effectPath": "Weapon/RF_ATK01_BulletHit_Physical",
-            "effectLifetime": 60,
+            "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 180,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10040103,
@@ -767,15 +974,17 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 180
+            "zoomRatio": 180,
+            "displayCameraMode": 7
         },
         {
             "id": 10040401,
             "effectPath": "Skill/10040401_Bullet",
             "effectLifetime": -1,
             "priority": 3,
-            "routeId": 14,
-            "zoomRatio": 150
+            "routeId": 45,
+            "zoomRatio": 150,
+            "displayCameraMode": 7
         },
         {
             "id": 10040402,
@@ -784,16 +993,18 @@
             "priority": 3,
             "routeId": 4,
             "zoomRatio": 150,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10040403,
             "effectPath": "Skill/10040401_ShotFire",
             "effectLifetime": 60,
             "priority": 3,
-            "routeId": 7,
+            "routeId": 41,
             "bindType": 5,
-            "zoomRatio": 150
+            "zoomRatio": 150,
+            "displayCameraMode": 7
         },
         {
             "id": 10040404,
@@ -803,7 +1014,8 @@
             "routeId": 9,
             "zoomRatio": 100,
             "zTest": 1,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10040501,
@@ -812,7 +1024,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 100,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10040701,
@@ -820,7 +1033,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10050101,
@@ -829,55 +1043,85 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10050102,
             "effectPath": "Weapon/SG_ATK01_BulletHit_Physical",
-            "effectLifetime": 60,
+            "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10050111,
+            "effectPath": "Skill/10050101_flash",
+            "effectLifetime": 135,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 120,
+            "displayCameraMode": 7
         },
         {
             "id": 10050401,
-            "effectPath": "Skill/10050401",
-            "effectLifetime": 60,
+            "effectPath": "Skill/10050401_timeline_01",
+            "effectLifetime": 350,
             "priority": 3,
-            "routeId": 5,
-            "zoomRatio": 110
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10050402,
-            "effectPath": "Skill/10050401HIT",
-            "effectLifetime": 60,
+            "effectPath": "Skill/10050401_timelineScene_01",
+            "effectLifetime": 350,
             "priority": 3,
-            "routeId": 8,
-            "zoomRatio": 110
+            "routeId": 13,
+            "zoomRatio": 100,
+            "displayCameraMode": 6
         },
         {
             "id": 10050403,
-            "effectPath": "Skill/10050402",
-            "effectLifetime": 60,
+            "effectPath": "Skill/10050401_timeline_02",
+            "effectLifetime": 350,
             "priority": 3,
-            "routeId": 5,
-            "zoomRatio": 110
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
-            "id": 10050501,
-            "effectPath": "Skill/10050501AOE",
-            "effectLifetime": 60,
+            "id": 10050404,
+            "effectPath": "Skill/10050401_timelineScene_02",
+            "effectLifetime": 350,
             "priority": 3,
-            "routeId": 5,
-            "zoomRatio": 110
+            "routeId": 13,
+            "zoomRatio": 100,
+            "displayCameraMode": 6
         },
         {
             "id": 10050701,
             "effectPath": "Skill/10050701",
-            "effectLifetime": 60,
+            "effectLifetime": 135,
             "priority": 3,
-            "routeId": 5,
-            "zoomRatio": 110
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 150,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10050702,
+            "effectPath": "Skill/1005_BladeCharge",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 110,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10060101,
@@ -886,16 +1130,18 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 180
+            "zoomRatio": 180,
+            "displayCameraMode": 7
         },
         {
             "id": 10060102,
             "effectPath": "Weapon/RF_ATK01_BulletHit_Physical",
-            "effectLifetime": 60,
+            "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 200,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10060103,
@@ -903,7 +1149,47 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10060401,
+            "effectPath": "Skill/10060401_timeline_JumpStart",
+            "effectLifetime": 460,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10060402,
+            "effectPath": "Skill/10060401_timeline_JumpEnd",
+            "effectLifetime": 460,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10060403,
+            "effectPath": "Skill/10060401_timeline_Bip001",
+            "effectLifetime": 460,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10060404,
+            "effectPath": "Skill/10060401_timeline_scene",
+            "effectLifetime": 460,
+            "priority": 3,
+            "routeId": 13,
+            "zoomRatio": 100,
+            "displayCameraMode": 6
         },
         {
             "id": 10060501,
@@ -911,7 +1197,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 11,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10060701,
@@ -919,7 +1206,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 11,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10060702,
@@ -927,7 +1215,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10070101,
@@ -936,7 +1225,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10070102,
@@ -945,7 +1235,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10070103,
@@ -955,7 +1246,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10070401,
@@ -963,7 +1255,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 11,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10070402,
@@ -971,7 +1264,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10070501,
@@ -979,7 +1273,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10080101,
@@ -988,7 +1283,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10080102,
@@ -997,7 +1293,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10080103,
@@ -1005,7 +1302,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10080401,
@@ -1013,7 +1311,28 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10080404,
+            "effectPath": "Skill/10080401_timeline",
+            "effectLifetime": 140,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10080405,
+            "effectPath": "Skill/10080401_timeline_zidan",
+            "effectLifetime": 140,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 5
         },
         {
             "id": 10090101,
@@ -1022,7 +1341,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10090102,
@@ -1031,7 +1351,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10090103,
@@ -1039,31 +1360,36 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10090401,
-            "effectPath": "Skill/10090401_HealBullet",
+            "effectPath": "Skill/10020401_Bullet",
             "effectLifetime": -1,
             "priority": 3,
-            "routeId": 38,
-            "zoomRatio": 200
+            "routeId": 44,
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10090402,
-            "effectPath": "Skill/10090401_Heal",
+            "effectPath": "Skill/10020401_BulletHit",
             "effectLifetime": 60,
             "priority": 3,
-            "routeId": 5,
-            "zoomRatio": 100
+            "routeId": 4,
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10090403,
-            "effectPath": "Skill/10090401_HealBullet",
+            "effectPath": "Skill/10020401_ShotFire",
             "effectLifetime": -1,
             "priority": 3,
-            "routeId": 30,
-            "zoomRatio": 200
+            "routeId": 41,
+            "bindType": 5,
+            "zoomRatio": 200,
+            "displayCameraMode": 7
         },
         {
             "id": 10090404,
@@ -1072,7 +1398,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10090405,
@@ -1080,7 +1407,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10090406,
@@ -1088,7 +1416,38 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 30,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10090407,
+            "effectPath": "Skill/10090401_timeline",
+            "effectLifetime": 195,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 150,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10090408,
+            "effectPath": "Skill/10090401_timeline_pingmu",
+            "effectLifetime": 195,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 2,
+            "zoomRatio": 180,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10090409,
+            "effectPath": "Weapon/FX_ColphneSR01_WL",
+            "effectLifetime": 173,
+            "priority": 3,
+            "routeId": 24,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10100101,
@@ -1097,7 +1456,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10100102,
@@ -1105,7 +1465,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10110101,
@@ -1114,15 +1475,27 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 180
+            "zoomRatio": 180,
+            "displayCameraMode": 7
         },
         {
             "id": 10110102,
             "effectPath": "Weapon/SG_ATK01_BulletHit_Heat",
-            "effectLifetime": 60,
+            "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 190
+            "zoomRatio": 190,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10110103,
+            "effectPath": "Weapon/SMG_ATK01_Vepr",
+            "effectLifetime": 120,
+            "priority": 3,
+            "routeId": 31,
+            "bindType": 5,
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10110401,
@@ -1131,7 +1504,8 @@
             "priority": 3,
             "routeId": 103,
             "bindType": 1,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10110402,
@@ -1140,7 +1514,8 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10120101,
@@ -1149,7 +1524,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10120102,
@@ -1158,7 +1534,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10120103,
@@ -1168,7 +1545,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "250,250,0",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10120401,
@@ -1177,7 +1555,66 @@
             "priority": 3,
             "routeId": 25,
             "bindType": 2,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10120402,
+            "effectPath": "Skill/10120401_timeline",
+            "effectLifetime": 210,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 140,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10120403,
+            "effectPath": "Skill/10120401_timeline_Bullet",
+            "effectLifetime": 210,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 6
+        },
+        {
+            "id": 10120404,
+            "effectPath": "Skill/10120401_timeline_BulletHit",
+            "effectLifetime": 210,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 6
+        },
+        {
+            "id": 10120405,
+            "effectPath": "Skill/10120401_timeline_Scene",
+            "effectLifetime": 210,
+            "priority": 3,
+            "routeId": 13,
+            "zoomRatio": 100,
+            "displayCameraMode": 6
+        },
+        {
+            "id": 10120406,
+            "effectPath": "Skill/10120401_god_Bullet",
+            "effectLifetime": 210,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 5
+        },
+        {
+            "id": 10120407,
+            "effectPath": "Skill/10120401_god_BulletHit",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100,
+            "displayCameraMode": 5
         },
         {
             "id": 10130101,
@@ -1186,7 +1623,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10130102,
@@ -1195,7 +1633,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10130103,
@@ -1205,7 +1644,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10140101,
@@ -1214,7 +1654,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10140102,
@@ -1223,7 +1664,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10140103,
@@ -1233,7 +1675,93 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10140401,
+            "effectPath": "Skill/10140401_timeline",
+            "effectLifetime": 560,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10140402,
+            "effectPath": "Skill/10140401_timeline_Scene",
+            "effectLifetime": 560,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 6
+        },
+        {
+            "id": 10140403,
+            "effectPath": "Skill/10140401_timeline_b_Shield_L_041",
+            "effectLifetime": 560,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10140404,
+            "effectPath": "Skill/10140401_timeline_b_Shield_L_051",
+            "effectLifetime": 560,
+            "priority": 3,
+            "routeId": 26,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10140405,
+            "effectPath": "Skill/10140401_timeline_b_Shield_R_041",
+            "effectLifetime": 560,
+            "priority": 3,
+            "routeId": 27,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10140406,
+            "effectPath": "Skill/10140401_timeline_b_Shield_R_051",
+            "effectLifetime": 560,
+            "priority": 3,
+            "routeId": 32,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10140407,
+            "effectPath": "Skill/10140401_timeline_shotfire",
+            "effectLifetime": 220,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10140408,
+            "effectPath": "Skill/10140401_earth",
+            "effectLifetime": 60,
+            "priority": 3,
+            "birthOffsetPb": "0,0,0",
+            "birthRandomPb": "300,0,300",
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,0,300",
+            "routeId": 4,
+            "bindType": 5,
+            "zoomRatio": 110,
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10150101,
@@ -1242,15 +1770,17 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10150102,
             "effectPath": "Weapon/SG_ATK01_BulletHit_Physical",
-            "effectLifetime": 60,
+            "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10150401,
@@ -1259,7 +1789,8 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 120
+            "zoomRatio": 120,
+            "displayCameraMode": 7
         },
         {
             "id": 10150402,
@@ -1268,7 +1799,8 @@
             "priority": 3,
             "routeId": 104,
             "bindType": 1,
-            "zoomRatio": 120
+            "zoomRatio": 120,
+            "displayCameraMode": 7
         },
         {
             "id": 10160101,
@@ -1276,7 +1808,8 @@
             "effectLifetime": 90,
             "priority": 3,
             "routeId": 7,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10160102,
@@ -1285,7 +1818,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10160103,
@@ -1293,7 +1827,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10160111,
@@ -1302,7 +1837,8 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10160112,
@@ -1310,25 +1846,18 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10160401,
-            "effectPath": "Skill/10160401_HitUp",
-            "effectLifetime": 180,
+            "effectPath": "Skill/10160401",
+            "effectLifetime": 120,
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 90
-        },
-        {
-            "id": 10160402,
-            "effectPath": "Skill/10160401_HitGround",
-            "effectLifetime": 240,
-            "priority": 3,
-            "routeId": 9,
-            "bindType": 5,
-            "zoomRatio": 90
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10160501,
@@ -1337,7 +1866,8 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 90
+            "zoomRatio": 90,
+            "displayCameraMode": 7
         },
         {
             "id": 10160502,
@@ -1346,7 +1876,28 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 90
+            "zoomRatio": 145,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10160503,
+            "effectPath": "Skill/10160501_Prelude",
+            "effectLifetime": 180,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 145,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10160701,
+            "effectPath": "Skill/1016_BladeCharge",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 110,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10170101,
@@ -1355,7 +1906,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10170102,
@@ -1364,7 +1916,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10170103,
@@ -1374,34 +1927,68 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10170401,
             "effectPath": "Skill/10170401_ShotFire",
             "effectLifetime": 60,
             "priority": 3,
-            "routeId": 7,
+            "routeId": 41,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10170402,
-            "effectPath": "Skill/10170401_Explosion",
+            "effectPath": "Skill/10170401_SmokeExplosion",
             "effectLifetime": 120,
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 100,
             "zTest": 1,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10170403,
             "effectPath": "Skill/10170401_Bullet",
             "effectLifetime": -1,
             "priority": 3,
-            "routeId": 14,
-            "zoomRatio": 110
+            "routeId": 40,
+            "zoomRatio": 110,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10170404,
+            "effectPath": "Skill/10170401_timeline",
+            "effectLifetime": 170,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 130,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10170405,
+            "effectPath": "Skill/10170401_timeline_fire",
+            "effectLifetime": 170,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10170406,
+            "effectPath": "Weapon/FX_GrozaSSR01_Grenade_WL",
+            "effectLifetime": 170,
+            "priority": 3,
+            "routeId": 24,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10170501,
@@ -1410,7 +1997,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 110,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10180101,
@@ -1419,16 +2007,18 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10180102,
             "effectPath": "Weapon/SMG_ATK01_BulletHit_Physical",
-            "effectLifetime": 60,
+            "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10180103,
@@ -1438,7 +2028,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10180401,
@@ -1447,7 +2038,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10180402,
@@ -1456,7 +2048,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10180403,
@@ -1466,51 +2059,69 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10190101,
-            "effectPath": "Weapon/MG_ATK01_ShotFire_Physical",
+            "effectPath": "Skill/10190401_ShotFire",
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10190102,
-            "effectPath": "Weapon/MG_ATK01_BulletHit_Electric",
+            "effectPath": "Skill/10190401_bullethit",
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10190103,
-            "effectPath": "Weapon/MG_ATK01_Bullet_Electric",
+            "effectPath": "Skill/10190401_Bullet",
             "effectLifetime": -1,
             "priority": 3,
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10190401,
-            "effectPath": "Skill/1019201_cast",
+            "effectPath": "Skill/10190401_ShotFire",
             "effectLifetime": 60,
             "priority": 3,
-            "routeId": 4,
-            "zoomRatio": 110
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10190402,
-            "effectPath": "Skill/1019201_loop",
+            "effectPath": "Skill/10190401_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100,
+            "randomRotate": true,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10190403,
+            "effectPath": "Skill/10190401_Bullet",
             "effectLifetime": -1,
             "priority": 3,
-            "routeId": 102,
-            "zoomRatio": 110
+            "routeId": 15,
+            "zoomRatio": 100,
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10190701,
@@ -1518,7 +2129,8 @@
             "effectLifetime": 90,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10200101,
@@ -1527,7 +2139,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10200102,
@@ -1536,7 +2149,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10200103,
@@ -1546,7 +2160,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10200401,
@@ -1554,7 +2169,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 1,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10200402,
@@ -1566,7 +2182,8 @@
             "destOffsetPb": "0,2000,0",
             "destRandomPb": "0,0,0",
             "routeId": 23,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10200403,
@@ -1575,7 +2192,8 @@
             "priority": 3,
             "routeId": 8,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10200501,
@@ -1583,7 +2201,8 @@
             "effectLifetime": 90,
             "priority": 3,
             "routeId": 13,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10210101,
@@ -1592,7 +2211,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10210102,
@@ -1601,7 +2221,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 160,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10210103,
@@ -1611,33 +2232,131 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 1,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10210401,
-            "effectPath": "Skill/10210401_Explosion",
-            "effectLifetime": 180,
+            "effectPath": "Skill/10210401_ShotFire",
+            "effectLifetime": 60,
             "priority": 3,
-            "routeId": 9,
-            "zoomRatio": 130,
-            "shakeTemplate": 2
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 10210402,
+            "effectPath": "Skill/10210401_BulletHit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100,
+            "randomRotate": true,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10210403,
             "effectPath": "Skill/10210401_Bullet",
             "effectLifetime": -1,
             "priority": 3,
-            "routeId": 29,
-            "zoomRatio": 130
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 100,
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
-            "id": 10210501,
-            "effectPath": "Skill/10210501",
-            "effectLifetime": 120,
+            "id": 10210404,
+            "effectPath": "Skill/10210401_timeline",
+            "effectLifetime": 230,
             "priority": 3,
-            "routeId": 9,
-            "zoomRatio": 110,
-            "zTest": 1
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10210405,
+            "effectPath": "Skill/10210401_timeline_fire",
+            "effectLifetime": 230,
+            "priority": 3,
+            "routeId": 13,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 6
+        },
+        {
+            "id": 10210406,
+            "effectPath": "Skill/10210401_timeline_banzi01",
+            "effectLifetime": 230,
+            "priority": 3,
+            "routeId": 25,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10210407,
+            "effectPath": "Skill/10210401_timeline_banzi02",
+            "effectLifetime": 230,
+            "priority": 3,
+            "routeId": 26,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10210408,
+            "effectPath": "Skill/10210401_timeline_banzi03",
+            "effectLifetime": 230,
+            "priority": 3,
+            "routeId": 27,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10210409,
+            "effectPath": "Skill/10210401_timeline_banzi04",
+            "effectLifetime": 230,
+            "priority": 3,
+            "routeId": 32,
+            "bindType": 2,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 10210411,
+            "effectPath": "Skill/10210401_ShotFire",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 100,
+            "displayCameraMode": 5
+        },
+        {
+            "id": 10210412,
+            "effectPath": "Skill/10210401_bullethit",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 8,
+            "zoomRatio": 100,
+            "displayCameraMode": 5
+        },
+        {
+            "id": 10210413,
+            "effectPath": "Skill/10210401_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "destOffsetPb": "0,0,0",
+            "destRandomPb": "300,300,0",
+            "routeId": 15,
+            "zoomRatio": 100,
+            "zTest": 1,
+            "displayCameraMode": 5
         },
         {
             "id": 10300101,
@@ -1646,7 +2365,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 140
+            "zoomRatio": 140,
+            "displayCameraMode": 7
         },
         {
             "id": 10300102,
@@ -1655,7 +2375,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 140,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10300103,
@@ -1665,14 +2386,16 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "250,250,0",
             "routeId": 15,
-            "zoomRatio": 200
+            "zoomRatio": 200,
+            "displayCameraMode": 7
         },
         {
             "id": 10300104,
             "effectPath": "Skill/10300101_bulletshell",
             "effectLifetime": 120,
             "routeId": 31,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10300401,
@@ -1682,7 +2405,8 @@
             "routeId": 9,
             "zoomRatio": 110,
             "zTest": 1,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10300402,
@@ -1690,7 +2414,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 14,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10300501,
@@ -1699,7 +2424,8 @@
             "priority": 3,
             "routeId": 25,
             "bindType": 5,
-            "zoomRatio": 140
+            "zoomRatio": 140,
+            "displayCameraMode": 7
         },
         {
             "id": 10300502,
@@ -1709,7 +2435,8 @@
             "routeId": 9,
             "zoomRatio": 140,
             "randomRotate": true,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10300503,
@@ -1718,7 +2445,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 110,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10300504,
@@ -1727,7 +2455,8 @@
             "priority": 3,
             "routeId": 25,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 10310101,
@@ -1736,14 +2465,16 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 10310102,
             "effectPath": "Skill/10310101_bulletshell",
             "effectLifetime": 120,
             "routeId": 31,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 10310401,
@@ -1751,7 +2482,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 20,
-            "zoomRatio": 180
+            "zoomRatio": 180,
+            "displayCameraMode": 7
         },
         {
             "id": 10310402,
@@ -1760,7 +2492,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 110,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 10310501,
@@ -1769,7 +2502,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 110,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 20010001,
@@ -1779,7 +2513,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 20010002,
@@ -1788,7 +2523,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 20010003,
@@ -1797,7 +2533,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 20010004,
@@ -1805,7 +2542,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 20020101,
@@ -1815,7 +2553,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 20020102,
@@ -1824,7 +2563,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 20020103,
@@ -1833,7 +2573,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 20030101,
@@ -1843,7 +2584,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 20030102,
@@ -1852,7 +2594,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 20030103,
@@ -1861,7 +2604,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 20040101,
@@ -1871,7 +2615,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 20040102,
@@ -1880,7 +2625,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 20040103,
@@ -1889,7 +2635,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50010101,
@@ -1898,7 +2645,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50010102,
@@ -1907,7 +2655,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 50010103,
@@ -1917,7 +2666,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50020101,
@@ -1926,7 +2676,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50020102,
@@ -1935,7 +2686,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 50020103,
@@ -1945,7 +2697,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50030101,
@@ -1954,7 +2707,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50030102,
@@ -1963,7 +2717,8 @@
             "priority": 3,
             "routeId": 15,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 50040101,
@@ -1972,7 +2727,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50040102,
@@ -1981,7 +2737,8 @@
             "priority": 3,
             "routeId": 11,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 50040103,
@@ -1989,7 +2746,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50040104,
@@ -1997,7 +2755,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50050101,
@@ -2006,7 +2765,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50050102,
@@ -2016,7 +2776,8 @@
             "routeId": 8,
             "zoomRatio": 130,
             "randomRotate": true,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 50050103,
@@ -2024,7 +2785,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50050104,
@@ -2032,7 +2794,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 50050105,
@@ -2041,7 +2804,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 130,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 51120101,
@@ -2049,7 +2813,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51120102,
@@ -2058,7 +2823,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51120103,
@@ -2067,7 +2833,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 51130101,
@@ -2075,7 +2842,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51130102,
@@ -2084,7 +2852,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51130103,
@@ -2093,7 +2862,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 51210101,
@@ -2102,7 +2872,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 130,
-            "shakeTemplate": 2
+            "shakeTemplate": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 51220101,
@@ -2111,7 +2882,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 130,
-            "shakeTemplate": 2
+            "shakeTemplate": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 51230101,
@@ -2120,7 +2892,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 130,
-            "shakeTemplate": 2
+            "shakeTemplate": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 51230102,
@@ -2128,7 +2901,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 29,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51410101,
@@ -2136,7 +2910,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51410102,
@@ -2144,7 +2919,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51910101,
@@ -2153,7 +2929,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51910102,
@@ -2161,7 +2938,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51910103,
@@ -2170,7 +2948,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 51911001,
@@ -2178,7 +2957,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 14,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 51911002,
@@ -2187,7 +2967,8 @@
             "priority": 3,
             "routeId": 4,
             "zoomRatio": 130,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 51911003,
@@ -2196,7 +2977,8 @@
             "priority": 3,
             "routeId": 27,
             "zoomRatio": 130,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 51911004,
@@ -2206,7 +2988,8 @@
             "routeId": 13,
             "bindType": 1,
             "zoomRatio": 130,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 53000101,
@@ -2214,7 +2997,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 54000101,
@@ -2222,7 +3006,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 54100101,
@@ -2230,7 +3015,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 59010101,
@@ -2238,7 +3024,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 17,
-            "zoomRatio": 120
+            "zoomRatio": 120,
+            "displayCameraMode": 7
         },
         {
             "id": 59010103,
@@ -2247,7 +3034,8 @@
             "priority": 3,
             "routeId": 11,
             "zoomRatio": 120,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 61690102,
@@ -2257,7 +3045,8 @@
             "routeId": 25,
             "bindType": 5,
             "zoomRatio": 120,
-            "shakeTemplate": 2
+            "shakeTemplate": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 61690110,
@@ -2267,7 +3056,8 @@
             "routeId": 26,
             "bindType": 5,
             "zoomRatio": 100,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 61690401,
@@ -2276,7 +3066,8 @@
             "priority": 3,
             "routeId": 27,
             "zoomRatio": 100,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 61690501,
@@ -2286,7 +3077,8 @@
             "routeId": 7,
             "bindType": 5,
             "zoomRatio": 120,
-            "shakeTemplate": 2
+            "shakeTemplate": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 61690502,
@@ -2295,7 +3087,8 @@
             "priority": 3,
             "routeId": 4,
             "zoomRatio": 120,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 90000001,
@@ -2305,7 +3098,8 @@
             "routeId": 16,
             "bindType": 4,
             "zoomRatio": 130,
-            "spicailScript": 2
+            "spicailScript": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 90000002,
@@ -2314,7 +3108,8 @@
             "priority": 3,
             "routeId": 106,
             "zoomRatio": 100,
-            "spicailScript": 1
+            "spicailScript": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 90000003,
@@ -2324,7 +3119,8 @@
             "routeId": 104,
             "bindType": 1,
             "zoomRatio": 130,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 5
         },
         {
             "id": 90000004,
@@ -2334,7 +3130,8 @@
             "routeId": 16,
             "bindType": 4,
             "zoomRatio": 130,
-            "spicailScript": 3
+            "spicailScript": 3,
+            "displayCameraMode": 5
         },
         {
             "id": 90000005,
@@ -2342,7 +3139,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 13,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 90000006,
@@ -2350,7 +3148,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 13,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 90000007,
@@ -2359,7 +3158,8 @@
             "priority": 3,
             "routeId": 3,
             "zoomRatio": 130,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 90000008,
@@ -2367,7 +3167,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 32,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 90000009,
@@ -2376,7 +3177,8 @@
             "priority": 3,
             "routeId": 103,
             "bindType": 6,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 90000010,
@@ -2384,7 +3186,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 103,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 90000011,
@@ -2393,7 +3196,8 @@
             "priority": 3,
             "routeId": 102,
             "zoomRatio": 100,
-            "spicailScript": 1
+            "spicailScript": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 90000012,
@@ -2401,15 +3205,41 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 103,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 90000013,
+            "effectPath": "Scene/TempArrow_Blue",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 16,
+            "bindType": 4,
+            "zoomRatio": 130,
+            "spicailScript": 2,
+            "displayCameraMode": 5
+        },
+        {
+            "id": 90000014,
+            "effectPath": "Scene/TempArrow_Red",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 16,
+            "bindType": 4,
+            "zoomRatio": 130,
+            "spicailScript": 2,
+            "displayCameraMode": 5
         },
         {
             "id": 99000001,
             "effectPath": "Skill/break_effect",
             "effectLifetime": 90,
             "priority": 3,
-            "routeId": 102,
-            "zoomRatio": 130
+            "routeId": 4,
+            "zoomRatio": 100,
+            "shakeTemplate": 1,
+            "displayCameraMode": 7,
+            "sizeAdaption": true
         },
         {
             "id": 99000004,
@@ -2419,7 +3249,8 @@
             "routeId": 106,
             "bindType": 1,
             "zoomRatio": 130,
-            "maskGroup": 1
+            "maskGroup": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 99000005,
@@ -2428,7 +3259,8 @@
             "priority": 3,
             "routeId": 106,
             "bindType": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 99000006,
@@ -2436,14 +3268,16 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 99000007,
             "effectPath": "Buff/Debuff_stun",
             "effectLifetime": -1,
             "routeId": 102,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 611010111,
@@ -2452,7 +3286,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 160
+            "zoomRatio": 160,
+            "displayCameraMode": 7
         },
         {
             "id": 611010112,
@@ -2461,7 +3296,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 611010113,
@@ -2471,7 +3307,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 611110111,
@@ -2480,7 +3317,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 160
+            "zoomRatio": 160,
+            "displayCameraMode": 7
         },
         {
             "id": 611220211,
@@ -2489,7 +3327,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 130,
-            "shakeTemplate": 2
+            "shakeTemplate": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 611220212,
@@ -2497,7 +3336,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 29,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 611310111,
@@ -2505,7 +3345,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 200
+            "zoomRatio": 200,
+            "displayCameraMode": 7
         },
         {
             "id": 611310112,
@@ -2513,7 +3354,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 200
+            "zoomRatio": 200,
+            "displayCameraMode": 7
         },
         {
             "id": 611610111,
@@ -2522,7 +3364,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 160
+            "zoomRatio": 160,
+            "displayCameraMode": 7
         },
         {
             "id": 611610112,
@@ -2531,7 +3374,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 611610113,
@@ -2541,7 +3385,8 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 612020211,
@@ -2550,7 +3395,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 160
+            "zoomRatio": 160,
+            "displayCameraMode": 7
         },
         {
             "id": 612020212,
@@ -2559,7 +3405,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 612020213,
@@ -2567,7 +3414,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 612310111,
@@ -2575,7 +3423,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 35,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120111,
@@ -2584,7 +3433,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120112,
@@ -2592,7 +3442,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120113,
@@ -2600,7 +3451,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 34,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120211,
@@ -2609,7 +3461,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120212,
@@ -2620,7 +3473,8 @@
             "birthRandomPb": "0,0,0",
             "routeId": 8,
             "zoomRatio": 130,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 614120213,
@@ -2630,7 +3484,8 @@
             "destOffsetPb": "0,2000,0",
             "destRandomPb": "0,0,0",
             "routeId": 14,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120311,
@@ -2639,17 +3494,19 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120312,
             "effectPath": "Skill/6141505_BulletHit",
             "effectLifetime": -1,
             "priority": 3,
-            "routeId": 108,
+            "routeId": 101,
             "bindType": 1,
             "zoomRatio": 130,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 614120313,
@@ -2657,7 +3514,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120314,
@@ -2666,7 +3524,8 @@
             "priority": 3,
             "routeId": 4,
             "zoomRatio": 130,
-            "zTest": 1
+            "zTest": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 614120511,
@@ -2675,7 +3534,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120512,
@@ -2683,7 +3543,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614120513,
@@ -2691,7 +3552,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 34,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614220111,
@@ -2700,7 +3562,8 @@
             "priority": 3,
             "routeId": 25,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614220112,
@@ -2708,7 +3571,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 25,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614220113,
@@ -2716,7 +3580,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 614220311,
@@ -2726,7 +3591,8 @@
             "birthOffsetPb": "0,1500,0",
             "birthRandomPb": "0,0,0",
             "routeId": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 614220411,
@@ -2736,7 +3602,8 @@
             "birthOffsetPb": "0,1500,0",
             "birthRandomPb": "0,0,0",
             "routeId": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 616910111,
@@ -2745,7 +3612,8 @@
             "priority": 3,
             "routeId": 25,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 616910112,
@@ -2754,7 +3622,8 @@
             "priority": 3,
             "routeId": 11,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 616910113,
@@ -2762,7 +3631,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 17,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 621010111,
@@ -2771,7 +3641,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 621010112,
@@ -2780,7 +3651,8 @@
             "priority": 3,
             "routeId": 11,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 621010113,
@@ -2788,7 +3660,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 30,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 621010114,
@@ -2799,7 +3672,8 @@
             "destRandomPb": "0,0,0",
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 621040311,
@@ -2809,7 +3683,8 @@
             "routeId": 3,
             "zoomRatio": 130,
             "randomRotate": true,
-            "shakeTemplate": 3
+            "shakeTemplate": 3,
+            "displayCameraMode": 7
         },
         {
             "id": 621040312,
@@ -2817,7 +3692,27 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 3,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 621110111,
+            "effectPath": "Skill/62110101_BulletHit",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 11,
+            "zoomRatio": 100,
+            "randomRotate": true,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 621110112,
+            "effectPath": "Skill/62110101_Bullet",
+            "effectLifetime": -1,
+            "priority": 3,
+            "routeId": 37,
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 621210111,
@@ -2825,7 +3720,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 21,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 621210112,
@@ -2833,7 +3729,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 621210113,
@@ -2842,7 +3739,8 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 621310111,
@@ -2851,7 +3749,8 @@
             "priority": 3,
             "routeId": 1,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 621310112,
@@ -2860,7 +3759,8 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 621310113,
@@ -2868,7 +3768,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 622320211,
@@ -2876,7 +3777,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 3,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 624220211,
@@ -2884,7 +3786,8 @@
             "effectLifetime": 120,
             "priority": 3,
             "routeId": 3,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 625910111,
@@ -2893,7 +3796,8 @@
             "priority": 3,
             "routeId": 11,
             "zoomRatio": 160,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 625910112,
@@ -2901,7 +3805,8 @@
             "effectLifetime": 90,
             "priority": 3,
             "routeId": 5,
-            "zoomRatio": 160
+            "zoomRatio": 160,
+            "displayCameraMode": 7
         },
         {
             "id": 625910113,
@@ -2909,7 +3814,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 37,
-            "zoomRatio": 300
+            "zoomRatio": 300,
+            "displayCameraMode": 7
         },
         {
             "id": 625920111,
@@ -2917,7 +3823,8 @@
             "effectLifetime": 120,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 625920112,
@@ -2925,7 +3832,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 7,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 625940111,
@@ -2933,7 +3841,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 625950113,
@@ -2941,7 +3850,8 @@
             "effectLifetime": 120,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 631010111,
@@ -2950,7 +3860,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 400
+            "zoomRatio": 400,
+            "displayCameraMode": 7
         },
         {
             "id": 631010112,
@@ -2959,7 +3870,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 200,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 631010113,
@@ -2969,14 +3881,16 @@
             "destOffsetPb": "0,0,0",
             "destRandomPb": "300,300,0",
             "routeId": 15,
-            "zoomRatio": 200
+            "zoomRatio": 200,
+            "displayCameraMode": 7
         },
         {
             "id": 631530311,
             "effectPath": "Skill/6315303_halo",
             "effectLifetime": 120,
             "routeId": 3,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 632020211,
@@ -2985,7 +3899,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 632120211,
@@ -2994,7 +3909,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 632120212,
@@ -3003,21 +3919,24 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 632320211,
             "effectPath": "Skill/6323202_halo",
             "effectLifetime": 120,
             "routeId": 3,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 632530311,
             "effectPath": "Skill/6325301_halo",
             "effectLifetime": 120,
             "routeId": 3,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 634210111,
@@ -3025,7 +3944,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 1,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 634210112,
@@ -3033,7 +3953,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 634440111,
@@ -3041,7 +3962,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 13,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 685110111,
@@ -3050,7 +3972,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 160
+            "zoomRatio": 160,
+            "displayCameraMode": 7
         },
         {
             "id": 685110112,
@@ -3059,7 +3982,8 @@
             "priority": 3,
             "routeId": 8,
             "zoomRatio": 130,
-            "randomRotate": true
+            "randomRotate": true,
+            "displayCameraMode": 7
         },
         {
             "id": 685110113,
@@ -3067,7 +3991,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 15,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 685140111,
@@ -3076,7 +4001,8 @@
             "priority": 3,
             "routeId": 9,
             "zoomRatio": 100,
-            "shakeTemplate": 2
+            "shakeTemplate": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 685140112,
@@ -3084,7 +4010,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 29,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 685141111,
@@ -3093,7 +4020,8 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 685150111,
@@ -3101,7 +4029,8 @@
             "effectLifetime": 75,
             "priority": 3,
             "routeId": 13,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 685150112,
@@ -3109,7 +4038,8 @@
             "effectLifetime": 75,
             "priority": 3,
             "routeId": 13,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 685340111,
@@ -3119,7 +4049,8 @@
             "routeId": 10,
             "bindType": 3,
             "zoomRatio": 100,
-            "spicailScript": 2
+            "spicailScript": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 685340112,
@@ -3127,7 +4058,8 @@
             "effectLifetime": 60,
             "priority": 3,
             "routeId": 4,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 685340211,
@@ -3135,7 +4067,8 @@
             "effectLifetime": 240,
             "priority": 3,
             "routeId": 3,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 685340311,
@@ -3143,7 +4076,8 @@
             "effectLifetime": 240,
             "priority": 3,
             "routeId": 3,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 686010111,
@@ -3152,7 +4086,8 @@
             "priority": 3,
             "routeId": 27,
             "zoomRatio": 100,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 686020111,
@@ -3162,7 +4097,8 @@
             "routeId": 7,
             "bindType": 5,
             "zoomRatio": 120,
-            "shakeTemplate": 2
+            "shakeTemplate": 2,
+            "displayCameraMode": 7
         },
         {
             "id": 686020112,
@@ -3171,7 +4107,8 @@
             "priority": 3,
             "routeId": 4,
             "zoomRatio": 120,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 686040111,
@@ -3180,7 +4117,8 @@
             "priority": 3,
             "routeId": 3,
             "zoomRatio": 120,
-            "shakeTemplate": 1
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 686110111,
@@ -3188,7 +4126,8 @@
             "effectLifetime": 90,
             "priority": 3,
             "routeId": 8,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 686110112,
@@ -3196,7 +4135,8 @@
             "effectLifetime": -1,
             "priority": 3,
             "routeId": 21,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 686110113,
@@ -3205,7 +4145,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 160
+            "zoomRatio": 160,
+            "displayCameraMode": 7
         },
         {
             "id": 686120111,
@@ -3213,7 +4154,8 @@
             "effectLifetime": 120,
             "priority": 3,
             "routeId": 9,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 686140111,
@@ -3222,7 +4164,8 @@
             "priority": 3,
             "routeId": 13,
             "bindType": 5,
-            "zoomRatio": 200
+            "zoomRatio": 200,
+            "displayCameraMode": 7
         },
         {
             "id": 686170111,
@@ -3231,7 +4174,8 @@
             "priority": 3,
             "routeId": 4,
             "bindType": 5,
-            "zoomRatio": 100
+            "zoomRatio": 100,
+            "displayCameraMode": 7
         },
         {
             "id": 910010101,
@@ -3240,7 +4184,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 130
+            "zoomRatio": 130,
+            "displayCameraMode": 7
         },
         {
             "id": 910020101,
@@ -3249,7 +4194,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 180
+            "zoomRatio": 180,
+            "displayCameraMode": 7
         },
         {
             "id": 910040101,
@@ -3258,7 +4204,19 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 180
+            "zoomRatio": 180,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 910040404,
+            "effectPath": "Skill/10040401_Explosion",
+            "effectLifetime": 90,
+            "priority": 3,
+            "routeId": 9,
+            "zoomRatio": 40,
+            "zTest": 1,
+            "shakeTemplate": 1,
+            "displayCameraMode": 7
         },
         {
             "id": 910060101,
@@ -3267,7 +4225,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 180
+            "zoomRatio": 180,
+            "displayCameraMode": 7
         },
         {
             "id": 910110101,
@@ -3276,7 +4235,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 180
+            "zoomRatio": 180,
+            "displayCameraMode": 7
         },
         {
             "id": 910190101,
@@ -3285,7 +4245,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 110
+            "zoomRatio": 110,
+            "displayCameraMode": 7
         },
         {
             "id": 961101011,
@@ -3294,7 +4255,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 160
+            "zoomRatio": 160,
+            "displayCameraMode": 7
         },
         {
             "id": 961111011,
@@ -3303,7 +4265,18 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 160
+            "zoomRatio": 160,
+            "displayCameraMode": 7
+        },
+        {
+            "id": 961161011,
+            "effectPath": "Weapon/HG_ATK01_ShotFire_FB_Fake",
+            "effectLifetime": 60,
+            "priority": 3,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160,
+            "displayCameraMode": 7
         },
         {
             "id": 963101011,
@@ -3312,7 +4285,8 @@
             "priority": 3,
             "routeId": 7,
             "bindType": 5,
-            "zoomRatio": 400
+            "zoomRatio": 400,
+            "displayCameraMode": 7
         },
         {
             "id": 990000002,
@@ -3321,7 +4295,8 @@
             "priority": 3,
             "routeId": 107,
             "zoomRatio": 100,
-            "spicailScript": 1
+            "spicailScript": 1,
+            "displayCameraMode": 7
         }
     ]
 }

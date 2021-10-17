@@ -1,1 +1,25 @@
-{}
+{
+    "data": [
+        {
+            "id": 1010603001,
+            "description": "自动战斗",
+            "functionId": 1,
+            "storyId": 106,
+            "stageId": 10106
+        },
+        {
+            "id": 1010801001,
+            "description": "无人机",
+            "functionId": 2,
+            "storyId": 108,
+            "stageId": 10108
+        },
+        {
+            "id": 1011001001,
+            "description": "压制连线",
+            "functionId": 3,
+            "storyId": 110,
+            "stageId": 10110
+        }
+    ]
+}

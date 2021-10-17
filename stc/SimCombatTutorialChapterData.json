@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "chapterName": "护盾专题",
+            "chapterIcon": "Icon_SimCombatTeaching_Chapter1",
+            "chapterBg": "Img_SimCombatTeaching_Pic1",
+            "chapterLevels": [
+                1601,
+                1602,
+                1603
+            ],
+            "chapterUnlock": 11010,
+            "unlcokTips": "通关剧情战役1-10后解锁",
+            "chapterMission": "完成护盾专题",
+            "chapterReward": {
+                "12": 1
+            }
+        },
+        {
+            "id": 2,
+            "chapterName": "导染专题",
+            "chapterIcon": "Icon_SimCombatTeaching_Chapter2",
+            "chapterBg": "Img_SimCombatTeaching_Pic2",
+            "chapterLevels": [
+                1604,
+                1605
+            ],
+            "chapterUnlock": 11010,
+            "unlcokTips": "通关剧情战役1-10后解锁",
+            "chapterMission": "完成导染专题",
+            "chapterReward": {
+                "12": 1
+            }
+        },
+        {
+            "id": 3,
+            "chapterName": "地形专题",
+            "chapterIcon": "Icon_SimCombatTeaching_Chapter3",
+            "chapterBg": "Img_SimCombatTeaching_Pic3",
+            "chapterLevels": [
+                1606,
+                1607,
+                1608,
+                1609,
+                1610,
+                1611
+            ],
+            "chapterUnlock": 11010,
+            "unlcokTips": "通关剧情战役1-10后解锁",
+            "chapterMission": "完成地形专题",
+            "chapterReward": {
+                "12": 1
+            }
+        },
+        {
+            "id": 4,
+            "chapterName": "压制专题",
+            "chapterIcon": "Icon_SimCombatTeaching_Chapter4",
+            "chapterBg": "Img_SimCombatTeaching_Pic4",
+            "chapterLevels": [
+                1612,
+                1613,
+                1614
+            ],
+            "chapterUnlock": 11010,
+            "unlcokTips": "通关剧情战役1-10后解锁",
+            "chapterMission": "完成压制专题",
+            "chapterReward": {
+                "12": 1
+            }
+        }
+    ]
+}

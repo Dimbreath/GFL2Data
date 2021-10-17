@@ -3,7 +3,7 @@
         {
             "id": 100101,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -16,13 +16,14 @@
         {
             "id": 100102,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 7,
-                "max_hp": 23,
-                "pow": 5
+                "physical_shield": 8,
+                "pow": 10,
+                "magical_shield": 8,
+                "max_hp": 21
             },
             "itemList": {
                 "2": 5000
@@ -37,16 +38,17 @@
         {
             "id": 100103,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "armor": 7,
-                "max_hp": 23,
-                "pow": 5
+                "physical_shield": 13,
+                "max_hp": 31,
+                "magical_shield": 13,
+                "pow": 15
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1001031,
@@ -58,16 +60,17 @@
         {
             "id": 100104,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 13,
-                "max_hp": 46,
-                "pow": 10
+                "pow": 25,
+                "max_hp": 52,
+                "physical_shield": 21,
+                "magical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1001041,
@@ -79,17 +82,17 @@
         {
             "id": 100105,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
-                "armor": 20,
-                "max_hp": 69,
-                "pow": 15
+                "pow": 30,
+                "max_hp": 63,
+                "magical_shield": 25,
+                "physical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1001051,
@@ -101,17 +104,17 @@
         {
             "id": 100106,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 26,
-                "max_hp": 92,
-                "pow": 20
+                "pow": 35,
+                "max_hp": 73,
+                "magical_shield": 29,
+                "physical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1001061,
@@ -123,17 +126,17 @@
         {
             "id": 100107,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
-                "armor": 33,
-                "max_hp": 115,
-                "pow": 25
+                "magical_shield": 29,
+                "physical_shield": 29,
+                "pow": 35,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1001071,
@@ -145,17 +148,17 @@
         {
             "id": 100108,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "armor": 39,
-                "crit_mult": 30,
-                "max_hp": 161,
-                "pow": 35
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1001081,
@@ -167,17 +170,17 @@
         {
             "id": 100109,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
-                "armor": 52,
-                "max_hp": 207,
-                "pow": 45
+                "magical_shield": 33,
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1001091,
@@ -189,17 +192,17 @@
         {
             "id": 100110,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 253,
-                "pow": 55,
-                "crit_mult": 30,
-                "armor": 65
+                "physical_shield": 33,
+                "max_hp": 84,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1001101,
@@ -211,17 +214,17 @@
         {
             "id": 100111,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 65,
-                "crit": 20,
-                "max_hp": 299,
-                "armor": 78
+                "pow": 40,
+                "physical_shield": 33,
+                "max_hp": 84,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1001111,
@@ -233,7 +236,7 @@
         {
             "id": 100201,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -246,13 +249,14 @@
         {
             "id": 100202,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "max_hp": 22,
-                "armor": 6,
-                "pow": 5
+                "max_hp": 21,
+                "magical_shield": 8,
+                "physical_shield": 8,
+                "pow": 10
             },
             "itemList": {
                 "2": 5000
@@ -267,16 +271,17 @@
         {
             "id": 100203,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 22,
-                "pow": 5,
-                "armor": 6
+                "max_hp": 31,
+                "magical_shield": 13,
+                "physical_shield": 13,
+                "pow": 15
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1002031,
@@ -288,16 +293,17 @@
         {
             "id": 100204,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "pow": 10,
-                "max_hp": 44,
-                "armor": 11
+                "physical_shield": 21,
+                "max_hp": 52,
+                "magical_shield": 21,
+                "pow": 25
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1002041,
@@ -309,17 +315,17 @@
         {
             "id": 100205,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 15,
-                "crit": 20,
-                "max_hp": 66,
-                "armor": 17
+                "magical_shield": 25,
+                "pow": 30,
+                "max_hp": 63,
+                "physical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1002051,
@@ -331,17 +337,17 @@
         {
             "id": 100206,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "max_hp": 88,
-                "pow": 20,
-                "crit_mult": 30,
-                "armor": 22
+                "physical_shield": 29,
+                "pow": 35,
+                "max_hp": 73,
+                "magical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1002061,
@@ -353,17 +359,17 @@
         {
             "id": 100207,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 25,
-                "crit": 20,
-                "max_hp": 110,
-                "armor": 28
+                "max_hp": 73,
+                "pow": 35,
+                "physical_shield": 29,
+                "magical_shield": 29
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1002071,
@@ -375,17 +381,17 @@
         {
             "id": 100208,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 35,
-                "max_hp": 154,
-                "crit_mult": 30,
-                "armor": 33
+                "magical_shield": 33,
+                "pow": 40,
+                "max_hp": 84,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1002081,
@@ -397,17 +403,17 @@
         {
             "id": 100209,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 198,
-                "pow": 45,
-                "crit": 20,
-                "armor": 44
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1002091,
@@ -419,17 +425,17 @@
         {
             "id": 100210,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 55,
-                "max_hp": 242,
-                "crit_mult": 30,
-                "armor": 55
+                "physical_shield": 33,
+                "pow": 40,
+                "magical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1002101,
@@ -441,17 +447,17 @@
         {
             "id": 100211,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 65,
-                "crit": 20,
-                "max_hp": 286,
-                "armor": 66
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1002111,
@@ -463,7 +469,7 @@
         {
             "id": 100301,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -476,13 +482,14 @@
         {
             "id": 100302,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 7,
-                "max_hp": 17,
-                "armor": 5
+                "max_hp": 21,
+                "magical_shield": 8,
+                "physical_shield": 8,
+                "pow": 10
             },
             "itemList": {
                 "2": 5000
@@ -497,16 +504,17 @@
         {
             "id": 100303,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 7,
-                "max_hp": 17,
-                "armor": 5
+                "magical_shield": 13,
+                "max_hp": 31,
+                "pow": 15,
+                "physical_shield": 13
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1003031,
@@ -518,16 +526,17 @@
         {
             "id": 100304,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 34,
-                "pow": 13,
-                "armor": 9
+                "magical_shield": 21,
+                "pow": 25,
+                "max_hp": 52,
+                "physical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1003041,
@@ -539,17 +548,17 @@
         {
             "id": 100305,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "max_hp": 51,
-                "pow": 20,
-                "crit": 20,
-                "armor": 14
+                "magical_shield": 25,
+                "pow": 30,
+                "max_hp": 63,
+                "physical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1003051,
@@ -561,17 +570,17 @@
         {
             "id": 100306,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "armor": 18,
-                "pow": 26,
-                "max_hp": 68,
-                "crit_mult": 30
+                "physical_shield": 29,
+                "pow": 35,
+                "magical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1003061,
@@ -583,17 +592,17 @@
         {
             "id": 100307,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "armor": 23,
-                "pow": 33,
-                "max_hp": 85,
-                "crit": 20
+                "max_hp": 73,
+                "pow": 35,
+                "physical_shield": 29,
+                "magical_shield": 29
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1003071,
@@ -605,17 +614,17 @@
         {
             "id": 100308,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "max_hp": 119,
-                "pow": 46,
-                "crit_mult": 30,
-                "armor": 27
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1003081,
@@ -627,17 +636,17 @@
         {
             "id": 100309,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 153,
-                "pow": 59,
-                "crit": 20,
-                "armor": 36
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1003091,
@@ -649,17 +658,17 @@
         {
             "id": 100310,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 187,
-                "pow": 72,
-                "crit_mult": 30,
-                "armor": 45
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1003101,
@@ -671,17 +680,17 @@
         {
             "id": 100311,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "armor": 54,
-                "pow": 85,
-                "crit": 20,
-                "max_hp": 221
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1003111,
@@ -693,7 +702,7 @@
         {
             "id": 100401,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -706,13 +715,14 @@
         {
             "id": 100402,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "max_hp": 20,
-                "pow": 6,
-                "armor": 5
+                "physical_shield": 8,
+                "magical_shield": 8,
+                "max_hp": 21,
+                "pow": 10
             },
             "itemList": {
                 "2": 5000
@@ -727,16 +737,17 @@
         {
             "id": 100403,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "armor": 5,
-                "pow": 6,
-                "max_hp": 20
+                "max_hp": 31,
+                "physical_shield": 13,
+                "pow": 15,
+                "magical_shield": 13
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1004031,
@@ -748,16 +759,17 @@
         {
             "id": 100404,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 40,
-                "pow": 12,
-                "armor": 10
+                "pow": 25,
+                "magical_shield": 21,
+                "max_hp": 52,
+                "physical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1004041,
@@ -769,17 +781,17 @@
         {
             "id": 100405,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "armor": 15,
-                "pow": 18,
-                "max_hp": 60,
-                "crit": 20
+                "physical_shield": 25,
+                "max_hp": 63,
+                "pow": 30,
+                "magical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1004051,
@@ -791,17 +803,17 @@
         {
             "id": 100406,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "max_hp": 80,
-                "pow": 24,
-                "crit_mult": 30,
-                "armor": 20
+                "max_hp": 73,
+                "physical_shield": 29,
+                "pow": 35,
+                "magical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1004061,
@@ -813,17 +825,17 @@
         {
             "id": 100407,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 100,
-                "armor": 25,
-                "pow": 30,
-                "crit": 20
+                "max_hp": 73,
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1004071,
@@ -835,17 +847,17 @@
         {
             "id": 100408,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "max_hp": 140,
-                "pow": 42,
-                "crit_mult": 30,
-                "armor": 30
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1004081,
@@ -857,17 +869,17 @@
         {
             "id": 100409,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 180,
-                "pow": 54,
-                "crit": 20,
-                "armor": 40
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1004091,
@@ -879,17 +891,17 @@
         {
             "id": 100410,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 220,
-                "pow": 66,
-                "crit_mult": 30,
-                "armor": 50
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1004101,
@@ -901,17 +913,17 @@
         {
             "id": 100411,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "armor": 60,
-                "max_hp": 260,
-                "pow": 78,
-                "crit": 20
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1004111,
@@ -923,7 +935,7 @@
         {
             "id": 100501,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -936,13 +948,14 @@
         {
             "id": 100502,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "max_hp": 19,
-                "pow": 6,
-                "armor": 6
+                "max_hp": 21,
+                "pow": 10,
+                "magical_shield": 8,
+                "physical_shield": 8
             },
             "itemList": {
                 "2": 5000
@@ -957,16 +970,17 @@
         {
             "id": 100503,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 19,
-                "pow": 6,
-                "armor": 6
+                "pow": 15,
+                "magical_shield": 13,
+                "physical_shield": 13,
+                "max_hp": 31
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1005031,
@@ -978,16 +992,17 @@
         {
             "id": 100504,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 38,
-                "pow": 12,
-                "armor": 11
+                "physical_shield": 21,
+                "max_hp": 52,
+                "pow": 25,
+                "magical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1005041,
@@ -999,17 +1014,17 @@
         {
             "id": 100505,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
-                "pow": 18,
-                "armor": 17,
-                "max_hp": 57
+                "physical_shield": 25,
+                "magical_shield": 25,
+                "max_hp": 63,
+                "pow": 30
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1005051,
@@ -1021,17 +1036,17 @@
         {
             "id": 100506,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 24,
-                "crit_mult": 30,
-                "armor": 22,
-                "max_hp": 76
+                "pow": 35,
+                "magical_shield": 29,
+                "max_hp": 73,
+                "physical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1005061,
@@ -1043,17 +1058,17 @@
         {
             "id": 100507,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 95,
-                "pow": 30,
-                "armor": 28,
-                "crit": 20
+                "pow": 35,
+                "magical_shield": 29,
+                "physical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1005071,
@@ -1065,17 +1080,17 @@
         {
             "id": 100508,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 42,
-                "crit_mult": 30,
-                "armor": 33,
-                "max_hp": 133
+                "magical_shield": 33,
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1005081,
@@ -1087,17 +1102,17 @@
         {
             "id": 100509,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 171,
-                "pow": 54,
-                "crit": 20,
-                "armor": 44
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1005091,
@@ -1109,17 +1124,17 @@
         {
             "id": 100510,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 66,
-                "crit_mult": 30,
-                "armor": 55,
-                "max_hp": 209
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1005101,
@@ -1131,17 +1146,17 @@
         {
             "id": 100511,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "crit": 20,
-                "pow": 78,
-                "armor": 66,
-                "max_hp": 247
+                "pow": 40,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1005111,
@@ -1153,7 +1168,7 @@
         {
             "id": 100601,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -1166,13 +1181,14 @@
         {
             "id": 100602,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "max_hp": 18,
-                "pow": 7,
-                "armor": 5
+                "physical_shield": 8,
+                "max_hp": 21,
+                "pow": 10,
+                "magical_shield": 8
             },
             "itemList": {
                 "2": 5000
@@ -1187,16 +1203,17 @@
         {
             "id": 100603,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 18,
-                "pow": 7,
-                "armor": 5
+                "physical_shield": 13,
+                "pow": 15,
+                "max_hp": 31,
+                "magical_shield": 13
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1006031,
@@ -1208,16 +1225,17 @@
         {
             "id": 100604,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 36,
-                "pow": 14,
-                "armor": 9
+                "pow": 25,
+                "physical_shield": 21,
+                "magical_shield": 21,
+                "max_hp": 52
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1006041,
@@ -1229,17 +1247,17 @@
         {
             "id": 100605,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
-                "armor": 14,
-                "pow": 21,
-                "max_hp": 54
+                "physical_shield": 25,
+                "magical_shield": 25,
+                "pow": 30,
+                "max_hp": 63
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1006051,
@@ -1251,17 +1269,17 @@
         {
             "id": 100606,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "max_hp": 72,
-                "pow": 28,
-                "crit_mult": 30,
-                "armor": 18
+                "pow": 35,
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1006061,
@@ -1273,17 +1291,17 @@
         {
             "id": 100607,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 90,
+                "max_hp": 73,
                 "pow": 35,
-                "crit": 20,
-                "armor": 23
+                "physical_shield": 29,
+                "magical_shield": 29
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1006071,
@@ -1295,17 +1313,17 @@
         {
             "id": 100608,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 27,
-                "pow": 49,
-                "max_hp": 126
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1006081,
@@ -1317,17 +1335,17 @@
         {
             "id": 100609,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 63,
-                "armor": 36,
-                "max_hp": 162,
-                "crit": 20
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1006091,
@@ -1339,17 +1357,17 @@
         {
             "id": 100610,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 77,
-                "armor": 45,
-                "max_hp": 198,
-                "crit_mult": 30
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1006101,
@@ -1361,17 +1379,17 @@
         {
             "id": 100611,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 91,
-                "armor": 54,
-                "max_hp": 234,
-                "crit": 20
+                "pow": 40,
+                "magical_shield": 33,
+                "max_hp": 84,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1006111,
@@ -1383,7 +1401,7 @@
         {
             "id": 100701,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -1396,13 +1414,14 @@
         {
             "id": 100702,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 5,
+                "pow": 10,
                 "max_hp": 21,
-                "pow": 7
+                "physical_shield": 8,
+                "magical_shield": 8
             },
             "itemList": {
                 "2": 5000
@@ -1417,16 +1436,17 @@
         {
             "id": 100703,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "armor": 5,
-                "pow": 7,
-                "max_hp": 21
+                "pow": 15,
+                "magical_shield": 13,
+                "max_hp": 31,
+                "physical_shield": 13
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1007031,
@@ -1438,16 +1458,17 @@
         {
             "id": 100704,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 10,
-                "pow": 13,
-                "max_hp": 42
+                "magical_shield": 21,
+                "physical_shield": 21,
+                "pow": 25,
+                "max_hp": 52
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1007041,
@@ -1459,17 +1480,17 @@
         {
             "id": 100705,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "armor": 15,
                 "max_hp": 63,
-                "pow": 20,
-                "crit": 20
+                "magical_shield": 25,
+                "pow": 30,
+                "physical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1007051,
@@ -1481,17 +1502,17 @@
         {
             "id": 100706,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "armor": 20,
-                "max_hp": 84,
-                "crit_mult": 30,
-                "pow": 26
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "pow": 35,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1007061,
@@ -1503,17 +1524,17 @@
         {
             "id": 100707,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "armor": 25,
-                "pow": 33,
-                "max_hp": 105,
-                "crit": 20
+                "magical_shield": 29,
+                "max_hp": 73,
+                "physical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1007071,
@@ -1525,17 +1546,17 @@
         {
             "id": 100708,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 46,
-                "armor": 30,
-                "max_hp": 147,
-                "crit_mult": 30
+                "physical_shield": 33,
+                "max_hp": 84,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1007081,
@@ -1547,17 +1568,17 @@
         {
             "id": 100709,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "armor": 40,
-                "max_hp": 189,
-                "pow": 59,
-                "crit": 20
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1007091,
@@ -1569,17 +1590,17 @@
         {
             "id": 100710,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 72,
-                "armor": 50,
-                "max_hp": 231,
-                "crit_mult": 30
+                "pow": 40,
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1007101,
@@ -1591,17 +1612,17 @@
         {
             "id": 100711,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "armor": 60,
-                "pow": 85,
-                "max_hp": 273,
-                "crit": 20
+                "magical_shield": 33,
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1007111,
@@ -1613,7 +1634,7 @@
         {
             "id": 100801,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -1626,13 +1647,14 @@
         {
             "id": 100802,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 5,
-                "max_hp": 18,
-                "pow": 7
+                "physical_shield": 8,
+                "magical_shield": 8,
+                "pow": 10,
+                "max_hp": 21
             },
             "itemList": {
                 "2": 5000
@@ -1647,16 +1669,17 @@
         {
             "id": 100803,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "armor": 5,
-                "max_hp": 18,
-                "pow": 7
+                "physical_shield": 13,
+                "pow": 15,
+                "magical_shield": 13,
+                "max_hp": 31
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1008031,
@@ -1668,16 +1691,17 @@
         {
             "id": 100804,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 9,
-                "max_hp": 36,
-                "pow": 13
+                "magical_shield": 21,
+                "max_hp": 52,
+                "pow": 25,
+                "physical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1008041,
@@ -1689,17 +1713,17 @@
         {
             "id": 100805,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 20,
-                "max_hp": 54,
-                "armor": 14,
-                "crit": 20
+                "magical_shield": 25,
+                "physical_shield": 25,
+                "max_hp": 63,
+                "pow": 30
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1008051,
@@ -1711,17 +1735,17 @@
         {
             "id": 100806,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 26,
-                "max_hp": 72,
-                "crit_mult": 30,
-                "armor": 18
+                "max_hp": 73,
+                "physical_shield": 29,
+                "pow": 35,
+                "magical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1008061,
@@ -1733,17 +1757,17 @@
         {
             "id": 100807,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 90,
-                "armor": 23,
-                "pow": 33,
-                "crit": 20
+                "pow": 35,
+                "magical_shield": 29,
+                "physical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1008071,
@@ -1755,17 +1779,17 @@
         {
             "id": 100808,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 46,
-                "max_hp": 126,
-                "armor": 27,
-                "crit_mult": 30
+                "physical_shield": 33,
+                "max_hp": 84,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1008081,
@@ -1777,17 +1801,17 @@
         {
             "id": 100809,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 162,
-                "armor": 36,
-                "pow": 59,
-                "crit": 20
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1008091,
@@ -1799,17 +1823,17 @@
         {
             "id": 100810,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 198,
-                "pow": 72,
-                "crit_mult": 30,
-                "armor": 45
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1008101,
@@ -1821,17 +1845,17 @@
         {
             "id": 100811,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 85,
-                "max_hp": 234,
-                "armor": 54,
-                "crit": 20
+                "magical_shield": 33,
+                "pow": 40,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1008111,
@@ -1843,7 +1867,7 @@
         {
             "id": 100901,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -1856,13 +1880,14 @@
         {
             "id": 100902,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "max_hp": 21,
-                "pow": 6,
-                "armor": 6
+                "pow": 10,
+                "magical_shield": 8,
+                "physical_shield": 8,
+                "max_hp": 21
             },
             "itemList": {
                 "2": 5000
@@ -1877,16 +1902,17 @@
         {
             "id": 100903,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 6,
-                "max_hp": 21,
-                "armor": 6
+                "max_hp": 31,
+                "physical_shield": 13,
+                "magical_shield": 13,
+                "pow": 15
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1009031,
@@ -1898,16 +1924,17 @@
         {
             "id": 100904,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "pow": 11,
-                "max_hp": 42,
-                "armor": 11
+                "physical_shield": 21,
+                "pow": 25,
+                "max_hp": 52,
+                "magical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1009041,
@@ -1919,17 +1946,17 @@
         {
             "id": 100905,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "armor": 17,
+                "pow": 30,
+                "magical_shield": 25,
                 "max_hp": 63,
-                "pow": 17,
-                "crit": 20
+                "physical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1009051,
@@ -1941,17 +1968,17 @@
         {
             "id": 100906,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "max_hp": 84,
-                "pow": 22,
-                "crit_mult": 30,
-                "armor": 22
+                "magical_shield": 29,
+                "max_hp": 73,
+                "pow": 35,
+                "physical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1009061,
@@ -1963,17 +1990,17 @@
         {
             "id": 100907,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 28,
-                "max_hp": 105,
-                "armor": 28,
-                "crit": 20
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "max_hp": 73,
+                "pow": 35
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1009071,
@@ -1985,17 +2012,17 @@
         {
             "id": 100908,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "max_hp": 147,
-                "crit_mult": 30,
-                "armor": 33,
-                "pow": 39
+                "magical_shield": 33,
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1009081,
@@ -2007,17 +2034,17 @@
         {
             "id": 100909,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 189,
-                "armor": 44,
-                "pow": 50,
-                "crit": 20
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1009091,
@@ -2029,17 +2056,17 @@
         {
             "id": 100910,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 231,
-                "armor": 55,
-                "pow": 61,
-                "crit_mult": 30
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1009101,
@@ -2051,17 +2078,17 @@
         {
             "id": 100911,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 72,
-                "max_hp": 273,
-                "armor": 66,
-                "crit": 20
+                "physical_shield": 33,
+                "pow": 40,
+                "max_hp": 84,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1009111,
@@ -2073,7 +2100,7 @@
         {
             "id": 101001,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -2086,13 +2113,14 @@
         {
             "id": 101002,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 7,
-                "pow": 6,
-                "max_hp": 26
+                "physical_shield": 8,
+                "pow": 10,
+                "max_hp": 21,
+                "magical_shield": 8
             },
             "itemList": {
                 "2": 5000
@@ -2107,16 +2135,17 @@
         {
             "id": 101003,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "armor": 7,
-                "max_hp": 26,
-                "pow": 6
+                "physical_shield": 13,
+                "magical_shield": 13,
+                "max_hp": 31,
+                "pow": 15
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1010031,
@@ -2128,16 +2157,17 @@
         {
             "id": 101004,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 13,
-                "max_hp": 52,
-                "pow": 11
+                "pow": 25,
+                "physical_shield": 21,
+                "magical_shield": 21,
+                "max_hp": 52
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1010041,
@@ -2149,17 +2179,17 @@
         {
             "id": 101005,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 17,
-                "armor": 20,
-                "crit": 20,
-                "max_hp": 78
+                "max_hp": 63,
+                "pow": 30,
+                "physical_shield": 25,
+                "magical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1010051,
@@ -2171,17 +2201,17 @@
         {
             "id": 101006,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 26,
-                "max_hp": 104,
-                "pow": 22
+                "max_hp": 73,
+                "magical_shield": 29,
+                "physical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1010061,
@@ -2193,17 +2223,17 @@
         {
             "id": 101007,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "armor": 33,
-                "crit": 20,
-                "max_hp": 130,
-                "pow": 28
+                "magical_shield": 29,
+                "pow": 35,
+                "physical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1010071,
@@ -2215,17 +2245,17 @@
         {
             "id": 101008,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 39,
-                "max_hp": 182,
-                "pow": 39
+                "magical_shield": 33,
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1010081,
@@ -2237,17 +2267,17 @@
         {
             "id": 101009,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "armor": 52,
-                "pow": 50,
-                "crit": 20,
-                "max_hp": 234
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1010091,
@@ -2259,17 +2289,17 @@
         {
             "id": 101010,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 65,
-                "max_hp": 286,
-                "pow": 61
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1010101,
@@ -2281,17 +2311,17 @@
         {
             "id": 101011,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "armor": 78,
-                "crit": 20,
-                "max_hp": 338,
-                "pow": 72
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1010111,
@@ -2303,7 +2333,7 @@
         {
             "id": 101101,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -2316,13 +2346,14 @@
         {
             "id": 101102,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 6,
-                "pow": 5,
-                "max_hp": 24
+                "magical_shield": 8,
+                "pow": 10,
+                "physical_shield": 8,
+                "max_hp": 21
             },
             "itemList": {
                 "2": 5000
@@ -2337,16 +2368,17 @@
         {
             "id": 101103,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "armor": 6,
-                "pow": 5,
-                "max_hp": 24
+                "pow": 15,
+                "magical_shield": 13,
+                "physical_shield": 13,
+                "max_hp": 31
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1011031,
@@ -2358,16 +2390,17 @@
         {
             "id": 101104,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 12,
-                "pow": 10,
-                "max_hp": 48
+                "max_hp": 52,
+                "magical_shield": 21,
+                "physical_shield": 21,
+                "pow": 25
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1011041,
@@ -2379,17 +2412,17 @@
         {
             "id": 101105,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 15,
-                "armor": 18,
-                "crit": 20,
-                "max_hp": 72
+                "magical_shield": 25,
+                "max_hp": 63,
+                "physical_shield": 25,
+                "pow": 30
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1011051,
@@ -2401,17 +2434,17 @@
         {
             "id": 101106,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 24,
-                "pow": 20,
-                "max_hp": 96
+                "magical_shield": 29,
+                "max_hp": 73,
+                "physical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1011061,
@@ -2423,17 +2456,17 @@
         {
             "id": 101107,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 25,
-                "armor": 30,
-                "crit": 20,
-                "max_hp": 120
+                "physical_shield": 29,
+                "pow": 35,
+                "magical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1011071,
@@ -2445,17 +2478,17 @@
         {
             "id": 101108,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
-                "max_hp": 168,
-                "pow": 35,
-                "armor": 36
+                "magical_shield": 33,
+                "pow": 40,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1011081,
@@ -2467,17 +2500,17 @@
         {
             "id": 101109,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
-                "max_hp": 216,
-                "pow": 45,
-                "armor": 48
+                "pow": 40,
+                "magical_shield": 33,
+                "max_hp": 84,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1011091,
@@ -2489,17 +2522,17 @@
         {
             "id": 101110,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "crit_mult": 30,
-                "max_hp": 264,
-                "armor": 60,
-                "pow": 55
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1011101,
@@ -2511,17 +2544,17 @@
         {
             "id": 101111,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 65,
-                "crit": 20,
-                "max_hp": 312,
-                "armor": 72
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1011111,
@@ -2533,7 +2566,7 @@
         {
             "id": 101201,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -2546,13 +2579,14 @@
         {
             "id": 101202,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 6,
-                "max_hp": 25,
-                "armor": 6
+                "physical_shield": 8,
+                "pow": 10,
+                "magical_shield": 8,
+                "max_hp": 21
             },
             "itemList": {
                 "2": 5000
@@ -2567,16 +2601,17 @@
         {
             "id": 101203,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 25,
-                "armor": 6,
-                "pow": 6
+                "pow": 15,
+                "physical_shield": 13,
+                "magical_shield": 13,
+                "max_hp": 31
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1012031,
@@ -2588,16 +2623,17 @@
         {
             "id": 101204,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 50,
-                "pow": 11,
-                "armor": 11
+                "magical_shield": 21,
+                "physical_shield": 21,
+                "max_hp": 52,
+                "pow": 25
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1012041,
@@ -2609,17 +2645,17 @@
         {
             "id": 101205,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 17,
-                "max_hp": 75,
-                "crit": 20,
-                "armor": 17
+                "pow": 30,
+                "max_hp": 63,
+                "physical_shield": 25,
+                "magical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1012051,
@@ -2631,17 +2667,17 @@
         {
             "id": 101206,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
-                "max_hp": 100,
-                "armor": 22,
-                "pow": 22
+                "magical_shield": 29,
+                "max_hp": 73,
+                "physical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1012061,
@@ -2653,17 +2689,17 @@
         {
             "id": 101207,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
-                "max_hp": 125,
-                "armor": 28,
-                "pow": 28
+                "pow": 35,
+                "max_hp": 73,
+                "physical_shield": 29,
+                "magical_shield": 29
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1012071,
@@ -2675,17 +2711,17 @@
         {
             "id": 101208,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
-                "pow": 39,
-                "max_hp": 175,
-                "armor": 33
+                "pow": 40,
+                "magical_shield": 33,
+                "max_hp": 84,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1012081,
@@ -2697,17 +2733,17 @@
         {
             "id": 101209,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
-                "max_hp": 225,
-                "armor": 44,
-                "pow": 50
+                "magical_shield": 33,
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1012091,
@@ -2719,17 +2755,17 @@
         {
             "id": 101210,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 61,
-                "crit_mult": 30,
-                "max_hp": 275,
-                "armor": 55
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1012101,
@@ -2741,17 +2777,17 @@
         {
             "id": 101211,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "crit": 20,
-                "max_hp": 325,
-                "armor": 66,
-                "pow": 72
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1012111,
@@ -2763,7 +2799,7 @@
         {
             "id": 101301,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -2776,13 +2812,14 @@
         {
             "id": 101302,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 7,
-                "max_hp": 20,
-                "armor": 5
+                "magical_shield": 8,
+                "pow": 10,
+                "physical_shield": 8,
+                "max_hp": 21
             },
             "itemList": {
                 "2": 5000
@@ -2797,16 +2834,17 @@
         {
             "id": 101303,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 7,
-                "max_hp": 20,
-                "armor": 5
+                "pow": 15,
+                "magical_shield": 13,
+                "physical_shield": 13,
+                "max_hp": 31
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1013031,
@@ -2818,16 +2856,17 @@
         {
             "id": 101304,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "pow": 13,
-                "max_hp": 40,
-                "armor": 10
+                "magical_shield": 21,
+                "max_hp": 52,
+                "pow": 25,
+                "physical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1013041,
@@ -2839,17 +2878,17 @@
         {
             "id": 101305,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "armor": 15,
-                "pow": 20,
-                "crit": 20,
-                "max_hp": 60
+                "max_hp": 63,
+                "physical_shield": 25,
+                "pow": 30,
+                "magical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1013051,
@@ -2861,17 +2900,17 @@
         {
             "id": 101306,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 26,
-                "max_hp": 80,
-                "crit_mult": 30,
-                "armor": 20
+                "pow": 35,
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1013061,
@@ -2883,17 +2922,17 @@
         {
             "id": 101307,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "armor": 25,
-                "pow": 33,
-                "crit": 20,
-                "max_hp": 100
+                "max_hp": 73,
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1013071,
@@ -2905,17 +2944,17 @@
         {
             "id": 101308,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 46,
-                "max_hp": 140,
-                "crit_mult": 30,
-                "armor": 30
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1013081,
@@ -2927,17 +2966,17 @@
         {
             "id": 101309,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "armor": 40,
-                "pow": 59,
-                "crit": 20,
-                "max_hp": 180
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1013091,
@@ -2949,17 +2988,17 @@
         {
             "id": 101310,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 50,
-                "pow": 72,
-                "max_hp": 220
+                "magical_shield": 33,
+                "pow": 40,
+                "max_hp": 84,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1013101,
@@ -2971,17 +3010,17 @@
         {
             "id": 101311,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 85,
-                "crit": 20,
-                "max_hp": 260,
-                "armor": 60
+                "magical_shield": 33,
+                "pow": 40,
+                "max_hp": 84,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1013111,
@@ -2993,7 +3032,7 @@
         {
             "id": 101401,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -3006,12 +3045,13 @@
         {
             "id": 101402,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 6,
-                "pow": 7,
+                "magical_shield": 8,
+                "physical_shield": 8,
+                "pow": 10,
                 "max_hp": 21
             },
             "itemList": {
@@ -3027,16 +3067,17 @@
         {
             "id": 101403,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 7,
-                "max_hp": 21,
-                "armor": 6
+                "max_hp": 31,
+                "pow": 15,
+                "magical_shield": 13,
+                "physical_shield": 13
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1014031,
@@ -3048,16 +3089,17 @@
         {
             "id": 101404,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 11,
-                "pow": 13,
-                "max_hp": 42
+                "physical_shield": 21,
+                "max_hp": 52,
+                "pow": 25,
+                "magical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1014041,
@@ -3069,17 +3111,17 @@
         {
             "id": 101405,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "pow": 20,
-                "crit": 20,
-                "max_hp": 63,
-                "armor": 17
+                "physical_shield": 25,
+                "pow": 30,
+                "magical_shield": 25,
+                "max_hp": 63
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1014051,
@@ -3091,17 +3133,17 @@
         {
             "id": 101406,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 26,
-                "max_hp": 84,
-                "crit_mult": 30,
-                "armor": 22
+                "physical_shield": 29,
+                "max_hp": 73,
+                "magical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1014061,
@@ -3113,17 +3155,17 @@
         {
             "id": 101407,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 33,
-                "crit": 20,
-                "max_hp": 105,
-                "armor": 28
+                "pow": 35,
+                "magical_shield": 29,
+                "physical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1014071,
@@ -3135,17 +3177,17 @@
         {
             "id": 101408,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 33,
-                "pow": 46,
-                "max_hp": 147
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1014081,
@@ -3157,17 +3199,17 @@
         {
             "id": 101409,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "armor": 44,
-                "pow": 59,
-                "crit": 20,
-                "max_hp": 189
+                "magical_shield": 33,
+                "pow": 40,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1014091,
@@ -3179,17 +3221,17 @@
         {
             "id": 101410,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 55,
-                "pow": 72,
-                "max_hp": 231
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1014101,
@@ -3201,17 +3243,17 @@
         {
             "id": 101411,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "max_hp": 273,
-                "crit": 20,
-                "armor": 66,
-                "pow": 85
+                "magical_shield": 33,
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1014111,
@@ -3223,7 +3265,7 @@
         {
             "id": 101501,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -3236,13 +3278,14 @@
         {
             "id": 101502,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 6,
-                "pow": 5,
-                "max_hp": 20
+                "max_hp": 21,
+                "physical_shield": 8,
+                "pow": 10,
+                "magical_shield": 8
             },
             "itemList": {
                 "2": 5000
@@ -3257,16 +3300,17 @@
         {
             "id": 101503,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 5,
-                "armor": 6,
-                "max_hp": 20
+                "magical_shield": 13,
+                "pow": 15,
+                "physical_shield": 13,
+                "max_hp": 31
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1015031,
@@ -3278,16 +3322,17 @@
         {
             "id": 101504,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 12,
-                "pow": 10,
-                "max_hp": 40
+                "pow": 25,
+                "magical_shield": 21,
+                "physical_shield": 21,
+                "max_hp": 52
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1015041,
@@ -3299,17 +3344,17 @@
         {
             "id": 101505,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
-                "pow": 15,
-                "armor": 18,
-                "max_hp": 60
+                "physical_shield": 25,
+                "pow": 30,
+                "magical_shield": 25,
+                "max_hp": 63
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1015051,
@@ -3321,17 +3366,17 @@
         {
             "id": 101506,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 20,
-                "armor": 24,
-                "max_hp": 80,
-                "crit_mult": 30
+                "magical_shield": 29,
+                "pow": 35,
+                "physical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1015061,
@@ -3343,17 +3388,17 @@
         {
             "id": 101507,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 100,
-                "crit": 20,
-                "armor": 30,
-                "pow": 25
+                "physical_shield": 29,
+                "max_hp": 73,
+                "magical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1015071,
@@ -3365,17 +3410,17 @@
         {
             "id": 101508,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "max_hp": 140,
-                "pow": 35,
-                "crit_mult": 30,
-                "armor": 36
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1015081,
@@ -3387,17 +3432,17 @@
         {
             "id": 101509,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 180,
-                "crit": 20,
-                "armor": 48,
-                "pow": 45
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1015091,
@@ -3409,17 +3454,17 @@
         {
             "id": 101510,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 60,
-                "pow": 55,
-                "max_hp": 220
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1015101,
@@ -3431,17 +3476,17 @@
         {
             "id": 101511,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "max_hp": 260,
-                "crit": 20,
-                "armor": 72,
-                "pow": 65
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1015111,
@@ -3453,7 +3498,7 @@
         {
             "id": 101601,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -3466,12 +3511,13 @@
         {
             "id": 101602,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 6,
-                "armor": 6,
+                "pow": 10,
+                "physical_shield": 8,
+                "magical_shield": 8,
                 "max_hp": 21
             },
             "itemList": {
@@ -3487,16 +3533,17 @@
         {
             "id": 101603,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 6,
-                "armor": 6,
-                "max_hp": 21
+                "physical_shield": 13,
+                "magical_shield": 13,
+                "pow": 15,
+                "max_hp": 31
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1016031,
@@ -3508,16 +3555,17 @@
         {
             "id": 101604,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 42,
-                "pow": 11,
-                "armor": 11
+                "magical_shield": 21,
+                "pow": 25,
+                "max_hp": 52,
+                "physical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1016041,
@@ -3529,17 +3577,17 @@
         {
             "id": 101605,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
+                "magical_shield": 25,
+                "pow": 30,
                 "max_hp": 63,
-                "crit": 20,
-                "pow": 17,
-                "armor": 17
+                "physical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1016051,
@@ -3551,17 +3599,17 @@
         {
             "id": 101606,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 22,
-                "pow": 22,
-                "max_hp": 84
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "max_hp": 73,
+                "pow": 35
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1016061,
@@ -3573,17 +3621,17 @@
         {
             "id": 101607,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
-                "pow": 28,
-                "armor": 28,
-                "max_hp": 105
+                "physical_shield": 29,
+                "max_hp": 73,
+                "magical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1016071,
@@ -3595,17 +3643,17 @@
         {
             "id": 101608,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "armor": 33,
-                "pow": 39,
-                "crit_mult": 30,
-                "max_hp": 147
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1016081,
@@ -3617,17 +3665,17 @@
         {
             "id": 101609,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "pow": 50,
-                "armor": 44,
-                "max_hp": 189,
-                "crit": 20
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1016091,
@@ -3639,17 +3687,17 @@
         {
             "id": 101610,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 231,
-                "armor": 55,
-                "pow": 61,
-                "crit_mult": 30
+                "pow": 40,
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1016101,
@@ -3661,17 +3709,17 @@
         {
             "id": 101611,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "crit": 20,
-                "pow": 72,
-                "armor": 66,
-                "max_hp": 273
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1016111,
@@ -3683,7 +3731,7 @@
         {
             "id": 101701,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -3696,13 +3744,14 @@
         {
             "id": 101702,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 7,
-                "armor": 5,
-                "max_hp": 22
+                "pow": 10,
+                "physical_shield": 8,
+                "magical_shield": 8,
+                "max_hp": 21
             },
             "itemList": {
                 "2": 5000
@@ -3717,16 +3766,17 @@
         {
             "id": 101703,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 7,
-                "armor": 5,
-                "max_hp": 22
+                "physical_shield": 13,
+                "magical_shield": 13,
+                "max_hp": 31,
+                "pow": 15
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1017031,
@@ -3738,16 +3788,17 @@
         {
             "id": 101704,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "pow": 13,
-                "max_hp": 44,
-                "armor": 10
+                "pow": 25,
+                "magical_shield": 21,
+                "max_hp": 52,
+                "physical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1017041,
@@ -3759,17 +3810,17 @@
         {
             "id": 101705,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
-                "armor": 15,
-                "pow": 20,
-                "max_hp": 66
+                "pow": 30,
+                "magical_shield": 25,
+                "physical_shield": 25,
+                "max_hp": 63
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1017051,
@@ -3781,17 +3832,17 @@
         {
             "id": 101706,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "pow": 26,
-                "armor": 20,
-                "max_hp": 88,
-                "crit_mult": 30
+                "magical_shield": 29,
+                "pow": 35,
+                "max_hp": 73,
+                "physical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1017061,
@@ -3803,17 +3854,17 @@
         {
             "id": 101707,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "pow": 33,
-                "armor": 25,
-                "max_hp": 110,
-                "crit": 20
+                "magical_shield": 29,
+                "pow": 35,
+                "physical_shield": 29,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1017071,
@@ -3825,17 +3876,17 @@
         {
             "id": 101708,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "pow": 46,
-                "armor": 30,
-                "crit_mult": 30,
-                "max_hp": 154
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1017081,
@@ -3847,17 +3898,17 @@
         {
             "id": 101709,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
-                "pow": 59,
-                "armor": 40,
-                "max_hp": 198
+                "magical_shield": 33,
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1017091,
@@ -3869,17 +3920,17 @@
         {
             "id": 101710,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 72,
-                "crit_mult": 30,
-                "armor": 50,
-                "max_hp": 242
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1017101,
@@ -3891,17 +3942,17 @@
         {
             "id": 101711,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 85,
-                "armor": 60,
-                "max_hp": 286,
-                "crit": 20
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1017111,
@@ -3913,7 +3964,7 @@
         {
             "id": 101901,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -3926,13 +3977,14 @@
         {
             "id": 101902,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "pow": 6,
-                "armor": 5,
-                "max_hp": 21
+                "physical_shield": 8,
+                "magical_shield": 8,
+                "max_hp": 21,
+                "pow": 10
             },
             "itemList": {
                 "2": 5000
@@ -3947,16 +3999,17 @@
         {
             "id": 101903,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "pow": 6,
-                "armor": 5,
-                "max_hp": 21
+                "max_hp": 31,
+                "magical_shield": 13,
+                "pow": 15,
+                "physical_shield": 13
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1019031,
@@ -3968,16 +4021,17 @@
         {
             "id": 101904,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 42,
-                "armor": 10,
-                "pow": 12
+                "magical_shield": 21,
+                "pow": 25,
+                "max_hp": 52,
+                "physical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1019041,
@@ -3989,17 +4043,17 @@
         {
             "id": 101905,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
-                "armor": 15,
+                "magical_shield": 25,
                 "max_hp": 63,
-                "pow": 18
+                "pow": 30,
+                "physical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1019051,
@@ -4011,17 +4065,17 @@
         {
             "id": 101906,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 20,
-                "max_hp": 84,
-                "pow": 24
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "pow": 35,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1019061,
@@ -4033,17 +4087,17 @@
         {
             "id": 101907,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "crit": 20,
-                "armor": 25,
-                "max_hp": 105,
-                "pow": 30
+                "max_hp": 73,
+                "magical_shield": 29,
+                "pow": 35,
+                "physical_shield": 29
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1019071,
@@ -4055,17 +4109,17 @@
         {
             "id": 101908,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "max_hp": 147,
-                "pow": 42,
-                "crit_mult": 30,
-                "armor": 30
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1019081,
@@ -4077,17 +4131,17 @@
         {
             "id": 101909,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 189,
-                "armor": 40,
-                "pow": 54,
-                "crit": 20
+                "magical_shield": 33,
+                "pow": 40,
+                "physical_shield": 33,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1019091,
@@ -4099,17 +4153,17 @@
         {
             "id": 101910,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 50,
-                "pow": 66,
-                "max_hp": 231
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1019101,
@@ -4121,17 +4175,17 @@
         {
             "id": 101911,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "max_hp": 273,
-                "pow": 78,
-                "crit": 20,
-                "armor": 60
+                "magical_shield": 33,
+                "pow": 40,
+                "max_hp": 84,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1019111,
@@ -4143,7 +4197,7 @@
         {
             "id": 102001,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -4156,13 +4210,14 @@
         {
             "id": 102002,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
+                "physical_shield": 8,
+                "magical_shield": 8,
                 "max_hp": 21,
-                "pow": 7,
-                "armor": 5
+                "pow": 10
             },
             "itemList": {
                 "2": 5000
@@ -4177,16 +4232,17 @@
         {
             "id": 102003,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 21,
-                "pow": 7,
-                "armor": 5
+                "magical_shield": 13,
+                "pow": 15,
+                "max_hp": 31,
+                "physical_shield": 13
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1020031,
@@ -4198,16 +4254,17 @@
         {
             "id": 102004,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 10,
-                "max_hp": 42,
-                "pow": 13
+                "magical_shield": 21,
+                "pow": 25,
+                "max_hp": 52,
+                "physical_shield": 21
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1020041,
@@ -4219,17 +4276,17 @@
         {
             "id": 102005,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
+                "physical_shield": 25,
                 "max_hp": 63,
-                "armor": 15,
-                "pow": 20,
-                "crit": 20
+                "magical_shield": 25,
+                "pow": 30
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1020051,
@@ -4241,17 +4298,17 @@
         {
             "id": 102006,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
-                "max_hp": 84,
-                "armor": 20,
-                "pow": 26
+                "magical_shield": 29,
+                "physical_shield": 29,
+                "pow": 35,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1020061,
@@ -4263,17 +4320,17 @@
         {
             "id": 102007,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 105,
-                "pow": 33,
-                "crit": 20,
-                "armor": 25
+                "pow": 35,
+                "max_hp": 73,
+                "physical_shield": 29,
+                "magical_shield": 29
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1020071,
@@ -4285,17 +4342,17 @@
         {
             "id": 102008,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "max_hp": 147,
-                "armor": 30,
-                "crit_mult": 30,
-                "pow": 46
+                "max_hp": 84,
+                "magical_shield": 33,
+                "pow": 40,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1020081,
@@ -4307,17 +4364,17 @@
         {
             "id": 102009,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 189,
-                "armor": 40,
-                "pow": 59,
-                "crit": 20
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40,
+                "max_hp": 84
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1020091,
@@ -4329,17 +4386,17 @@
         {
             "id": 102010,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 231,
-                "crit_mult": 30,
-                "armor": 50,
-                "pow": 72
+                "pow": 40,
+                "max_hp": 84,
+                "magical_shield": 33,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1020101,
@@ -4351,17 +4408,17 @@
         {
             "id": 102011,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "crit": 20,
-                "armor": 60,
-                "max_hp": 273,
-                "pow": 85
+                "pow": 40,
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1020111,
@@ -4373,7 +4430,7 @@
         {
             "id": 102101,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -4386,13 +4443,14 @@
         {
             "id": 102102,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "max_hp": 22,
-                "armor": 6,
-                "pow": 7
+                "pow": 10,
+                "max_hp": 21,
+                "physical_shield": 8,
+                "magical_shield": 8
             },
             "itemList": {
                 "2": 5000
@@ -4407,16 +4465,17 @@
         {
             "id": 102103,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 22,
-                "pow": 7,
-                "armor": 6
+                "physical_shield": 13,
+                "magical_shield": 13,
+                "pow": 15,
+                "max_hp": 31
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1021031,
@@ -4428,16 +4487,17 @@
         {
             "id": 102104,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 11,
-                "max_hp": 44,
-                "pow": 13
+                "physical_shield": 21,
+                "magical_shield": 21,
+                "max_hp": 52,
+                "pow": 25
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1021041,
@@ -4449,17 +4509,17 @@
         {
             "id": 102105,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "crit": 20,
-                "armor": 17,
-                "max_hp": 66,
-                "pow": 20
+                "physical_shield": 25,
+                "magical_shield": 25,
+                "max_hp": 63,
+                "pow": 30
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1021051,
@@ -4471,17 +4531,17 @@
         {
             "id": 102106,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 22,
-                "max_hp": 88,
-                "pow": 26
+                "pow": 35,
+                "max_hp": 73,
+                "magical_shield": 29,
+                "physical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1021061,
@@ -4493,17 +4553,17 @@
         {
             "id": 102107,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 110,
-                "pow": 33,
-                "crit": 20,
-                "armor": 28
+                "max_hp": 73,
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1021071,
@@ -4515,17 +4575,17 @@
         {
             "id": 102108,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 33,
-                "max_hp": 154,
-                "pow": 46
+                "physical_shield": 33,
+                "max_hp": 84,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1021081,
@@ -4537,17 +4597,17 @@
         {
             "id": 102109,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 198,
-                "armor": 44,
-                "pow": 59,
-                "crit": 20
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1021091,
@@ -4559,17 +4619,17 @@
         {
             "id": 102110,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 55,
-                "max_hp": 242,
-                "pow": 72
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1021101,
@@ -4581,17 +4641,17 @@
         {
             "id": 102111,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "armor": 66,
-                "max_hp": 286,
-                "pow": 85,
-                "crit": 20
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1021111,
@@ -4603,7 +4663,7 @@
         {
             "id": 103001,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -4616,13 +4676,14 @@
         {
             "id": 103002,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "armor": 6,
-                "max_hp": 22,
-                "pow": 5
+                "max_hp": 21,
+                "magical_shield": 8,
+                "physical_shield": 8,
+                "pow": 10
             },
             "itemList": {
                 "2": 5000
@@ -4637,16 +4698,17 @@
         {
             "id": 103003,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 22,
-                "pow": 5,
-                "armor": 6
+                "max_hp": 31,
+                "physical_shield": 13,
+                "magical_shield": 13,
+                "pow": 15
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1030031,
@@ -4658,16 +4720,17 @@
         {
             "id": 103004,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "armor": 12,
-                "pow": 10,
-                "max_hp": 44
+                "max_hp": 52,
+                "physical_shield": 21,
+                "magical_shield": 21,
+                "pow": 25
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1030041,
@@ -4679,17 +4742,17 @@
         {
             "id": 103005,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "max_hp": 66,
-                "pow": 15,
-                "crit": 20,
-                "armor": 18
+                "magical_shield": 25,
+                "max_hp": 63,
+                "pow": 30,
+                "physical_shield": 25
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1030051,
@@ -4701,17 +4764,17 @@
         {
             "id": 103006,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 24,
-                "max_hp": 88,
-                "pow": 20
+                "pow": 35,
+                "magical_shield": 29,
+                "max_hp": 73,
+                "physical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1030061,
@@ -4723,17 +4786,17 @@
         {
             "id": 103007,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "max_hp": 110,
-                "armor": 30,
-                "pow": 25,
-                "crit": 20
+                "physical_shield": 29,
+                "magical_shield": 29,
+                "pow": 35,
+                "max_hp": 73
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1030071,
@@ -4745,17 +4808,17 @@
         {
             "id": 103008,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "armor": 36,
-                "crit_mult": 30,
-                "max_hp": 154,
-                "pow": 35
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1030081,
@@ -4767,17 +4830,17 @@
         {
             "id": 103009,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "max_hp": 198,
-                "pow": 45,
-                "armor": 48,
-                "crit": 20
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1030091,
@@ -4789,17 +4852,17 @@
         {
             "id": 103010,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "max_hp": 242,
-                "pow": 55,
-                "crit_mult": 30,
-                "armor": 60
+                "magical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1030101,
@@ -4811,17 +4874,17 @@
         {
             "id": 103011,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "armor": 72,
-                "pow": 65,
-                "max_hp": 286,
-                "crit": 20
+                "physical_shield": 33,
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1030111,
@@ -4833,7 +4896,7 @@
         {
             "id": 103101,
             "name": {
-                "id": "4418"
+                "id": "135"
             },
             "icon": "mind_rank_01",
             "nodeList": [
@@ -4846,13 +4909,14 @@
         {
             "id": 103102,
             "name": {
-                "id": "4419"
+                "id": "136"
             },
             "icon": "mind_rank_02",
             "propertyList": {
-                "max_hp": 19,
-                "pow": 6,
-                "armor": 5
+                "magical_shield": 8,
+                "max_hp": 21,
+                "pow": 10,
+                "physical_shield": 8
             },
             "itemList": {
                 "2": 5000
@@ -4867,16 +4931,17 @@
         {
             "id": 103103,
             "name": {
-                "id": "4420"
+                "id": "137"
             },
             "icon": "mind_rank_03",
             "propertyList": {
-                "max_hp": 19,
-                "pow": 6,
-                "armor": 5
+                "max_hp": 31,
+                "magical_shield": 13,
+                "pow": 15,
+                "physical_shield": 13
             },
             "itemList": {
-                "2": 10000
+                "2": 15000
             },
             "nodeList": [
                 1031031,
@@ -4888,16 +4953,17 @@
         {
             "id": 103104,
             "name": {
-                "id": "4421"
+                "id": "138"
             },
             "icon": "mind_rank_04",
             "propertyList": {
-                "max_hp": 38,
-                "pow": 11,
-                "armor": 10
+                "magical_shield": 21,
+                "max_hp": 52,
+                "physical_shield": 21,
+                "pow": 25
             },
             "itemList": {
-                "2": 15000
+                "2": 30000
             },
             "nodeList": [
                 1031041,
@@ -4909,17 +4975,17 @@
         {
             "id": 103105,
             "name": {
-                "id": "4422"
+                "id": "139"
             },
             "icon": "mind_rank_05",
             "propertyList": {
-                "armor": 15,
-                "pow": 17,
-                "max_hp": 57,
-                "crit": 20
+                "magical_shield": 25,
+                "pow": 30,
+                "physical_shield": 25,
+                "max_hp": 63
             },
             "itemList": {
-                "2": 20000
+                "2": 60000
             },
             "nodeList": [
                 1031051,
@@ -4931,17 +4997,17 @@
         {
             "id": 103106,
             "name": {
-                "id": "4423"
+                "id": "140"
             },
             "icon": "mind_rank_06",
             "propertyList": {
-                "max_hp": 76,
-                "crit_mult": 30,
-                "pow": 22,
-                "armor": 20
+                "pow": 35,
+                "max_hp": 73,
+                "physical_shield": 29,
+                "magical_shield": 29
             },
             "itemList": {
-                "2": 25000
+                "2": 90000
             },
             "nodeList": [
                 1031061,
@@ -4953,17 +5019,17 @@
         {
             "id": 103107,
             "name": {
-                "id": "4424"
+                "id": "141"
             },
             "icon": "mind_rank_07",
             "propertyList": {
-                "armor": 25,
-                "max_hp": 95,
-                "pow": 28,
-                "crit": 20
+                "physical_shield": 29,
+                "max_hp": 73,
+                "magical_shield": 29,
+                "pow": 35
             },
             "itemList": {
-                "2": 30000
+                "2": 120000
             },
             "nodeList": [
                 1031071,
@@ -4975,17 +5041,17 @@
         {
             "id": 103108,
             "name": {
-                "id": "4425"
+                "id": "143"
             },
             "icon": "mind_rank_08",
             "propertyList": {
-                "crit_mult": 30,
-                "armor": 30,
-                "max_hp": 133,
-                "pow": 39
+                "max_hp": 84,
+                "physical_shield": 33,
+                "magical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 35000
+                "2": 160000
             },
             "nodeList": [
                 1031081,
@@ -4997,17 +5063,17 @@
         {
             "id": 103109,
             "name": {
-                "id": "4426"
+                "id": "145"
             },
             "icon": "mind_rank_09",
             "propertyList": {
-                "crit": 20,
-                "max_hp": 171,
-                "pow": 50,
-                "armor": 40
+                "magical_shield": 33,
+                "max_hp": 84,
+                "physical_shield": 33,
+                "pow": 40
             },
             "itemList": {
-                "2": 40000
+                "2": 200000
             },
             "nodeList": [
                 1031091,
@@ -5019,17 +5085,17 @@
         {
             "id": 103110,
             "name": {
-                "id": "4427"
+                "id": "147"
             },
             "icon": "mind_rank_10",
             "propertyList": {
-                "pow": 61,
-                "crit_mult": 30,
-                "max_hp": 209,
-                "armor": 50
+                "max_hp": 84,
+                "pow": 40,
+                "magical_shield": 33,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 45000
+                "2": 250000
             },
             "nodeList": [
                 1031101,
@@ -5041,17 +5107,17 @@
         {
             "id": 103111,
             "name": {
-                "id": "4428"
+                "id": "150"
             },
             "icon": "mind_rank_11",
             "propertyList": {
-                "pow": 72,
-                "max_hp": 247,
-                "armor": 60,
-                "crit": 20
+                "pow": 40,
+                "max_hp": 84,
+                "magical_shield": 33,
+                "physical_shield": 33
             },
             "itemList": {
-                "2": 50000
+                "2": 300000
             },
             "nodeList": [
                 1031111,

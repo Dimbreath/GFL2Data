@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "id": 1011,
+            "groupId": 1010,
+            "skillLevel": 1,
+            "skillList": "1011",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1012,
+            "groupId": 1010,
+            "skillLevel": 2,
+            "skillList": "1012",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1013,
+            "groupId": 1010,
+            "skillLevel": 3,
+            "skillList": "1013",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1014,
+            "groupId": 1010,
+            "skillLevel": 4,
+            "skillList": "1014",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1015,
+            "groupId": 1010,
+            "skillLevel": 5,
+            "skillList": "1015",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1016,
+            "groupId": 1010,
+            "skillLevel": 6,
+            "skillList": "1016",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1021,
+            "groupId": 1020,
+            "skillLevel": 1,
+            "skillList": "1021",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1022,
+            "groupId": 1020,
+            "skillLevel": 2,
+            "skillList": "1022",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1023,
+            "groupId": 1020,
+            "skillLevel": 3,
+            "skillList": "1023",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1024,
+            "groupId": 1020,
+            "skillLevel": 4,
+            "skillList": "1024",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1025,
+            "groupId": 1020,
+            "skillLevel": 5,
+            "skillList": "1025",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1026,
+            "groupId": 1020,
+            "skillLevel": 6,
+            "skillList": "1026",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1031,
+            "groupId": 1030,
+            "skillLevel": 1,
+            "skillList": "1031",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1032,
+            "groupId": 1030,
+            "skillLevel": 2,
+            "skillList": "1032",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1033,
+            "groupId": 1030,
+            "skillLevel": 3,
+            "skillList": "1033",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1034,
+            "groupId": 1030,
+            "skillLevel": 4,
+            "skillList": "1034",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1035,
+            "groupId": 1030,
+            "skillLevel": 5,
+            "skillList": "1035",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1036,
+            "groupId": 1030,
+            "skillLevel": 6,
+            "skillList": "1036",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1081,
+            "groupId": 1080,
+            "skillLevel": 1,
+            "skillList": "1081",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1082,
+            "groupId": 1080,
+            "skillLevel": 2,
+            "skillList": "1082",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1083,
+            "groupId": 1080,
+            "skillLevel": 3,
+            "skillList": "1083",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1084,
+            "groupId": 1080,
+            "skillLevel": 4,
+            "skillList": "1084",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1085,
+            "groupId": 1080,
+            "skillLevel": 5,
+            "skillList": "1085",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1086,
+            "groupId": 1080,
+            "skillLevel": 6,
+            "skillList": "1086",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1091,
+            "groupId": 1090,
+            "skillLevel": 1,
+            "skillList": "1091",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1092,
+            "groupId": 1090,
+            "skillLevel": 2,
+            "skillList": "1092",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1093,
+            "groupId": 1090,
+            "skillLevel": 3,
+            "skillList": "1093",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1094,
+            "groupId": 1090,
+            "skillLevel": 4,
+            "skillList": "1094",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1095,
+            "groupId": 1090,
+            "skillLevel": 5,
+            "skillList": "1095",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        },
+        {
+            "id": 1096,
+            "groupId": 1090,
+            "skillLevel": 6,
+            "skillList": "1096",
+            "skillDescription": {
+                "id": "411"
+            },
+            "lvupDescription": {
+                "id": "411"
+            }
+        }
+    ]
+}

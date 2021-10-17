@@ -4,7 +4,7 @@
             "id": 1,
             "effectPath": "Assets/ArtsResource/Scene/Items/GuideArea.prefab",
             "name": "撤离",
-            "description": "通过撤离区域撤离战场。"
+            "description": "抵达该区域，撤离战场。"
         },
         {
             "id": 2,
@@ -13,15 +13,16 @@
             ],
             "effectPath": "Assets/ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
             "name": "拾取",
-            "description": "拾取任务物品。"
+            "description": "拾取1个指定物品，并可立刻获得1次<color=#00a0e9>行动追加</color>。"
         },
         {
             "id": 3,
             "skillGroupList": [
                 50801
             ],
-            "name": "侵入",
-            "description": "侵入目标设备。"
+            "effectPath": "Assets/ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "name": "接入",
+            "description": "抵达该区域，接入数据流，并可立刻获得1次<color=#00a0e9>行动追加</color>。"
         },
         {
             "id": 4,
@@ -37,24 +38,27 @@
             "skillGroupList": [
                 50801
             ],
+            "effectPath": "Assets/ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
             "name": "探索",
-            "description": "探索目标点位。"
+            "description": "抵达该区域，探索附近地区，并可立刻获得1次<color=#00a0e9>行动追加</color>。"
         },
         {
             "id": 6,
             "skillGroupList": [
                 50801
             ],
+            "effectPath": "Assets/ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
             "name": "埋设",
-            "description": "在当前位置埋设炸药。"
+            "description": "抵达该区域，设置爆破点，并可立刻获得1次<color=#00a0e9>行动追加</color>。"
         },
         {
             "id": 7,
             "skillGroupList": [
                 50801
             ],
-            "name": "通讯装置零件",
-            "description": "拾取零件，并可再次行动1次。"
+            "effectPath": "Assets/ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
+            "name": "回收",
+            "description": "抵达该区域，回收零件，并可立刻获得1次<color=#00a0e9>行动追加</color>。"
         },
         {
             "id": 101,
@@ -84,8 +88,8 @@
             "skillGroupList": [
                 50701
             ],
-            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Add.prefab",
-            "name": "分析单元",
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+            "name": "分析单元V",
             "description": "点击并激活装置，立刻获得<color=#f0af14>10点</color>导染指数和1次<color=#00a0e9>行动追加</color>。"
         },
         {
@@ -95,7 +99,7 @@
             ],
             "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
             "name": "清除程序",
-            "description": "点击并激活装置，立刻清除战场内所有友方单位被施加的减益效果，并获得一次<color=#00a0e9>行动追加</color>。"
+            "description": "点击并激活装置，立刻清除战场内所有友方单位被施加的减益效果。"
         },
         {
             "id": 107,
@@ -107,8 +111,108 @@
             "skillGroupList": [
                 50801
             ],
+            "effectPath": "Assets/ArtsResource/Effect/UI/SLGInteraction/SLGInteraction.prefab",
             "name": "拾取",
-            "description": "拾取物品<color=#ec8a33>进度+1</color>，并可再次行动<color=#ec8a33>1回合</color>。"
+            "description": "拾取指定物品<color=#ec8a33>进度+1</color>，并可立刻获得1次<color=#ec8a33>行动追加</color>。"
+        },
+        {
+            "id": 1041,
+            "skillGroupList": [
+                50702
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+            "name": "分析单元I",
+            "description": "点击并激活装置，立刻获得<color=#f0af14>5点</color>导染指数和1次<color=#00a0e9>行动追加</color>。"
+        },
+        {
+            "id": 1042,
+            "skillGroupList": [
+                50703
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+            "name": "分析单元II",
+            "description": "点击并激活装置，立刻获得<color=#f0af14>7点</color>导染指数和1次<color=#00a0e10>行动追加</color>。"
+        },
+        {
+            "id": 1043,
+            "skillGroupList": [
+                50704
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+            "name": "分析单元III",
+            "description": "点击并激活装置，立刻获得<color=#f0af14>8点</color>导染指数和1次<color=#00a0e11>行动追加</color>。"
+        },
+        {
+            "id": 1044,
+            "skillGroupList": [
+                50705
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+            "name": "分析单元IV",
+            "description": "点击并激活装置，立刻获得<color=#f0af14>9点</color>导染指数和1次<color=#00a0e12>行动追加</color>。"
+        },
+        {
+            "id": 1045,
+            "skillGroupList": [
+                50706
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+            "name": "分析单元V",
+            "description": "点击并激活装置，立刻获得<color=#f0af14>10点</color>导染指数和1次<color=#00a0e12>行动追加</color>。"
+        },
+        {
+            "id": 1081,
+            "skillGroupList": [
+                50202
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+            "name": "维修组件I",
+            "description": "点击并激活装置，立刻回复激活者<color=#f0af14>50%</color>的生命，并获得1次<color=#00a0e9>行动追加</color>。"
+        },
+        {
+            "id": 1082,
+            "skillGroupList": [
+                50203
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+            "name": "维修组件II",
+            "description": "点击并激活装置，立刻回复激活者<color=#f0af14>50%</color>的生命，并获得1次<color=#00a0e9>行动追加</color>。"
+        },
+        {
+            "id": 1083,
+            "skillGroupList": [
+                50204
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+            "name": "维修组件III",
+            "description": "点击并激活装置，立刻回复激活者<color=#f0af14>50%</color>的生命，并获得1次<color=#00a0e9>行动追加</color>。"
+        },
+        {
+            "id": 1084,
+            "skillGroupList": [
+                50205
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+            "name": "维修组件IV",
+            "description": "点击并激活装置，立刻回复激活者<color=#f0af14>50%</color>的生命，并获得1次<color=#00a0e9>行动追加</color>。"
+        },
+        {
+            "id": 1085,
+            "skillGroupList": [
+                50206
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+            "name": "维修组件V",
+            "description": "点击并激活装置，立刻回复激活者<color=#f0af14>50%</color>的生命，并获得1次<color=#00a0e9>行动追加</color>。"
+        },
+        {
+            "id": 1086,
+            "skillGroupList": [
+                50207
+            ],
+            "effectPath": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+            "name": "维修组件VI",
+            "description": "点击并激活装置，立刻回复激活者<color=#f0af14>50%</color>的生命，并获得1次<color=#00a0e9>行动追加</color>。"
         }
     ]
 }

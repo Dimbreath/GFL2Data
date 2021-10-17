@@ -3,18 +3,19 @@
         {
             "type": 1,
             "typeName": {
-                "id": "2210"
+                "id": "4784"
             },
             "typeEnglishName": "DAY TASK",
             "typeBg": "NewTask_Daily_decorationBG",
             "typeBgIcon": "NewTask_Daily_decorationImage",
             "typeTaskIcon": "DailyTask_Icon_03",
-            "sequence": 4
+            "sequence": 4,
+            "unlock": 24002
         },
         {
             "type": 2,
             "typeName": {
-                "id": "2211"
+                "id": "4785"
             },
             "typeEnglishName": "WEEK TASK",
             "typeBg": "NewTask_Daily_decorationBG",
@@ -24,13 +25,14 @@
         {
             "type": 3,
             "typeName": {
-                "id": "2212"
+                "id": "4786"
             },
             "typeEnglishName": "DUIDE TASK",
             "typeBg": "NewTask_Week_decorationBG",
             "typeBgIcon": "NewTask_Week_decorationImage",
             "typeTaskIcon": "GrowUpTask_Icon_01",
-            "sequence": 2
+            "sequence": 2,
+            "unlock": 24001
         }
     ]
 }

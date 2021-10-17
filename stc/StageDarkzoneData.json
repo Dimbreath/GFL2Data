@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "id": 101,
+            "scene": "Main\\Green\\l_main_green_SatelliteTown_01",
+            "transferPos": "52,0.1,33,102|33,0.1,36,104",
+            "transfertoPos": "50,0,34|36,0,34",
+            "sceneTimeSuffix": "_morning1",
+            "sceneLightingTimeSuffix": "Morning",
+            "sceneLightingWeatherSuffix": "A",
+            "climate": 1,
+            "bgmId": 10,
+            "soundId": "90004"
+        },
+        {
+            "id": 102,
+            "scene": "Main\\Yellow\\l_main_yellow_abandonedTown_03",
+            "transferPos": "52,0.1,33,101|33,0.1,36,103",
+            "transfertoPos": "50,0,34|36,0,34",
+            "sceneTimeSuffix": "_morning1",
+            "sceneLightingTimeSuffix": "Morning",
+            "sceneLightingWeatherSuffix": "A",
+            "climate": 1,
+            "bgmId": 10,
+            "soundId": "90004"
+        },
+        {
+            "id": 103,
+            "scene": "Main\\Yellow\\l_main_yellow_port_01",
+            "transferPos": "52,0.1,33,106|33,0.1,36,102",
+            "transfertoPos": "50,0,34|36,0,34",
+            "sceneTimeSuffix": "_morning1",
+            "sceneLightingTimeSuffix": "Morning",
+            "sceneLightingWeatherSuffix": "C",
+            "climate": 1,
+            "bgmId": 10,
+            "soundId": "90006"
+        },
+        {
+            "id": 104,
+            "scene": "Main\\Purify\\l_main_purify_hospital_01",
+            "transferPos": "52,0.1,33,107|33,0.1,36,104|43,0.1,30,105",
+            "transfertoPos": "50,0,34|36,0,34|42,0,31",
+            "sceneTimeSuffix": "_morning1",
+            "sceneLightingTimeSuffix": "Dusk",
+            "sceneLightingWeatherSuffix": "A",
+            "climate": 1,
+            "bgmId": 11,
+            "soundId": "90004"
+        },
+        {
+            "id": 105,
+            "scene": "Main\\Yellow\\l_main_yellow_abandonedTown_03",
+            "transferPos": "43,0.1,30,104|44,0.1,62,106",
+            "transfertoPos": "50,0,34|36,0,34",
+            "sceneTimeSuffix": "_morning1",
+            "sceneLightingTimeSuffix": "Dusk",
+            "sceneLightingWeatherSuffix": "A",
+            "climate": 1,
+            "bgmId": 11,
+            "soundId": "90003"
+        },
+        {
+            "id": 106,
+            "scene": "Main\\Yellow\\l_main_yellow_port_02",
+            "transferPos": "52,0.1,33,103|33,0.1,36,109|44,0.1,62,105",
+            "transfertoPos": "50,0,34|36,0,34|44,0,60",
+            "sceneTimeSuffix": "_morning1",
+            "sceneLightingTimeSuffix": "Morning",
+            "sceneLightingWeatherSuffix": "A",
+            "climate": 1,
+            "bgmId": 10,
+            "soundId": "90005"
+        },
+        {
+            "id": 107,
+            "scene": "Main\\Yellow\\l_main_yellow_general_01",
+            "transferPos": "52,0.1,33,104|33,0.1,36,108",
+            "transfertoPos": "50,0,34|36,0,34",
+            "sceneTimeSuffix": "_morning1",
+            "sceneLightingTimeSuffix": "Morning",
+            "sceneLightingWeatherSuffix": "B",
+            "climate": 1,
+            "bgmId": 10,
+            "soundId": "90005"
+        },
+        {
+            "id": 108,
+            "scene": "Main\\Yellow\\l_main_yellow_abandonedTown_01",
+            "transferPos": "52,0.1,33,107|33,0.1,36,109",
+            "transfertoPos": "50,0,34|36,0,34",
+            "sceneTimeSuffix": "_morning1",
+            "sceneLightingTimeSuffix": "Morning",
+            "sceneLightingWeatherSuffix": "A",
+            "climate": 1,
+            "bgmId": 11,
+            "soundId": "90003"
+        },
+        {
+            "id": 109,
+            "scene": "Main\\Yellow\\l_main_yellow_port_03",
+            "transferPos": "52,0.1,33,106|33,0.1,36,108",
+            "transfertoPos": "50,0,34|36,0,34",
+            "sceneTimeSuffix": "_morning1",
+            "sceneLightingTimeSuffix": "Morning",
+            "sceneLightingWeatherSuffix": "A",
+            "climate": 1,
+            "bgmId": 11,
+            "soundId": "90003"
+        }
+    ]
+}

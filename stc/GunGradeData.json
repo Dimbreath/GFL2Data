@@ -1,0 +1,1492 @@
+{
+    "data": [
+        {
+            "id": 100101,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10010401,
+                10010701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 100102,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10010402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "192"
+            }
+        },
+        {
+            "id": 100103,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10010801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "195"
+            }
+        },
+        {
+            "id": 100104,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10010702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "199"
+            }
+        },
+        {
+            "id": 100105,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10010403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "202"
+            }
+        },
+        {
+            "id": 100106,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10010802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "205"
+            }
+        },
+        {
+            "id": 100201,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10020401,
+                10020701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 100202,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10020402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "208"
+            }
+        },
+        {
+            "id": 100203,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10020801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "227"
+            }
+        },
+        {
+            "id": 100204,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10020702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "228"
+            }
+        },
+        {
+            "id": 100205,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10020403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "229"
+            }
+        },
+        {
+            "id": 100206,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10020802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "230"
+            }
+        },
+        {
+            "id": 100301,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10030401,
+                10030701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 100302,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10030402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "231"
+            }
+        },
+        {
+            "id": 100303,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10030801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "232"
+            }
+        },
+        {
+            "id": 100304,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10030702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "233"
+            }
+        },
+        {
+            "id": 100305,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10030403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "234"
+            }
+        },
+        {
+            "id": 100306,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10030802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "235"
+            }
+        },
+        {
+            "id": 100401,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10040401,
+                10040701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 100402,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10040402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "236"
+            }
+        },
+        {
+            "id": 100403,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10040801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "237"
+            }
+        },
+        {
+            "id": 100404,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10040702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "238"
+            }
+        },
+        {
+            "id": 100405,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10040403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "239"
+            }
+        },
+        {
+            "id": 100406,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10040802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "240"
+            }
+        },
+        {
+            "id": 100501,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10050401,
+                10050701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 100502,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10050402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "241"
+            }
+        },
+        {
+            "id": 100503,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10050801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "242"
+            }
+        },
+        {
+            "id": 100504,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10050702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "243"
+            }
+        },
+        {
+            "id": 100505,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10050403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "244"
+            }
+        },
+        {
+            "id": 100506,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10050802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "245"
+            }
+        },
+        {
+            "id": 100601,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10060401,
+                10060701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 100602,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10060402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "246"
+            }
+        },
+        {
+            "id": 100603,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10060801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "247"
+            }
+        },
+        {
+            "id": 100604,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10060702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "248"
+            }
+        },
+        {
+            "id": 100605,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10060403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "249"
+            }
+        },
+        {
+            "id": 100606,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10060802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "250"
+            }
+        },
+        {
+            "id": 100701,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10070701,
+                10070401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 100801,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10080401,
+                10080801
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 100802,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10080402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "252"
+            }
+        },
+        {
+            "id": 100803,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10080701
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "253"
+            }
+        },
+        {
+            "id": 100804,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10080802
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "254"
+            }
+        },
+        {
+            "id": 100805,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10080403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "255"
+            }
+        },
+        {
+            "id": 100806,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10080702
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "256"
+            }
+        },
+        {
+            "id": 100901,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10090401,
+                10090701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 100902,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10090402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "257"
+            }
+        },
+        {
+            "id": 100903,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10090801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "258"
+            }
+        },
+        {
+            "id": 100904,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10090702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "259"
+            }
+        },
+        {
+            "id": 100905,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10090403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "260"
+            }
+        },
+        {
+            "id": 100906,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10090802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "261"
+            }
+        },
+        {
+            "id": 101001,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10100701,
+                10100401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 101101,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10110401,
+                10110801
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 101102,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10110402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "262"
+            }
+        },
+        {
+            "id": 101103,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10110701
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "263"
+            }
+        },
+        {
+            "id": 101104,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10110802
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "264"
+            }
+        },
+        {
+            "id": 101105,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10110403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "265"
+            }
+        },
+        {
+            "id": 101106,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10110702
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "266"
+            }
+        },
+        {
+            "id": 101201,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10120401,
+                10120701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 101202,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10120402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "267"
+            }
+        },
+        {
+            "id": 101203,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10120801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "268"
+            }
+        },
+        {
+            "id": 101204,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10120702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "269"
+            }
+        },
+        {
+            "id": 101205,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10120403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "270"
+            }
+        },
+        {
+            "id": 101206,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10120802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "271"
+            }
+        },
+        {
+            "id": 101301,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10130701,
+                10130401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 101401,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10140401,
+                10140701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 101402,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10140402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "272"
+            }
+        },
+        {
+            "id": 101403,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10140801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "273"
+            }
+        },
+        {
+            "id": 101404,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10140702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "274"
+            }
+        },
+        {
+            "id": 101405,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10140403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "275"
+            }
+        },
+        {
+            "id": 101406,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10140802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "276"
+            }
+        },
+        {
+            "id": 101501,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10150401,
+                10150701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 101502,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10150402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "277"
+            }
+        },
+        {
+            "id": 101503,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10150801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "278"
+            }
+        },
+        {
+            "id": 101504,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10150702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "279"
+            }
+        },
+        {
+            "id": 101505,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10150403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "280"
+            }
+        },
+        {
+            "id": 101506,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10150802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "281"
+            }
+        },
+        {
+            "id": 101601,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10160401,
+                10160701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 101602,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10160402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "282"
+            }
+        },
+        {
+            "id": 101603,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10160801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "283"
+            }
+        },
+        {
+            "id": 101604,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10160702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "284"
+            }
+        },
+        {
+            "id": 101605,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10160403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "285"
+            }
+        },
+        {
+            "id": 101606,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10160802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "286"
+            }
+        },
+        {
+            "id": 101701,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10170401,
+                10170701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 101702,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10170402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "287"
+            }
+        },
+        {
+            "id": 101703,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10170801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "288"
+            }
+        },
+        {
+            "id": 101704,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10170702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "289"
+            }
+        },
+        {
+            "id": 101705,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10170403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "290"
+            }
+        },
+        {
+            "id": 101706,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10170802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "291"
+            }
+        },
+        {
+            "id": 101901,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10190401,
+                10190701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 101902,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10190402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "292"
+            }
+        },
+        {
+            "id": 101903,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10190801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "293"
+            }
+        },
+        {
+            "id": 101904,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10190702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "294"
+            }
+        },
+        {
+            "id": 101905,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10190403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "295"
+            }
+        },
+        {
+            "id": 101906,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10190802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "296"
+            }
+        },
+        {
+            "id": 102001,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10200701,
+                10200401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 102101,
+            "name": {
+                "id": "186"
+            },
+            "abbr": [
+                10210401,
+                10210701
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "189"
+            }
+        },
+        {
+            "id": 102102,
+            "name": {
+                "id": "190"
+            },
+            "abbr": [
+                10210402
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "297"
+            }
+        },
+        {
+            "id": 102103,
+            "name": {
+                "id": "193"
+            },
+            "abbr": [
+                10210801
+            ],
+            "icon": "Combat_GunTypeIcon_3",
+            "description": {
+                "id": "298"
+            }
+        },
+        {
+            "id": 102104,
+            "name": {
+                "id": "196"
+            },
+            "abbr": [
+                10210702
+            ],
+            "icon": "Combat_GunTypeIcon_4",
+            "description": {
+                "id": "299"
+            }
+        },
+        {
+            "id": 102105,
+            "name": {
+                "id": "200"
+            },
+            "abbr": [
+                10210403
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "300"
+            }
+        },
+        {
+            "id": 102106,
+            "name": {
+                "id": "203"
+            },
+            "abbr": [
+                10210802
+            ],
+            "icon": "Combat_GunTypeIcon_2",
+            "description": {
+                "id": "301"
+            }
+        },
+        {
+            "id": 103001,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10300701,
+                10300401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 103101,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10310701,
+                10310401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 109001,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10900401,
+                10900401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 110801,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10030701,
+                10030401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 110901,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10090701,
+                10090401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 111101,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10110701,
+                10110401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 111501,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10150701,
+                10150401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 120801,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10030701,
+                10030401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 120901,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10090701,
+                10090401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 121101,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10110701,
+                10110401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 121501,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10150701,
+                10150401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        },
+        {
+            "id": 9100401,
+            "name": {
+                "id": "251"
+            },
+            "abbr": [
+                10040701,
+                10040401
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": {
+                "id": "251"
+            }
+        }
+    ]
+}

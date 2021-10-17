@@ -7,24 +7,24 @@
             "duty": 1,
             "skillNormalAttack": 6120101,
             "skillTalentExtra": [
+                20030101,
                 6100501
             ],
             "aiList": [
                 611001
             ],
             "rank": 1,
-            "propertyGroup": 1002,
+            "propertyGroup": 1001,
             "name": {
-                "id": "409"
+                "id": "3693"
             },
             "joke": {
-                "id": "410"
+                "id": "3694"
             },
             "description": {
-                "id": "411"
+                "id": "3694"
             },
             "textIndex": [
-                101,
                 29
             ],
             "characterPic": "Felagi_Shoot",
@@ -44,6 +44,7 @@
             "skillActive": 6121202,
             "skillTalent": 6121301,
             "skillTalentExtra": [
+                20030101,
                 6100501
             ],
             "aiList": [
@@ -52,16 +53,15 @@
             "rank": 1,
             "propertyGroup": 1002,
             "name": {
-                "id": "412"
+                "id": "3695"
             },
             "joke": {
-                "id": "413"
+                "id": "3696"
             },
             "description": {
-                "id": "414"
+                "id": "3696"
             },
             "textIndex": [
-                101,
                 30,
                 31
             ],
@@ -81,24 +81,24 @@
             "skillNormalAttack": 6112101,
             "skillActive": 6122202,
             "skillTalentExtra": [
+                20030101,
                 6100501
             ],
             "aiList": [
                 611201
             ],
             "rank": 1,
-            "propertyGroup": 1002,
+            "propertyGroup": 1003,
             "name": {
-                "id": "415"
+                "id": "3697"
             },
             "joke": {
-                "id": "416"
+                "id": "3698"
             },
             "description": {
-                "id": "417"
+                "id": "3698"
             },
             "textIndex": [
-                101,
                 32,
                 33
             ],
@@ -117,6 +117,7 @@
             "skillNormalAttack": 6113101,
             "skillTalent": 6123303,
             "skillTalentExtra": [
+                20030101,
                 6123304,
                 6100501
             ],
@@ -124,18 +125,17 @@
                 611301
             ],
             "rank": 1,
-            "propertyGroup": 1003,
+            "propertyGroup": 1005,
             "name": {
-                "id": "418"
+                "id": "3699"
             },
             "joke": {
-                "id": "419"
+                "id": "3700"
             },
             "description": {
-                "id": "420"
+                "id": "3700"
             },
             "textIndex": [
-                101,
                 34,
                 35
             ],
@@ -152,24 +152,27 @@
             "enemyCamp": 1001,
             "duty": 3,
             "skillNormalAttack": 6126101,
-            "skillActive": 6126202,
+            "skillTalent": 6116301,
+            "skillTalentExtra": [
+                20030101,
+                6100501
+            ],
             "skillFaction": 6100502,
             "aiList": [
                 612601
             ],
             "rank": 1,
-            "propertyGroup": 1002,
+            "propertyGroup": 1004,
             "name": {
-                "id": "421"
+                "id": "3701"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "423"
+                "id": "3703"
             },
             "textIndex": [
-                101,
                 26,
                 10
             ],
@@ -186,19 +189,22 @@
             "camp": 1,
             "enemyCamp": 1001,
             "duty": 1,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 612001
             ],
             "rank": 1,
             "propertyGroup": 1102,
             "name": {
-                "id": "424"
+                "id": "3704"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 26,
@@ -217,19 +223,26 @@
             "camp": 1,
             "enemyCamp": 1001,
             "duty": 3,
+            "skillNormalAttack": 6121101,
+            "skillActive": 6121202,
+            "skillTalent": 6121301,
+            "skillTalentExtra": [
+                20030101,
+                6100501
+            ],
             "aiList": [
                 612101
             ],
             "rank": 1,
             "propertyGroup": 1102,
             "name": {
-                "id": "426"
+                "id": "3706"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "427"
+                "id": "3707"
             },
             "textIndex": [
                 26,
@@ -248,19 +261,22 @@
             "camp": 1,
             "enemyCamp": 1001,
             "duty": 2,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 612201
             ],
             "rank": 1,
             "propertyGroup": 1102,
             "name": {
-                "id": "428"
+                "id": "3708"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 26,
@@ -285,13 +301,13 @@
             "rank": 1,
             "propertyGroup": 1103,
             "name": {
-                "id": "429"
+                "id": "3709"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 26,
@@ -316,13 +332,13 @@
             "rank": 1,
             "propertyGroup": 1102,
             "name": {
-                "id": "430"
+                "id": "3710"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 26,
@@ -348,7 +364,7 @@
                 6141201
             ],
             "skillTalentExtra": [
-                6141209,
+                20030101,
                 6100501
             ],
             "skillFaction": 6100501,
@@ -356,18 +372,17 @@
                 614101
             ],
             "rank": 2,
-            "propertyGroup": 1102,
+            "propertyGroup": 1201,
             "name": {
-                "id": "431"
+                "id": "3711"
             },
             "joke": {
-                "id": "432"
+                "id": "3712"
             },
             "description": {
-                "id": "433"
+                "id": "3712"
             },
             "textIndex": [
-                101,
                 32,
                 33,
                 63
@@ -391,20 +406,23 @@
             "skillActiveExtra": [
                 6142204
             ],
+            "skillTalentExtra": [
+                20030101
+            ],
             "skillFaction": 6100501,
             "aiList": [
                 614201
             ],
             "rank": 2,
-            "propertyGroup": 1101,
+            "propertyGroup": 1005,
             "name": {
-                "id": "434"
+                "id": "3713"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "434"
+                "id": "3713"
             },
             "textIndex": [
                 26,
@@ -429,8 +447,9 @@
                 6179207
             ],
             "skillTalentExtra": [
+                20030101,
                 6800501,
-                60000101
+                6100501
             ],
             "skillFaction2": 6169401,
             "aiList": [
@@ -442,13 +461,59 @@
                 99000002
             ],
             "name": {
-                "id": "435"
+                "id": "3714"
             },
             "joke": {
-                "id": "436"
+                "id": "3715"
             },
             "description": {
-                "id": "437"
+                "id": "3715"
+            },
+            "textIndex": [
+                36,
+                37
+            ],
+            "characterPic": "Tosk",
+            "modelCode": 6159,
+            "moveCode": 1,
+            "actionChance": 2,
+            "occupySize": 3,
+            "maxAp": 250,
+            "aiOrderClass": 300
+        },
+        {
+            "id": 6152,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "skillNormalAttack": 6169101,
+            "skillActive": 6169201,
+            "skillTalent": 6269301,
+            "skillActiveExtra": [
+                6179207
+            ],
+            "skillTalentExtra": [
+                20030101,
+                6800501,
+                6100501
+            ],
+            "skillFaction2": 6169401,
+            "aiList": [
+                615101
+            ],
+            "rank": 3,
+            "propertyGroup": 1203,
+            "breakSkill": [
+                99000002
+            ],
+            "name": {
+                "id": "3714"
+            },
+            "joke": {
+                "id": "3715"
+            },
+            "description": {
+                "id": "3715"
             },
             "textIndex": [
                 36,
@@ -474,25 +539,27 @@
                 6179207
             ],
             "skillTalentExtra": [
-                6800501
+                20030101,
+                6800501,
+                6100501
             ],
             "skillFaction2": 6169401,
             "aiList": [
                 617902
             ],
             "rank": 3,
-            "propertyGroup": 1201,
+            "propertyGroup": 1202,
             "breakSkill": [
                 99000002
             ],
             "name": {
-                "id": "438"
+                "id": "3716"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "439"
+                "id": "3717"
             },
             "textIndex": [
                 6,
@@ -522,18 +589,18 @@
                 617902
             ],
             "rank": 3,
-            "propertyGroup": 1201,
+            "propertyGroup": 1202,
             "breakSkill": [
                 99000002
             ],
             "name": {
-                "id": "440"
+                "id": "3718"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "441"
+                "id": "3719"
             },
             "textIndex": [
                 6,
@@ -570,13 +637,13 @@
                 99000002
             ],
             "name": {
-                "id": "442"
+                "id": "3720"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "441"
+                "id": "3719"
             },
             "textIndex": [
                 6,
@@ -603,13 +670,13 @@
             "rank": 1,
             "propertyGroup": 1002,
             "name": {
-                "id": "443"
+                "id": "3721"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "444"
+                "id": "3722"
             },
             "textIndex": [
                 99
@@ -634,13 +701,13 @@
             "rank": 1,
             "propertyGroup": 1002,
             "name": {
-                "id": "445"
+                "id": "3723"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "444"
+                "id": "3722"
             },
             "textIndex": [
                 99
@@ -665,13 +732,13 @@
             "rank": 1,
             "propertyGroup": 1002,
             "name": {
-                "id": "446"
+                "id": "3724"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "444"
+                "id": "3722"
             },
             "textIndex": [
                 99
@@ -696,13 +763,13 @@
             "rank": 1,
             "propertyGroup": 1002,
             "name": {
-                "id": "447"
+                "id": "3725"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "444"
+                "id": "3722"
             },
             "textIndex": [
                 99
@@ -730,13 +797,13 @@
             "rank": 1,
             "propertyGroup": 3102,
             "name": {
-                "id": "448"
+                "id": "3726"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "449"
+                "id": "3727"
             },
             "textIndex": [
                 99
@@ -765,13 +832,13 @@
                 99000001
             ],
             "name": {
-                "id": "450"
+                "id": "3728"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "451"
+                "id": "3729"
             },
             "textIndex": [
                 99
@@ -788,9 +855,10 @@
             "camp": 1,
             "enemyCamp": 1002,
             "duty": 1,
-            "skillNormalAttack": 6210101,
+            "skillNormalAttack": 6212101,
+            "skillActive": 6210101,
             "skillTalentExtra": [
-                6210801,
+                20030101,
                 6200501
             ],
             "skillFaction": 6210505,
@@ -803,16 +871,15 @@
                 99000001
             ],
             "name": {
-                "id": "452"
+                "id": "3730"
             },
             "joke": {
-                "id": "453"
+                "id": "3731"
             },
             "description": {
-                "id": "454"
+                "id": "3731"
             },
             "textIndex": [
-                102,
                 49,
                 66
             ],
@@ -828,8 +895,13 @@
             "camp": 1,
             "enemyCamp": 1002,
             "duty": 1,
+            "skillNormalAttack": 6211101,
+            "skillTalentExtra": [
+                20030101
+            ],
+            "skillFaction": 6210505,
             "aiList": [
-                622101
+                621101
             ],
             "rank": 1,
             "propertyGroup": 2002,
@@ -837,20 +909,20 @@
                 99000001
             ],
             "name": {
-                "id": "455"
+                "id": "3732"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "456"
+                "id": "3733"
             },
             "textIndex": [
                 25,
                 9
             ],
             "characterPic": "Toad",
-            "modelCode": 9106,
+            "modelCode": 6261,
             "moveCode": 11,
             "occupySize": 1,
             "aiOrderClass": 100
@@ -862,7 +934,7 @@
             "duty": 3,
             "skillNormalAttack": 6212101,
             "skillTalentExtra": [
-                6210801,
+                20030101,
                 6200501
             ],
             "skillFaction": 6210505,
@@ -875,16 +947,15 @@
                 99000001
             ],
             "name": {
-                "id": "457"
+                "id": "3734"
             },
             "joke": {
-                "id": "458"
+                "id": "3735"
             },
             "description": {
-                "id": "459"
+                "id": "3735"
             },
             "textIndex": [
-                102,
                 29,
                 66
             ],
@@ -903,6 +974,7 @@
             "skillNormalAttack": 6213101,
             "skillTalent": 6213303,
             "skillTalentExtra": [
+                20030101,
                 6213304,
                 6200501
             ],
@@ -916,16 +988,15 @@
                 99000001
             ],
             "name": {
-                "id": "460"
+                "id": "3736"
             },
             "joke": {
-                "id": "461"
+                "id": "3737"
             },
             "description": {
-                "id": "462"
+                "id": "3737"
             },
             "textIndex": [
-                102,
                 34,
                 35,
                 66
@@ -942,6 +1013,9 @@
             "camp": 1,
             "enemyCamp": 1002,
             "duty": 3,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 622001
             ],
@@ -951,13 +1025,13 @@
                 99000001
             ],
             "name": {
-                "id": "463"
+                "id": "3738"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "464"
+                "id": "3739"
             },
             "textIndex": [
                 14,
@@ -975,6 +1049,9 @@
             "camp": 1,
             "enemyCamp": 1002,
             "duty": 3,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 622101
             ],
@@ -984,13 +1061,13 @@
                 99000001
             ],
             "name": {
-                "id": "465"
+                "id": "3740"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 25,
@@ -1007,6 +1084,9 @@
             "camp": 1,
             "enemyCamp": 1002,
             "duty": 3,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 622201
             ],
@@ -1016,13 +1096,13 @@
                 99000001
             ],
             "name": {
-                "id": "466"
+                "id": "3741"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "467"
+                "id": "3742"
             },
             "textIndex": [
                 25,
@@ -1040,6 +1120,9 @@
             "camp": 1,
             "enemyCamp": 1002,
             "duty": 2,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 622301
             ],
@@ -1049,13 +1132,13 @@
                 99000001
             ],
             "name": {
-                "id": "468"
+                "id": "3743"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 25,
@@ -1076,6 +1159,7 @@
             "skillNormalAttack": 6241500,
             "skillTalent": 6241503,
             "skillTalentExtra": [
+                20030101,
                 6241504,
                 6241507,
                 6241508,
@@ -1086,18 +1170,17 @@
                 624101
             ],
             "rank": 2,
-            "propertyGroup": 2103,
+            "propertyGroup": 2102,
             "name": {
-                "id": "853"
+                "id": "3744"
             },
             "joke": {
-                "id": "854"
+                "id": "3745"
             },
             "description": {
-                "id": "855"
+                "id": "3746"
             },
             "textIndex": [
-                102,
                 64,
                 51,
                 52,
@@ -1118,7 +1201,7 @@
             "skillNormalAttack": 6242101,
             "skillTalent": 6242301,
             "skillTalentExtra": [
-                6242505,
+                20030101,
                 6200501
             ],
             "skillFaction": 6210505,
@@ -1128,16 +1211,15 @@
             "rank": 2,
             "propertyGroup": 2103,
             "name": {
-                "id": "856"
+                "id": "3747"
             },
             "joke": {
-                "id": "857"
+                "id": "3748"
             },
             "description": {
-                "id": "858"
+                "id": "3748"
             },
             "textIndex": [
-                102,
                 65,
                 53,
                 54,
@@ -1158,6 +1240,7 @@
             "skillNormalAttack": 6243501,
             "skillTalent": 6243506,
             "skillTalentExtra": [
+                20030101,
                 6210801,
                 6243507,
                 6200501,
@@ -1165,22 +1248,20 @@
             ],
             "skillFaction": 6210505,
             "aiList": [
-                624301,
-                624302
+                624301
             ],
             "rank": 2,
-            "propertyGroup": 2103,
+            "propertyGroup": 2101,
             "name": {
-                "id": "859"
+                "id": "3749"
             },
             "joke": {
-                "id": "860"
+                "id": "3746"
             },
             "description": {
-                "id": "861"
+                "id": "3745"
             },
             "textIndex": [
-                102,
                 48,
                 49,
                 66
@@ -1189,8 +1270,51 @@
             "modelCode": 6225,
             "moveCode": 11,
             "occupySize": 1,
-            "maxAp": 300,
+            "maxAp": 500,
             "aiOrderClass": 200
+        },
+        {
+            "id": 6244,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 3,
+            "skillNormalAttack": 6269101,
+            "skillActive": 6269201,
+            "skillTalent": 6269301,
+            "skillSuper": 6269401,
+            "skillTalentExtra": [
+                20030101,
+                6800501
+            ],
+            "aiList": [
+                626901
+            ],
+            "rank": 3,
+            "propertyGroup": 2104,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3750"
+            },
+            "joke": {
+                "id": "3751"
+            },
+            "description": {
+                "id": "3752"
+            },
+            "textIndex": [
+                36,
+                37,
+                66
+            ],
+            "characterPic": "Nemertea",
+            "modelCode": 6259,
+            "moveCode": 11,
+            "actionChance": 2,
+            "occupySize": 3,
+            "maxAp": 400,
+            "aiOrderClass": 100
         },
         {
             "id": 6259,
@@ -1214,13 +1338,13 @@
                 99000001
             ],
             "name": {
-                "id": "862"
+                "id": "3750"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "863"
+                "id": "3751"
             },
             "textIndex": [
                 11,
@@ -1243,8 +1367,7 @@
             "skillTalent": 6269301,
             "skillSuper": 6269401,
             "skillTalentExtra": [
-                6800501,
-                60000101
+                6800501
             ],
             "skillFaction": 6210506,
             "aiList": [
@@ -1256,13 +1379,13 @@
                 99000001
             ],
             "name": {
-                "id": "862"
+                "id": "3750"
             },
             "joke": {
-                "id": "864"
+                "id": "3751"
             },
             "description": {
-                "id": "865"
+                "id": "3751"
             },
             "textIndex": [
                 36,
@@ -1282,6 +1405,9 @@
             "camp": 1,
             "enemyCamp": 1003,
             "duty": 1,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 631001
             ],
@@ -1291,13 +1417,13 @@
                 99000001
             ],
             "name": {
-                "id": "866"
+                "id": "3753"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "867"
+                "id": "3754"
             },
             "textIndex": [
                 27,
@@ -1319,28 +1445,27 @@
             "skillNormalAttack": 6311101,
             "skillActive": 6321202,
             "skillTalentExtra": [
+                20030101,
                 6300501
             ],
-            "skillFaction": 6320505,
             "aiList": [
                 631101
             ],
             "rank": 1,
-            "propertyGroup": 3002,
+            "propertyGroup": 3007,
             "breakSkill": [
                 99000001
             ],
             "name": {
-                "id": "868"
+                "id": "3755"
             },
             "joke": {
-                "id": "869"
+                "id": "3756"
             },
             "description": {
-                "id": "870"
+                "id": "3756"
             },
             "textIndex": [
-                103,
                 38,
                 39,
                 62
@@ -1362,28 +1487,27 @@
             "skillActive": 6312202,
             "skillTalent": 6312303,
             "skillTalentExtra": [
+                20030101,
                 6300501
             ],
-            "skillFaction": 6320505,
             "aiList": [
                 631201
             ],
             "rank": 1,
-            "propertyGroup": 3003,
+            "propertyGroup": 3004,
             "breakSkill": [
                 99000001
             ],
             "name": {
-                "id": "871"
+                "id": "3757"
             },
             "joke": {
-                "id": "872"
+                "id": "3758"
             },
             "description": {
-                "id": "873"
+                "id": "3758"
             },
             "textIndex": [
-                103,
                 44,
                 62
             ],
@@ -1403,29 +1527,28 @@
             "skillNormalAttack": 6313101,
             "skillTalent": 6323303,
             "skillTalentExtra": [
+                20030101,
                 6323304,
                 6300501
             ],
-            "skillFaction": 6320505,
             "aiList": [
                 631301
             ],
             "rank": 1,
-            "propertyGroup": 3003,
+            "propertyGroup": 3001,
             "breakSkill": [
                 99000001
             ],
             "name": {
-                "id": "874"
+                "id": "3759"
             },
             "joke": {
-                "id": "875"
+                "id": "3760"
             },
             "description": {
-                "id": "876"
+                "id": "3760"
             },
             "textIndex": [
-                103,
                 34,
                 35,
                 62
@@ -1445,28 +1568,27 @@
             "duty": 1,
             "skillNormalAttack": 6314101,
             "skillTalentExtra": [
+                20030101,
                 6300501
             ],
-            "skillFaction": 6320505,
             "aiList": [
                 631401
             ],
             "rank": 1,
-            "propertyGroup": 3002,
+            "propertyGroup": 3003,
             "breakSkill": [
                 99000001
             ],
             "name": {
-                "id": "877"
+                "id": "3761"
             },
             "joke": {
-                "id": "878"
+                "id": "3762"
             },
             "description": {
-                "id": "879"
+                "id": "3763"
             },
             "textIndex": [
-                103,
                 62
             ],
             "characterPic": "Guard",
@@ -1486,10 +1608,10 @@
             "skillNormalAttack": 6315101,
             "skillTalent": 6315303,
             "skillTalentExtra": [
+                20030101,
                 6300501,
                 60000101
             ],
-            "skillFaction": 6320505,
             "aiList": [
                 631501
             ],
@@ -1499,16 +1621,15 @@
                 99000001
             ],
             "name": {
-                "id": "880"
+                "id": "3764"
             },
             "joke": {
-                "id": "881"
+                "id": "3765"
             },
             "description": {
-                "id": "882"
+                "id": "3765"
             },
             "textIndex": [
-                103,
                 42,
                 62
             ],
@@ -1526,6 +1647,9 @@
             "camp": 1,
             "enemyCamp": 1003,
             "duty": 2,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 632001
             ],
@@ -1535,13 +1659,13 @@
                 99000001
             ],
             "name": {
-                "id": "883"
+                "id": "3766"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 27,
@@ -1560,6 +1684,9 @@
             "camp": 1,
             "enemyCamp": 1003,
             "duty": 2,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 632101
             ],
@@ -1569,13 +1696,13 @@
                 99000001
             ],
             "name": {
-                "id": "884"
+                "id": "3767"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 27,
@@ -1597,25 +1724,25 @@
             "skillActive": 6312202,
             "skillTalent": 6322303,
             "skillTalentExtra": [
+                20030101,
                 6300501
             ],
-            "skillFaction": 6320505,
             "aiList": [
-                631201
+                632201
             ],
             "rank": 1,
-            "propertyGroup": 3003,
+            "propertyGroup": 3005,
             "breakSkill": [
                 99000001
             ],
             "name": {
-                "id": "885"
+                "id": "3768"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "886"
+                "id": "3769"
             },
             "textIndex": [
                 27,
@@ -1634,6 +1761,9 @@
             "camp": 1,
             "enemyCamp": 1003,
             "duty": 2,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 632301
             ],
@@ -1643,13 +1773,13 @@
                 99000001
             ],
             "name": {
-                "id": "887"
+                "id": "3770"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 27,
@@ -1668,6 +1798,9 @@
             "camp": 1,
             "enemyCamp": 1003,
             "duty": 2,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 632401
             ],
@@ -1677,13 +1810,13 @@
                 99000001
             ],
             "name": {
-                "id": "888"
+                "id": "3771"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 27,
@@ -1704,6 +1837,7 @@
             "enemyCamp": 1003,
             "duty": 2,
             "skillTalentExtra": [
+                20030101,
                 6325301
             ],
             "aiList": [
@@ -1715,13 +1849,13 @@
                 99000001
             ],
             "name": {
-                "id": "889"
+                "id": "3772"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "425"
+                "id": "3705"
             },
             "textIndex": [
                 27,
@@ -1743,22 +1877,25 @@
             "duty": 1,
             "skillActive": 6312202,
             "skillTalent": 6312303,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 631201
             ],
             "rank": 1,
-            "propertyGroup": 3003,
+            "propertyGroup": 3004,
             "breakSkill": [
                 99000001
             ],
             "name": {
-                "id": "871"
+                "id": "3757"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "890"
+                "id": "3769"
             },
             "textIndex": [
                 27,
@@ -1780,25 +1917,24 @@
             "skillNormalAttack": 6341101,
             "skillActive": 6341201,
             "skillTalentExtra": [
+                20030101,
                 6300501
             ],
-            "skillFaction": 6320505,
             "aiList": [
                 634101
             ],
             "rank": 2,
-            "propertyGroup": 3102,
+            "propertyGroup": 3101,
             "name": {
-                "id": "891"
+                "id": "3773"
             },
             "joke": {
-                "id": "892"
+                "id": "3774"
             },
             "description": {
-                "id": "893"
+                "id": "3774"
             },
             "textIndex": [
-                103,
                 55,
                 62
             ],
@@ -1818,26 +1954,25 @@
             "skillNormalAttack": 6342101,
             "skillActive": 6342201,
             "skillTalentExtra": [
+                20030101,
                 6300501,
                 60000101
             ],
-            "skillFaction": 6342301,
             "aiList": [
                 634201
             ],
             "rank": 2,
             "propertyGroup": 3102,
             "name": {
-                "id": "894"
+                "id": "3775"
             },
             "joke": {
-                "id": "895"
+                "id": "3776"
             },
             "description": {
-                "id": "896"
+                "id": "3776"
             },
             "textIndex": [
-                103,
                 56,
                 16,
                 62
@@ -1856,13 +1991,12 @@
             "enemyCamp": 1003,
             "duty": 2,
             "skillNormalAttack": 6344101,
-            "skillActive": 6344201,
             "skillTalent": 6344301,
             "skillSuper": 6344401,
             "skillTalentExtra": [
+                20030101,
                 6300501,
-                6344302,
-                6344303
+                6344302
             ],
             "aiList": [
                 634401
@@ -1873,16 +2007,15 @@
                 99000001
             ],
             "name": {
-                "id": "897"
+                "id": "3777"
             },
             "joke": {
-                "id": "898"
+                "id": "3778"
             },
             "description": {
-                "id": "899"
+                "id": "3779"
             },
             "textIndex": [
-                103,
                 57,
                 58,
                 62
@@ -1895,6 +2028,52 @@
             "aiOrderClass": 150,
             "useFakeAttack": true,
             "shieldForDeploy": 300
+        },
+        {
+            "id": 6345,
+            "camp": 1,
+            "enemyCamp": 1099,
+            "duty": 1,
+            "skillNormalAttack": 6851001,
+            "skillActive": 6851003,
+            "skillTalent": 6851006,
+            "skillSuper": 6851004,
+            "skillActiveExtra": [
+                6851008
+            ],
+            "skillTalentExtra": [
+                6851007,
+                68510071,
+                6800501,
+                6259301
+            ],
+            "aiList": [
+                685101,
+                685102,
+                685103
+            ],
+            "rank": 3,
+            "propertyGroup": 3203,
+            "name": {
+                "id": "3780"
+            },
+            "joke": {
+                "id": "3781"
+            },
+            "description": {
+                "id": "3781"
+            },
+            "textIndex": [
+                59,
+                60
+            ],
+            "characterPic": "Darture",
+            "modelCode": 6851,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
         },
         {
             "id": 6851,
@@ -1920,15 +2099,15 @@
                 685103
             ],
             "rank": 3,
-            "propertyGroup": 6201,
+            "propertyGroup": 3201,
             "name": {
-                "id": "900"
+                "id": "3780"
             },
             "joke": {
-                "id": "901"
+                "id": "3781"
             },
             "description": {
-                "id": "902"
+                "id": "3781"
             },
             "textIndex": [
                 59,
@@ -1952,15 +2131,15 @@
                 611001
             ],
             "rank": 3,
-            "propertyGroup": 1201,
+            "propertyGroup": 3201,
             "name": {
-                "id": "900"
+                "id": "3780"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "903"
+                "id": "3782"
             },
             "textIndex": [
                 20,
@@ -1995,15 +2174,15 @@
                 685301
             ],
             "rank": 3,
-            "propertyGroup": 1201,
+            "propertyGroup": 3202,
             "name": {
-                "id": "904"
+                "id": "3783"
             },
             "joke": {
-                "id": "905"
+                "id": "3784"
             },
             "description": {
-                "id": "906"
+                "id": "3784"
             },
             "textIndex": [
                 61
@@ -2030,15 +2209,15 @@
                 611001
             ],
             "rank": 3,
-            "propertyGroup": 1201,
+            "propertyGroup": 3202,
             "name": {
-                "id": "904"
+                "id": "3783"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "907"
+                "id": "3785"
             },
             "textIndex": [
                 23
@@ -2075,15 +2254,15 @@
                 685103
             ],
             "rank": 3,
-            "propertyGroup": 6201,
+            "propertyGroup": 3201,
             "name": {
-                "id": "900"
+                "id": "3780"
             },
             "joke": {
-                "id": "901"
+                "id": "3781"
             },
             "description": {
-                "id": "902"
+                "id": "3781"
             },
             "textIndex": [
                 59,
@@ -2115,13 +2294,13 @@
             "rank": 3,
             "propertyGroup": 3102,
             "name": {
-                "id": "908"
+                "id": "3786"
             },
             "joke": {
-                "id": "909"
+                "id": "3787"
             },
             "description": {
-                "id": "908"
+                "id": "3786"
             },
             "textIndex": [
                 20,
@@ -2149,13 +2328,13 @@
             "rank": 3,
             "propertyGroup": 3102,
             "name": {
-                "id": "910"
+                "id": "3788"
             },
             "joke": {
-                "id": "909"
+                "id": "3787"
             },
             "description": {
-                "id": "910"
+                "id": "3788"
             },
             "textIndex": [
                 20,
@@ -2184,13 +2363,13 @@
                 99000001
             ],
             "name": {
-                "id": "911"
+                "id": "3789"
             },
             "joke": {
-                "id": "467"
+                "id": "3742"
             },
             "description": {
-                "id": "912"
+                "id": "3790"
             },
             "characterPic": "Jerrican",
             "modelCode": 7001,
@@ -2202,22 +2381,25 @@
             "enemyCamp": 1001,
             "duty": 1,
             "skillNormalAttack": 70020101,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 700201
             ],
             "rank": 1,
-            "propertyGroup": 1002,
+            "propertyGroup": 4001,
             "breakSkill": [
                 99000001
             ],
             "name": {
-                "id": "913"
+                "id": "3791"
             },
             "joke": {
-                "id": "467"
+                "id": "3742"
             },
             "description": {
-                "id": "914"
+                "id": "3792"
             },
             "characterPic": "Gatling",
             "modelCode": 7004,
@@ -2229,22 +2411,25 @@
             "enemyCamp": 1001,
             "duty": 1,
             "skillNormalAttack": 70030101,
+            "skillTalentExtra": [
+                20030101
+            ],
             "aiList": [
                 700301
             ],
             "rank": 1,
-            "propertyGroup": 1002,
+            "propertyGroup": 4002,
             "breakSkill": [
                 99000001
             ],
             "name": {
-                "id": "915"
+                "id": "3793"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "916"
+                "id": "3794"
             },
             "textIndex": [
                 99
@@ -2269,13 +2454,13 @@
                 99000001
             ],
             "name": {
-                "id": "917"
+                "id": "3795"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "449"
+                "id": "3727"
             },
             "textIndex": [
                 99
@@ -2303,13 +2488,13 @@
                 99000001
             ],
             "name": {
-                "id": "918"
+                "id": "3796"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "449"
+                "id": "3727"
             },
             "textIndex": [
                 99
@@ -2319,6 +2504,117 @@
             "moveCode": 11,
             "occupySize": 1,
             "maxAp": 300,
+            "aiOrderClass": 300
+        },
+        {
+            "id": 96110,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 1,
+            "skillNormalAttack": 6120101,
+            "skillTalentExtra": [
+                20030101,
+                6100501
+            ],
+            "aiList": [
+                611001
+            ],
+            "rank": 1,
+            "propertyGroup": 1001,
+            "name": {
+                "id": "3797"
+            },
+            "joke": {
+                "id": "3694"
+            },
+            "description": {
+                "id": "3694"
+            },
+            "textIndex": [
+                29
+            ],
+            "characterPic": "Felagi_Shoot",
+            "modelCode": 6110,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 96112,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 2,
+            "skillNormalAttack": 6112101,
+            "skillTalentExtra": [
+                20030101,
+                6100501
+            ],
+            "aiList": [
+                9611201
+            ],
+            "rank": 1,
+            "propertyGroup": 1003,
+            "name": {
+                "id": "3798"
+            },
+            "joke": {
+                "id": "3698"
+            },
+            "description": {
+                "id": "3698"
+            },
+            "textIndex": [
+                32,
+                33
+            ],
+            "characterPic": "Felagi_Grenadier",
+            "modelCode": 6112,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200
+        },
+        {
+            "id": 96179,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 3,
+            "skillNormalAttack": 6169101,
+            "skillActive": 6169201,
+            "skillSuper": 6169301,
+            "skillActiveExtra": [
+                6179207
+            ],
+            "skillFaction2": 6169401,
+            "aiList": [
+                617902
+            ],
+            "rank": 3,
+            "propertyGroup": 1202,
+            "breakSkill": [
+                99000002
+            ],
+            "name": {
+                "id": "3799"
+            },
+            "joke": {
+                "id": "3702"
+            },
+            "description": {
+                "id": "3719"
+            },
+            "textIndex": [
+                6,
+                7
+            ],
+            "characterPic": "Ravn",
+            "modelCode": 5018,
+            "moveCode": 1,
+            "actionChance": 2,
+            "occupySize": 3,
+            "maxAp": 250,
             "aiOrderClass": 300
         },
         {
@@ -2339,13 +2635,13 @@
                 99000001
             ],
             "name": {
-                "id": "919"
+                "id": "3800"
             },
             "joke": {
-                "id": "422"
+                "id": "3702"
             },
             "description": {
-                "id": "863"
+                "id": "3801"
             },
             "textIndex": [
                 99
@@ -2357,6 +2653,570 @@
             "occupySize": 3,
             "maxAp": 300,
             "aiOrderClass": 100
+        },
+        {
+            "id": 631201,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillActive": 6312202,
+            "skillTalent": 6312303,
+            "skillTalentExtra": [
+                20030101,
+                6300501,
+                930103041,
+                930000043
+            ],
+            "aiList": [
+                631201
+            ],
+            "rank": 1,
+            "propertyGroup": 3004,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3757"
+            },
+            "joke": {
+                "id": "3758"
+            },
+            "description": {
+                "id": "3758"
+            },
+            "textIndex": [
+                44,
+                62
+            ],
+            "characterPic": "Golyat",
+            "modelCode": 6312,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 631202,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillActive": 6312202,
+            "skillTalent": 6312303,
+            "skillTalentExtra": [
+                20030101,
+                6300501,
+                930103041,
+                930000047
+            ],
+            "aiList": [
+                631201
+            ],
+            "rank": 1,
+            "propertyGroup": 3004,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3757"
+            },
+            "joke": {
+                "id": "3758"
+            },
+            "description": {
+                "id": "3758"
+            },
+            "textIndex": [
+                44,
+                62
+            ],
+            "characterPic": "Golyat",
+            "modelCode": 6312,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 631203,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillActive": 6312202,
+            "skillTalent": 6312303,
+            "skillTalentExtra": [
+                20030101,
+                6300501
+            ],
+            "aiList": [
+                631201
+            ],
+            "rank": 1,
+            "propertyGroup": 3004,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3757"
+            },
+            "joke": {
+                "id": "3758"
+            },
+            "description": {
+                "id": "3758"
+            },
+            "textIndex": [
+                44,
+                62
+            ],
+            "characterPic": "Golyat",
+            "modelCode": 6312,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 631301,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "skillNormalAttack": 6313101,
+            "skillTalent": 6323303,
+            "skillTalentExtra": [
+                20030101,
+                6323304,
+                6300501,
+                930103041,
+                930000043
+            ],
+            "aiList": [
+                631301
+            ],
+            "rank": 1,
+            "propertyGroup": 3001,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3759"
+            },
+            "joke": {
+                "id": "3760"
+            },
+            "description": {
+                "id": "3760"
+            },
+            "textIndex": [
+                34,
+                35,
+                62
+            ],
+            "characterPic": "SuperDinergate",
+            "modelCode": 6313,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 631302,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "skillNormalAttack": 6313101,
+            "skillTalent": 6323303,
+            "skillTalentExtra": [
+                20030101,
+                6323304,
+                6300501,
+                930103041,
+                930000047
+            ],
+            "aiList": [
+                631301
+            ],
+            "rank": 1,
+            "propertyGroup": 3001,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3759"
+            },
+            "joke": {
+                "id": "3760"
+            },
+            "description": {
+                "id": "3760"
+            },
+            "textIndex": [
+                34,
+                35,
+                62
+            ],
+            "characterPic": "SuperDinergate",
+            "modelCode": 6313,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 631303,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 2,
+            "skillNormalAttack": 6313101,
+            "skillTalent": 6323303,
+            "skillTalentExtra": [
+                20030101,
+                6323304,
+                6300501
+            ],
+            "aiList": [
+                631301
+            ],
+            "rank": 1,
+            "propertyGroup": 3001,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3759"
+            },
+            "joke": {
+                "id": "3760"
+            },
+            "description": {
+                "id": "3760"
+            },
+            "textIndex": [
+                34,
+                35,
+                62
+            ],
+            "characterPic": "SuperDinergate",
+            "modelCode": 6313,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 634101,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillNormalAttack": 6341101,
+            "skillActive": 6341201,
+            "skillTalentExtra": [
+                20030101,
+                6300501,
+                930103041,
+                930000047
+            ],
+            "aiList": [
+                634101
+            ],
+            "rank": 2,
+            "propertyGroup": 3101,
+            "name": {
+                "id": "3802"
+            },
+            "joke": {
+                "id": "3774"
+            },
+            "description": {
+                "id": "3774"
+            },
+            "textIndex": [
+                55,
+                62
+            ],
+            "characterPic": "Ripper_SWAG",
+            "modelCode": 6341,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 350,
+            "aiOrderClass": 200,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 634102,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillNormalAttack": 6341101,
+            "skillActive": 6341201,
+            "skillTalentExtra": [
+                20030101,
+                6300501,
+                930103041,
+                930000047
+            ],
+            "aiList": [
+                634101
+            ],
+            "rank": 2,
+            "propertyGroup": 9901,
+            "name": {
+                "id": "3803"
+            },
+            "joke": {
+                "id": "3774"
+            },
+            "description": {
+                "id": "3774"
+            },
+            "textIndex": [
+                55,
+                62
+            ],
+            "characterPic": "Ripper_SWAG",
+            "modelCode": 6341,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 350,
+            "aiOrderClass": 200,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 634103,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillNormalAttack": 6341101,
+            "skillActive": 6341201,
+            "skillTalentExtra": [
+                20030101,
+                6300501
+            ],
+            "aiList": [
+                634101
+            ],
+            "rank": 2,
+            "propertyGroup": 3101,
+            "name": {
+                "id": "3804"
+            },
+            "joke": {
+                "id": "3774"
+            },
+            "description": {
+                "id": "3774"
+            },
+            "textIndex": [
+                55,
+                62
+            ],
+            "characterPic": "Ripper_SWAG",
+            "modelCode": 6341,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 350,
+            "aiOrderClass": 200,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 996110,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 1,
+            "skillNormalAttack": 6120101,
+            "skillTalentExtra": [
+                20030101,
+                6100501
+            ],
+            "aiList": [
+                611001
+            ],
+            "rank": 1,
+            "propertyGroup": 1006,
+            "name": {
+                "id": "3693"
+            },
+            "joke": {
+                "id": "3694"
+            },
+            "description": {
+                "id": "3805"
+            },
+            "textIndex": [
+                29
+            ],
+            "characterPic": "Felagi_Shoot",
+            "modelCode": 96110,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 300,
+            "aiOrderClass": 200,
+            "useFakeAttack": true
+        },
+        {
+            "id": 996113,
+            "camp": 1,
+            "enemyCamp": 1001,
+            "duty": 2,
+            "skillNormalAttack": 6113101,
+            "skillTalent": 6123303,
+            "skillTalentExtra": [
+                20030101,
+                6123304,
+                6100501
+            ],
+            "aiList": [
+                611301
+            ],
+            "rank": 1,
+            "propertyGroup": 1007,
+            "name": {
+                "id": "3699"
+            },
+            "joke": {
+                "id": "3700"
+            },
+            "description": {
+                "id": "3806"
+            },
+            "textIndex": [
+                34,
+                35
+            ],
+            "characterPic": "Svejk",
+            "modelCode": 96113,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 996213,
+            "camp": 1,
+            "enemyCamp": 1002,
+            "duty": 2,
+            "skillNormalAttack": 6213101,
+            "skillTalent": 6213303,
+            "skillTalentExtra": [
+                20030101,
+                6213304,
+                6200501
+            ],
+            "skillFaction": 6210505,
+            "aiList": [
+                621301
+            ],
+            "rank": 1,
+            "propertyGroup": 2005,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3736"
+            },
+            "joke": {
+                "id": "3737"
+            },
+            "description": {
+                "id": "3807"
+            },
+            "textIndex": [
+                34,
+                35,
+                66
+            ],
+            "characterPic": "Pitsard",
+            "modelCode": 96210,
+            "moveCode": 1,
+            "occupySize": 1,
+            "maxAp": 700,
+            "aiOrderClass": 50
+        },
+        {
+            "id": 996311,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillNormalAttack": 6311101,
+            "skillActive": 6321202,
+            "skillTalentExtra": [
+                20030101,
+                6300501
+            ],
+            "aiList": [
+                631101
+            ],
+            "rank": 1,
+            "propertyGroup": 2006,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3755"
+            },
+            "joke": {
+                "id": "3756"
+            },
+            "description": {
+                "id": "3808"
+            },
+            "textIndex": [
+                38,
+                39,
+                62
+            ],
+            "characterPic": "Ripper",
+            "modelCode": 96311,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 350,
+            "aiOrderClass": 200,
+            "useFakeAttack": true,
+            "shieldForDeploy": 300
+        },
+        {
+            "id": 996314,
+            "camp": 1,
+            "enemyCamp": 1003,
+            "duty": 1,
+            "skillNormalAttack": 6314101,
+            "skillTalentExtra": [
+                20030101,
+                6300501
+            ],
+            "aiList": [
+                631401
+            ],
+            "rank": 1,
+            "propertyGroup": 3006,
+            "breakSkill": [
+                99000001
+            ],
+            "name": {
+                "id": "3761"
+            },
+            "joke": {
+                "id": "3762"
+            },
+            "description": {
+                "id": "3809"
+            },
+            "textIndex": [
+                62
+            ],
+            "characterPic": "Guard",
+            "modelCode": 96314,
+            "moveCode": 11,
+            "occupySize": 1,
+            "maxAp": 350,
+            "aiOrderClass": 150,
+            "useFakeAttack": true,
+            "shieldForDeploy": 300
         }
     ]
 }

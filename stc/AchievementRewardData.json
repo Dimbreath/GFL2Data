@@ -1,0 +1,1788 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "tagId": 1,
+            "tagLv": 1
+        },
+        {
+            "id": 2,
+            "tagId": 1,
+            "tagLv": 2,
+            "lvExp": 20,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 3,
+            "tagId": 1,
+            "tagLv": 3,
+            "lvExp": 60,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 4,
+            "tagId": 1,
+            "tagLv": 4,
+            "lvExp": 120,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 5,
+            "tagId": 1,
+            "tagLv": 5,
+            "lvExp": 200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 6,
+            "tagId": 1,
+            "tagLv": 6,
+            "lvExp": 300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 7,
+            "tagId": 1,
+            "tagLv": 7,
+            "lvExp": 400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 8,
+            "tagId": 1,
+            "tagLv": 8,
+            "lvExp": 500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 9,
+            "tagId": 1,
+            "tagLv": 9,
+            "lvExp": 600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 10,
+            "tagId": 1,
+            "tagLv": 10,
+            "lvExp": 700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 11,
+            "tagId": 1,
+            "tagLv": 11,
+            "lvExp": 800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 12,
+            "tagId": 1,
+            "tagLv": 12,
+            "lvExp": 900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 13,
+            "tagId": 1,
+            "tagLv": 13,
+            "lvExp": 1000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 14,
+            "tagId": 1,
+            "tagLv": 14,
+            "lvExp": 1100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 15,
+            "tagId": 1,
+            "tagLv": 15,
+            "lvExp": 1200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 16,
+            "tagId": 1,
+            "tagLv": 16,
+            "lvExp": 1300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 17,
+            "tagId": 1,
+            "tagLv": 17,
+            "lvExp": 1400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 18,
+            "tagId": 1,
+            "tagLv": 18,
+            "lvExp": 1500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 19,
+            "tagId": 1,
+            "tagLv": 19,
+            "lvExp": 1600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 20,
+            "tagId": 1,
+            "tagLv": 20,
+            "lvExp": 1700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 21,
+            "tagId": 1,
+            "tagLv": 21,
+            "lvExp": 1800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 22,
+            "tagId": 1,
+            "tagLv": 22,
+            "lvExp": 1900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 23,
+            "tagId": 1,
+            "tagLv": 23,
+            "lvExp": 2000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 24,
+            "tagId": 1,
+            "tagLv": 24,
+            "lvExp": 2100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 25,
+            "tagId": 1,
+            "tagLv": 25,
+            "lvExp": 2200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 26,
+            "tagId": 1,
+            "tagLv": 26,
+            "lvExp": 2300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 27,
+            "tagId": 1,
+            "tagLv": 27,
+            "lvExp": 2400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 28,
+            "tagId": 1,
+            "tagLv": 28,
+            "lvExp": 2500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 29,
+            "tagId": 1,
+            "tagLv": 29,
+            "lvExp": 2600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 30,
+            "tagId": 1,
+            "tagLv": 30,
+            "lvExp": 2700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 31,
+            "tagId": 1,
+            "tagLv": 31,
+            "lvExp": 2800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 32,
+            "tagId": 1,
+            "tagLv": 32,
+            "lvExp": 2900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 33,
+            "tagId": 1,
+            "tagLv": 33,
+            "lvExp": 3000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 34,
+            "tagId": 1,
+            "tagLv": 34,
+            "lvExp": 3100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 35,
+            "tagId": 1,
+            "tagLv": 35,
+            "lvExp": 3200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 36,
+            "tagId": 1,
+            "tagLv": 36,
+            "lvExp": 3300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 37,
+            "tagId": 1,
+            "tagLv": 37,
+            "lvExp": 3400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 38,
+            "tagId": 1,
+            "tagLv": 38,
+            "lvExp": 3500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 39,
+            "tagId": 1,
+            "tagLv": 39,
+            "lvExp": 3600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 40,
+            "tagId": 1,
+            "tagLv": 40,
+            "lvExp": 3700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 41,
+            "tagId": 1,
+            "tagLv": 41,
+            "lvExp": 3800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 42,
+            "tagId": 1,
+            "tagLv": 42,
+            "lvExp": 3900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 43,
+            "tagId": 1,
+            "tagLv": 43,
+            "lvExp": 4000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 44,
+            "tagId": 1,
+            "tagLv": 44,
+            "lvExp": 4100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 45,
+            "tagId": 1,
+            "tagLv": 45,
+            "lvExp": 4200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 46,
+            "tagId": 1,
+            "tagLv": 46,
+            "lvExp": 4300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 47,
+            "tagId": 1,
+            "tagLv": 47,
+            "lvExp": 4400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 48,
+            "tagId": 1,
+            "tagLv": 48,
+            "lvExp": 4500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 49,
+            "tagId": 1,
+            "tagLv": 49,
+            "lvExp": 4600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 50,
+            "tagId": 1,
+            "tagLv": 50,
+            "lvExp": 4700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 101,
+            "tagId": 2,
+            "tagLv": 1
+        },
+        {
+            "id": 102,
+            "tagId": 2,
+            "tagLv": 2,
+            "lvExp": 20,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 103,
+            "tagId": 2,
+            "tagLv": 3,
+            "lvExp": 60,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 104,
+            "tagId": 2,
+            "tagLv": 4,
+            "lvExp": 120,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 105,
+            "tagId": 2,
+            "tagLv": 5,
+            "lvExp": 200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 106,
+            "tagId": 2,
+            "tagLv": 6,
+            "lvExp": 300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 107,
+            "tagId": 2,
+            "tagLv": 7,
+            "lvExp": 400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 108,
+            "tagId": 2,
+            "tagLv": 8,
+            "lvExp": 500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 109,
+            "tagId": 2,
+            "tagLv": 9,
+            "lvExp": 600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 110,
+            "tagId": 2,
+            "tagLv": 10,
+            "lvExp": 700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 111,
+            "tagId": 2,
+            "tagLv": 11,
+            "lvExp": 800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 112,
+            "tagId": 2,
+            "tagLv": 12,
+            "lvExp": 900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 113,
+            "tagId": 2,
+            "tagLv": 13,
+            "lvExp": 1000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 114,
+            "tagId": 2,
+            "tagLv": 14,
+            "lvExp": 1100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 115,
+            "tagId": 2,
+            "tagLv": 15,
+            "lvExp": 1200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 116,
+            "tagId": 2,
+            "tagLv": 16,
+            "lvExp": 1300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 117,
+            "tagId": 2,
+            "tagLv": 17,
+            "lvExp": 1400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 118,
+            "tagId": 2,
+            "tagLv": 18,
+            "lvExp": 1500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 119,
+            "tagId": 2,
+            "tagLv": 19,
+            "lvExp": 1600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 120,
+            "tagId": 2,
+            "tagLv": 20,
+            "lvExp": 1700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 121,
+            "tagId": 2,
+            "tagLv": 21,
+            "lvExp": 1800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 122,
+            "tagId": 2,
+            "tagLv": 22,
+            "lvExp": 1900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 123,
+            "tagId": 2,
+            "tagLv": 23,
+            "lvExp": 2000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 124,
+            "tagId": 2,
+            "tagLv": 24,
+            "lvExp": 2100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 125,
+            "tagId": 2,
+            "tagLv": 25,
+            "lvExp": 2200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 126,
+            "tagId": 2,
+            "tagLv": 26,
+            "lvExp": 2300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 127,
+            "tagId": 2,
+            "tagLv": 27,
+            "lvExp": 2400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 128,
+            "tagId": 2,
+            "tagLv": 28,
+            "lvExp": 2500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 129,
+            "tagId": 2,
+            "tagLv": 29,
+            "lvExp": 2600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 130,
+            "tagId": 2,
+            "tagLv": 30,
+            "lvExp": 2700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 131,
+            "tagId": 2,
+            "tagLv": 31,
+            "lvExp": 2800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 132,
+            "tagId": 2,
+            "tagLv": 32,
+            "lvExp": 2900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 133,
+            "tagId": 2,
+            "tagLv": 33,
+            "lvExp": 3000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 134,
+            "tagId": 2,
+            "tagLv": 34,
+            "lvExp": 3100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 135,
+            "tagId": 2,
+            "tagLv": 35,
+            "lvExp": 3200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 136,
+            "tagId": 2,
+            "tagLv": 36,
+            "lvExp": 3300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 137,
+            "tagId": 2,
+            "tagLv": 37,
+            "lvExp": 3400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 138,
+            "tagId": 2,
+            "tagLv": 38,
+            "lvExp": 3500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 139,
+            "tagId": 2,
+            "tagLv": 39,
+            "lvExp": 3600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 140,
+            "tagId": 2,
+            "tagLv": 40,
+            "lvExp": 3700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 141,
+            "tagId": 2,
+            "tagLv": 41,
+            "lvExp": 3800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 142,
+            "tagId": 2,
+            "tagLv": 42,
+            "lvExp": 3900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 143,
+            "tagId": 2,
+            "tagLv": 43,
+            "lvExp": 4000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 144,
+            "tagId": 2,
+            "tagLv": 44,
+            "lvExp": 4100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 145,
+            "tagId": 2,
+            "tagLv": 45,
+            "lvExp": 4200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 146,
+            "tagId": 2,
+            "tagLv": 46,
+            "lvExp": 4300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 147,
+            "tagId": 2,
+            "tagLv": 47,
+            "lvExp": 4400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 148,
+            "tagId": 2,
+            "tagLv": 48,
+            "lvExp": 4500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 149,
+            "tagId": 2,
+            "tagLv": 49,
+            "lvExp": 4600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 150,
+            "tagId": 2,
+            "tagLv": 50,
+            "lvExp": 4700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 201,
+            "tagId": 3,
+            "tagLv": 1
+        },
+        {
+            "id": 202,
+            "tagId": 3,
+            "tagLv": 2,
+            "lvExp": 20,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 203,
+            "tagId": 3,
+            "tagLv": 3,
+            "lvExp": 60,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 204,
+            "tagId": 3,
+            "tagLv": 4,
+            "lvExp": 120,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 205,
+            "tagId": 3,
+            "tagLv": 5,
+            "lvExp": 200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 206,
+            "tagId": 3,
+            "tagLv": 6,
+            "lvExp": 300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 207,
+            "tagId": 3,
+            "tagLv": 7,
+            "lvExp": 400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 208,
+            "tagId": 3,
+            "tagLv": 8,
+            "lvExp": 500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 209,
+            "tagId": 3,
+            "tagLv": 9,
+            "lvExp": 600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 210,
+            "tagId": 3,
+            "tagLv": 10,
+            "lvExp": 700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 211,
+            "tagId": 3,
+            "tagLv": 11,
+            "lvExp": 800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 212,
+            "tagId": 3,
+            "tagLv": 12,
+            "lvExp": 900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 213,
+            "tagId": 3,
+            "tagLv": 13,
+            "lvExp": 1000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 214,
+            "tagId": 3,
+            "tagLv": 14,
+            "lvExp": 1100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 215,
+            "tagId": 3,
+            "tagLv": 15,
+            "lvExp": 1200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 216,
+            "tagId": 3,
+            "tagLv": 16,
+            "lvExp": 1300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 217,
+            "tagId": 3,
+            "tagLv": 17,
+            "lvExp": 1400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 218,
+            "tagId": 3,
+            "tagLv": 18,
+            "lvExp": 1500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 219,
+            "tagId": 3,
+            "tagLv": 19,
+            "lvExp": 1600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 220,
+            "tagId": 3,
+            "tagLv": 20,
+            "lvExp": 1700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 221,
+            "tagId": 3,
+            "tagLv": 21,
+            "lvExp": 1800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 222,
+            "tagId": 3,
+            "tagLv": 22,
+            "lvExp": 1900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 223,
+            "tagId": 3,
+            "tagLv": 23,
+            "lvExp": 2000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 224,
+            "tagId": 3,
+            "tagLv": 24,
+            "lvExp": 2100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 225,
+            "tagId": 3,
+            "tagLv": 25,
+            "lvExp": 2200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 226,
+            "tagId": 3,
+            "tagLv": 26,
+            "lvExp": 2300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 227,
+            "tagId": 3,
+            "tagLv": 27,
+            "lvExp": 2400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 228,
+            "tagId": 3,
+            "tagLv": 28,
+            "lvExp": 2500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 229,
+            "tagId": 3,
+            "tagLv": 29,
+            "lvExp": 2600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 230,
+            "tagId": 3,
+            "tagLv": 30,
+            "lvExp": 2700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 231,
+            "tagId": 3,
+            "tagLv": 31,
+            "lvExp": 2800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 232,
+            "tagId": 3,
+            "tagLv": 32,
+            "lvExp": 2900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 233,
+            "tagId": 3,
+            "tagLv": 33,
+            "lvExp": 3000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 234,
+            "tagId": 3,
+            "tagLv": 34,
+            "lvExp": 3100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 235,
+            "tagId": 3,
+            "tagLv": 35,
+            "lvExp": 3200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 236,
+            "tagId": 3,
+            "tagLv": 36,
+            "lvExp": 3300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 237,
+            "tagId": 3,
+            "tagLv": 37,
+            "lvExp": 3400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 238,
+            "tagId": 3,
+            "tagLv": 38,
+            "lvExp": 3500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 239,
+            "tagId": 3,
+            "tagLv": 39,
+            "lvExp": 3600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 240,
+            "tagId": 3,
+            "tagLv": 40,
+            "lvExp": 3700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 241,
+            "tagId": 3,
+            "tagLv": 41,
+            "lvExp": 3800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 242,
+            "tagId": 3,
+            "tagLv": 42,
+            "lvExp": 3900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 243,
+            "tagId": 3,
+            "tagLv": 43,
+            "lvExp": 4000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 244,
+            "tagId": 3,
+            "tagLv": 44,
+            "lvExp": 4100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 245,
+            "tagId": 3,
+            "tagLv": 45,
+            "lvExp": 4200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 246,
+            "tagId": 3,
+            "tagLv": 46,
+            "lvExp": 4300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 247,
+            "tagId": 3,
+            "tagLv": 47,
+            "lvExp": 4400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 248,
+            "tagId": 3,
+            "tagLv": 48,
+            "lvExp": 4500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 249,
+            "tagId": 3,
+            "tagLv": 49,
+            "lvExp": 4600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 250,
+            "tagId": 3,
+            "tagLv": 50,
+            "lvExp": 4700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 301,
+            "tagId": 4,
+            "tagLv": 1
+        },
+        {
+            "id": 302,
+            "tagId": 4,
+            "tagLv": 2,
+            "lvExp": 20,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 303,
+            "tagId": 4,
+            "tagLv": 3,
+            "lvExp": 60,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 304,
+            "tagId": 4,
+            "tagLv": 4,
+            "lvExp": 120,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 305,
+            "tagId": 4,
+            "tagLv": 5,
+            "lvExp": 200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 306,
+            "tagId": 4,
+            "tagLv": 6,
+            "lvExp": 300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 307,
+            "tagId": 4,
+            "tagLv": 7,
+            "lvExp": 400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 308,
+            "tagId": 4,
+            "tagLv": 8,
+            "lvExp": 500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 309,
+            "tagId": 4,
+            "tagLv": 9,
+            "lvExp": 600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 310,
+            "tagId": 4,
+            "tagLv": 10,
+            "lvExp": 700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 311,
+            "tagId": 4,
+            "tagLv": 11,
+            "lvExp": 800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 312,
+            "tagId": 4,
+            "tagLv": 12,
+            "lvExp": 900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 313,
+            "tagId": 4,
+            "tagLv": 13,
+            "lvExp": 1000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 314,
+            "tagId": 4,
+            "tagLv": 14,
+            "lvExp": 1100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 315,
+            "tagId": 4,
+            "tagLv": 15,
+            "lvExp": 1200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 316,
+            "tagId": 4,
+            "tagLv": 16,
+            "lvExp": 1300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 317,
+            "tagId": 4,
+            "tagLv": 17,
+            "lvExp": 1400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 318,
+            "tagId": 4,
+            "tagLv": 18,
+            "lvExp": 1500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 319,
+            "tagId": 4,
+            "tagLv": 19,
+            "lvExp": 1600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 320,
+            "tagId": 4,
+            "tagLv": 20,
+            "lvExp": 1700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 321,
+            "tagId": 4,
+            "tagLv": 21,
+            "lvExp": 1800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 322,
+            "tagId": 4,
+            "tagLv": 22,
+            "lvExp": 1900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 323,
+            "tagId": 4,
+            "tagLv": 23,
+            "lvExp": 2000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 324,
+            "tagId": 4,
+            "tagLv": 24,
+            "lvExp": 2100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 325,
+            "tagId": 4,
+            "tagLv": 25,
+            "lvExp": 2200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 326,
+            "tagId": 4,
+            "tagLv": 26,
+            "lvExp": 2300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 327,
+            "tagId": 4,
+            "tagLv": 27,
+            "lvExp": 2400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 328,
+            "tagId": 4,
+            "tagLv": 28,
+            "lvExp": 2500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 329,
+            "tagId": 4,
+            "tagLv": 29,
+            "lvExp": 2600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 330,
+            "tagId": 4,
+            "tagLv": 30,
+            "lvExp": 2700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 331,
+            "tagId": 4,
+            "tagLv": 31,
+            "lvExp": 2800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 332,
+            "tagId": 4,
+            "tagLv": 32,
+            "lvExp": 2900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 333,
+            "tagId": 4,
+            "tagLv": 33,
+            "lvExp": 3000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 334,
+            "tagId": 4,
+            "tagLv": 34,
+            "lvExp": 3100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 335,
+            "tagId": 4,
+            "tagLv": 35,
+            "lvExp": 3200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 336,
+            "tagId": 4,
+            "tagLv": 36,
+            "lvExp": 3300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 337,
+            "tagId": 4,
+            "tagLv": 37,
+            "lvExp": 3400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 338,
+            "tagId": 4,
+            "tagLv": 38,
+            "lvExp": 3500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 339,
+            "tagId": 4,
+            "tagLv": 39,
+            "lvExp": 3600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 340,
+            "tagId": 4,
+            "tagLv": 40,
+            "lvExp": 3700,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 341,
+            "tagId": 4,
+            "tagLv": 41,
+            "lvExp": 3800,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 342,
+            "tagId": 4,
+            "tagLv": 42,
+            "lvExp": 3900,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 343,
+            "tagId": 4,
+            "tagLv": 43,
+            "lvExp": 4000,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 344,
+            "tagId": 4,
+            "tagLv": 44,
+            "lvExp": 4100,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 345,
+            "tagId": 4,
+            "tagLv": 45,
+            "lvExp": 4200,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 346,
+            "tagId": 4,
+            "tagLv": 46,
+            "lvExp": 4300,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 347,
+            "tagId": 4,
+            "tagLv": 47,
+            "lvExp": 4400,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 348,
+            "tagId": 4,
+            "tagLv": 48,
+            "lvExp": 4500,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 349,
+            "tagId": 4,
+            "tagLv": 49,
+            "lvExp": 4600,
+            "reward": {
+                "1": 100
+            }
+        },
+        {
+            "id": 350,
+            "tagId": 4,
+            "tagLv": 50,
+            "lvExp": 4700,
+            "reward": {
+                "1": 100
+            }
+        }
+    ]
+}

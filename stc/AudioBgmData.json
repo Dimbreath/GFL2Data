@@ -34,12 +34,12 @@
             "id": 5,
             "interfaceName": "UICommandCenterPanel",
             "audioName": [
-                30019
+                30027
             ]
         },
         {
             "id": 6,
-            "interfaceName": "30020",
+            "interfaceName": "UILoginPanel",
             "audioName": [
                 30020
             ]
@@ -48,14 +48,14 @@
             "id": 7,
             "interfaceName": "UIChapterPanel",
             "audioName": [
-                30019
+                30027
             ]
         },
         {
             "id": 8,
             "interfaceName": "UIBattleIndexPanel",
             "audioName": [
-                30019
+                30027
             ]
         },
         {
@@ -70,20 +70,140 @@
             "interfaceName": "30022",
             "audioName": [
                 30022
-            ]
+            ],
+            "priority": 1
         },
         {
             "id": 11,
             "interfaceName": "30024",
             "audioName": [
                 30024
-            ]
+            ],
+            "priority": 1
         },
         {
             "id": 12,
             "interfaceName": "30026",
             "audioName": [
                 30026
+            ],
+            "priority": 1
+        },
+        {
+            "id": 13,
+            "interfaceName": "UIFacilityBarrackPanel",
+            "audioName": [
+                30028
+            ]
+        },
+        {
+            "id": 14,
+            "interfaceName": "UIGachaMainPanelV2",
+            "audioName": [
+                30030
+            ]
+        },
+        {
+            "id": 15,
+            "interfaceName": "UIStoreExchangePanel",
+            "audioName": [
+                30029
+            ]
+        },
+        {
+            "id": 16,
+            "interfaceName": "UIBattleWinShowPanel",
+            "audioName": [
+                30016
+            ],
+            "priority": 2
+        },
+        {
+            "id": 17,
+            "interfaceName": "30021",
+            "audioName": [
+                30021
+            ],
+            "priority": 1
+        },
+        {
+            "id": 18,
+            "interfaceName": "30023",
+            "audioName": [
+                30023
+            ],
+            "priority": 1
+        },
+        {
+            "id": 19,
+            "interfaceName": "30025",
+            "audioName": [
+                30025
+            ],
+            "priority": 1
+        },
+        {
+            "id": 20,
+            "interfaceName": "30031",
+            "audioName": [
+                30031
+            ],
+            "priority": 1
+        },
+        {
+            "id": 21,
+            "interfaceName": "UICombatMainPanel",
+            "audioName": [
+                30013
+            ]
+        },
+        {
+            "id": 22,
+            "interfaceName": "UISimCombatTeachingPanel",
+            "audioName": [
+                30027
+            ]
+        },
+        {
+            "id": 23,
+            "interfaceName": "UIChapterHardPanel",
+            "audioName": [
+                30027
+            ]
+        },
+        {
+            "id": 24,
+            "interfaceName": "UISimCombatExpPanel",
+            "audioName": [
+                30027
+            ]
+        },
+        {
+            "id": 25,
+            "interfaceName": "UISimCombatGoldPanel",
+            "audioName": [
+                30027
+            ]
+        },
+        {
+            "id": 26,
+            "interfaceName": "UISimCombatEquipPanel",
+            "audioName": [
+                30027
+            ]
+        },
+        {
+            "id": 27,
+            "interfaceName": "UISimCombatTrainingPanel",
+            "audioName": [
+                30027
+            ]
+        },
+        {
+            "id": 28,
+            "interfaceName": "UISimCombatWeeklyPanel",
+            "audioName": [
+                30027
             ]
         }
     ]

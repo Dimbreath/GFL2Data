@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "loungeType": 1,
+            "loungeStage": 200,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 2,
+            "loungeType": 1,
+            "loungeStage": 400,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 3,
+            "loungeType": 1,
+            "loungeStage": 600,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 4,
+            "loungeType": 1,
+            "loungeStage": 800,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 5,
+            "loungeType": 2,
+            "loungeStage": 200,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 6,
+            "loungeType": 2,
+            "loungeStage": 400,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 7,
+            "loungeType": 2,
+            "loungeStage": 600,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 8,
+            "loungeType": 2,
+            "loungeStage": 800,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 9,
+            "loungeType": 3,
+            "loungeStage": 200,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 10,
+            "loungeType": 3,
+            "loungeStage": 400,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 11,
+            "loungeType": 3,
+            "loungeStage": 600,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 12,
+            "loungeType": 3,
+            "loungeStage": 800,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 13,
+            "loungeType": 4,
+            "loungeStage": 200,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 14,
+            "loungeType": 4,
+            "loungeStage": 400,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 15,
+            "loungeType": 4,
+            "loungeStage": 600,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        },
+        {
+            "id": 16,
+            "loungeType": 4,
+            "loungeStage": 800,
+            "favorAddition": 10,
+            "loungeObtain": [
+                1
+            ]
+        }
+    ]
+}

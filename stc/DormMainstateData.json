@@ -4,7 +4,7 @@
             "id": 1,
             "cid": 3,
             "name": {
-                "id": "2175"
+                "id": "4855"
             },
             "mainState": "GrozaSQ1_dorm_StandStill_main",
             "actiontype": "a",
@@ -24,7 +24,7 @@
             "id": 2,
             "cid": 3,
             "name": {
-                "id": "2176"
+                "id": "4856"
             },
             "mainState": "GrozaSQ1_dorm_Liedown_main",
             "actiontype": "a",
@@ -44,7 +44,7 @@
             "id": 3,
             "cid": 3,
             "name": {
-                "id": "2177"
+                "id": "4857"
             },
             "mainState": "GrozaSQ1_dorm_CoffeeMachine_main",
             "actiontype": "a",

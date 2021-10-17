@@ -1,174 +1,16 @@
 {
     "data": [
         {
-            "id": 701,
-            "type": 7,
-            "stageId": 23101,
-            "unlock": 1,
-            "sequence": "1"
-        },
-        {
-            "id": 702,
-            "type": 7,
-            "stageId": 23102,
-            "unlock": 2,
-            "unlockDetail": 701,
-            "sequence": "2"
-        },
-        {
-            "id": 703,
-            "type": 7,
-            "stageId": 23103,
-            "unlock": 2,
-            "unlockDetail": 702,
-            "sequence": "3"
-        },
-        {
-            "id": 704,
-            "type": 7,
-            "stageId": 23104,
-            "unlock": 2,
-            "unlockDetail": 703,
-            "sequence": "4"
-        },
-        {
-            "id": 705,
-            "type": 7,
-            "stageId": 23105,
-            "unlock": 2,
-            "unlockDetail": 704,
-            "sequence": "5"
-        },
-        {
-            "id": 706,
-            "type": 7,
-            "stageId": 23106,
-            "unlock": 2,
-            "unlockDetail": 705,
-            "sequence": "6"
-        },
-        {
-            "id": 707,
-            "type": 7,
-            "stageId": 23107,
-            "unlock": 2,
-            "unlockDetail": 706,
-            "sequence": "7"
-        },
-        {
-            "id": 708,
-            "type": 7,
-            "stageId": 23108,
-            "unlock": 2,
-            "unlockDetail": 707,
-            "sequence": "8"
-        },
-        {
-            "id": 709,
-            "type": 7,
-            "stageId": 23109,
-            "unlock": 2,
-            "unlockDetail": 708,
-            "sequence": "9"
-        },
-        {
-            "id": 710,
-            "type": 7,
-            "stageId": 23110,
-            "unlock": 2,
-            "unlockDetail": 709,
-            "sequence": "10"
-        },
-        {
-            "id": 801,
-            "type": 8,
-            "stageId": 23201,
-            "unlock": 1,
-            "sequence": "1"
-        },
-        {
-            "id": 802,
-            "type": 8,
-            "stageId": 23202,
-            "unlock": 2,
-            "unlockDetail": 801,
-            "sequence": "2"
-        },
-        {
-            "id": 803,
-            "type": 8,
-            "stageId": 23203,
-            "unlock": 2,
-            "unlockDetail": 802,
-            "sequence": "3"
-        },
-        {
-            "id": 804,
-            "type": 8,
-            "stageId": 23204,
-            "unlock": 2,
-            "unlockDetail": 803,
-            "sequence": "4"
-        },
-        {
-            "id": 805,
-            "type": 8,
-            "stageId": 23205,
-            "unlock": 2,
-            "unlockDetail": 804,
-            "sequence": "5"
-        },
-        {
-            "id": 806,
-            "type": 8,
-            "stageId": 23206,
-            "unlock": 2,
-            "unlockDetail": 805,
-            "sequence": "6"
-        },
-        {
-            "id": 807,
-            "type": 8,
-            "stageId": 23207,
-            "unlock": 2,
-            "unlockDetail": 806,
-            "sequence": "7"
-        },
-        {
-            "id": 808,
-            "type": 8,
-            "stageId": 23208,
-            "unlock": 2,
-            "unlockDetail": 807,
-            "sequence": "8"
-        },
-        {
-            "id": 809,
-            "type": 8,
-            "stageId": 23209,
-            "unlock": 2,
-            "unlockDetail": 808,
-            "sequence": "9"
-        },
-        {
-            "id": 810,
-            "type": 8,
-            "stageId": 23210,
-            "unlock": 2,
-            "unlockDetail": 809,
-            "sequence": "10"
-        },
-        {
             "id": 901,
             "type": 9,
-            "stageId": 23301,
+            "stageId": 22301,
             "unlock": 1,
             "sequence": "1"
         },
         {
             "id": 902,
             "type": 9,
-            "stageId": 23302,
+            "stageId": 22302,
             "unlock": 2,
             "unlockDetail": 901,
             "sequence": "2"
@@ -176,7 +18,7 @@
         {
             "id": 903,
             "type": 9,
-            "stageId": 23303,
+            "stageId": 22303,
             "unlock": 2,
             "unlockDetail": 902,
             "sequence": "3"
@@ -184,7 +26,7 @@
         {
             "id": 904,
             "type": 9,
-            "stageId": 23304,
+            "stageId": 22304,
             "unlock": 2,
             "unlockDetail": 903,
             "sequence": "4"
@@ -192,7 +34,7 @@
         {
             "id": 905,
             "type": 9,
-            "stageId": 23305,
+            "stageId": 22305,
             "unlock": 2,
             "unlockDetail": 904,
             "sequence": "5"
@@ -200,7 +42,7 @@
         {
             "id": 906,
             "type": 9,
-            "stageId": 23306,
+            "stageId": 22306,
             "unlock": 2,
             "unlockDetail": 905,
             "sequence": "6"
@@ -208,7 +50,7 @@
         {
             "id": 907,
             "type": 9,
-            "stageId": 23307,
+            "stageId": 22307,
             "unlock": 2,
             "unlockDetail": 906,
             "sequence": "7"
@@ -216,7 +58,7 @@
         {
             "id": 908,
             "type": 9,
-            "stageId": 23308,
+            "stageId": 22308,
             "unlock": 2,
             "unlockDetail": 907,
             "sequence": "8"
@@ -224,7 +66,7 @@
         {
             "id": 909,
             "type": 9,
-            "stageId": 23309,
+            "stageId": 22309,
             "unlock": 2,
             "unlockDetail": 908,
             "sequence": "9"
@@ -232,7 +74,7 @@
         {
             "id": 910,
             "type": 9,
-            "stageId": 23310,
+            "stageId": 22310,
             "unlock": 2,
             "unlockDetail": 909,
             "sequence": "10"
@@ -240,14 +82,14 @@
         {
             "id": 1001,
             "type": 10,
-            "stageId": 23401,
+            "stageId": 22101,
             "unlock": 1,
             "sequence": "1"
         },
         {
             "id": 1002,
             "type": 10,
-            "stageId": 23402,
+            "stageId": 22102,
             "unlock": 2,
             "unlockDetail": 1001,
             "sequence": "2"
@@ -255,7 +97,7 @@
         {
             "id": 1003,
             "type": 10,
-            "stageId": 23403,
+            "stageId": 22103,
             "unlock": 2,
             "unlockDetail": 1002,
             "sequence": "3"
@@ -263,7 +105,7 @@
         {
             "id": 1004,
             "type": 10,
-            "stageId": 23404,
+            "stageId": 22104,
             "unlock": 2,
             "unlockDetail": 1003,
             "sequence": "4"
@@ -271,7 +113,7 @@
         {
             "id": 1005,
             "type": 10,
-            "stageId": 23405,
+            "stageId": 22105,
             "unlock": 2,
             "unlockDetail": 1004,
             "sequence": "5"
@@ -279,7 +121,7 @@
         {
             "id": 1006,
             "type": 10,
-            "stageId": 23406,
+            "stageId": 22106,
             "unlock": 2,
             "unlockDetail": 1005,
             "sequence": "6"
@@ -287,7 +129,7 @@
         {
             "id": 1007,
             "type": 10,
-            "stageId": 23407,
+            "stageId": 22107,
             "unlock": 2,
             "unlockDetail": 1006,
             "sequence": "7"
@@ -295,7 +137,7 @@
         {
             "id": 1008,
             "type": 10,
-            "stageId": 23408,
+            "stageId": 22108,
             "unlock": 2,
             "unlockDetail": 1007,
             "sequence": "8"
@@ -303,7 +145,7 @@
         {
             "id": 1009,
             "type": 10,
-            "stageId": 23409,
+            "stageId": 22109,
             "unlock": 2,
             "unlockDetail": 1008,
             "sequence": "9"
@@ -311,7 +153,7 @@
         {
             "id": 1010,
             "type": 10,
-            "stageId": 23410,
+            "stageId": 22110,
             "unlock": 2,
             "unlockDetail": 1009,
             "sequence": "10"
@@ -319,14 +161,14 @@
         {
             "id": 1101,
             "type": 11,
-            "stageId": 23501,
+            "stageId": 22201,
             "unlock": 1,
             "sequence": "1"
         },
         {
             "id": 1102,
             "type": 11,
-            "stageId": 23502,
+            "stageId": 22202,
             "unlock": 2,
             "unlockDetail": 1101,
             "sequence": "2"
@@ -334,7 +176,7 @@
         {
             "id": 1103,
             "type": 11,
-            "stageId": 23503,
+            "stageId": 22203,
             "unlock": 2,
             "unlockDetail": 1102,
             "sequence": "3"
@@ -342,7 +184,7 @@
         {
             "id": 1104,
             "type": 11,
-            "stageId": 23504,
+            "stageId": 22204,
             "unlock": 2,
             "unlockDetail": 1103,
             "sequence": "4"
@@ -350,7 +192,7 @@
         {
             "id": 1105,
             "type": 11,
-            "stageId": 23505,
+            "stageId": 22205,
             "unlock": 2,
             "unlockDetail": 1104,
             "sequence": "5"
@@ -358,7 +200,7 @@
         {
             "id": 1106,
             "type": 11,
-            "stageId": 23506,
+            "stageId": 22206,
             "unlock": 2,
             "unlockDetail": 1105,
             "sequence": "6"
@@ -366,7 +208,7 @@
         {
             "id": 1107,
             "type": 11,
-            "stageId": 23507,
+            "stageId": 22207,
             "unlock": 2,
             "unlockDetail": 1106,
             "sequence": "7"
@@ -374,7 +216,7 @@
         {
             "id": 1108,
             "type": 11,
-            "stageId": 23508,
+            "stageId": 22208,
             "unlock": 2,
             "unlockDetail": 1107,
             "sequence": "8"
@@ -382,7 +224,7 @@
         {
             "id": 1109,
             "type": 11,
-            "stageId": 23509,
+            "stageId": 22209,
             "unlock": 2,
             "unlockDetail": 1108,
             "sequence": "9"
@@ -390,7 +232,7 @@
         {
             "id": 1110,
             "type": 11,
-            "stageId": 23510,
+            "stageId": 22210,
             "unlock": 2,
             "unlockDetail": 1109,
             "sequence": "10"

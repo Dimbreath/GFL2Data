@@ -4,78 +4,44 @@
             "id": 1,
             "phase": 1,
             "rewardList": {
-                "2": 10000
+                "131": 5
             },
             "link": "9",
             "description": {
-                "id": "2178"
+                "id": "5556"
             },
-            "conditionKey": "100000000200",
+            "conditionKey": "100010105200",
             "conditionClass": 200,
             "conditionNum": 1,
+            "conditionArg0": 10105,
             "conditionArg1": 1
         },
         {
             "id": 2,
             "phase": 1,
             "rewardList": {
-                "12": 1
+                "1": 100
             },
             "preQuest": 1,
             "link": "20",
             "description": {
-                "id": "2179"
+                "id": "5557"
             },
-            "conditionKey": "2003",
-            "conditionClass": 3,
-            "conditionNum": 1,
-            "conditionArg0": 2
+            "conditionKey": "50000000000051",
+            "conditionClass": 51,
+            "conditionNum": 3,
+            "conditionArg2": 5
         },
         {
             "id": 3,
             "phase": 1,
             "rewardList": {
-                "1": 200,
-                "305": 25
+                "12": 1
             },
             "preQuest": 2,
-            "link": "3,1",
+            "link": "9",
             "description": {
-                "id": "2180"
-            },
-            "conditionKey": "11403",
-            "conditionClass": 403,
-            "conditionNum": 1,
-            "conditionArg0": 11
-        },
-        {
-            "id": 4,
-            "phase": 1,
-            "rewardList": {
-                "1": 200,
-                "305": 25
-            },
-            "preQuest": 3,
-            "link": "20",
-            "description": {
-                "id": "2181"
-            },
-            "conditionKey": "5000000000000051",
-            "conditionClass": 51,
-            "conditionNum": 4,
-            "conditionArg3": 5
-        },
-        {
-            "id": 5,
-            "phase": 1,
-            "rewardList": {
-                "1": 500,
-                "305": 25
-            },
-            "preQuest": 4,
-            "link": "3,1",
-            "description": {
-                "id": "2182"
+                "id": "5558"
             },
             "conditionKey": "100010110200",
             "conditionClass": 200,
@@ -84,63 +50,98 @@
             "conditionArg1": 1
         },
         {
+            "id": 4,
+            "phase": 1,
+            "rewardList": {
+                "1": 100
+            },
+            "preQuest": 3,
+            "link": "9",
+            "description": {
+                "id": "5559"
+            },
+            "conditionKey": "100010203200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 10203,
+            "conditionArg1": 1
+        },
+        {
+            "id": 5,
+            "phase": 1,
+            "rewardList": {
+                "2": 50000
+            },
+            "preQuest": 4,
+            "link": "9",
+            "description": {
+                "id": "5560"
+            },
+            "conditionKey": "20100000001202",
+            "conditionClass": 202,
+            "conditionNum": 5,
+            "conditionArg0": 1,
+            "conditionArg1": 1,
+            "conditionArg2": 2
+        },
+        {
             "id": 6,
             "phase": 1,
             "rewardList": {
-                "1": 1000,
-                "305": 25
+                "1": 100
             },
             "preQuest": 5,
             "link": "20",
             "description": {
-                "id": "2183"
+                "id": "5561"
             },
-            "conditionKey": "53",
-            "conditionClass": 53,
-            "conditionNum": 1
+            "conditionKey": "903",
+            "conditionClass": 903,
+            "conditionNum": 12
         },
         {
             "id": 7,
             "phase": 1,
             "rewardList": {
-                "2": 20000
+                "131": 5
             },
             "preQuest": 6,
-            "link": "20",
+            "link": "9",
             "description": {
-                "id": "2184"
+                "id": "5562"
             },
-            "conditionKey": "153",
-            "conditionClass": 153,
-            "conditionNum": 1
+            "conditionKey": "100010206200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 10206,
+            "conditionArg1": 1
         },
         {
             "id": 8,
             "phase": 1,
             "rewardList": {
-                "2": 50000
+                "1": 100
             },
             "preQuest": 7,
-            "link": "9",
+            "link": "20",
             "description": {
-                "id": "2185"
+                "id": "5563"
             },
-            "conditionKey": "100000007201",
-            "conditionClass": 201,
-            "conditionNum": 1,
-            "conditionArg0": 7,
-            "conditionArg1": 1
+            "conditionKey": "20000000000054",
+            "conditionClass": 54,
+            "conditionNum": 4,
+            "conditionArg2": 2
         },
         {
             "id": 9,
             "phase": 1,
             "rewardList": {
-                "1": 200
+                "12": 1
             },
             "preQuest": 8,
             "link": "9",
             "description": {
-                "id": "2186"
+                "id": "5564"
             },
             "conditionKey": "100010210200",
             "conditionClass": 200,
@@ -150,158 +151,160 @@
         },
         {
             "id": 10,
-            "phase": 2,
+            "phase": 1,
             "rewardList": {
-                "2": 20000
+                "1": 100
             },
             "preQuest": 9,
-            "link": "20",
+            "link": "9",
             "description": {
-                "id": "2187"
+                "id": "5565"
             },
-            "conditionKey": "2000000000000054",
-            "conditionClass": 54,
+            "conditionKey": "100010161200",
+            "conditionClass": 200,
             "conditionNum": 1,
-            "conditionArg3": 2
+            "conditionArg0": 10161,
+            "conditionArg1": 1
         },
         {
             "id": 11,
             "phase": 2,
             "rewardList": {
-                "2": 50000
+                "11004": 10
             },
             "preQuest": 10,
-            "link": "20",
+            "link": "9",
             "description": {
-                "id": "2188"
+                "id": "5566"
             },
-            "conditionKey": "2155",
-            "conditionClass": 155,
+            "conditionKey": "100010165200",
+            "conditionClass": 200,
             "conditionNum": 1,
-            "conditionArg0": 2
+            "conditionArg0": 10165,
+            "conditionArg1": 1
         },
         {
             "id": 12,
             "phase": 2,
             "rewardList": {
-                "1": 200
+                "1": 100
             },
             "preQuest": 11,
-            "link": "9",
+            "link": "20",
             "description": {
-                "id": "2189"
+                "id": "5567"
             },
-            "conditionKey": "8201",
-            "conditionClass": 201,
-            "conditionNum": 1,
-            "conditionArg0": 8
+            "conditionKey": "52",
+            "conditionClass": 52,
+            "conditionNum": 1
         },
         {
             "id": 13,
             "phase": 2,
             "rewardList": {
-                "1": 200
+                "132": 2
             },
             "preQuest": 12,
-            "link": "6",
+            "link": "21",
             "description": {
-                "id": "2190"
+                "id": "5568"
             },
-            "conditionKey": "152",
-            "conditionClass": 152,
-            "conditionNum": 1
+            "conditionKey": "7352",
+            "conditionClass": 352,
+            "conditionNum": 1,
+            "conditionArg0": 7
         },
         {
             "id": 14,
             "phase": 2,
             "rewardList": {
-                "1": 200
+                "1": 100
             },
             "preQuest": 13,
             "link": "20",
             "description": {
-                "id": "2191"
+                "id": "5569"
             },
-            "conditionKey": "2000000000000054",
-            "conditionClass": 54,
-            "conditionNum": 4,
-            "conditionArg3": 2
+            "conditionKey": "150000000000051",
+            "conditionClass": 51,
+            "conditionNum": 3,
+            "conditionArg2": 15
         },
         {
             "id": 15,
             "phase": 2,
             "rewardList": {
-                "1": 200
+                "2007": 1
             },
             "preQuest": 14,
-            "link": "20",
+            "link": "22",
             "description": {
-                "id": "2192"
+                "id": "5570"
             },
-            "conditionKey": "1155",
-            "conditionClass": 155,
-            "conditionNum": 6,
-            "conditionArg0": 1
+            "conditionKey": "8352",
+            "conditionClass": 352,
+            "conditionNum": 1,
+            "conditionArg0": 8
         },
         {
             "id": 16,
             "phase": 2,
             "rewardList": {
-                "305": 25,
-                "1": 200
+                "1": 100
             },
             "preQuest": 15,
-            "link": "3,1",
+            "link": "6",
             "description": {
-                "id": "2193"
+                "id": "5571"
             },
-            "conditionKey": "10403",
-            "conditionClass": 403,
+            "conditionKey": "5000000000000152",
+            "conditionClass": 152,
             "conditionNum": 1,
-            "conditionArg0": 10
+            "conditionArg3": 5
         },
         {
             "id": 17,
-            "phase": 3,
+            "phase": 2,
             "rewardList": {
-                "1": 200
+                "132": 2
             },
             "preQuest": 16,
             "link": "9",
             "description": {
-                "id": "2194"
+                "id": "5572"
             },
-            "conditionKey": "12201",
-            "conditionClass": 201,
+            "conditionKey": "100010305200",
+            "conditionClass": 200,
             "conditionNum": 1,
-            "conditionArg0": 12
+            "conditionArg0": 10305,
+            "conditionArg1": 1
         },
         {
             "id": 18,
-            "phase": 3,
+            "phase": 2,
             "rewardList": {
-                "1": 200
+                "1": 100
             },
             "preQuest": 17,
             "link": "20",
             "description": {
-                "id": "2195"
+                "id": "5573"
             },
-            "conditionKey": "3000000000000054",
+            "conditionKey": "30000000000054",
             "conditionClass": 54,
-            "conditionNum": 1,
-            "conditionArg3": 3
+            "conditionNum": 2,
+            "conditionArg2": 3
         },
         {
             "id": 19,
-            "phase": 3,
+            "phase": 2,
             "rewardList": {
-                "1": 200
+                "12": 1
             },
             "preQuest": 18,
             "link": "9",
             "description": {
-                "id": "2196"
+                "id": "5574"
             },
             "conditionKey": "100010310200",
             "conditionClass": 200,
@@ -311,45 +314,113 @@
         },
         {
             "id": 20,
-            "phase": 3,
+            "phase": 2,
             "rewardList": {
-                "1": 200
+                "1": 100
             },
             "preQuest": 19,
-            "link": "20",
+            "link": "25",
             "description": {
-                "id": "2197"
+                "id": "5575"
             },
-            "conditionKey": "55",
-            "conditionClass": 55,
-            "conditionNum": 1
+            "conditionKey": "5409",
+            "conditionClass": 409,
+            "conditionNum": 1,
+            "conditionArg0": 5
         },
         {
             "id": 21,
             "phase": 3,
             "rewardList": {
-                "1": 200
+                "12": 1
             },
             "preQuest": 20,
-            "link": "16",
+            "link": "9",
             "description": {
-                "id": "2198"
+                "id": "5576"
             },
-            "conditionKey": "5201",
-            "conditionClass": 201,
+            "conditionKey": "100010265200",
+            "conditionClass": 200,
             "conditionNum": 1,
-            "conditionArg0": 5
+            "conditionArg0": 10265,
+            "conditionArg1": 1
         },
         {
             "id": 22,
             "phase": 3,
             "rewardList": {
-                "1": 200
+                "2011": 1
             },
             "preQuest": 21,
+            "link": "23",
+            "description": {
+                "id": "5577"
+            },
+            "conditionKey": "100020101200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 20101,
+            "conditionArg1": 1
+        },
+        {
+            "id": 23,
+            "phase": 3,
+            "rewardList": {
+                "1": 100
+            },
+            "preQuest": 22,
+            "link": "20",
+            "description": {
+                "id": "5578"
+            },
+            "conditionKey": "100010405200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 10405,
+            "conditionArg1": 1
+        },
+        {
+            "id": 24,
+            "phase": 3,
+            "rewardList": {
+                "132": 3
+            },
+            "preQuest": 23,
+            "link": "17",
+            "description": {
+                "id": "5579"
+            },
+            "conditionKey": "1352",
+            "conditionClass": 352,
+            "conditionNum": 1,
+            "conditionArg0": 1
+        },
+        {
+            "id": 25,
+            "phase": 3,
+            "rewardList": {
+                "1": 100
+            },
+            "preQuest": 24,
+            "link": "20",
+            "description": {
+                "id": "5580"
+            },
+            "conditionKey": "40000000000054",
+            "conditionClass": 54,
+            "conditionNum": 1,
+            "conditionArg2": 4
+        },
+        {
+            "id": 26,
+            "phase": 3,
+            "rewardList": {
+                "12": 1
+            },
+            "preQuest": 25,
             "link": "9",
             "description": {
-                "id": "2199"
+                "id": "5581"
             },
             "conditionKey": "100010410200",
             "conditionClass": 200,
@@ -358,70 +429,69 @@
             "conditionArg1": 1
         },
         {
-            "id": 23,
+            "id": 27,
             "phase": 3,
             "rewardList": {
-                "1": 200
+                "1": 100
             },
-            "preQuest": 22,
-            "link": "20",
+            "preQuest": 26,
+            "link": "6",
             "description": {
-                "id": "2200"
+                "id": "5582"
             },
-            "conditionKey": "10000000000000051",
-            "conditionClass": 51,
-            "conditionNum": 4,
-            "conditionArg3": 10
+            "conditionKey": "50000000000101",
+            "conditionClass": 101,
+            "conditionNum": 1,
+            "conditionArg2": 5
         },
         {
-            "id": 24,
+            "id": 28,
             "phase": 3,
             "rewardList": {
-                "1": 200
+                "12": 1
             },
-            "preQuest": 23,
+            "preQuest": 27,
             "link": "9",
             "description": {
-                "id": "2201"
+                "id": "5583"
             },
-            "conditionKey": "100035103200",
+            "conditionKey": "100010365200",
             "conditionClass": 200,
             "conditionNum": 1,
-            "conditionArg0": 35103,
+            "conditionArg0": 10365,
             "conditionArg1": 1
         },
         {
-            "id": 25,
+            "id": 29,
             "phase": 3,
             "rewardList": {
-                "1": 200
+                "1": 100
             },
-            "preQuest": 24,
-            "link": "17",
+            "preQuest": 28,
+            "link": "24",
             "description": {
-                "id": "2202"
+                "id": "5584"
             },
-            "conditionKey": "100023102200",
-            "conditionClass": 200,
+            "conditionKey": "5352",
+            "conditionClass": 352,
             "conditionNum": 1,
-            "conditionArg0": 23102,
-            "conditionArg1": 1
+            "conditionArg0": 5
         },
         {
-            "id": 26,
+            "id": 30,
             "phase": 3,
             "rewardList": {
-                "1": 200
+                "12": 1
             },
-            "preQuest": 25,
-            "link": "16",
+            "preQuest": 29,
+            "link": "9",
             "description": {
-                "id": "2203"
+                "id": "5585"
             },
-            "conditionKey": "100022102200",
+            "conditionKey": "100010465200",
             "conditionClass": 200,
             "conditionNum": 1,
-            "conditionArg0": 22102,
+            "conditionArg0": 10465,
             "conditionArg1": 1
         }
     ]

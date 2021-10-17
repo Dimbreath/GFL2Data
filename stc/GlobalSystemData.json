@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "gunMaxStar": 6,
+            "gunMaxGrade": 6,
             "weaponSkillUpLevel": 6,
-            "weaponLevelPerBreak": 3,
+            "weaponLevelPerBreak": 6,
             "weaponLevelUpItem": [
                 125,
                 126,
@@ -12,8 +12,7 @@
             ],
             "weaponLevelBreakItem": 130,
             "weaponLevelBreakRank": 1,
-            "weaponExpReturn": 0.6,
-            "weaponCashReturn": 0.6,
+            "weaponExpReturn": 0.8,
             "weaponUpgradeItemLimited": 10,
             "weaponDismantlingItem": 11,
             "weaponLowRank": 3,
@@ -30,7 +29,7 @@
             "equipAddOnceMax": 10,
             "equipExpReturn": 0.6,
             "equipCashReturn": 0.6,
-            "equipSubPropertyLevel": 3,
+            "equipSubPropertyLevel": 5,
             "equipSubPropertyToplimit": 4,
             "pvpRobot": [
                 1001,
@@ -87,7 +86,7 @@
                 11017,
                 1101700
             ],
-            "assistantCooldownFriend": 300,
+            "assistantCooldownFriend": 600,
             "assistantCooldownGuildmember": 600,
             "assistantListMax": 10,
             "assistantListMin": 5,
@@ -97,16 +96,23 @@
                 20000,
                 10000000
             ],
+            "assistantAvailableStagetype": [
+                1
+            ],
             "assistantRewardMin": 1000,
             "assistDefaultGunid": 1004,
             "blackListUpperLimit": 50,
-            "friendLimit": 100,
+            "friendLimit": 50,
             "mottoLimit": 40,
             "friendRecommend": 10,
             "friendAssistRandomlimit": 15,
             "guildAssistRandomlimit": 5,
             "friendRefreshCd": 1,
             "chatMessageLimit": 50,
+            "chatMessageCd": 60,
+            "chatRefreshCd": 15,
+            "chatChannelLimit": 15,
+            "chatChannelRemoveCd": 7,
             "simweeklySettlementCycle": "1:6:00",
             "simweeklySettlementClientClose": "1:4:00",
             "simweeklySettlementClientReopen": "2:5:00",
@@ -170,59 +176,120 @@
             ],
             "raidOnetimeLimit": 10,
             "mentalRankLevellimit": [
-                10,
-                15,
-                20,
-                25,
-                30,
-                35,
-                40,
-                45,
-                50,
-                55,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
                 60
             ],
             "autoOfflineDelay": 3600,
             "adjutantStandbyTime": 50,
-            "mentalMixListPhysics": [
-                145,
-                155,
-                165,
-                132,
-                150,
-                160
+            "mentalMixListGuard": [
+                221,
+                241,
+                261,
+                132
             ],
-            "mentalMixListHeat": [
-                146,
-                156,
-                166,
-                132,
-                151,
-                161
+            "mentalMixListScout": [
+                222,
+                242,
+                262,
+                132
             ],
-            "mentalMixListLightning": [
-                147,
-                157,
-                167,
-                132,
-                152,
-                162
+            "mentalMixListAssist": [
+                223,
+                243,
+                263,
+                132
             ],
-            "mentalMixListCollapse": [
-                148,
-                158,
-                168,
-                132,
-                153,
-                163
+            "mentalMixListSuppress": [
+                224,
+                244,
+                264,
+                132
             ],
-            "mentalMixListReverse": [
-                149,
-                159,
-                169,
-                132,
-                154,
-                164
+            "mentalMixListSniper": [
+                225,
+                245,
+                265,
+                132
+            ],
+            "mentalMixListBurst": [
+                226,
+                246,
+                266,
+                132
+            ],
+            "friendListUse": 10,
+            "friendListCdtime": 60,
+            "assistantCooldownStranger": 60,
+            "assistantAmountFriend": 5,
+            "assistantAmountGuildmember": 3,
+            "assistantAmountStrange": 2,
+            "characterUpgradeCost": [
+                20,
+                60,
+                90,
+                180,
+                270
+            ],
+            "assistantReward": {
+                "1": 1
+            },
+            "backdropDefaultId": [
+                21008,
+                21001,
+                21009
+            ],
+            "backdropBehaveTime": 20,
+            "favorObtain1": 200,
+            "favorWarnPremise": 3,
+            "favorWarn": 3,
+            "favorExamination": 3,
+            "favorWarnValue": 400,
+            "favorExaminationValue": 200,
+            "favorDeclineValue": 50,
+            "favorDeclineCoefficient": 100,
+            "favorDeclineMaximum": 10,
+            "favorRoleId": {
+                "3": 2
+            },
+            "partBuffSeason": [
+                20,
+                1,
+                2
+            ],
+            "playerNameChangeCost": {
+                "1": 100
+            },
+            "playerAvatarDefault": 1004,
+            "defaultUavArm": 1,
+            "commanderLevel": 60,
+            "gunMaxLv": 60,
+            "uavMaxLv": 60,
+            "qualityStar": [
+                1,
+                1,
+                1,
+                2,
+                3,
+                3
+            ],
+            "weeklyCycleArg": [
+                1.0,
+                0.2
+            ],
+            "mythicCharacterArgs": [
+                40,
+                8,
+                3,
+                20
             ]
         }
     ]

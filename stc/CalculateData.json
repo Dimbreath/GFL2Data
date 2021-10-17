@@ -46,19 +46,144 @@
             "parameter": "2:hp,2:max_hp"
         },
         {
+            "id": 6900003,
+            "formula": "(99-{0})/{0}*1000",
+            "parameter": "2:physical_shield"
+        },
+        {
+            "id": 6900004,
+            "formula": "0",
+            "parameter": "2:physical_shield"
+        },
+        {
+            "id": 6900005,
+            "formula": "(99-{0})/{0}*1000",
+            "parameter": "2:magical_shield"
+        },
+        {
+            "id": 6900006,
+            "formula": "0",
+            "parameter": "2:magical_shield"
+        },
+        {
+            "id": 6900007,
+            "formula": "100-{0}",
+            "parameter": "2:max_hp"
+        },
+        {
+            "id": 6900008,
+            "formula": "150-{0}",
+            "parameter": "2:max_hp"
+        },
+        {
+            "id": 6900009,
+            "formula": "0-{0}",
+            "parameter": "2:suppress_value"
+        },
+        {
+            "id": 6900010,
+            "formula": "50-{0}",
+            "parameter": "2:suppress_value"
+        },
+        {
+            "id": 6900011,
+            "formula": "800-{0}",
+            "parameter": "2:max_will_value"
+        },
+        {
+            "id": 6900012,
+            "formula": "100-{0}",
+            "parameter": "2:max_will_value"
+        },
+        {
+            "id": 6900013,
+            "formula": "50-{0}",
+            "parameter": "2:max_will_value"
+        },
+        {
+            "id": 6900014,
+            "formula": "220-{0}",
+            "parameter": "2:pow"
+        },
+        {
+            "id": 6900015,
+            "formula": "130-{0}",
+            "parameter": "2:pow"
+        },
+        {
+            "id": 6900017,
+            "formula": "100-{0}",
+            "parameter": "2:suppress_value"
+        },
+        {
+            "id": 6900108,
+            "formula": "180-{0}",
+            "parameter": "2:max_hp"
+        },
+        {
+            "id": 6900112,
+            "formula": "(99-{0})/{0}*1000",
+            "parameter": "2:max_will_value"
+        },
+        {
+            "id": 6900113,
+            "formula": "(60-{0})/{0}*1000",
+            "parameter": "2:max_will_value"
+        },
+        {
+            "id": 6900208,
+            "formula": "250-{0}",
+            "parameter": "2:max_hp"
+        },
+        {
             "id": 10010701,
-            "formula": "(1-{0}/{1})*1000",
+            "formula": "(1-{0}/{1})*750",
             "parameter": "1:hp,1:max_hp"
         },
         {
             "id": 10010702,
-            "formula": "(1-{0}/{1})*750",
+            "formula": "(1-{0}/{1})*1000",
             "parameter": "1:hp,1:max_hp"
         },
         {
             "id": 10010703,
             "formula": "(1-{0}/{1})*1000",
             "parameter": "1:hp,1:max_hp"
+        },
+        {
+            "id": 10020801,
+            "formula": "100+{0}*0.5",
+            "potentialParameter": "1"
+        },
+        {
+            "id": 10020802,
+            "formula": "50+{0}*0.25",
+            "potentialParameter": "1"
+        },
+        {
+            "id": 10030711,
+            "formula": "{0}*0.15",
+            "parameter": "1:pow"
+        },
+        {
+            "id": 10030721,
+            "formula": "{0}*0.25",
+            "parameter": "1:pow"
+        },
+        {
+            "id": 10030901,
+            "formula": "{0}*0.3",
+            "parameter": "1:pow"
+        },
+        {
+            "id": 10030902,
+            "formula": "{0}*0.5",
+            "parameter": "1:pow"
+        },
+        {
+            "id": 10030999,
+            "formula": "{0}*1",
+            "parameter": "1:pow"
         },
         {
             "id": 10050411,
@@ -89,6 +214,26 @@
             "id": 10050513,
             "formula": "{0}",
             "parameter": "1:max_ap"
+        },
+        {
+            "id": 10050701,
+            "formula": "{0}*80",
+            "buffParameter": "2:1:10050401"
+        },
+        {
+            "id": 10050702,
+            "formula": "{0}*100",
+            "buffParameter": "2:1:10050401"
+        },
+        {
+            "id": 10050801,
+            "formula": "100+{0}*50",
+            "buffParameter": "2:1:10050401"
+        },
+        {
+            "id": 10050802,
+            "formula": "150+{0}*50",
+            "buffParameter": "2:1:10050401"
         },
         {
             "id": 10060501,
@@ -132,13 +277,33 @@
         },
         {
             "id": 10090401,
-            "formula": "{0}*5",
+            "formula": "100+{0}*1",
+            "potentialParameter": "1"
+        },
+        {
+            "id": 10090402,
+            "formula": "300+{0}*1",
             "potentialParameter": "1"
         },
         {
             "id": 10110901,
             "formula": "{1}-{0}",
             "parameter": "1:hp,1:max_hp"
+        },
+        {
+            "id": 10120401,
+            "formula": "100+{0}*1.5",
+            "potentialParameter": "1"
+        },
+        {
+            "id": 10120402,
+            "formula": "100+{0}*2",
+            "potentialParameter": "1"
+        },
+        {
+            "id": 10140801,
+            "formula": "{0}*50",
+            "suppressParameter": "1"
         },
         {
             "id": 10160411,
@@ -191,9 +356,24 @@
             "parameter": "1:max_ap"
         },
         {
+            "id": 30140901,
+            "formula": "{0}/{2}*{1}",
+            "parameter": "2:will_value,2:potential_gain,2:max_will_value"
+        },
+        {
+            "id": 61163011,
+            "formula": "{0}*300",
+            "parameter": "1:max_hp"
+        },
+        {
             "id": 62105054,
             "formula": "{0}*50",
             "buffParameter": "1:1:62105054"
+        },
+        {
+            "id": 63443021,
+            "formula": "{0}/{1}*300",
+            "parameter": "2:physical_shield,2:max_physical_shield"
         },
         {
             "id": 63444011,
@@ -201,8 +381,19 @@
             "buffParameter": "2:1:63444012"
         },
         {
+            "id": 80020102,
+            "formula": "{0}*500",
+            "buffParameter": "2:1:80020102"
+        },
+        {
+            "id": 80020103,
+            "formula": "({0}/2)*{1}",
+            "parameter": "2:max_will_value",
+            "buffParameter": "1:1:80020102"
+        },
+        {
             "id": 91000001,
-            "formula": "10/{0}*1000",
+            "formula": "{0}*300",
             "parameter": "1:pow"
         },
         {
@@ -214,6 +405,11 @@
             "id": 200103011,
             "formula": "{0}*1.5",
             "distenceParameter": "0:dis"
+        },
+        {
+            "id": 940001001,
+            "formula": "400/{0}*100",
+            "parameter": "1:pow"
         }
     ]
 }

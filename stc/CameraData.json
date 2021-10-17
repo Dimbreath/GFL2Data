@@ -183,6 +183,15 @@
             ]
         },
         {
+            "id": 25,
+            "name": "OnSkillAllTarget",
+            "type": 20,
+            "prefab": [
+                "OnSkillAllTarget"
+            ],
+            "tacticReplace": "OnSkillAllTarget"
+        },
+        {
             "id": 28,
             "name": "TrackCamera",
             "type": 20,
@@ -199,11 +208,108 @@
             ]
         },
         {
+            "id": 30,
+            "name": "UltraSkill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/Ultraskill"
+            ]
+        },
+        {
             "id": 99,
             "name": "PreToFire",
             "type": 20,
             "prefab": [
                 "PreToFire"
+            ]
+        },
+        {
+            "id": 1005,
+            "name": "CharolicSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/CharolicSSR01_Ultraskill"
+            ]
+        },
+        {
+            "id": 1006,
+            "name": "NemesisSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/NemesisSSR01_Ultraskill"
+            ]
+        },
+        {
+            "id": 1008,
+            "name": "NemesisSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/NemesisSR01_Ultraskill"
+            ]
+        },
+        {
+            "id": 1009,
+            "name": "ColphneSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/ColphneSR01_Ultraskill"
+            ]
+        },
+        {
+            "id": 1012,
+            "name": "ColphneSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/ColphneSSR01_Ultraskill"
+            ],
+            "tacticReplace": "OnSkillAllTarget"
+        },
+        {
+            "id": 1014,
+            "name": "PerityaSRR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/PerityaSSR01_Ultraskill"
+            ]
+        },
+        {
+            "id": 1015,
+            "name": "VepleySR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/VepleySR01_Ultraskill"
+            ]
+        },
+        {
+            "id": 1017,
+            "name": "GrozaSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/GrozaSR01_Ultraskill"
+            ]
+        },
+        {
+            "id": 1021,
+            "name": "PerityaSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/PerityaSR01_Ultraskill"
+            ]
+        },
+        {
+            "id": 10050,
+            "name": "CharolicSSR01_UltraskillPre",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/CharolicSSR01_UltraskillPre"
+            ]
+        },
+        {
+            "id": 10051,
+            "name": "CharolicSSR01_Ultraskill2",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/CharolicSSR01_Ultraskill02"
             ]
         },
         {
